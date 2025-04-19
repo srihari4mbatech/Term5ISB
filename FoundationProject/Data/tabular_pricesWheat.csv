@@ -1,0 +1,5310 @@
+State,Month,Price,Commodity
+Assam,Jan-09,13,Wheat
+Bihar,Jan-09,11,Wheat
+Chandigarh,Jan-09,13,Wheat
+Chhattisgarh,Jan-09,17.4,Wheat
+Delhi,Jan-09,13,Wheat
+Gujarat,Jan-09,12.6,Wheat
+Jammu and Kashmir,Jan-09,12,Wheat
+Jharkhand,Jan-09,11,Wheat
+Karnataka,Jan-09,16,Wheat
+Kerala,Jan-09,20.7,Wheat
+Madhya Pradesh,Jan-09,11.05,Wheat
+Maharashtra,Jan-09,16,Wheat
+Nagaland,Jan-09,14,Wheat
+Punjab,Jan-09,11.5,Wheat
+Rajasthan,Jan-09,12,Wheat
+Tamil Nadu,Jan-09,18,Wheat
+Telangana,Jan-09,14,Wheat
+Uttar Pradesh,Jan-09,12,Wheat
+Uttarakhand,Jan-09,12,Wheat
+Assam,Feb-09,13,Wheat
+Bihar,Feb-09,11,Wheat
+Chandigarh,Feb-09,13,Wheat
+Chhattisgarh,Feb-09,18,Wheat
+Delhi,Feb-09,13,Wheat
+Gujarat,Feb-09,13,Wheat
+Jammu and Kashmir,Feb-09,12,Wheat
+Jharkhand,Feb-09,12.5,Wheat
+Karnataka,Feb-09,16,Wheat
+Kerala,Feb-09,22,Wheat
+Madhya Pradesh,Feb-09,12,Wheat
+Maharashtra,Feb-09,15.85,Wheat
+Nagaland,Feb-09,14,Wheat
+Punjab,Feb-09,11.5,Wheat
+Rajasthan,Feb-09,12,Wheat
+Tamil Nadu,Feb-09,18,Wheat
+Telangana,Feb-09,14,Wheat
+Uttar Pradesh,Feb-09,12,Wheat
+Uttarakhand,Feb-09,13,Wheat
+Assam,Mar-09,13,Wheat
+Bihar,Mar-09,11,Wheat
+Chandigarh,Mar-09,13,Wheat
+Chhattisgarh,Mar-09,18,Wheat
+Delhi,Mar-09,13.2,Wheat
+Gujarat,Mar-09,12.85,Wheat
+Jammu and Kashmir,Mar-09,12,Wheat
+Jharkhand,Mar-09,13,Wheat
+Karnataka,Mar-09,17,Wheat
+Kerala,Mar-09,22,Wheat
+Madhya Pradesh,Mar-09,12,Wheat
+Maharashtra,Mar-09,15.7,Wheat
+Nagaland,Mar-09,14,Wheat
+Punjab,Mar-09,11.5,Wheat
+Rajasthan,Mar-09,12,Wheat
+Tamil Nadu,Mar-09,18,Wheat
+Telangana,Mar-09,14,Wheat
+Uttar Pradesh,Mar-09,12,Wheat
+Uttarakhand,Mar-09,13,Wheat
+Assam,Apr-09,13,Wheat
+Bihar,Apr-09,11,Wheat
+Chandigarh,Apr-09,13,Wheat
+Chhattisgarh,Apr-09,18,Wheat
+Delhi,Apr-09,13.72,Wheat
+Gujarat,Apr-09,12.5,Wheat
+Jammu and Kashmir,Apr-09,12,Wheat
+Jharkhand,Apr-09,13,Wheat
+Karnataka,Apr-09,17,Wheat
+Kerala,Apr-09,22,Wheat
+Madhya Pradesh,Apr-09,12,Wheat
+Maharashtra,Apr-09,15.33,Wheat
+Nagaland,Apr-09,14,Wheat
+Punjab,Apr-09,11.5,Wheat
+Rajasthan,Apr-09,12,Wheat
+Tamil Nadu,Apr-09,18,Wheat
+Telangana,Apr-09,14,Wheat
+Uttar Pradesh,Apr-09,12.22,Wheat
+Uttarakhand,Apr-09,12.83,Wheat
+Assam,May-09,13.8,Wheat
+Bihar,May-09,11,Wheat
+Chandigarh,May-09,13,Wheat
+Chhattisgarh,May-09,18,Wheat
+Delhi,May-09,13.9,Wheat
+Gujarat,May-09,13,Wheat
+Jammu and Kashmir,May-09,12,Wheat
+Jharkhand,May-09,13,Wheat
+Karnataka,May-09,17,Wheat
+Kerala,May-09,22,Wheat
+Madhya Pradesh,May-09,12,Wheat
+Maharashtra,May-09,16,Wheat
+Nagaland,May-09,14,Wheat
+Punjab,May-09,11.28,Wheat
+Rajasthan,May-09,12,Wheat
+Tamil Nadu,May-09,18,Wheat
+Telangana,May-09,14,Wheat
+Uttar Pradesh,May-09,11.25,Wheat
+Uttarakhand,May-09,12,Wheat
+Assam,Jun-09,14.23,Wheat
+Bihar,Jun-09,11,Wheat
+Chandigarh,Jun-09,13,Wheat
+Chhattisgarh,Jun-09,18,Wheat
+Delhi,Jun-09,13.59,Wheat
+Gujarat,Jun-09,12.91,Wheat
+Jammu and Kashmir,Jun-09,11.23,Wheat
+Jharkhand,Jun-09,13,Wheat
+Karnataka,Jun-09,17,Wheat
+Kerala,Jun-09,22,Wheat
+Madhya Pradesh,Jun-09,12.32,Wheat
+Maharashtra,Jun-09,16,Wheat
+Nagaland,Jun-09,14,Wheat
+Odisha,Jun-09,13,Wheat
+Punjab,Jun-09,11,Wheat
+Rajasthan,Jun-09,12,Wheat
+Tamil Nadu,Jun-09,18,Wheat
+Telangana,Jun-09,14,Wheat
+Uttar Pradesh,Jun-09,11,Wheat
+Uttarakhand,Jun-09,12,Wheat
+Assam,Jul-09,15,Wheat
+Bihar,Jul-09,11,Wheat
+Chandigarh,Jul-09,13,Wheat
+Chhattisgarh,Jul-09,18.7,Wheat
+Delhi,Jul-09,13,Wheat
+Gujarat,Jul-09,12.83,Wheat
+Jammu and Kashmir,Jul-09,11,Wheat
+Jharkhand,Jul-09,13,Wheat
+Karnataka,Jul-09,17,Wheat
+Kerala,Jul-09,22,Wheat
+Madhya Pradesh,Jul-09,13,Wheat
+Maharashtra,Jul-09,17,Wheat
+Nagaland,Jul-09,14,Wheat
+Odisha,Jul-09,13,Wheat
+Punjab,Jul-09,11,Wheat
+Rajasthan,Jul-09,12,Wheat
+Tamil Nadu,Jul-09,18.3,Wheat
+Telangana,Jul-09,14.91,Wheat
+Uttar Pradesh,Jul-09,11,Wheat
+Uttarakhand,Jul-09,12,Wheat
+Assam,Aug-09,14.75,Wheat
+Bihar,Aug-09,11,Wheat
+Chandigarh,Aug-09,13,Wheat
+Chhattisgarh,Aug-09,19.65,Wheat
+Delhi,Aug-09,13,Wheat
+Gujarat,Aug-09,14,Wheat
+Jammu and Kashmir,Aug-09,11,Wheat
+Jharkhand,Aug-09,13,Wheat
+Karnataka,Aug-09,17.4,Wheat
+Kerala,Aug-09,22,Wheat
+Madhya Pradesh,Aug-09,13,Wheat
+Maharashtra,Aug-09,17,Wheat
+Nagaland,Aug-09,14,Wheat
+Odisha,Aug-09,13.4,Wheat
+Punjab,Aug-09,11,Wheat
+Rajasthan,Aug-09,12,Wheat
+Tamil Nadu,Aug-09,19,Wheat
+Telangana,Aug-09,17,Wheat
+Uttar Pradesh,Aug-09,11,Wheat
+Uttarakhand,Aug-09,12,Wheat
+Assam,Sep-09,14,Wheat
+Bihar,Sep-09,11.25,Wheat
+Chandigarh,Sep-09,13,Wheat
+Chhattisgarh,Sep-09,19,Wheat
+Delhi,Sep-09,13,Wheat
+Gujarat,Sep-09,14,Wheat
+Jammu and Kashmir,Sep-09,11.6,Wheat
+Jharkhand,Sep-09,13,Wheat
+Karnataka,Sep-09,18.4,Wheat
+Kerala,Sep-09,22,Wheat
+Madhya Pradesh,Sep-09,13,Wheat
+Maharashtra,Sep-09,17.6,Wheat
+Nagaland,Sep-09,14,Wheat
+Odisha,Sep-09,14,Wheat
+Punjab,Sep-09,11.5,Wheat
+Rajasthan,Sep-09,12.55,Wheat
+Tamil Nadu,Sep-09,19,Wheat
+Telangana,Sep-09,17,Wheat
+Uttar Pradesh,Sep-09,11,Wheat
+Uttarakhand,Sep-09,12,Wheat
+Assam,Oct-09,14,Wheat
+Bihar,Oct-09,12,Wheat
+Chandigarh,Oct-09,13,Wheat
+Chhattisgarh,Oct-09,19,Wheat
+Delhi,Oct-09,13.29,Wheat
+Gujarat,Oct-09,14,Wheat
+Jammu and Kashmir,Oct-09,14,Wheat
+Jharkhand,Oct-09,13,Wheat
+Karnataka,Oct-09,17.1,Wheat
+Kerala,Oct-09,22,Wheat
+Madhya Pradesh,Oct-09,13,Wheat
+Maharashtra,Oct-09,17.67,Wheat
+Nagaland,Oct-09,14,Wheat
+Odisha,Oct-09,14,Wheat
+Punjab,Oct-09,11.57,Wheat
+Rajasthan,Oct-09,13,Wheat
+Tamil Nadu,Oct-09,19,Wheat
+Telangana,Oct-09,17,Wheat
+Uttar Pradesh,Oct-09,11,Wheat
+Uttarakhand,Oct-09,12.9,Wheat
+Assam,Nov-09,15.8,Wheat
+Bihar,Nov-09,12,Wheat
+Chandigarh,Nov-09,13,Wheat
+Chhattisgarh,Nov-09,17.05,Wheat
+Delhi,Nov-09,14.9,Wheat
+Gujarat,Nov-09,14.45,Wheat
+Jammu and Kashmir,Nov-09,14,Wheat
+Jharkhand,Nov-09,13,Wheat
+Karnataka,Nov-09,18.65,Wheat
+Kerala,Nov-09,22.3,Wheat
+Madhya Pradesh,Nov-09,13.55,Wheat
+Maharashtra,Nov-09,18.95,Wheat
+Nagaland,Nov-09,14,Wheat
+Odisha,Nov-09,14.95,Wheat
+Punjab,Nov-09,12,Wheat
+Rajasthan,Nov-09,13,Wheat
+Tamil Nadu,Nov-09,21,Wheat
+Telangana,Nov-09,17,Wheat
+Uttar Pradesh,Nov-09,12.85,Wheat
+Uttarakhand,Nov-09,14.8,Wheat
+Assam,Dec-09,16.05,Wheat
+Bihar,Dec-09,12.52,Wheat
+Chandigarh,Dec-09,13,Wheat
+Chhattisgarh,Dec-09,20.62,Wheat
+Delhi,Dec-09,15.14,Wheat
+Gujarat,Dec-09,15.38,Wheat
+Jammu and Kashmir,Dec-09,14.57,Wheat
+Jharkhand,Dec-09,13.57,Wheat
+Karnataka,Dec-09,20.52,Wheat
+Kerala,Dec-09,25.29,Wheat
+Madhya Pradesh,Dec-09,15,Wheat
+Maharashtra,Dec-09,20.1,Wheat
+Nagaland,Dec-09,14,Wheat
+Odisha,Dec-09,15.76,Wheat
+Punjab,Dec-09,12.57,Wheat
+Rajasthan,Dec-09,13,Wheat
+Tamil Nadu,Dec-09,21,Wheat
+Telangana,Dec-09,17,Wheat
+Uttar Pradesh,Dec-09,14,Wheat
+Uttarakhand,Dec-09,15,Wheat
+Assam,Jan-10,17,Wheat
+Bihar,Jan-10,13,Wheat
+Chandigarh,Jan-10,13,Wheat
+Chhattisgarh,Jan-10,21,Wheat
+Delhi,Jan-10,15.2,Wheat
+Gujarat,Jan-10,16.65,Wheat
+Jammu and Kashmir,Jan-10,15,Wheat
+Jharkhand,Jan-10,15,Wheat
+Karnataka,Jan-10,22.05,Wheat
+Kerala,Jan-10,25,Wheat
+Madhya Pradesh,Jan-10,15.05,Wheat
+Maharashtra,Jan-10,20.05,Wheat
+Nagaland,Jan-10,14,Wheat
+Odisha,Jan-10,17,Wheat
+Punjab,Jan-10,13.72,Wheat
+Rajasthan,Jan-10,13.65,Wheat
+Tamil Nadu,Jan-10,21.35,Wheat
+Telangana,Jan-10,17,Wheat
+Uttar Pradesh,Jan-10,13.35,Wheat
+Uttarakhand,Jan-10,15,Wheat
+Assam,Feb-10,16.65,Wheat
+Bihar,Feb-10,13,Wheat
+Chandigarh,Feb-10,13,Wheat
+Chhattisgarh,Feb-10,20.35,Wheat
+Delhi,Feb-10,15.45,Wheat
+Gujarat,Feb-10,16,Wheat
+Jammu and Kashmir,Feb-10,14.2,Wheat
+Jharkhand,Feb-10,14.35,Wheat
+Karnataka,Feb-10,19.45,Wheat
+Kerala,Feb-10,23,Wheat
+Madhya Pradesh,Feb-10,16,Wheat
+Maharashtra,Feb-10,19.95,Wheat
+Nagaland,Feb-10,14,Wheat
+Odisha,Feb-10,16.15,Wheat
+Punjab,Feb-10,13.6,Wheat
+Rajasthan,Feb-10,14.75,Wheat
+Tamil Nadu,Feb-10,22,Wheat
+Telangana,Feb-10,17.25,Wheat
+Uttar Pradesh,Feb-10,13,Wheat
+Uttarakhand,Feb-10,15,Wheat
+Assam,Mar-10,16.11,Wheat
+Bihar,Mar-10,13.25,Wheat
+Chandigarh,Mar-10,13,Wheat
+Chhattisgarh,Mar-10,16.86,Wheat
+Delhi,Mar-10,15.1,Wheat
+Gujarat,Mar-10,14.65,Wheat
+Himachal Pradesh,Mar-10,15,Wheat
+Jammu and Kashmir,Mar-10,13.8,Wheat
+Jharkhand,Mar-10,14,Wheat
+Karnataka,Mar-10,20.19,Wheat
+Kerala,Mar-10,21.95,Wheat
+Madhya Pradesh,Mar-10,13.59,Wheat
+Maharashtra,Mar-10,19.26,Wheat
+Nagaland,Mar-10,14,Wheat
+Odisha,Mar-10,15.25,Wheat
+Punjab,Mar-10,13,Wheat
+Rajasthan,Mar-10,13.88,Wheat
+Tamil Nadu,Mar-10,21.37,Wheat
+Telangana,Mar-10,18.1,Wheat
+Uttar Pradesh,Mar-10,13,Wheat
+Uttarakhand,Mar-10,14,Wheat
+Andhra Pradesh,Apr-10,17,Wheat
+Assam,Apr-10,15.29,Wheat
+Bihar,Apr-10,12.63,Wheat
+Chhattisgarh,Apr-10,15,Wheat
+Delhi,Apr-10,13.75,Wheat
+Gujarat,Apr-10,13.54,Wheat
+Himachal Pradesh,Apr-10,15,Wheat
+Jammu and Kashmir,Apr-10,11.89,Wheat
+Karnataka,Apr-10,18.45,Wheat
+Kerala,Apr-10,21,Wheat
+Madhya Pradesh,Apr-10,11.65,Wheat
+Maharashtra,Apr-10,18.9,Wheat
+Odisha,Apr-10,14,Wheat
+Rajasthan,Apr-10,13.6,Wheat
+Tamil Nadu,Apr-10,21.38,Wheat
+Telangana,Apr-10,19,Wheat
+Uttar Pradesh,Apr-10,11.66,Wheat
+Uttarakhand,Apr-10,12.33,Wheat
+Andhra Pradesh,May-10,17.2,Wheat
+Assam,May-10,13.8,Wheat
+Bihar,May-10,12,Wheat
+Chhattisgarh,May-10,15,Wheat
+Delhi,May-10,13,Wheat
+Gujarat,May-10,14.18,Wheat
+Himachal Pradesh,May-10,15,Wheat
+Jammu and Kashmir,May-10,11.75,Wheat
+Karnataka,May-10,18.37,Wheat
+Kerala,May-10,21,Wheat
+Madhya Pradesh,May-10,11,Wheat
+Maharashtra,May-10,18.89,Wheat
+Nagaland,May-10,16,Wheat
+Punjab,May-10,12.44,Wheat
+Rajasthan,May-10,14,Wheat
+Tamil Nadu,May-10,20.77,Wheat
+Telangana,May-10,19,Wheat
+Uttar Pradesh,May-10,12,Wheat
+Uttarakhand,May-10,12.43,Wheat
+Andhra Pradesh,Jun-10,17.41,Wheat
+Assam,Jun-10,14.88,Wheat
+Bihar,Jun-10,13.29,Wheat
+Chhattisgarh,Jun-10,15.55,Wheat
+Delhi,Jun-10,13.5,Wheat
+Gujarat,Jun-10,14.41,Wheat
+Himachal Pradesh,Jun-10,15.68,Wheat
+Jammu and Kashmir,Jun-10,14.19,Wheat
+Jharkhand,Jun-10,13,Wheat
+Karnataka,Jun-10,19.36,Wheat
+Kerala,Jun-10,21,Wheat
+Madhya Pradesh,Jun-10,11.09,Wheat
+Maharashtra,Jun-10,18.95,Wheat
+Nagaland,Jun-10,16,Wheat
+Punjab,Jun-10,12.5,Wheat
+Rajasthan,Jun-10,14,Wheat
+Tamil Nadu,Jun-10,21,Wheat
+Telangana,Jun-10,19,Wheat
+Uttar Pradesh,Jun-10,12.8,Wheat
+Uttarakhand,Jun-10,12.95,Wheat
+Andhra Pradesh,Jul-10,19.91,Wheat
+Assam,Jul-10,14.7,Wheat
+Bihar,Jul-10,14,Wheat
+Chandigarh,Jul-10,12,Wheat
+Chhattisgarh,Jul-10,15,Wheat
+Delhi,Jul-10,14,Wheat
+Gujarat,Jul-10,14.84,Wheat
+Himachal Pradesh,Jul-10,16,Wheat
+Jammu and Kashmir,Jul-10,14.68,Wheat
+Jharkhand,Jul-10,13,Wheat
+Karnataka,Jul-10,19.14,Wheat
+Kerala,Jul-10,20.77,Wheat
+Madhya Pradesh,Jul-10,12,Wheat
+Maharashtra,Jul-10,18.64,Wheat
+Nagaland,Jul-10,16,Wheat
+Odisha,Jul-10,15,Wheat
+Punjab,Jul-10,13,Wheat
+Rajasthan,Jul-10,14,Wheat
+Tamil Nadu,Jul-10,21.41,Wheat
+Telangana,Jul-10,19.45,Wheat
+Uttar Pradesh,Jul-10,12.8,Wheat
+Uttarakhand,Jul-10,13.59,Wheat
+Andhra Pradesh,Aug-10,20.64,Wheat
+Assam,Aug-10,15.59,Wheat
+Bihar,Aug-10,14,Wheat
+Chandigarh,Aug-10,12,Wheat
+Chhattisgarh,Aug-10,15.86,Wheat
+Delhi,Aug-10,14,Wheat
+Gujarat,Aug-10,14.98,Wheat
+Himachal Pradesh,Aug-10,16,Wheat
+Jammu and Kashmir,Aug-10,14.14,Wheat
+Karnataka,Aug-10,19,Wheat
+Kerala,Aug-10,20.86,Wheat
+Madhya Pradesh,Aug-10,12.59,Wheat
+Maharashtra,Aug-10,18.95,Wheat
+Nagaland,Aug-10,16,Wheat
+Odisha,Aug-10,14.73,Wheat
+Punjab,Aug-10,12.75,Wheat
+Rajasthan,Aug-10,14,Wheat
+Tamil Nadu,Aug-10,21.5,Wheat
+Telangana,Aug-10,20.55,Wheat
+Uttar Pradesh,Aug-10,12.98,Wheat
+Uttarakhand,Aug-10,13.32,Wheat
+Andhra Pradesh,Sep-10,21,Wheat
+Assam,Sep-10,16,Wheat
+Bihar,Sep-10,13.63,Wheat
+Chandigarh,Sep-10,12,Wheat
+Chhattisgarh,Sep-10,16,Wheat
+Delhi,Sep-10,14,Wheat
+Gujarat,Sep-10,15.17,Wheat
+Haryana,Sep-10,12.34,Wheat
+Himachal Pradesh,Sep-10,15.52,Wheat
+Jammu and Kashmir,Sep-10,14.5,Wheat
+Karnataka,Sep-10,20.4,Wheat
+Kerala,Sep-10,20,Wheat
+Madhya Pradesh,Sep-10,13.33,Wheat
+Maharashtra,Sep-10,18.8,Wheat
+Nagaland,Sep-10,16,Wheat
+Odisha,Sep-10,14,Wheat
+Punjab,Sep-10,12.46,Wheat
+Rajasthan,Sep-10,14,Wheat
+Tamil Nadu,Sep-10,21.02,Wheat
+Telangana,Sep-10,20.19,Wheat
+Uttar Pradesh,Sep-10,12.91,Wheat
+Uttarakhand,Sep-10,13,Wheat
+West Bengal,Sep-10,12.5,Wheat
+Andhra Pradesh,Oct-10,21,Wheat
+Assam,Oct-10,16,Wheat
+Bihar,Oct-10,13.88,Wheat
+Chandigarh,Oct-10,13,Wheat
+Chhattisgarh,Oct-10,16.75,Wheat
+Delhi,Oct-10,14,Wheat
+Gujarat,Oct-10,15.5,Wheat
+Haryana,Oct-10,12.57,Wheat
+Himachal Pradesh,Oct-10,15.7,Wheat
+Jammu and Kashmir,Oct-10,14.7,Wheat
+Jharkhand,Oct-10,13.29,Wheat
+Karnataka,Oct-10,20.1,Wheat
+Kerala,Oct-10,20.6,Wheat
+Madhya Pradesh,Oct-10,13.5,Wheat
+Maharashtra,Oct-10,19.1,Wheat
+Nagaland,Oct-10,16,Wheat
+Odisha,Oct-10,14,Wheat
+Punjab,Oct-10,12.67,Wheat
+Rajasthan,Oct-10,14,Wheat
+Tamil Nadu,Oct-10,20.88,Wheat
+Telangana,Oct-10,20.25,Wheat
+Uttar Pradesh,Oct-10,13,Wheat
+Uttarakhand,Oct-10,13,Wheat
+West Bengal,Oct-10,12.95,Wheat
+Andhra Pradesh,Nov-10,21,Wheat
+Assam,Nov-10,16,Wheat
+Bihar,Nov-10,14.18,Wheat
+Chhattisgarh,Nov-10,17.3,Wheat
+Delhi,Nov-10,14,Wheat
+Gujarat,Nov-10,15.45,Wheat
+Haryana,Nov-10,12.35,Wheat
+Himachal Pradesh,Nov-10,17,Wheat
+Jammu and Kashmir,Nov-10,14,Wheat
+Jharkhand,Nov-10,13,Wheat
+Karnataka,Nov-10,20.57,Wheat
+Kerala,Nov-10,20.9,Wheat
+Madhya Pradesh,Nov-10,13.5,Wheat
+Maharashtra,Nov-10,19.45,Wheat
+Nagaland,Nov-10,16,Wheat
+Odisha,Nov-10,14.13,Wheat
+Punjab,Nov-10,13.56,Wheat
+Rajasthan,Nov-10,14.34,Wheat
+Tamil Nadu,Nov-10,21.47,Wheat
+Telangana,Nov-10,20.55,Wheat
+Uttar Pradesh,Nov-10,13.1,Wheat
+Uttarakhand,Nov-10,13,Wheat
+West Bengal,Nov-10,13.95,Wheat
+Andhra Pradesh,Dec-10,21,Wheat
+Assam,Dec-10,16,Wheat
+Bihar,Dec-10,14.39,Wheat
+Chandigarh,Dec-10,13,Wheat
+Chhattisgarh,Dec-10,16,Wheat
+Delhi,Dec-10,14,Wheat
+Gujarat,Dec-10,16.18,Wheat
+Haryana,Dec-10,12.64,Wheat
+Himachal Pradesh,Dec-10,15.45,Wheat
+Jammu and Kashmir,Dec-10,14.27,Wheat
+Jharkhand,Dec-10,13,Wheat
+Karnataka,Dec-10,21.49,Wheat
+Kerala,Dec-10,21.41,Wheat
+Madhya Pradesh,Dec-10,14.95,Wheat
+Maharashtra,Dec-10,19.2,Wheat
+Nagaland,Dec-10,16,Wheat
+Odisha,Dec-10,14.52,Wheat
+Punjab,Dec-10,12.59,Wheat
+Rajasthan,Dec-10,14.55,Wheat
+Tamil Nadu,Dec-10,22.02,Wheat
+Telangana,Dec-10,22.14,Wheat
+Uttar Pradesh,Dec-10,13.19,Wheat
+Uttarakhand,Dec-10,13.55,Wheat
+West Bengal,Dec-10,14,Wheat
+Andhra Pradesh,Jan-11,21,Wheat
+Assam,Jan-11,16.33,Wheat
+Bihar,Jan-11,15.13,Wheat
+Chhattisgarh,Jan-11,16.68,Wheat
+Delhi,Jan-11,15.05,Wheat
+Gujarat,Jan-11,16.5,Wheat
+Haryana,Jan-11,12.87,Wheat
+Himachal Pradesh,Jan-11,15,Wheat
+Jammu and Kashmir,Jan-11,16.35,Wheat
+Jharkhand,Jan-11,13,Wheat
+Karnataka,Jan-11,23.18,Wheat
+Kerala,Jan-11,21.88,Wheat
+Madhya Pradesh,Jan-11,15.5,Wheat
+Maharashtra,Jan-11,19.34,Wheat
+Nagaland,Jan-11,16,Wheat
+Odisha,Jan-11,15,Wheat
+Punjab,Jan-11,13,Wheat
+Rajasthan,Jan-11,14.68,Wheat
+Tamil Nadu,Jan-11,22.33,Wheat
+Telangana,Jan-11,24.05,Wheat
+Uttar Pradesh,Jan-11,13.76,Wheat
+Uttarakhand,Jan-11,14.65,Wheat
+West Bengal,Jan-11,14.32,Wheat
+Andhra Pradesh,Feb-11,21.79,Wheat
+Assam,Feb-11,17,Wheat
+Bihar,Feb-11,15.5,Wheat
+Chhattisgarh,Feb-11,17,Wheat
+Delhi,Feb-11,16,Wheat
+Gujarat,Feb-11,15.82,Wheat
+Haryana,Feb-11,13.32,Wheat
+Himachal Pradesh,Feb-11,15,Wheat
+Jammu and Kashmir,Feb-11,17.5,Wheat
+Jharkhand,Feb-11,13.21,Wheat
+Karnataka,Feb-11,22.97,Wheat
+Kerala,Feb-11,22.24,Wheat
+Madhya Pradesh,Feb-11,15.5,Wheat
+Maharashtra,Feb-11,19.66,Wheat
+Nagaland,Feb-11,16,Wheat
+Odisha,Feb-11,15,Wheat
+Punjab,Feb-11,13,Wheat
+Rajasthan,Feb-11,15,Wheat
+Tamil Nadu,Feb-11,22.33,Wheat
+Telangana,Feb-11,24,Wheat
+Uttar Pradesh,Feb-11,14.28,Wheat
+Uttarakhand,Feb-11,15,Wheat
+West Bengal,Feb-11,15.53,Wheat
+Andhra Pradesh,Mar-11,22,Wheat
+Assam,Mar-11,16.27,Wheat
+Bihar,Mar-11,15.5,Wheat
+Chhattisgarh,Mar-11,17,Wheat
+Delhi,Mar-11,16,Wheat
+Gujarat,Mar-11,14.61,Wheat
+Haryana,Mar-11,13.86,Wheat
+Jammu and Kashmir,Mar-11,17.43,Wheat
+Jharkhand,Mar-11,17.12,Wheat
+Karnataka,Mar-11,22.5,Wheat
+Kerala,Mar-11,22.59,Wheat
+Madhya Pradesh,Mar-11,15.23,Wheat
+Maharashtra,Mar-11,19.27,Wheat
+Nagaland,Mar-11,16,Wheat
+Odisha,Mar-11,15.09,Wheat
+Rajasthan,Mar-11,14.59,Wheat
+Tamil Nadu,Mar-11,22.33,Wheat
+Telangana,Mar-11,19.77,Wheat
+Uttar Pradesh,Mar-11,14.15,Wheat
+Uttarakhand,Mar-11,14.79,Wheat
+West Bengal,Mar-11,15.77,Wheat
+Andhra Pradesh,Apr-11,22,Wheat
+Arunachal pradesh,Apr-11,20,Wheat
+Assam,Apr-11,16,Wheat
+Bihar,Apr-11,15.25,Wheat
+Chhattisgarh,Apr-11,17,Wheat
+Delhi,Apr-11,16,Wheat
+Gujarat,Apr-11,12.75,Wheat
+Haryana,Apr-11,13.19,Wheat
+Jammu and Kashmir,Apr-11,16.64,Wheat
+Jharkhand,Apr-11,17.78,Wheat
+Karnataka,Apr-11,22.5,Wheat
+Kerala,Apr-11,22.69,Wheat
+Madhya Pradesh,Apr-11,14.58,Wheat
+Maharashtra,Apr-11,19.19,Wheat
+Nagaland,Apr-11,16,Wheat
+Odisha,Apr-11,15.33,Wheat
+Rajasthan,Apr-11,13.17,Wheat
+Tamil Nadu,Apr-11,21.67,Wheat
+Telangana,Apr-11,19.83,Wheat
+Uttar Pradesh,Apr-11,13.28,Wheat
+Uttarakhand,Apr-11,14,Wheat
+West Bengal,Apr-11,13.89,Wheat
+Andhra Pradesh,May-11,22,Wheat
+Arunachal pradesh,May-11,20,Wheat
+Assam,May-11,16,Wheat
+Bihar,May-11,14.69,Wheat
+Chandigarh,May-11,13.29,Wheat
+Chhattisgarh,May-11,17,Wheat
+Delhi,May-11,15.1,Wheat
+Gujarat,May-11,13,Wheat
+Haryana,May-11,12.4,Wheat
+Jammu and Kashmir,May-11,16.13,Wheat
+Jharkhand,May-11,18,Wheat
+Karnataka,May-11,22.68,Wheat
+Kerala,May-11,23.07,Wheat
+Madhya Pradesh,May-11,14.5,Wheat
+Maharashtra,May-11,19,Wheat
+Nagaland,May-11,16,Wheat
+Odisha,May-11,15.22,Wheat
+Punjab,May-11,12.46,Wheat
+Rajasthan,May-11,13,Wheat
+Tamil Nadu,May-11,21.67,Wheat
+Telangana,May-11,19.95,Wheat
+Uttar Pradesh,May-11,12.39,Wheat
+Uttarakhand,May-11,14,Wheat
+West Bengal,May-11,13.19,Wheat
+Andhra Pradesh,Jun-11,22,Wheat
+Arunachal pradesh,Jun-11,20,Wheat
+Assam,Jun-11,16.86,Wheat
+Bihar,Jun-11,14,Wheat
+Chandigarh,Jun-11,15,Wheat
+Chhattisgarh,Jun-11,17,Wheat
+Delhi,Jun-11,15,Wheat
+Gujarat,Jun-11,13.39,Wheat
+Haryana,Jun-11,12,Wheat
+Jammu and Kashmir,Jun-11,16.5,Wheat
+Jharkhand,Jun-11,17.06,Wheat
+Karnataka,Jun-11,21.77,Wheat
+Kerala,Jun-11,23.05,Wheat
+Madhya Pradesh,Jun-11,13.8,Wheat
+Maharashtra,Jun-11,19.11,Wheat
+Nagaland,Jun-11,16,Wheat
+Odisha,Jun-11,14.71,Wheat
+Punjab,Jun-11,14.22,Wheat
+Rajasthan,Jun-11,13,Wheat
+Tamil Nadu,Jun-11,21.41,Wheat
+Telangana,Jun-11,20.82,Wheat
+Uttar Pradesh,Jun-11,12.52,Wheat
+Uttarakhand,Jun-11,14,Wheat
+West Bengal,Jun-11,13,Wheat
+Andhra Pradesh,Jul-11,22,Wheat
+Arunachal pradesh,Jul-11,20,Wheat
+Assam,Jul-11,17,Wheat
+Bihar,Jul-11,14,Wheat
+Chandigarh,Jul-11,15,Wheat
+Chhattisgarh,Jul-11,17,Wheat
+Delhi,Jul-11,15,Wheat
+Gujarat,Jul-11,13.12,Wheat
+Haryana,Jul-11,12.07,Wheat
+Jammu and Kashmir,Jul-11,16.86,Wheat
+Jharkhand,Jul-11,16.67,Wheat
+Karnataka,Jul-11,21.38,Wheat
+Kerala,Jul-11,22.25,Wheat
+Madhya Pradesh,Jul-11,13.49,Wheat
+Maharashtra,Jul-11,19.55,Wheat
+Nagaland,Jul-11,16,Wheat
+Odisha,Jul-11,14.89,Wheat
+Rajasthan,Jul-11,13.05,Wheat
+Tamil Nadu,Jul-11,21.33,Wheat
+Telangana,Jul-11,20.52,Wheat
+Uttar Pradesh,Jul-11,12.39,Wheat
+Uttarakhand,Jul-11,14,Wheat
+West Bengal,Jul-11,13,Wheat
+Andhra Pradesh,Aug-11,22,Wheat
+Assam,Aug-11,17,Wheat
+Bihar,Aug-11,14.18,Wheat
+Chandigarh,Aug-11,15,Wheat
+Chhattisgarh,Aug-11,17,Wheat
+Delhi,Aug-11,15,Wheat
+Gujarat,Aug-11,13,Wheat
+Haryana,Aug-11,12.5,Wheat
+Himachal Pradesh,Aug-11,13,Wheat
+Jammu and Kashmir,Aug-11,16.95,Wheat
+Jharkhand,Aug-11,17.05,Wheat
+Karnataka,Aug-11,21.5,Wheat
+Kerala,Aug-11,21.38,Wheat
+Madhya Pradesh,Aug-11,13.5,Wheat
+Maharashtra,Aug-11,20.32,Wheat
+Nagaland,Aug-11,16,Wheat
+Odisha,Aug-11,15.3,Wheat
+Rajasthan,Aug-11,13,Wheat
+Tamil Nadu,Aug-11,21.45,Wheat
+Telangana,Aug-11,20.3,Wheat
+Uttar Pradesh,Aug-11,12.5,Wheat
+Uttarakhand,Aug-11,14,Wheat
+West Bengal,Aug-11,13,Wheat
+Andhra Pradesh,Sep-11,22,Wheat
+Assam,Sep-11,17,Wheat
+Bihar,Sep-11,14.5,Wheat
+Chandigarh,Sep-11,15,Wheat
+Chhattisgarh,Sep-11,16.55,Wheat
+Delhi,Sep-11,15,Wheat
+Gujarat,Sep-11,13.41,Wheat
+Haryana,Sep-11,12.89,Wheat
+Himachal Pradesh,Sep-11,13,Wheat
+Jammu and Kashmir,Sep-11,16.5,Wheat
+Jharkhand,Sep-11,16.73,Wheat
+Karnataka,Sep-11,21.59,Wheat
+Kerala,Sep-11,20.5,Wheat
+Madhya Pradesh,Sep-11,13.5,Wheat
+Maharashtra,Sep-11,20.73,Wheat
+Nagaland,Sep-11,16,Wheat
+Odisha,Sep-11,15,Wheat
+Punjab,Sep-11,12.67,Wheat
+Rajasthan,Sep-11,13.29,Wheat
+Tamil Nadu,Sep-11,21.36,Wheat
+Telangana,Sep-11,20.09,Wheat
+Uttar Pradesh,Sep-11,12.35,Wheat
+Uttarakhand,Sep-11,14,Wheat
+West Bengal,Sep-11,13.76,Wheat
+Andhra Pradesh,Oct-11,21.95,Wheat
+Assam,Oct-11,17,Wheat
+Bihar,Oct-11,14.19,Wheat
+Chandigarh,Oct-11,14.5,Wheat
+Chhattisgarh,Oct-11,16.53,Wheat
+Delhi,Oct-11,15,Wheat
+Gujarat,Oct-11,13.48,Wheat
+Haryana,Oct-11,12.85,Wheat
+Himachal Pradesh,Oct-11,12.7,Wheat
+Jammu and Kashmir,Oct-11,14.22,Wheat
+Jharkhand,Oct-11,16,Wheat
+Karnataka,Oct-11,22.32,Wheat
+Kerala,Oct-11,19.97,Wheat
+Madhya Pradesh,Oct-11,13.21,Wheat
+Maharashtra,Oct-11,20.09,Wheat
+Nagaland,Oct-11,16,Wheat
+Odisha,Oct-11,15.23,Wheat
+Punjab,Oct-11,12.6,Wheat
+Rajasthan,Oct-11,13.17,Wheat
+Tamil Nadu,Oct-11,21.69,Wheat
+Telangana,Oct-11,22.95,Wheat
+Uttar Pradesh,Oct-11,12.7,Wheat
+Uttarakhand,Oct-11,13.57,Wheat
+West Bengal,Oct-11,14,Wheat
+Andhra Pradesh,Nov-11,22,Wheat
+Arunachal pradesh,Nov-11,16,Wheat
+Assam,Nov-11,15,Wheat
+Bihar,Nov-11,14,Wheat
+Chandigarh,Nov-11,14.85,Wheat
+Chhattisgarh,Nov-11,16,Wheat
+Delhi,Nov-11,15.05,Wheat
+Gujarat,Nov-11,13.68,Wheat
+Haryana,Nov-11,13,Wheat
+Himachal Pradesh,Nov-11,13,Wheat
+Jammu and Kashmir,Nov-11,16.52,Wheat
+Jharkhand,Nov-11,16.29,Wheat
+Karnataka,Nov-11,21.61,Wheat
+Kerala,Nov-11,19.63,Wheat
+Madhya Pradesh,Nov-11,13.48,Wheat
+Maharashtra,Nov-11,20.24,Wheat
+Nagaland,Nov-11,16,Wheat
+Odisha,Nov-11,15.24,Wheat
+Punjab,Nov-11,12.75,Wheat
+Rajasthan,Nov-11,13.77,Wheat
+Tamil Nadu,Nov-11,21.5,Wheat
+Telangana,Nov-11,24,Wheat
+Uttar Pradesh,Nov-11,12.54,Wheat
+Uttarakhand,Nov-11,13,Wheat
+West Bengal,Nov-11,14.72,Wheat
+Andhra Pradesh,Dec-11,22,Wheat
+Arunachal pradesh,Dec-11,16,Wheat
+Assam,Dec-11,14.5,Wheat
+Bihar,Dec-11,14,Wheat
+Chandigarh,Dec-11,15,Wheat
+Chhattisgarh,Dec-11,16.57,Wheat
+Delhi,Dec-11,15.05,Wheat
+Gujarat,Dec-11,14.88,Wheat
+Haryana,Dec-11,12.86,Wheat
+Jammu and Kashmir,Dec-11,15.84,Wheat
+Jharkhand,Dec-11,16.8,Wheat
+Karnataka,Dec-11,21.13,Wheat
+Kerala,Dec-11,20.05,Wheat
+Madhya Pradesh,Dec-11,13.51,Wheat
+Maharashtra,Dec-11,20.46,Wheat
+Nagaland,Dec-11,16,Wheat
+Odisha,Dec-11,15.33,Wheat
+Punjab,Dec-11,13,Wheat
+Rajasthan,Dec-11,13.72,Wheat
+Tamil Nadu,Dec-11,21.67,Wheat
+Telangana,Dec-11,23.1,Wheat
+Uttar Pradesh,Dec-11,12.11,Wheat
+Uttarakhand,Dec-11,13,Wheat
+West Bengal,Dec-11,15.18,Wheat
+Andhra Pradesh,Jan-12,22,Wheat
+Arunachal pradesh,Jan-12,13,Wheat
+Assam,Jan-12,14,Wheat
+Bihar,Jan-12,14,Wheat
+Chandigarh,Jan-12,15,Wheat
+Chhattisgarh,Jan-12,17,Wheat
+Delhi,Jan-12,16,Wheat
+Gujarat,Jan-12,15.19,Wheat
+Haryana,Jan-12,13.15,Wheat
+Jammu and Kashmir,Jan-12,15.91,Wheat
+Jharkhand,Jan-12,16,Wheat
+Karnataka,Jan-12,21,Wheat
+Kerala,Jan-12,19.57,Wheat
+Madhya Pradesh,Jan-12,13.71,Wheat
+Maharashtra,Jan-12,20.5,Wheat
+Nagaland,Jan-12,15.4,Wheat
+Odisha,Jan-12,15.4,Wheat
+Punjab,Jan-12,13.59,Wheat
+Rajasthan,Jan-12,13.67,Wheat
+Tamil Nadu,Jan-12,21.79,Wheat
+Telangana,Jan-12,23.05,Wheat
+Uttar Pradesh,Jan-12,11.52,Wheat
+Uttarakhand,Jan-12,13,Wheat
+West Bengal,Jan-12,14.79,Wheat
+Andhra Pradesh,Feb-12,22,Wheat
+Arunachal pradesh,Feb-12,13,Wheat
+Assam,Feb-12,14.35,Wheat
+Bihar,Feb-12,14,Wheat
+Chandigarh,Feb-12,15,Wheat
+Chhattisgarh,Feb-12,17,Wheat
+Delhi,Feb-12,16,Wheat
+Gujarat,Feb-12,15,Wheat
+Haryana,Feb-12,12.67,Wheat
+Jammu and Kashmir,Feb-12,16.28,Wheat
+Jharkhand,Feb-12,16,Wheat
+Karnataka,Feb-12,21.74,Wheat
+Kerala,Feb-12,19.53,Wheat
+Madhya Pradesh,Feb-12,14,Wheat
+Maharashtra,Feb-12,20,Wheat
+Nagaland,Feb-12,16,Wheat
+Odisha,Feb-12,15.11,Wheat
+Punjab,Feb-12,13.73,Wheat
+Rajasthan,Feb-12,13.11,Wheat
+Tamil Nadu,Feb-12,21.67,Wheat
+Telangana,Feb-12,23,Wheat
+Uttar Pradesh,Feb-12,11.68,Wheat
+Uttarakhand,Feb-12,13,Wheat
+West Bengal,Feb-12,14,Wheat
+Andhra Pradesh,Mar-12,22,Wheat
+Arunachal pradesh,Mar-12,13,Wheat
+Assam,Mar-12,16,Wheat
+Bihar,Mar-12,14,Wheat
+Chandigarh,Mar-12,15,Wheat
+Chhattisgarh,Mar-12,17,Wheat
+Delhi,Mar-12,16,Wheat
+Gujarat,Mar-12,15.1,Wheat
+Haryana,Mar-12,13.67,Wheat
+Jammu and Kashmir,Mar-12,16.91,Wheat
+Jharkhand,Mar-12,17,Wheat
+Karnataka,Mar-12,21.82,Wheat
+Kerala,Mar-12,19.2,Wheat
+Madhya Pradesh,Mar-12,14,Wheat
+Maharashtra,Mar-12,20,Wheat
+Nagaland,Mar-12,16,Wheat
+Odisha,Mar-12,14.67,Wheat
+Punjab,Mar-12,13.77,Wheat
+Rajasthan,Mar-12,13.59,Wheat
+Tamil Nadu,Mar-12,21.98,Wheat
+Telangana,Mar-12,22.3,Wheat
+Uttar Pradesh,Mar-12,11.72,Wheat
+Uttarakhand,Mar-12,13,Wheat
+West Bengal,Mar-12,14,Wheat
+Andhra Pradesh,Apr-12,22,Wheat
+Arunachal pradesh,Apr-12,13,Wheat
+Assam,Apr-12,15.5,Wheat
+Bihar,Apr-12,14,Wheat
+Chandigarh,Apr-12,15,Wheat
+Chhattisgarh,Apr-12,17.53,Wheat
+Delhi,Apr-12,16,Wheat
+Gujarat,Apr-12,15.15,Wheat
+Haryana,Apr-12,13.41,Wheat
+Jammu and Kashmir,Apr-12,16.6,Wheat
+Jharkhand,Apr-12,17.22,Wheat
+Karnataka,Apr-12,21.3,Wheat
+Kerala,Apr-12,18.92,Wheat
+Madhya Pradesh,Apr-12,14,Wheat
+Maharashtra,Apr-12,20.29,Wheat
+Nagaland,Apr-12,16,Wheat
+Odisha,Apr-12,14.67,Wheat
+Punjab,Apr-12,13.72,Wheat
+Rajasthan,Apr-12,14.15,Wheat
+Tamil Nadu,Apr-12,22,Wheat
+Telangana,Apr-12,23.68,Wheat
+Uttar Pradesh,Apr-12,11.93,Wheat
+Uttarakhand,Apr-12,13,Wheat
+West Bengal,Apr-12,14,Wheat
+Andhra Pradesh,May-12,22.91,Wheat
+Assam,May-12,15.13,Wheat
+Bihar,May-12,14.11,Wheat
+Chandigarh,May-12,15,Wheat
+Chhattisgarh,May-12,17.15,Wheat
+Delhi,May-12,16,Wheat
+Gujarat,May-12,15.91,Wheat
+Haryana,May-12,13.09,Wheat
+Jammu and Kashmir,May-12,16.71,Wheat
+Jharkhand,May-12,18,Wheat
+Karnataka,May-12,21.87,Wheat
+Kerala,May-12,18.62,Wheat
+Madhya Pradesh,May-12,14,Wheat
+Maharashtra,May-12,21.14,Wheat
+Nagaland,May-12,16,Wheat
+Odisha,May-12,14.67,Wheat
+Punjab,May-12,13.67,Wheat
+Rajasthan,May-12,14.22,Wheat
+Tamil Nadu,May-12,22,Wheat
+Telangana,May-12,23,Wheat
+Uttar Pradesh,May-12,12.2,Wheat
+Uttarakhand,May-12,13.75,Wheat
+West Bengal,May-12,14.33,Wheat
+Andaman and Nicobar,Jun-12,25,Wheat
+Andhra Pradesh,Jun-12,23,Wheat
+Assam,Jun-12,15.22,Wheat
+Bihar,Jun-12,14.68,Wheat
+Chandigarh,Jun-12,15,Wheat
+Chhattisgarh,Jun-12,17,Wheat
+Delhi,Jun-12,15.38,Wheat
+Gujarat,Jun-12,16.12,Wheat
+Haryana,Jun-12,12.81,Wheat
+Jammu and Kashmir,Jun-12,16.55,Wheat
+Jharkhand,Jun-12,16.63,Wheat
+Karnataka,Jun-12,22,Wheat
+Kerala,Jun-12,18.9,Wheat
+Madhya Pradesh,Jun-12,14.36,Wheat
+Maharashtra,Jun-12,20.88,Wheat
+Nagaland,Jun-12,16,Wheat
+Odisha,Jun-12,14.66,Wheat
+Puducherry,Jun-12,24,Wheat
+Punjab,Jun-12,13.9,Wheat
+Rajasthan,Jun-12,13.97,Wheat
+Tamil Nadu,Jun-12,22,Wheat
+Telangana,Jun-12,23,Wheat
+Uttar Pradesh,Jun-12,12.24,Wheat
+Uttarakhand,Jun-12,14,Wheat
+West Bengal,Jun-12,15,Wheat
+Andaman and Nicobar,Jul-12,25,Wheat
+Andhra Pradesh,Jul-12,23.55,Wheat
+Assam,Jul-12,15,Wheat
+Bihar,Jul-12,15.15,Wheat
+Chandigarh,Jul-12,15,Wheat
+Chhattisgarh,Jul-12,17.84,Wheat
+Delhi,Jul-12,15,Wheat
+Gujarat,Jul-12,15.68,Wheat
+Haryana,Jul-12,13.05,Wheat
+Jammu and Kashmir,Jul-12,17,Wheat
+Jharkhand,Jul-12,17,Wheat
+Karnataka,Jul-12,21.34,Wheat
+Kerala,Jul-12,20.88,Wheat
+Madhya Pradesh,Jul-12,14.86,Wheat
+Maharashtra,Jul-12,20.79,Wheat
+Nagaland,Jul-12,16,Wheat
+Odisha,Jul-12,14.84,Wheat
+Puducherry,Jul-12,24,Wheat
+Punjab,Jul-12,13.62,Wheat
+Rajasthan,Jul-12,14.06,Wheat
+Tamil Nadu,Jul-12,22.29,Wheat
+Telangana,Jul-12,23,Wheat
+Uttar Pradesh,Jul-12,12.33,Wheat
+Uttarakhand,Jul-12,14,Wheat
+West Bengal,Jul-12,14.95,Wheat
+Andaman and Nicobar,Aug-12,25,Wheat
+Andhra Pradesh,Aug-12,24,Wheat
+Assam,Aug-12,16,Wheat
+Bihar,Aug-12,15.52,Wheat
+Chandigarh,Aug-12,15.6,Wheat
+Chhattisgarh,Aug-12,19.39,Wheat
+Delhi,Aug-12,16.68,Wheat
+Gujarat,Aug-12,17.21,Wheat
+Haryana,Aug-12,13.3,Wheat
+Jammu and Kashmir,Aug-12,16.58,Wheat
+Jharkhand,Aug-12,18,Wheat
+Karnataka,Aug-12,21.69,Wheat
+Kerala,Aug-12,21.04,Wheat
+Madhya Pradesh,Aug-12,15.42,Wheat
+Maharashtra,Aug-12,22.05,Wheat
+Nagaland,Aug-12,16,Wheat
+Odisha,Aug-12,16.37,Wheat
+Puducherry,Aug-12,24,Wheat
+Punjab,Aug-12,14.24,Wheat
+Rajasthan,Aug-12,15.45,Wheat
+Tamil Nadu,Aug-12,23.42,Wheat
+Telangana,Aug-12,23.25,Wheat
+Uttar Pradesh,Aug-12,13.71,Wheat
+Uttarakhand,Aug-12,14.65,Wheat
+West Bengal,Aug-12,16.27,Wheat
+Andaman and Nicobar,Sep-12,25,Wheat
+Andhra Pradesh,Sep-12,25.05,Wheat
+Assam,Sep-12,19.25,Wheat
+Bihar,Sep-12,15.41,Wheat
+Chandigarh,Sep-12,18,Wheat
+Chhattisgarh,Sep-12,21.79,Wheat
+Delhi,Sep-12,19,Wheat
+Gujarat,Sep-12,17.05,Wheat
+Haryana,Sep-12,14.08,Wheat
+Jammu and Kashmir,Sep-12,17.03,Wheat
+Jharkhand,Sep-12,19.33,Wheat
+Karnataka,Sep-12,23.09,Wheat
+Kerala,Sep-12,21.82,Wheat
+Madhya Pradesh,Sep-12,15.5,Wheat
+Maharashtra,Sep-12,22.61,Wheat
+Nagaland,Sep-12,16,Wheat
+Odisha,Sep-12,17.81,Wheat
+Puducherry,Sep-12,25.79,Wheat
+Punjab,Sep-12,14.52,Wheat
+Rajasthan,Sep-12,16.57,Wheat
+Tamil Nadu,Sep-12,23.78,Wheat
+Telangana,Sep-12,24.58,Wheat
+Uttar Pradesh,Sep-12,15.17,Wheat
+Uttarakhand,Sep-12,16.06,Wheat
+West Bengal,Sep-12,17,Wheat
+Andaman and Nicobar,Oct-12,25.32,Wheat
+Andhra Pradesh,Oct-12,26,Wheat
+Assam,Oct-12,19.81,Wheat
+Bihar,Oct-12,15.92,Wheat
+Chandigarh,Oct-12,18,Wheat
+Chhattisgarh,Oct-12,21.3,Wheat
+Delhi,Oct-12,18.21,Wheat
+Gujarat,Oct-12,16.92,Wheat
+Haryana,Oct-12,14.6,Wheat
+Jammu and Kashmir,Oct-12,17.32,Wheat
+Jharkhand,Oct-12,20,Wheat
+Karnataka,Oct-12,24.3,Wheat
+Kerala,Oct-12,23.53,Wheat
+Madhya Pradesh,Oct-12,15.46,Wheat
+Maharashtra,Oct-12,23.82,Wheat
+Nagaland,Oct-12,16,Wheat
+Odisha,Oct-12,18,Wheat
+Puducherry,Oct-12,26,Wheat
+Punjab,Oct-12,14.73,Wheat
+Rajasthan,Oct-12,16.49,Wheat
+Tamil Nadu,Oct-12,24.83,Wheat
+Telangana,Oct-12,25,Wheat
+Uttar Pradesh,Oct-12,15.16,Wheat
+Uttarakhand,Oct-12,16.67,Wheat
+West Bengal,Oct-12,16.15,Wheat
+Andaman and Nicobar,Nov-12,27,Wheat
+Andhra Pradesh,Nov-12,26.45,Wheat
+Assam,Nov-12,19.29,Wheat
+Bihar,Nov-12,17.55,Wheat
+Chandigarh,Nov-12,18,Wheat
+Chhattisgarh,Nov-12,20,Wheat
+Delhi,Nov-12,19,Wheat
+Gujarat,Nov-12,16.59,Wheat
+Haryana,Nov-12,14.97,Wheat
+Jammu and Kashmir,Nov-12,17.23,Wheat
+Jharkhand,Nov-12,20,Wheat
+Karnataka,Nov-12,24.4,Wheat
+Kerala,Nov-12,25.28,Wheat
+Madhya Pradesh,Nov-12,14.96,Wheat
+Maharashtra,Nov-12,24,Wheat
+Nagaland,Nov-12,16,Wheat
+Odisha,Nov-12,17.48,Wheat
+Puducherry,Nov-12,26.1,Wheat
+Punjab,Nov-12,15.07,Wheat
+Rajasthan,Nov-12,16.4,Wheat
+Tamil Nadu,Nov-12,26.3,Wheat
+Telangana,Nov-12,26.95,Wheat
+Uttar Pradesh,Nov-12,15.1,Wheat
+Uttarakhand,Nov-12,16,Wheat
+West Bengal,Nov-12,16.43,Wheat
+Andaman and Nicobar,Dec-12,27,Wheat
+Andhra Pradesh,Dec-12,25.7,Wheat
+Assam,Dec-12,20,Wheat
+Bihar,Dec-12,17.52,Wheat
+Chandigarh,Dec-12,18,Wheat
+Chhattisgarh,Dec-12,21.56,Wheat
+Delhi,Dec-12,19,Wheat
+Gujarat,Dec-12,17,Wheat
+Haryana,Dec-12,15.47,Wheat
+Jammu and Kashmir,Dec-12,18.44,Wheat
+Jharkhand,Dec-12,20.54,Wheat
+Karnataka,Dec-12,23.92,Wheat
+Kerala,Dec-12,26.06,Wheat
+Madhya Pradesh,Dec-12,14.74,Wheat
+Maharashtra,Dec-12,25.63,Wheat
+Nagaland,Dec-12,16,Wheat
+Odisha,Dec-12,17,Wheat
+Puducherry,Dec-12,27.45,Wheat
+Punjab,Dec-12,15.91,Wheat
+Rajasthan,Dec-12,16.42,Wheat
+Tamil Nadu,Dec-12,27.05,Wheat
+Telangana,Dec-12,28.2,Wheat
+Uttar Pradesh,Dec-12,15.04,Wheat
+Uttarakhand,Dec-12,17,Wheat
+West Bengal,Dec-12,18,Wheat
+Andaman and Nicobar,Jan-13,27,Wheat
+Andhra Pradesh,Jan-13,26,Wheat
+Assam,Jan-13,20,Wheat
+Bihar,Jan-13,16.5,Wheat
+Chandigarh,Jan-13,18,Wheat
+Chhattisgarh,Jan-13,22,Wheat
+Delhi,Jan-13,19,Wheat
+Gujarat,Jan-13,17,Wheat
+Haryana,Jan-13,15.89,Wheat
+Jammu and Kashmir,Jan-13,18.49,Wheat
+Jharkhand,Jan-13,21,Wheat
+Karnataka,Jan-13,24.41,Wheat
+Kerala,Jan-13,26.94,Wheat
+Madhya Pradesh,Jan-13,14.43,Wheat
+Maharashtra,Jan-13,26.5,Wheat
+Nagaland,Jan-13,16,Wheat
+Odisha,Jan-13,17,Wheat
+Puducherry,Jan-13,28,Wheat
+Punjab,Jan-13,15.91,Wheat
+Rajasthan,Jan-13,16.51,Wheat
+Tamil Nadu,Jan-13,26.85,Wheat
+Telangana,Jan-13,28.35,Wheat
+Uttar Pradesh,Jan-13,15.25,Wheat
+Uttarakhand,Jan-13,16.33,Wheat
+West Bengal,Jan-13,18,Wheat
+Andaman and Nicobar,Feb-13,27,Wheat
+Andhra Pradesh,Feb-13,26,Wheat
+Assam,Feb-13,20.17,Wheat
+Bihar,Feb-13,16.97,Wheat
+Chandigarh,Feb-13,19.24,Wheat
+Chhattisgarh,Feb-13,21.65,Wheat
+Delhi,Feb-13,19,Wheat
+Gujarat,Feb-13,17.43,Wheat
+Haryana,Feb-13,15.5,Wheat
+Jammu and Kashmir,Feb-13,18.45,Wheat
+Jharkhand,Feb-13,20.36,Wheat
+Karnataka,Feb-13,25.75,Wheat
+Kerala,Feb-13,27.63,Wheat
+Madhya Pradesh,Feb-13,14.73,Wheat
+Maharashtra,Feb-13,26.54,Wheat
+Nagaland,Feb-13,16,Wheat
+Puducherry,Feb-13,28.9,Wheat
+Punjab,Feb-13,16.53,Wheat
+Rajasthan,Feb-13,17.42,Wheat
+Tamil Nadu,Feb-13,27.12,Wheat
+Telangana,Feb-13,29,Wheat
+Uttar Pradesh,Feb-13,15.63,Wheat
+Uttarakhand,Feb-13,16.65,Wheat
+West Bengal,Feb-13,18.13,Wheat
+Andaman and Nicobar,Mar-13,27,Wheat
+Andhra Pradesh,Mar-13,25.21,Wheat
+Assam,Mar-13,20.94,Wheat
+Bihar,Mar-13,17.89,Wheat
+Chandigarh,Mar-13,21,Wheat
+Chhattisgarh,Mar-13,21,Wheat
+Delhi,Mar-13,19,Wheat
+Gujarat,Mar-13,17.44,Wheat
+Haryana,Mar-13,16.06,Wheat
+Jammu and Kashmir,Mar-13,18.06,Wheat
+Jharkhand,Mar-13,20,Wheat
+Karnataka,Mar-13,25.47,Wheat
+Kerala,Mar-13,26.67,Wheat
+Madhya Pradesh,Mar-13,15.15,Wheat
+Maharashtra,Mar-13,26.5,Wheat
+Nagaland,Mar-13,16,Wheat
+Odisha,Mar-13,21,Wheat
+Puducherry,Mar-13,30,Wheat
+Punjab,Mar-13,16.97,Wheat
+Rajasthan,Mar-13,17.03,Wheat
+Tamil Nadu,Mar-13,27,Wheat
+Telangana,Mar-13,28.74,Wheat
+Uttar Pradesh,Mar-13,16.29,Wheat
+Uttarakhand,Mar-13,17,Wheat
+West Bengal,Mar-13,18.21,Wheat
+Andaman and Nicobar,Apr-13,27,Wheat
+Andhra Pradesh,Apr-13,26.17,Wheat
+Assam,Apr-13,21,Wheat
+Bihar,Apr-13,17.8,Wheat
+Chandigarh,Apr-13,21,Wheat
+Chhattisgarh,Apr-13,21,Wheat
+Delhi,Apr-13,18.9,Wheat
+Gujarat,Apr-13,18.5,Wheat
+Haryana,Apr-13,16.15,Wheat
+Jammu and Kashmir,Apr-13,18.61,Wheat
+Jharkhand,Apr-13,21.56,Wheat
+Karnataka,Apr-13,25.06,Wheat
+Kerala,Apr-13,26.75,Wheat
+Madhya Pradesh,Apr-13,15.65,Wheat
+Maharashtra,Apr-13,25.68,Wheat
+Nagaland,Apr-13,16,Wheat
+Odisha,Apr-13,21,Wheat
+Puducherry,Apr-13,28.9,Wheat
+Punjab,Apr-13,17.13,Wheat
+Rajasthan,Apr-13,16.03,Wheat
+Tamil Nadu,Apr-13,26.62,Wheat
+Telangana,Apr-13,26.56,Wheat
+Uttar Pradesh,Apr-13,15.32,Wheat
+Uttarakhand,Apr-13,17.12,Wheat
+West Bengal,Apr-13,16.06,Wheat
+Andaman and Nicobar,May-13,27,Wheat
+Andhra Pradesh,May-13,25.91,Wheat
+Assam,May-13,21,Wheat
+Bihar,May-13,16.95,Wheat
+Chandigarh,May-13,21.76,Wheat
+Chhattisgarh,May-13,21,Wheat
+Delhi,May-13,17.26,Wheat
+Gujarat,May-13,18.49,Wheat
+Haryana,May-13,15.36,Wheat
+Jammu and Kashmir,May-13,18.86,Wheat
+Jharkhand,May-13,19.29,Wheat
+Karnataka,May-13,24.94,Wheat
+Kerala,May-13,26.67,Wheat
+Madhya Pradesh,May-13,16.13,Wheat
+Maharashtra,May-13,25.82,Wheat
+Nagaland,May-13,16,Wheat
+Odisha,May-13,21,Wheat
+Puducherry,May-13,28,Wheat
+Punjab,May-13,15.95,Wheat
+Rajasthan,May-13,16.21,Wheat
+Tamil Nadu,May-13,26.91,Wheat
+Telangana,May-13,26,Wheat
+Uttar Pradesh,May-13,14.88,Wheat
+Uttarakhand,May-13,15.29,Wheat
+West Bengal,May-13,17,Wheat
+Andaman and Nicobar,Jun-13,27,Wheat
+Andhra Pradesh,Jun-13,25,Wheat
+Assam,Jun-13,21,Wheat
+Bihar,Jun-13,16.94,Wheat
+Chandigarh,Jun-13,22,Wheat
+Chhattisgarh,Jun-13,21.6,Wheat
+Delhi,Jun-13,17.55,Wheat
+Gujarat,Jun-13,19.13,Wheat
+Haryana,Jun-13,15.97,Wheat
+Jammu and Kashmir,Jun-13,18.88,Wheat
+Jharkhand,Jun-13,16.79,Wheat
+Karnataka,Jun-13,25.35,Wheat
+Kerala,Jun-13,26.73,Wheat
+Madhya Pradesh,Jun-13,16.35,Wheat
+Maharashtra,Jun-13,26,Wheat
+Nagaland,Jun-13,16,Wheat
+Odisha,Jun-13,21,Wheat
+Puducherry,Jun-13,28,Wheat
+Punjab,Jun-13,15.95,Wheat
+Rajasthan,Jun-13,16.62,Wheat
+Tamil Nadu,Jun-13,27.25,Wheat
+Telangana,Jun-13,27.9,Wheat
+Uttar Pradesh,Jun-13,15.74,Wheat
+Uttarakhand,Jun-13,16.05,Wheat
+West Bengal,Jun-13,17.95,Wheat
+Andaman and Nicobar,Jul-13,27,Wheat
+Andhra Pradesh,Jul-13,25,Wheat
+Assam,Jul-13,21,Wheat
+Bihar,Jul-13,18.55,Wheat
+Chandigarh,Jul-13,22,Wheat
+Chhattisgarh,Jul-13,22,Wheat
+Delhi,Jul-13,18,Wheat
+Gujarat,Jul-13,19.41,Wheat
+Haryana,Jul-13,16.55,Wheat
+Jammu and Kashmir,Jul-13,18.84,Wheat
+Jharkhand,Jul-13,18.43,Wheat
+Karnataka,Jul-13,25.88,Wheat
+Kerala,Jul-13,26.14,Wheat
+Madhya Pradesh,Jul-13,16.14,Wheat
+Maharashtra,Jul-13,26.37,Wheat
+Nagaland,Jul-13,16,Wheat
+Odisha,Jul-13,21,Wheat
+Puducherry,Jul-13,29.83,Wheat
+Punjab,Jul-13,16.44,Wheat
+Rajasthan,Jul-13,16.81,Wheat
+Tamil Nadu,Jul-13,27.04,Wheat
+Telangana,Jul-13,28,Wheat
+Uttar Pradesh,Jul-13,15.74,Wheat
+Uttarakhand,Jul-13,16,Wheat
+West Bengal,Jul-13,18,Wheat
+Andaman and Nicobar,Aug-13,27,Wheat
+Andhra Pradesh,Aug-13,25,Wheat
+Assam,Aug-13,20.95,Wheat
+Bihar,Aug-13,18.74,Wheat
+Chandigarh,Aug-13,22,Wheat
+Chhattisgarh,Aug-13,22,Wheat
+Delhi,Aug-13,18,Wheat
+Gujarat,Aug-13,18.72,Wheat
+Haryana,Aug-13,16.5,Wheat
+Jammu and Kashmir,Aug-13,18.89,Wheat
+Jharkhand,Aug-13,21.37,Wheat
+Karnataka,Aug-13,26.5,Wheat
+Kerala,Aug-13,25.83,Wheat
+Madhya Pradesh,Aug-13,16.1,Wheat
+Maharashtra,Aug-13,26.42,Wheat
+Nagaland,Aug-13,16,Wheat
+Odisha,Aug-13,21,Wheat
+Puducherry,Aug-13,30,Wheat
+Punjab,Aug-13,16.89,Wheat
+Rajasthan,Aug-13,17.24,Wheat
+Tamil Nadu,Aug-13,27.33,Wheat
+Telangana,Aug-13,28,Wheat
+Uttar Pradesh,Aug-13,15.76,Wheat
+Uttarakhand,Aug-13,16,Wheat
+West Bengal,Aug-13,18,Wheat
+Andaman and Nicobar,Sep-13,27,Wheat
+Assam,Sep-13,21,Wheat
+Bihar,Sep-13,19,Wheat
+Chandigarh,Sep-13,22,Wheat
+Chhattisgarh,Sep-13,22.22,Wheat
+Delhi,Sep-13,18,Wheat
+Gujarat,Sep-13,18.73,Wheat
+Haryana,Sep-13,16.5,Wheat
+Jammu and Kashmir,Sep-13,20.05,Wheat
+Jharkhand,Sep-13,22.89,Wheat
+Karnataka,Sep-13,26.5,Wheat
+Kerala,Sep-13,26.35,Wheat
+Madhya Pradesh,Sep-13,15.97,Wheat
+Maharashtra,Sep-13,26.03,Wheat
+Meghalaya,Sep-13,25,Wheat
+Nagaland,Sep-13,16,Wheat
+Odisha,Sep-13,21,Wheat
+Puducherry,Sep-13,30,Wheat
+Punjab,Sep-13,17.07,Wheat
+Rajasthan,Sep-13,17.26,Wheat
+Tamil Nadu,Sep-13,27.33,Wheat
+Telangana,Sep-13,28,Wheat
+Uttar Pradesh,Sep-13,15.71,Wheat
+Uttarakhand,Sep-13,15.63,Wheat
+West Bengal,Sep-13,18,Wheat
+Andaman and Nicobar,Oct-13,27,Wheat
+Andhra Pradesh,Oct-13,25.06,Wheat
+Assam,Oct-13,21,Wheat
+Bihar,Oct-13,18.92,Wheat
+Chandigarh,Oct-13,19.89,Wheat
+Chhattisgarh,Oct-13,23.2,Wheat
+Delhi,Oct-13,18,Wheat
+Gujarat,Oct-13,18.5,Wheat
+Haryana,Oct-13,16.5,Wheat
+Jammu and Kashmir,Oct-13,19.62,Wheat
+Jharkhand,Oct-13,22.06,Wheat
+Karnataka,Oct-13,26.38,Wheat
+Kerala,Oct-13,26.86,Wheat
+Madhya Pradesh,Oct-13,16.57,Wheat
+Maharashtra,Oct-13,26.4,Wheat
+Meghalaya,Oct-13,25,Wheat
+Nagaland,Oct-13,16,Wheat
+Odisha,Oct-13,21,Wheat
+Puducherry,Oct-13,30,Wheat
+Punjab,Oct-13,16.82,Wheat
+Rajasthan,Oct-13,17.29,Wheat
+Tamil Nadu,Oct-13,27.55,Wheat
+Telangana,Oct-13,28,Wheat
+Uttar Pradesh,Oct-13,15.82,Wheat
+Uttarakhand,Oct-13,16,Wheat
+West Bengal,Oct-13,18,Wheat
+Andaman and Nicobar,Nov-13,27,Wheat
+Andhra Pradesh,Nov-13,25.48,Wheat
+Assam,Nov-13,21,Wheat
+Bihar,Nov-13,19.5,Wheat
+Chandigarh,Nov-13,18,Wheat
+Chhattisgarh,Nov-13,24,Wheat
+Delhi,Nov-13,18,Wheat
+Goa,Nov-13,28.8,Wheat
+Gujarat,Nov-13,18.63,Wheat
+Haryana,Nov-13,16.21,Wheat
+Jammu and Kashmir,Nov-13,18.21,Wheat
+Jharkhand,Nov-13,21.14,Wheat
+Karnataka,Nov-13,26.84,Wheat
+Kerala,Nov-13,27.04,Wheat
+Madhya Pradesh,Nov-13,17.07,Wheat
+Maharashtra,Nov-13,26,Wheat
+Meghalaya,Nov-13,25.56,Wheat
+Nagaland,Nov-13,16,Wheat
+Odisha,Nov-13,21,Wheat
+Puducherry,Nov-13,29.5,Wheat
+Punjab,Nov-13,16.59,Wheat
+Rajasthan,Nov-13,16.58,Wheat
+Tamil Nadu,Nov-13,28.44,Wheat
+Telangana,Nov-13,28,Wheat
+Uttar Pradesh,Nov-13,16.41,Wheat
+Uttarakhand,Nov-13,16.59,Wheat
+West Bengal,Nov-13,18.88,Wheat
+Andaman and Nicobar,Dec-13,27,Wheat
+Andhra Pradesh,Dec-13,25.5,Wheat
+Assam,Dec-13,21,Wheat
+Bihar,Dec-13,19.49,Wheat
+Chandigarh,Dec-13,18,Wheat
+Chhattisgarh,Dec-13,24,Wheat
+Delhi,Dec-13,18,Wheat
+Goa,Dec-13,29,Wheat
+Gujarat,Dec-13,19.5,Wheat
+Haryana,Dec-13,16.79,Wheat
+Jammu and Kashmir,Dec-13,18.5,Wheat
+Jharkhand,Dec-13,22,Wheat
+Karnataka,Dec-13,28.31,Wheat
+Kerala,Dec-13,27.57,Wheat
+Madhya Pradesh,Dec-13,16.77,Wheat
+Maharashtra,Dec-13,26.57,Wheat
+Meghalaya,Dec-13,25.5,Wheat
+Nagaland,Dec-13,16,Wheat
+Odisha,Dec-13,21,Wheat
+Puducherry,Dec-13,28.61,Wheat
+Punjab,Dec-13,17.25,Wheat
+Rajasthan,Dec-13,16.89,Wheat
+Tamil Nadu,Dec-13,30,Wheat
+Telangana,Dec-13,28,Wheat
+Uttar Pradesh,Dec-13,16.69,Wheat
+Uttarakhand,Dec-13,16.37,Wheat
+West Bengal,Dec-13,19,Wheat
+Andaman and Nicobar,Jan-14,27,Wheat
+Andhra Pradesh,Jan-14,25.5,Wheat
+Assam,Jan-14,21,Wheat
+Bihar,Jan-14,19.88,Wheat
+Chandigarh,Jan-14,18,Wheat
+Chhattisgarh,Jan-14,23.74,Wheat
+Delhi,Jan-14,18,Wheat
+Goa,Jan-14,29,Wheat
+Gujarat,Jan-14,20.5,Wheat
+Haryana,Jan-14,17.65,Wheat
+Jammu and Kashmir,Jan-14,18.68,Wheat
+Jharkhand,Jan-14,22,Wheat
+Karnataka,Jan-14,28.11,Wheat
+Kerala,Jan-14,28.02,Wheat
+Madhya Pradesh,Jan-14,16.96,Wheat
+Maharashtra,Jan-14,25.74,Wheat
+Meghalaya,Jan-14,25,Wheat
+Nagaland,Jan-14,16,Wheat
+Odisha,Jan-14,21,Wheat
+Puducherry,Jan-14,27,Wheat
+Punjab,Jan-14,17.48,Wheat
+Rajasthan,Jan-14,17.77,Wheat
+Tamil Nadu,Jan-14,30.17,Wheat
+Telangana,Jan-14,28,Wheat
+Uttar Pradesh,Jan-14,17,Wheat
+Uttarakhand,Jan-14,16,Wheat
+West Bengal,Jan-14,19,Wheat
+Andaman and Nicobar,Feb-14,27,Wheat
+Andhra Pradesh,Feb-14,25.5,Wheat
+Assam,Feb-14,21,Wheat
+Bihar,Feb-14,19.66,Wheat
+Chandigarh,Feb-14,18,Wheat
+Chhattisgarh,Feb-14,23,Wheat
+Delhi,Feb-14,18,Wheat
+Goa,Feb-14,29,Wheat
+Gujarat,Feb-14,20.5,Wheat
+Haryana,Feb-14,17.5,Wheat
+Jammu and Kashmir,Feb-14,18.4,Wheat
+Jharkhand,Feb-14,21.76,Wheat
+Karnataka,Feb-14,28,Wheat
+Kerala,Feb-14,28.34,Wheat
+Madhya Pradesh,Feb-14,16.79,Wheat
+Maharashtra,Feb-14,25.71,Wheat
+Meghalaya,Feb-14,25,Wheat
+Nagaland,Feb-14,16,Wheat
+Odisha,Feb-14,21,Wheat
+Puducherry,Feb-14,27,Wheat
+Punjab,Feb-14,17.62,Wheat
+Rajasthan,Feb-14,18.18,Wheat
+Tamil Nadu,Feb-14,30.32,Wheat
+Telangana,Feb-14,28,Wheat
+Uttar Pradesh,Feb-14,17.16,Wheat
+Uttarakhand,Feb-14,16,Wheat
+West Bengal,Feb-14,19,Wheat
+Andaman and Nicobar,Mar-14,27,Wheat
+Andhra Pradesh,Mar-14,25.5,Wheat
+Assam,Mar-14,21.56,Wheat
+Bihar,Mar-14,20.19,Wheat
+Chandigarh,Mar-14,18,Wheat
+Chhattisgarh,Mar-14,23,Wheat
+Delhi,Mar-14,18,Wheat
+Goa,Mar-14,29,Wheat
+Gujarat,Mar-14,19.65,Wheat
+Haryana,Mar-14,17.55,Wheat
+Jammu and Kashmir,Mar-14,18.41,Wheat
+Jharkhand,Mar-14,21.77,Wheat
+Karnataka,Mar-14,27.96,Wheat
+Kerala,Mar-14,28.35,Wheat
+Madhya Pradesh,Mar-14,17.06,Wheat
+Maharashtra,Mar-14,25.15,Wheat
+Meghalaya,Mar-14,25,Wheat
+Nagaland,Mar-14,16,Wheat
+Odisha,Mar-14,21,Wheat
+Puducherry,Mar-14,27,Wheat
+Punjab,Mar-14,17.24,Wheat
+Rajasthan,Mar-14,18.28,Wheat
+Tamil Nadu,Mar-14,30.11,Wheat
+Telangana,Mar-14,28,Wheat
+Uttar Pradesh,Mar-14,17.33,Wheat
+Uttarakhand,Mar-14,16,Wheat
+West Bengal,Mar-14,19,Wheat
+Andaman and Nicobar,Apr-14,27,Wheat
+Andhra Pradesh,Apr-14,25.38,Wheat
+Assam,Apr-14,22,Wheat
+Bihar,Apr-14,19.44,Wheat
+Chandigarh,Apr-14,18,Wheat
+Chhattisgarh,Apr-14,23,Wheat
+Delhi,Apr-14,18.89,Wheat
+Goa,Apr-14,29,Wheat
+Gujarat,Apr-14,18.59,Wheat
+Haryana,Apr-14,18.15,Wheat
+Jammu and Kashmir,Apr-14,18.45,Wheat
+Jharkhand,Apr-14,21,Wheat
+Karnataka,Apr-14,27.79,Wheat
+Kerala,Apr-14,28.67,Wheat
+Madhya Pradesh,Apr-14,16.34,Wheat
+Maharashtra,Apr-14,24.5,Wheat
+Meghalaya,Apr-14,25,Wheat
+Mizoram,Apr-14,20,Wheat
+Nagaland,Apr-14,16,Wheat
+Odisha,Apr-14,21,Wheat
+Puducherry,Apr-14,27,Wheat
+Punjab,Apr-14,17.95,Wheat
+Rajasthan,Apr-14,18.1,Wheat
+Tamil Nadu,Apr-14,30.35,Wheat
+Telangana,Apr-14,28,Wheat
+Uttar Pradesh,Apr-14,15.89,Wheat
+Uttarakhand,Apr-14,16,Wheat
+West Bengal,Apr-14,19,Wheat
+Andaman and Nicobar,May-14,27,Wheat
+Andhra Pradesh,May-14,25,Wheat
+Assam,May-14,22,Wheat
+Bihar,May-14,18.79,Wheat
+Chandigarh,May-14,18,Wheat
+Chhattisgarh,May-14,23,Wheat
+Delhi,May-14,20,Wheat
+Goa,May-14,29,Wheat
+Gujarat,May-14,18.82,Wheat
+Haryana,May-14,17.84,Wheat
+Jammu and Kashmir,May-14,18.27,Wheat
+Jharkhand,May-14,20.05,Wheat
+Karnataka,May-14,27.86,Wheat
+Kerala,May-14,28.22,Wheat
+Madhya Pradesh,May-14,16.61,Wheat
+Maharashtra,May-14,24.33,Wheat
+Meghalaya,May-14,25,Wheat
+Nagaland,May-14,16,Wheat
+Odisha,May-14,21,Wheat
+Puducherry,May-14,27,Wheat
+Punjab,May-14,17.04,Wheat
+Rajasthan,May-14,18.09,Wheat
+Tamil Nadu,May-14,30.36,Wheat
+Telangana,May-14,28,Wheat
+Uttar Pradesh,May-14,15.53,Wheat
+Uttarakhand,May-14,16,Wheat
+West Bengal,May-14,19,Wheat
+Andaman and Nicobar,Jun-14,27,Wheat
+Andhra Pradesh,Jun-14,25.36,Wheat
+Assam,Jun-14,22,Wheat
+Bihar,Jun-14,18.5,Wheat
+Chandigarh,Jun-14,18,Wheat
+Chhattisgarh,Jun-14,22.6,Wheat
+Delhi,Jun-14,19.52,Wheat
+Goa,Jun-14,29,Wheat
+Gujarat,Jun-14,19.1,Wheat
+Haryana,Jun-14,17.1,Wheat
+Jammu and Kashmir,Jun-14,18.36,Wheat
+Jharkhand,Jun-14,19.11,Wheat
+Karnataka,Jun-14,28.21,Wheat
+Kerala,Jun-14,28.52,Wheat
+Madhya Pradesh,Jun-14,16.77,Wheat
+Maharashtra,Jun-14,23.77,Wheat
+Meghalaya,Jun-14,24.82,Wheat
+Nagaland,Jun-14,16,Wheat
+Odisha,Jun-14,21,Wheat
+Puducherry,Jun-14,27,Wheat
+Punjab,Jun-14,16.91,Wheat
+Rajasthan,Jun-14,17.19,Wheat
+Tamil Nadu,Jun-14,30.34,Wheat
+Telangana,Jun-14,28.81,Wheat
+Uttar Pradesh,Jun-14,16.04,Wheat
+Uttarakhand,Jun-14,16,Wheat
+West Bengal,Jun-14,18.35,Wheat
+Andaman and Nicobar,Jul-14,27,Wheat
+Andhra Pradesh,Jul-14,25.5,Wheat
+Assam,Jul-14,22,Wheat
+Bihar,Jul-14,18.5,Wheat
+Chandigarh,Jul-14,18,Wheat
+Chhattisgarh,Jul-14,22,Wheat
+Delhi,Jul-14,19.18,Wheat
+Goa,Jul-14,29,Wheat
+Gujarat,Jul-14,20,Wheat
+Haryana,Jul-14,17.23,Wheat
+Jammu and Kashmir,Jul-14,18,Wheat
+Jharkhand,Jul-14,20,Wheat
+Karnataka,Jul-14,28.9,Wheat
+Kerala,Jul-14,29,Wheat
+Madhya Pradesh,Jul-14,17.37,Wheat
+Maharashtra,Jul-14,23.07,Wheat
+Meghalaya,Jul-14,25,Wheat
+Nagaland,Jul-14,18,Wheat
+Odisha,Jul-14,21,Wheat
+Puducherry,Jul-14,30.36,Wheat
+Punjab,Jul-14,16.92,Wheat
+Rajasthan,Jul-14,17.5,Wheat
+Tamil Nadu,Jul-14,30.33,Wheat
+Telangana,Jul-14,29,Wheat
+Uttar Pradesh,Jul-14,16.17,Wheat
+Uttarakhand,Jul-14,16,Wheat
+West Bengal,Jul-14,18,Wheat
+Andaman and Nicobar,Aug-14,27,Wheat
+Andhra Pradesh,Aug-14,25.5,Wheat
+Assam,Aug-14,22,Wheat
+Bihar,Aug-14,19.34,Wheat
+Chandigarh,Aug-14,18,Wheat
+Chhattisgarh,Aug-14,22,Wheat
+Delhi,Aug-14,20.05,Wheat
+Goa,Aug-14,29.06,Wheat
+Gujarat,Aug-14,20,Wheat
+Haryana,Aug-14,17.3,Wheat
+Jammu and Kashmir,Aug-14,18.22,Wheat
+Jharkhand,Aug-14,21.22,Wheat
+Karnataka,Aug-14,29,Wheat
+Kerala,Aug-14,29,Wheat
+Madhya Pradesh,Aug-14,17.47,Wheat
+Maharashtra,Aug-14,23.46,Wheat
+Meghalaya,Aug-14,25,Wheat
+Nagaland,Aug-14,18,Wheat
+Odisha,Aug-14,21,Wheat
+Puducherry,Aug-14,32,Wheat
+Punjab,Aug-14,17.28,Wheat
+Rajasthan,Aug-14,17.67,Wheat
+Tamil Nadu,Aug-14,30.32,Wheat
+Telangana,Aug-14,29,Wheat
+Uttar Pradesh,Aug-14,16.15,Wheat
+Uttarakhand,Aug-14,16,Wheat
+West Bengal,Aug-14,18,Wheat
+Andaman and Nicobar,Sep-14,27,Wheat
+Andhra Pradesh,Sep-14,25.5,Wheat
+Assam,Sep-14,22,Wheat
+Bihar,Sep-14,18.63,Wheat
+Chandigarh,Sep-14,18,Wheat
+Chhattisgarh,Sep-14,22,Wheat
+Delhi,Sep-14,19.64,Wheat
+Goa,Sep-14,30,Wheat
+Gujarat,Sep-14,20,Wheat
+Haryana,Sep-14,17.61,Wheat
+Jammu and Kashmir,Sep-14,17.36,Wheat
+Jharkhand,Sep-14,20.6,Wheat
+Karnataka,Sep-14,29.03,Wheat
+Kerala,Sep-14,29.02,Wheat
+Madhya Pradesh,Sep-14,17.53,Wheat
+Maharashtra,Sep-14,24.57,Wheat
+Meghalaya,Sep-14,25,Wheat
+Nagaland,Sep-14,18,Wheat
+Odisha,Sep-14,21,Wheat
+Puducherry,Sep-14,32,Wheat
+Punjab,Sep-14,17.37,Wheat
+Rajasthan,Sep-14,17.57,Wheat
+Tamil Nadu,Sep-14,30.34,Wheat
+Telangana,Sep-14,29,Wheat
+Uttar Pradesh,Sep-14,16.08,Wheat
+Uttarakhand,Sep-14,16,Wheat
+West Bengal,Sep-14,18.1,Wheat
+Andaman and Nicobar,Oct-14,27,Wheat
+Andhra Pradesh,Oct-14,25.5,Wheat
+Assam,Oct-14,22.38,Wheat
+Bihar,Oct-14,18.75,Wheat
+Chandigarh,Oct-14,18,Wheat
+Chhattisgarh,Oct-14,22,Wheat
+Delhi,Oct-14,19,Wheat
+Goa,Oct-14,30,Wheat
+Gujarat,Oct-14,20.07,Wheat
+Haryana,Oct-14,17.88,Wheat
+Jammu and Kashmir,Oct-14,17.5,Wheat
+Jharkhand,Oct-14,20.46,Wheat
+Karnataka,Oct-14,29,Wheat
+Kerala,Oct-14,29.08,Wheat
+Madhya Pradesh,Oct-14,17.61,Wheat
+Maharashtra,Oct-14,25.5,Wheat
+Meghalaya,Oct-14,25.67,Wheat
+Nagaland,Oct-14,18,Wheat
+Odisha,Oct-14,21,Wheat
+Puducherry,Oct-14,32,Wheat
+Punjab,Oct-14,17.45,Wheat
+Rajasthan,Oct-14,17.14,Wheat
+Tamil Nadu,Oct-14,30.25,Wheat
+Telangana,Oct-14,29,Wheat
+Uttar Pradesh,Oct-14,16.43,Wheat
+Uttarakhand,Oct-14,16,Wheat
+West Bengal,Oct-14,19,Wheat
+Andaman and Nicobar,Nov-14,27,Wheat
+Andhra Pradesh,Nov-14,25.5,Wheat
+Assam,Nov-14,23,Wheat
+Bihar,Nov-14,18,Wheat
+Chandigarh,Nov-14,18,Wheat
+Chhattisgarh,Nov-14,22,Wheat
+Delhi,Nov-14,18.67,Wheat
+Goa,Nov-14,30,Wheat
+Gujarat,Nov-14,20.56,Wheat
+Haryana,Nov-14,17.99,Wheat
+Jammu and Kashmir,Nov-14,18.8,Wheat
+Jharkhand,Nov-14,20.39,Wheat
+Karnataka,Nov-14,29.03,Wheat
+Kerala,Nov-14,29.76,Wheat
+Madhya Pradesh,Nov-14,17.33,Wheat
+Maharashtra,Nov-14,25.19,Wheat
+Meghalaya,Nov-14,25.86,Wheat
+Nagaland,Nov-14,18,Wheat
+Odisha,Nov-14,21,Wheat
+Puducherry,Nov-14,32,Wheat
+Punjab,Nov-14,17.98,Wheat
+Rajasthan,Nov-14,17.27,Wheat
+Tamil Nadu,Nov-14,30.61,Wheat
+Telangana,Nov-14,29,Wheat
+Uttar Pradesh,Nov-14,16.71,Wheat
+Uttarakhand,Nov-14,16,Wheat
+West Bengal,Nov-14,19,Wheat
+Andaman and Nicobar,Dec-14,27,Wheat
+Andhra Pradesh,Dec-14,25.5,Wheat
+Assam,Dec-14,23,Wheat
+Bihar,Dec-14,17.25,Wheat
+Chandigarh,Dec-14,18,Wheat
+Chhattisgarh,Dec-14,22,Wheat
+Delhi,Dec-14,18,Wheat
+Goa,Dec-14,30,Wheat
+Gujarat,Dec-14,19.5,Wheat
+Haryana,Dec-14,18,Wheat
+Jammu and Kashmir,Dec-14,18.89,Wheat
+Jharkhand,Dec-14,20,Wheat
+Karnataka,Dec-14,28.57,Wheat
+Kerala,Dec-14,29.62,Wheat
+Madhya Pradesh,Dec-14,17.45,Wheat
+Maharashtra,Dec-14,24.8,Wheat
+Meghalaya,Dec-14,26,Wheat
+Nagaland,Dec-14,18,Wheat
+Odisha,Dec-14,21,Wheat
+Puducherry,Dec-14,32,Wheat
+Punjab,Dec-14,18,Wheat
+Rajasthan,Dec-14,17.43,Wheat
+Tamil Nadu,Dec-14,30.6,Wheat
+Telangana,Dec-14,29,Wheat
+Uttar Pradesh,Dec-14,16.75,Wheat
+Uttarakhand,Dec-14,16,Wheat
+West Bengal,Dec-14,19.53,Wheat
+Andaman and Nicobar,Jan-15,27,Wheat
+Andhra Pradesh,Jan-15,25.5,Wheat
+Assam,Jan-15,23,Wheat
+Bihar,Jan-15,17.32,Wheat
+Chandigarh,Jan-15,18,Wheat
+Chhattisgarh,Jan-15,22.11,Wheat
+Delhi,Jan-15,18.45,Wheat
+Goa,Jan-15,30,Wheat
+Gujarat,Jan-15,20.24,Wheat
+Haryana,Jan-15,18.19,Wheat
+Jammu and Kashmir,Jan-15,18.97,Wheat
+Jharkhand,Jan-15,21.07,Wheat
+Karnataka,Jan-15,29,Wheat
+Kerala,Jan-15,30.41,Wheat
+Madhya Pradesh,Jan-15,18.09,Wheat
+Maharashtra,Jan-15,24.4,Wheat
+Meghalaya,Jan-15,26,Wheat
+Nagaland,Jan-15,18,Wheat
+Odisha,Jan-15,21,Wheat
+Puducherry,Jan-15,32,Wheat
+Punjab,Jan-15,18,Wheat
+Rajasthan,Jan-15,17.62,Wheat
+Tamil Nadu,Jan-15,30.6,Wheat
+Telangana,Jan-15,29,Wheat
+Uttar Pradesh,Jan-15,17.24,Wheat
+Uttarakhand,Jan-15,17.26,Wheat
+West Bengal,Jan-15,20,Wheat
+Andaman and Nicobar,Feb-15,27,Wheat
+Andhra Pradesh,Feb-15,25.5,Wheat
+Assam,Feb-15,23,Wheat
+Bihar,Feb-15,17.55,Wheat
+Chandigarh,Feb-15,18,Wheat
+Chhattisgarh,Feb-15,23,Wheat
+Delhi,Feb-15,19,Wheat
+Goa,Feb-15,30,Wheat
+Gujarat,Feb-15,20.5,Wheat
+Haryana,Feb-15,17.75,Wheat
+Jammu and Kashmir,Feb-15,18.84,Wheat
+Jharkhand,Feb-15,22,Wheat
+Karnataka,Feb-15,29.15,Wheat
+Kerala,Feb-15,30.73,Wheat
+Madhya Pradesh,Feb-15,17.97,Wheat
+Maharashtra,Feb-15,25.5,Wheat
+Meghalaya,Feb-15,26,Wheat
+Nagaland,Feb-15,18.89,Wheat
+Odisha,Feb-15,21,Wheat
+Puducherry,Feb-15,32,Wheat
+Punjab,Feb-15,18,Wheat
+Rajasthan,Feb-15,17.69,Wheat
+Tamil Nadu,Feb-15,30.44,Wheat
+Telangana,Feb-15,29,Wheat
+Uttar Pradesh,Feb-15,17.41,Wheat
+Uttarakhand,Feb-15,19,Wheat
+West Bengal,Feb-15,20,Wheat
+Andaman and Nicobar,Mar-15,27,Wheat
+Andhra Pradesh,Mar-15,25.5,Wheat
+Assam,Mar-15,23,Wheat
+Bihar,Mar-15,17.44,Wheat
+Chandigarh,Mar-15,18,Wheat
+Chhattisgarh,Mar-15,23,Wheat
+Delhi,Mar-15,19,Wheat
+Goa,Mar-15,30,Wheat
+Gujarat,Mar-15,19.83,Wheat
+Haryana,Mar-15,17.64,Wheat
+Jammu and Kashmir,Mar-15,18.73,Wheat
+Jharkhand,Mar-15,22,Wheat
+Karnataka,Mar-15,29.28,Wheat
+Kerala,Mar-15,30.94,Wheat
+Madhya Pradesh,Mar-15,17.98,Wheat
+Maharashtra,Mar-15,25.5,Wheat
+Meghalaya,Mar-15,26,Wheat
+Nagaland,Mar-15,20,Wheat
+Odisha,Mar-15,21,Wheat
+Puducherry,Mar-15,32,Wheat
+Punjab,Mar-15,18.02,Wheat
+Rajasthan,Mar-15,17.26,Wheat
+Tamil Nadu,Mar-15,30.18,Wheat
+Telangana,Mar-15,29,Wheat
+Uttar Pradesh,Mar-15,17.32,Wheat
+Uttarakhand,Mar-15,18.15,Wheat
+West Bengal,Mar-15,19.94,Wheat
+Andaman and Nicobar,Apr-15,27,Wheat
+Andhra Pradesh,Apr-15,25.5,Wheat
+Assam,Apr-15,23,Wheat
+Bihar,Apr-15,17,Wheat
+Chandigarh,Apr-15,18,Wheat
+Chhattisgarh,Apr-15,23,Wheat
+Delhi,Apr-15,19,Wheat
+Goa,Apr-15,30,Wheat
+Gujarat,Apr-15,19.39,Wheat
+Haryana,Apr-15,17.5,Wheat
+Jammu and Kashmir,Apr-15,18.88,Wheat
+Jharkhand,Apr-15,22,Wheat
+Karnataka,Apr-15,28.29,Wheat
+Kerala,Apr-15,30.89,Wheat
+Madhya Pradesh,Apr-15,17.22,Wheat
+Maharashtra,Apr-15,25.05,Wheat
+Meghalaya,Apr-15,25.56,Wheat
+Nagaland,Apr-15,20,Wheat
+Odisha,Apr-15,21,Wheat
+Puducherry,Apr-15,32,Wheat
+Punjab,Apr-15,17.86,Wheat
+Rajasthan,Apr-15,16.9,Wheat
+Tamil Nadu,Apr-15,30,Wheat
+Telangana,Apr-15,29,Wheat
+Uttar Pradesh,Apr-15,16.84,Wheat
+Uttarakhand,Apr-15,18,Wheat
+West Bengal,Apr-15,19,Wheat
+Andaman and Nicobar,May-15,27,Wheat
+Andhra Pradesh,May-15,25.5,Wheat
+Assam,May-15,22.35,Wheat
+Bihar,May-15,16.62,Wheat
+Chandigarh,May-15,18,Wheat
+Chhattisgarh,May-15,23,Wheat
+Delhi,May-15,19,Wheat
+Goa,May-15,30,Wheat
+Gujarat,May-15,20.37,Wheat
+Haryana,May-15,17.5,Wheat
+Jammu and Kashmir,May-15,18.1,Wheat
+Jharkhand,May-15,22,Wheat
+Karnataka,May-15,28.4,Wheat
+Kerala,May-15,31.19,Wheat
+Madhya Pradesh,May-15,16.89,Wheat
+Maharashtra,May-15,25.89,Wheat
+Meghalaya,May-15,25.42,Wheat
+Nagaland,May-15,20,Wheat
+Odisha,May-15,21,Wheat
+Puducherry,May-15,32,Wheat
+Punjab,May-15,17.69,Wheat
+Rajasthan,May-15,16.98,Wheat
+Tamil Nadu,May-15,30.09,Wheat
+Telangana,May-15,29,Wheat
+Uttar Pradesh,May-15,16.07,Wheat
+Uttarakhand,May-15,18,Wheat
+West Bengal,May-15,17.4,Wheat
+Andaman and Nicobar,Jun-15,27,Wheat
+Andhra Pradesh,Jun-15,25.5,Wheat
+Assam,Jun-15,22,Wheat
+Bihar,Jun-15,16.04,Wheat
+Chandigarh,Jun-15,18,Wheat
+Chhattisgarh,Jun-15,23,Wheat
+Delhi,Jun-15,19,Wheat
+Goa,Jun-15,30,Wheat
+Gujarat,Jun-15,20.56,Wheat
+Haryana,Jun-15,17.44,Wheat
+Jammu and Kashmir,Jun-15,18.38,Wheat
+Jharkhand,Jun-15,20.46,Wheat
+Karnataka,Jun-15,28.2,Wheat
+Kerala,Jun-15,31.47,Wheat
+Madhya Pradesh,Jun-15,17.28,Wheat
+Maharashtra,Jun-15,26.26,Wheat
+Meghalaya,Jun-15,26,Wheat
+Nagaland,Jun-15,20,Wheat
+Odisha,Jun-15,21,Wheat
+Puducherry,Jun-15,32,Wheat
+Punjab,Jun-15,17.68,Wheat
+Rajasthan,Jun-15,16.67,Wheat
+Tamil Nadu,Jun-15,30.4,Wheat
+Telangana,Jun-15,26.83,Wheat
+Uttar Pradesh,Jun-15,16.01,Wheat
+Uttarakhand,Jun-15,18.09,Wheat
+West Bengal,Jun-15,17,Wheat
+Andaman and Nicobar,Jul-15,27,Wheat
+Andhra Pradesh,Jul-15,25.5,Wheat
+Assam,Jul-15,22,Wheat
+Bihar,Jul-15,16.3,Wheat
+Chandigarh,Jul-15,18,Wheat
+Chhattisgarh,Jul-15,23,Wheat
+Delhi,Jul-15,19,Wheat
+Goa,Jul-15,30,Wheat
+Gujarat,Jul-15,20.75,Wheat
+Haryana,Jul-15,17.5,Wheat
+Jammu and Kashmir,Jul-15,18.2,Wheat
+Jharkhand,Jul-15,20,Wheat
+Karnataka,Jul-15,28.02,Wheat
+Kerala,Jul-15,32.17,Wheat
+Madhya Pradesh,Jul-15,17.39,Wheat
+Maharashtra,Jul-15,26.11,Wheat
+Meghalaya,Jul-15,25.45,Wheat
+Nagaland,Jul-15,20,Wheat
+Odisha,Jul-15,21,Wheat
+Puducherry,Jul-15,32,Wheat
+Punjab,Jul-15,17.67,Wheat
+Rajasthan,Jul-15,16.87,Wheat
+Tamil Nadu,Jul-15,30.4,Wheat
+Telangana,Jul-15,26.67,Wheat
+Uttar Pradesh,Jul-15,16.19,Wheat
+Uttarakhand,Jul-15,17.91,Wheat
+West Bengal,Jul-15,17,Wheat
+Andaman and Nicobar,Aug-15,27,Wheat
+Andhra Pradesh,Aug-15,25.5,Wheat
+Assam,Aug-15,22,Wheat
+Bihar,Aug-15,16.69,Wheat
+Chandigarh,Aug-15,18,Wheat
+Chhattisgarh,Aug-15,23,Wheat
+Delhi,Aug-15,19,Wheat
+Goa,Aug-15,29.95,Wheat
+Gujarat,Aug-15,20.75,Wheat
+Haryana,Aug-15,17.59,Wheat
+Jammu and Kashmir,Aug-15,18.25,Wheat
+Jharkhand,Aug-15,20.76,Wheat
+Karnataka,Aug-15,28.06,Wheat
+Kerala,Aug-15,31.83,Wheat
+Madhya Pradesh,Aug-15,17.79,Wheat
+Maharashtra,Aug-15,26.93,Wheat
+Meghalaya,Aug-15,25,Wheat
+Nagaland,Aug-15,20,Wheat
+Odisha,Aug-15,21,Wheat
+Puducherry,Aug-15,32,Wheat
+Punjab,Aug-15,17.67,Wheat
+Rajasthan,Aug-15,17.22,Wheat
+Tamil Nadu,Aug-15,30.33,Wheat
+Telangana,Aug-15,26.67,Wheat
+Uttar Pradesh,Aug-15,16.24,Wheat
+Uttarakhand,Aug-15,17.5,Wheat
+West Bengal,Aug-15,17,Wheat
+Andaman and Nicobar,Sep-15,27,Wheat
+Andhra Pradesh,Sep-15,25.5,Wheat
+Assam,Sep-15,22,Wheat
+Bihar,Sep-15,16.77,Wheat
+Chandigarh,Sep-15,18,Wheat
+Chhattisgarh,Sep-15,23,Wheat
+Delhi,Sep-15,19,Wheat
+Goa,Sep-15,29,Wheat
+Gujarat,Sep-15,20.59,Wheat
+Haryana,Sep-15,17.54,Wheat
+Jammu and Kashmir,Sep-15,18.15,Wheat
+Jharkhand,Sep-15,20.5,Wheat
+Karnataka,Sep-15,29.74,Wheat
+Kerala,Sep-15,31.83,Wheat
+Madhya Pradesh,Sep-15,17.04,Wheat
+Maharashtra,Sep-15,27,Wheat
+Meghalaya,Sep-15,25.5,Wheat
+Nagaland,Sep-15,20,Wheat
+Odisha,Sep-15,21,Wheat
+Puducherry,Sep-15,32,Wheat
+Punjab,Sep-15,17.66,Wheat
+Rajasthan,Sep-15,17.3,Wheat
+Tamil Nadu,Sep-15,30.38,Wheat
+Telangana,Sep-15,26.67,Wheat
+Uttar Pradesh,Sep-15,16.49,Wheat
+Uttarakhand,Sep-15,18.51,Wheat
+West Bengal,Sep-15,18.69,Wheat
+Andaman and Nicobar,Oct-15,27,Wheat
+Andhra Pradesh,Oct-15,25.5,Wheat
+Assam,Oct-15,22,Wheat
+Bihar,Oct-15,17.09,Wheat
+Chandigarh,Oct-15,18,Wheat
+Chhattisgarh,Oct-15,23.29,Wheat
+Delhi,Oct-15,19,Wheat
+Goa,Oct-15,29,Wheat
+Gujarat,Oct-15,20.49,Wheat
+Haryana,Oct-15,17.53,Wheat
+Jammu and Kashmir,Oct-15,18.14,Wheat
+Jharkhand,Oct-15,21,Wheat
+Karnataka,Oct-15,30.18,Wheat
+Kerala,Oct-15,32.11,Wheat
+Madhya Pradesh,Oct-15,16.8,Wheat
+Maharashtra,Oct-15,27,Wheat
+Meghalaya,Oct-15,26.22,Wheat
+Nagaland,Oct-15,20,Wheat
+Odisha,Oct-15,21,Wheat
+Puducherry,Oct-15,32,Wheat
+Punjab,Oct-15,17.67,Wheat
+Rajasthan,Oct-15,17.9,Wheat
+Tamil Nadu,Oct-15,30.49,Wheat
+Telangana,Oct-15,26.67,Wheat
+Uttar Pradesh,Oct-15,16.98,Wheat
+Uttarakhand,Oct-15,19.38,Wheat
+West Bengal,Oct-15,20,Wheat
+Andaman and Nicobar,Nov-15,27,Wheat
+Andhra Pradesh,Nov-15,25.54,Wheat
+Arunachal pradesh,Nov-15,19,Wheat
+Assam,Nov-15,22,Wheat
+Bihar,Nov-15,17.15,Wheat
+Chandigarh,Nov-15,18,Wheat
+Chhattisgarh,Nov-15,24,Wheat
+Delhi,Nov-15,19,Wheat
+Goa,Nov-15,29.53,Wheat
+Gujarat,Nov-15,20.38,Wheat
+Haryana,Nov-15,17.75,Wheat
+Jammu and Kashmir,Nov-15,18.42,Wheat
+Jharkhand,Nov-15,21,Wheat
+Karnataka,Nov-15,30.52,Wheat
+Kerala,Nov-15,32.37,Wheat
+Madhya Pradesh,Nov-15,16.74,Wheat
+Maharashtra,Nov-15,26.81,Wheat
+Meghalaya,Nov-15,27,Wheat
+Nagaland,Nov-15,20,Wheat
+Odisha,Nov-15,21,Wheat
+Puducherry,Nov-15,32,Wheat
+Punjab,Nov-15,17.67,Wheat
+Rajasthan,Nov-15,18.13,Wheat
+Tamil Nadu,Nov-15,31.17,Wheat
+Telangana,Nov-15,26.71,Wheat
+Uttar Pradesh,Nov-15,17.66,Wheat
+Uttarakhand,Nov-15,20,Wheat
+West Bengal,Nov-15,22,Wheat
+Andaman and Nicobar,Dec-15,27,Wheat
+Andhra Pradesh,Dec-15,25.51,Wheat
+Arunachal pradesh,Dec-15,19,Wheat
+Assam,Dec-15,22.22,Wheat
+Bihar,Dec-15,17.33,Wheat
+Chandigarh,Dec-15,18,Wheat
+Chhattisgarh,Dec-15,24,Wheat
+Delhi,Dec-15,19,Wheat
+Goa,Dec-15,29.63,Wheat
+Gujarat,Dec-15,20.81,Wheat
+Haryana,Dec-15,17.75,Wheat
+Himachal Pradesh,Dec-15,20,Wheat
+Jammu and Kashmir,Dec-15,18.83,Wheat
+Jharkhand,Dec-15,21.06,Wheat
+Karnataka,Dec-15,31.15,Wheat
+Kerala,Dec-15,32.35,Wheat
+Madhya Pradesh,Dec-15,16.87,Wheat
+Maharashtra,Dec-15,26.5,Wheat
+Meghalaya,Dec-15,27,Wheat
+Nagaland,Dec-15,20,Wheat
+Odisha,Dec-15,21,Wheat
+Puducherry,Dec-15,32,Wheat
+Punjab,Dec-15,17.96,Wheat
+Rajasthan,Dec-15,18.29,Wheat
+Tamil Nadu,Dec-15,31.15,Wheat
+Telangana,Dec-15,27.18,Wheat
+Uttar Pradesh,Dec-15,17.76,Wheat
+Uttarakhand,Dec-15,20.61,Wheat
+West Bengal,Dec-15,21.03,Wheat
+Andaman and Nicobar,Jan-16,27,Wheat
+Andhra Pradesh,Jan-16,25.62,Wheat
+Assam,Jan-16,23,Wheat
+Bihar,Jan-16,17.27,Wheat
+Chandigarh,Jan-16,18,Wheat
+Chhattisgarh,Jan-16,24,Wheat
+Delhi,Jan-16,19,Wheat
+Goa,Jan-16,30.85,Wheat
+Gujarat,Jan-16,20.5,Wheat
+Haryana,Jan-16,17.75,Wheat
+Himachal Pradesh,Jan-16,20,Wheat
+Jammu and Kashmir,Jan-16,18.97,Wheat
+Jharkhand,Jan-16,22,Wheat
+Karnataka,Jan-16,31.49,Wheat
+Kerala,Jan-16,32.07,Wheat
+Madhya Pradesh,Jan-16,17.33,Wheat
+Maharashtra,Jan-16,27.57,Wheat
+Meghalaya,Jan-16,27,Wheat
+Nagaland,Jan-16,20,Wheat
+Odisha,Jan-16,21,Wheat
+Puducherry,Jan-16,32,Wheat
+Punjab,Jan-16,18,Wheat
+Rajasthan,Jan-16,18.47,Wheat
+Tamil Nadu,Jan-16,31.21,Wheat
+Telangana,Jan-16,27.2,Wheat
+Uttar Pradesh,Jan-16,17.88,Wheat
+Uttarakhand,Jan-16,20.75,Wheat
+West Bengal,Jan-16,20.74,Wheat
+Andaman and Nicobar,Feb-16,31,Wheat
+Andhra Pradesh,Feb-16,25.77,Wheat
+Assam,Feb-16,23,Wheat
+Bihar,Feb-16,17.3,Wheat
+Chandigarh,Feb-16,18,Wheat
+Chhattisgarh,Feb-16,24,Wheat
+Delhi,Feb-16,19,Wheat
+Goa,Feb-16,30,Wheat
+Gujarat,Feb-16,20.86,Wheat
+Haryana,Feb-16,17.74,Wheat
+Jammu and Kashmir,Feb-16,18.83,Wheat
+Jharkhand,Feb-16,22,Wheat
+Karnataka,Feb-16,31.22,Wheat
+Kerala,Feb-16,32,Wheat
+Madhya Pradesh,Feb-16,17.27,Wheat
+Maharashtra,Feb-16,28.85,Wheat
+Meghalaya,Feb-16,27,Wheat
+Nagaland,Feb-16,20,Wheat
+Odisha,Feb-16,23,Wheat
+Puducherry,Feb-16,32,Wheat
+Punjab,Feb-16,18.04,Wheat
+Rajasthan,Feb-16,19.27,Wheat
+Tamil Nadu,Feb-16,30.98,Wheat
+Telangana,Feb-16,27.19,Wheat
+Uttar Pradesh,Feb-16,18.35,Wheat
+Uttarakhand,Feb-16,20.74,Wheat
+West Bengal,Feb-16,20.26,Wheat
+Andaman and Nicobar,Mar-16,31,Wheat
+Andhra Pradesh,Mar-16,25.69,Wheat
+Assam,Mar-16,23,Wheat
+Bihar,Mar-16,17.45,Wheat
+Chandigarh,Mar-16,18,Wheat
+Chhattisgarh,Mar-16,24,Wheat
+Delhi,Mar-16,19,Wheat
+Goa,Mar-16,30,Wheat
+Gujarat,Mar-16,20.79,Wheat
+Haryana,Mar-16,17.77,Wheat
+Jammu and Kashmir,Mar-16,18.92,Wheat
+Jharkhand,Mar-16,22,Wheat
+Karnataka,Mar-16,30.43,Wheat
+Kerala,Mar-16,31.94,Wheat
+Madhya Pradesh,Mar-16,17.24,Wheat
+Maharashtra,Mar-16,29.16,Wheat
+Meghalaya,Mar-16,27,Wheat
+Nagaland,Mar-16,20,Wheat
+Odisha,Mar-16,23,Wheat
+Puducherry,Mar-16,32,Wheat
+Punjab,Mar-16,18.37,Wheat
+Rajasthan,Mar-16,19.31,Wheat
+Tamil Nadu,Mar-16,30.24,Wheat
+Telangana,Mar-16,27.19,Wheat
+Uttar Pradesh,Mar-16,18.69,Wheat
+Uttarakhand,Mar-16,20.5,Wheat
+West Bengal,Mar-16,18.37,Wheat
+Andaman and Nicobar,Apr-16,32.75,Wheat
+Andhra Pradesh,Apr-16,25.58,Wheat
+Assam,Apr-16,23,Wheat
+Bihar,Apr-16,16.6,Wheat
+Chandigarh,Apr-16,18,Wheat
+Chhattisgarh,Apr-16,22.67,Wheat
+Delhi,Apr-16,19,Wheat
+Goa,Apr-16,30,Wheat
+Gujarat,Apr-16,20.75,Wheat
+Haryana,Apr-16,17.75,Wheat
+Jammu and Kashmir,Apr-16,18.95,Wheat
+Jharkhand,Apr-16,22,Wheat
+Karnataka,Apr-16,30.47,Wheat
+Kerala,Apr-16,30.93,Wheat
+Madhya Pradesh,Apr-16,17.25,Wheat
+Maharashtra,Apr-16,29.13,Wheat
+Meghalaya,Apr-16,27,Wheat
+Nagaland,Apr-16,20,Wheat
+Odisha,Apr-16,23,Wheat
+Puducherry,Apr-16,32,Wheat
+Punjab,Apr-16,18.58,Wheat
+Rajasthan,Apr-16,17.85,Wheat
+Tamil Nadu,Apr-16,30.06,Wheat
+Telangana,Apr-16,27.19,Wheat
+Uttar Pradesh,Apr-16,17.9,Wheat
+Uttarakhand,Apr-16,20.67,Wheat
+West Bengal,Apr-16,18,Wheat
+Andaman and Nicobar,May-16,32.1,Wheat
+Andhra Pradesh,May-16,25.56,Wheat
+Assam,May-16,23,Wheat
+Bihar,May-16,16.55,Wheat
+Chandigarh,May-16,18,Wheat
+Chhattisgarh,May-16,22.37,Wheat
+Delhi,May-16,19,Wheat
+Goa,May-16,30,Wheat
+Gujarat,May-16,20.71,Wheat
+Haryana,May-16,17.75,Wheat
+Jammu and Kashmir,May-16,18.88,Wheat
+Jharkhand,May-16,22.55,Wheat
+Karnataka,May-16,30.36,Wheat
+Kerala,May-16,32.24,Wheat
+Madhya Pradesh,May-16,17.59,Wheat
+Maharashtra,May-16,28.7,Wheat
+Meghalaya,May-16,27,Wheat
+Nagaland,May-16,23.75,Wheat
+Odisha,May-16,23,Wheat
+Puducherry,May-16,32,Wheat
+Punjab,May-16,18.72,Wheat
+Rajasthan,May-16,18.43,Wheat
+Tamil Nadu,May-16,30.14,Wheat
+Telangana,May-16,27.19,Wheat
+Uttar Pradesh,May-16,18.04,Wheat
+Uttarakhand,May-16,21,Wheat
+West Bengal,May-16,18,Wheat
+Andaman and Nicobar,Jun-16,32.2,Wheat
+Andhra Pradesh,Jun-16,25.7,Wheat
+Arunachal pradesh,Jun-16,15,Wheat
+Assam,Jun-16,23.83,Wheat
+Bihar,Jun-16,16.69,Wheat
+Chandigarh,Jun-16,18,Wheat
+Chhattisgarh,Jun-16,23.34,Wheat
+Delhi,Jun-16,19.87,Wheat
+Goa,Jun-16,30,Wheat
+Gujarat,Jun-16,20.95,Wheat
+Haryana,Jun-16,17.75,Wheat
+Jammu and Kashmir,Jun-16,18.91,Wheat
+Jharkhand,Jun-16,23.65,Wheat
+Karnataka,Jun-16,30.21,Wheat
+Kerala,Jun-16,32.48,Wheat
+Madhya Pradesh,Jun-16,17.58,Wheat
+Maharashtra,Jun-16,29.67,Wheat
+Meghalaya,Jun-16,27,Wheat
+Nagaland,Jun-16,26.22,Wheat
+Odisha,Jun-16,22.83,Wheat
+Puducherry,Jun-16,32,Wheat
+Punjab,Jun-16,18.72,Wheat
+Rajasthan,Jun-16,19.32,Wheat
+Tamil Nadu,Jun-16,30.29,Wheat
+Telangana,Jun-16,27.19,Wheat
+Uttar Pradesh,Jun-16,18.23,Wheat
+Uttarakhand,Jun-16,21,Wheat
+West Bengal,Jun-16,17.04,Wheat
+Andaman and Nicobar,Jul-16,32.22,Wheat
+Andhra Pradesh,Jul-16,26.14,Wheat
+Arunachal pradesh,Jul-16,15,Wheat
+Assam,Jul-16,24,Wheat
+Bihar,Jul-16,17.3,Wheat
+Chandigarh,Jul-16,18,Wheat
+Chhattisgarh,Jul-16,23.43,Wheat
+Delhi,Jul-16,20,Wheat
+Goa,Jul-16,30,Wheat
+Gujarat,Jul-16,21.25,Wheat
+Haryana,Jul-16,17.97,Wheat
+Jammu and Kashmir,Jul-16,18.17,Wheat
+Jharkhand,Jul-16,24,Wheat
+Karnataka,Jul-16,29.96,Wheat
+Kerala,Jul-16,32.57,Wheat
+Madhya Pradesh,Jul-16,17.62,Wheat
+Maharashtra,Jul-16,29.2,Wheat
+Meghalaya,Jul-16,27,Wheat
+Nagaland,Jul-16,27.33,Wheat
+Odisha,Jul-16,22.81,Wheat
+Puducherry,Jul-16,32,Wheat
+Punjab,Jul-16,19,Wheat
+Rajasthan,Jul-16,19.73,Wheat
+Tamil Nadu,Jul-16,30.44,Wheat
+Telangana,Jul-16,27.2,Wheat
+Uttar Pradesh,Jul-16,18.66,Wheat
+Uttarakhand,Jul-16,21,Wheat
+West Bengal,Jul-16,16.8,Wheat
+Andaman and Nicobar,Aug-16,32,Wheat
+Andhra Pradesh,Aug-16,26.71,Wheat
+Arunachal pradesh,Aug-16,15,Wheat
+Assam,Aug-16,24,Wheat
+Bihar,Aug-16,17.83,Wheat
+Chandigarh,Aug-16,18.64,Wheat
+Chhattisgarh,Aug-16,23.28,Wheat
+Delhi,Aug-16,20,Wheat
+Goa,Aug-16,30,Wheat
+Gujarat,Aug-16,21.25,Wheat
+Haryana,Aug-16,18.26,Wheat
+Jammu and Kashmir,Aug-16,18,Wheat
+Jharkhand,Aug-16,24,Wheat
+Karnataka,Aug-16,29.63,Wheat
+Kerala,Aug-16,32.16,Wheat
+Madhya Pradesh,Aug-16,17.59,Wheat
+Maharashtra,Aug-16,28.43,Wheat
+Meghalaya,Aug-16,27,Wheat
+Nagaland,Aug-16,26.73,Wheat
+Odisha,Aug-16,23,Wheat
+Puducherry,Aug-16,32,Wheat
+Punjab,Aug-16,19.06,Wheat
+Rajasthan,Aug-16,19.4,Wheat
+Tamil Nadu,Aug-16,30.59,Wheat
+Telangana,Aug-16,27.19,Wheat
+Uttar Pradesh,Aug-16,18.64,Wheat
+Uttarakhand,Aug-16,21,Wheat
+West Bengal,Aug-16,17.07,Wheat
+Andaman and Nicobar,Sep-16,32,Wheat
+Andhra Pradesh,Sep-16,27.1,Wheat
+Arunachal pradesh,Sep-16,15,Wheat
+Assam,Sep-16,24.77,Wheat
+Bihar,Sep-16,18.9,Wheat
+Chandigarh,Sep-16,19,Wheat
+Chhattisgarh,Sep-16,24.15,Wheat
+Delhi,Sep-16,20,Wheat
+Goa,Sep-16,30,Wheat
+Gujarat,Sep-16,21.18,Wheat
+Haryana,Sep-16,18.5,Wheat
+Himachal Pradesh,Sep-16,16,Wheat
+Jammu and Kashmir,Sep-16,18.63,Wheat
+Jharkhand,Sep-16,24,Wheat
+Karnataka,Sep-16,29.75,Wheat
+Kerala,Sep-16,31.38,Wheat
+Madhya Pradesh,Sep-16,17.59,Wheat
+Maharashtra,Sep-16,28.09,Wheat
+Meghalaya,Sep-16,27.06,Wheat
+Nagaland,Sep-16,29.41,Wheat
+Odisha,Sep-16,23,Wheat
+Puducherry,Sep-16,32,Wheat
+Punjab,Sep-16,19.27,Wheat
+Rajasthan,Sep-16,19.39,Wheat
+Tamil Nadu,Sep-16,30.53,Wheat
+Telangana,Sep-16,27.19,Wheat
+Uttar Pradesh,Sep-16,18.85,Wheat
+Uttarakhand,Sep-16,21,Wheat
+West Bengal,Sep-16,17.03,Wheat
+Andaman and Nicobar,Oct-16,32.13,Wheat
+Andhra Pradesh,Oct-16,27.85,Wheat
+Arunachal pradesh,Oct-16,15,Wheat
+Assam,Oct-16,25,Wheat
+Bihar,Oct-16,20.16,Wheat
+Chandigarh,Oct-16,19,Wheat
+Chhattisgarh,Oct-16,24.83,Wheat
+Delhi,Oct-16,20.66,Wheat
+Goa,Oct-16,30,Wheat
+Gujarat,Oct-16,21.07,Wheat
+Haryana,Oct-16,18.5,Wheat
+Jammu and Kashmir,Oct-16,19,Wheat
+Jharkhand,Oct-16,24,Wheat
+Karnataka,Oct-16,30.07,Wheat
+Kerala,Oct-16,31.78,Wheat
+Madhya Pradesh,Oct-16,17.61,Wheat
+Maharashtra,Oct-16,27.97,Wheat
+Meghalaya,Oct-16,27.06,Wheat
+Nagaland,Oct-16,35,Wheat
+Odisha,Oct-16,23,Wheat
+Puducherry,Oct-16,32,Wheat
+Punjab,Oct-16,19.18,Wheat
+Rajasthan,Oct-16,19.79,Wheat
+Tamil Nadu,Oct-16,30.66,Wheat
+Telangana,Oct-16,27.2,Wheat
+Uttar Pradesh,Oct-16,18.94,Wheat
+Uttarakhand,Oct-16,21,Wheat
+West Bengal,Oct-16,17.03,Wheat
+Andaman and Nicobar,Nov-16,32,Wheat
+Andhra Pradesh,Nov-16,28.22,Wheat
+Assam,Nov-16,25,Wheat
+Bihar,Nov-16,20.68,Wheat
+Chandigarh,Nov-16,20.75,Wheat
+Chhattisgarh,Nov-16,25.06,Wheat
+Delhi,Nov-16,23.53,Wheat
+Goa,Nov-16,30,Wheat
+Gujarat,Nov-16,21.81,Wheat
+Haryana,Nov-16,20.31,Wheat
+Jammu and Kashmir,Nov-16,21.21,Wheat
+Jharkhand,Nov-16,24.29,Wheat
+Karnataka,Nov-16,32.33,Wheat
+Kerala,Nov-16,32,Wheat
+Madhya Pradesh,Nov-16,17.59,Wheat
+Maharashtra,Nov-16,29.13,Wheat
+Meghalaya,Nov-16,29.16,Wheat
+Nagaland,Nov-16,36.07,Wheat
+Odisha,Nov-16,23,Wheat
+Puducherry,Nov-16,32,Wheat
+Punjab,Nov-16,19.61,Wheat
+Rajasthan,Nov-16,21.25,Wheat
+Tamil Nadu,Nov-16,30.46,Wheat
+Telangana,Nov-16,26.87,Wheat
+Uttar Pradesh,Nov-16,20,Wheat
+Uttarakhand,Nov-16,21,Wheat
+West Bengal,Nov-16,17.13,Wheat
+Andaman and Nicobar,Dec-16,32,Wheat
+Andhra Pradesh,Dec-16,28.43,Wheat
+Assam,Dec-16,25,Wheat
+Bihar,Dec-16,22.31,Wheat
+Chandigarh,Dec-16,22,Wheat
+Chhattisgarh,Dec-16,25.19,Wheat
+Delhi,Dec-16,22.77,Wheat
+Goa,Dec-16,30.42,Wheat
+Gujarat,Dec-16,23.21,Wheat
+Haryana,Dec-16,22.73,Wheat
+Jammu and Kashmir,Dec-16,21.55,Wheat
+Jharkhand,Dec-16,26,Wheat
+Karnataka,Dec-16,33.22,Wheat
+Kerala,Dec-16,31.42,Wheat
+Madhya Pradesh,Dec-16,17.69,Wheat
+Maharashtra,Dec-16,29.12,Wheat
+Meghalaya,Dec-16,30,Wheat
+Nagaland,Dec-16,40,Wheat
+Odisha,Dec-16,23,Wheat
+Puducherry,Dec-16,32.97,Wheat
+Punjab,Dec-16,19.77,Wheat
+Rajasthan,Dec-16,21.11,Wheat
+Tamil Nadu,Dec-16,30.7,Wheat
+Telangana,Dec-16,26.85,Wheat
+Uttar Pradesh,Dec-16,20.39,Wheat
+Uttarakhand,Dec-16,21.61,Wheat
+West Bengal,Dec-16,17.59,Wheat
+Andaman and Nicobar,Jan-17,32,Wheat
+Andhra Pradesh,Jan-17,28.69,Wheat
+Arunachal pradesh,Jan-17,15,Wheat
+Assam,Jan-17,26.86,Wheat
+Bihar,Jan-17,22.47,Wheat
+Chandigarh,Jan-17,22,Wheat
+Chhattisgarh,Jan-17,25.52,Wheat
+Delhi,Jan-17,22.73,Wheat
+Goa,Jan-17,32,Wheat
+Gujarat,Jan-17,23.07,Wheat
+Haryana,Jan-17,22.79,Wheat
+Jammu and Kashmir,Jan-17,21.59,Wheat
+Jharkhand,Jan-17,26,Wheat
+Karnataka,Jan-17,33.39,Wheat
+Kerala,Jan-17,31.44,Wheat
+Madhya Pradesh,Jan-17,17.93,Wheat
+Maharashtra,Jan-17,28.42,Wheat
+Meghalaya,Jan-17,30,Wheat
+Nagaland,Jan-17,45,Wheat
+Puducherry,Jan-17,34,Wheat
+Punjab,Jan-17,20.01,Wheat
+Rajasthan,Jan-17,20.05,Wheat
+Sikkim,Jan-17,24,Wheat
+Tamil Nadu,Jan-17,31.6,Wheat
+Telangana,Jan-17,26.85,Wheat
+Uttar Pradesh,Jan-17,20.66,Wheat
+Uttarakhand,Jan-17,22,Wheat
+West Bengal,Jan-17,17.84,Wheat
+Andaman and Nicobar,Feb-17,32,Wheat
+Andhra Pradesh,Feb-17,29.25,Wheat
+Assam,Feb-17,27,Wheat
+Bihar,Feb-17,22.27,Wheat
+Chandigarh,Feb-17,22,Wheat
+Chhattisgarh,Feb-17,25.15,Wheat
+Delhi,Feb-17,22.29,Wheat
+Goa,Feb-17,32,Wheat
+Gujarat,Feb-17,23,Wheat
+Haryana,Feb-17,22,Wheat
+Jammu and Kashmir,Feb-17,21.22,Wheat
+Jharkhand,Feb-17,26,Wheat
+Karnataka,Feb-17,33.5,Wheat
+Kerala,Feb-17,31.98,Wheat
+Madhya Pradesh,Feb-17,17.95,Wheat
+Maharashtra,Feb-17,28.38,Wheat
+Meghalaya,Feb-17,30,Wheat
+Puducherry,Feb-17,34,Wheat
+Punjab,Feb-17,20.07,Wheat
+Rajasthan,Feb-17,20.02,Wheat
+Sikkim,Feb-17,22,Wheat
+Tamil Nadu,Feb-17,32.32,Wheat
+Telangana,Feb-17,26.85,Wheat
+Uttar Pradesh,Feb-17,20.68,Wheat
+Uttarakhand,Feb-17,22,Wheat
+West Bengal,Feb-17,17.77,Wheat
+Andaman and Nicobar,Mar-17,32.35,Wheat
+Andhra Pradesh,Mar-17,28.38,Wheat
+Assam,Mar-17,26.69,Wheat
+Bihar,Mar-17,21.7,Wheat
+Chandigarh,Mar-17,22,Wheat
+Chhattisgarh,Mar-17,24.72,Wheat
+Delhi,Mar-17,21.47,Wheat
+Goa,Mar-17,31.63,Wheat
+Gujarat,Mar-17,22.76,Wheat
+Haryana,Mar-17,22.11,Wheat
+Jammu and Kashmir,Mar-17,21.04,Wheat
+Jharkhand,Mar-17,24.33,Wheat
+Karnataka,Mar-17,33.26,Wheat
+Kerala,Mar-17,33.03,Wheat
+Madhya Pradesh,Mar-17,18.06,Wheat
+Maharashtra,Mar-17,27.52,Wheat
+Meghalaya,Mar-17,29.55,Wheat
+Puducherry,Mar-17,34,Wheat
+Punjab,Mar-17,19.88,Wheat
+Rajasthan,Mar-17,19.64,Wheat
+Tamil Nadu,Mar-17,33.02,Wheat
+Telangana,Mar-17,26.85,Wheat
+Uttar Pradesh,Mar-17,19.51,Wheat
+Uttarakhand,Mar-17,22,Wheat
+West Bengal,Mar-17,17.59,Wheat
+Andaman and Nicobar,Apr-17,32.14,Wheat
+Andhra Pradesh,Apr-17,28.27,Wheat
+Arunachal pradesh,Apr-17,17.33,Wheat
+Assam,Apr-17,26,Wheat
+Bihar,Apr-17,19.71,Wheat
+Chandigarh,Apr-17,22,Wheat
+Chhattisgarh,Apr-17,25.29,Wheat
+Delhi,Apr-17,21,Wheat
+Goa,Apr-17,30.58,Wheat
+Gujarat,Apr-17,22.52,Wheat
+Haryana,Apr-17,22.13,Wheat
+Jammu and Kashmir,Apr-17,21.09,Wheat
+Jharkhand,Apr-17,24,Wheat
+Karnataka,Apr-17,32.97,Wheat
+Kerala,Apr-17,33.02,Wheat
+Madhya Pradesh,Apr-17,18.14,Wheat
+Maharashtra,Apr-17,26.97,Wheat
+Meghalaya,Apr-17,28.28,Wheat
+Puducherry,Apr-17,34,Wheat
+Punjab,Apr-17,19.85,Wheat
+Rajasthan,Apr-17,18.71,Wheat
+Tamil Nadu,Apr-17,32.99,Wheat
+Telangana,Apr-17,26.83,Wheat
+Uttar Pradesh,Apr-17,18.18,Wheat
+Uttarakhand,Apr-17,22,Wheat
+West Bengal,Apr-17,17.51,Wheat
+Andaman and Nicobar,May-17,32,Wheat
+Andhra Pradesh,May-17,28.11,Wheat
+Arunachal pradesh,May-17,22,Wheat
+Assam,May-17,26,Wheat
+Bihar,May-17,17.89,Wheat
+Chandigarh,May-17,22.14,Wheat
+Chhattisgarh,May-17,25.25,Wheat
+Delhi,May-17,20.72,Wheat
+Goa,May-17,30,Wheat
+Gujarat,May-17,22,Wheat
+Haryana,May-17,20.91,Wheat
+Jammu and Kashmir,May-17,20.54,Wheat
+Jharkhand,May-17,24,Wheat
+Karnataka,May-17,32.94,Wheat
+Kerala,May-17,33.94,Wheat
+Madhya Pradesh,May-17,18.19,Wheat
+Maharashtra,May-17,26.83,Wheat
+Meghalaya,May-17,28.74,Wheat
+Puducherry,May-17,34,Wheat
+Punjab,May-17,19.43,Wheat
+Rajasthan,May-17,18.39,Wheat
+Sikkim,May-17,25,Wheat
+Tamil Nadu,May-17,32.37,Wheat
+Telangana,May-17,26.9,Wheat
+Uttar Pradesh,May-17,18.16,Wheat
+Uttarakhand,May-17,22,Wheat
+West Bengal,May-17,17.25,Wheat
+Andhra Pradesh,Jun-17,28,Wheat
+Assam,Jun-17,26,Wheat
+Bihar,Jun-17,17.81,Wheat
+Chandigarh,Jun-17,23,Wheat
+Chhattisgarh,Jun-17,25.24,Wheat
+Delhi,Jun-17,20,Wheat
+Goa,Jun-17,30,Wheat
+Gujarat,Jun-17,21.82,Wheat
+Haryana,Jun-17,20.52,Wheat
+Jammu and Kashmir,Jun-17,20,Wheat
+Jharkhand,Jun-17,24,Wheat
+Karnataka,Jun-17,32.46,Wheat
+Kerala,Jun-17,34.24,Wheat
+Madhya Pradesh,Jun-17,18.44,Wheat
+Maharashtra,Jun-17,26.23,Wheat
+Meghalaya,Jun-17,28,Wheat
+Nagaland,Jun-17,45,Wheat
+Puducherry,Jun-17,34.1,Wheat
+Punjab,Jun-17,19.33,Wheat
+Rajasthan,Jun-17,18.28,Wheat
+Sikkim,Jun-17,20,Wheat
+Tamil Nadu,Jun-17,32.11,Wheat
+Telangana,Jun-17,27.09,Wheat
+Uttar Pradesh,Jun-17,18.01,Wheat
+Uttarakhand,Jun-17,21.8,Wheat
+West Bengal,Jun-17,17.11,Wheat
+Andaman and Nicobar,Jul-17,32,Wheat
+Andhra Pradesh,Jul-17,27.52,Wheat
+Assam,Jul-17,26,Wheat
+Bihar,Jul-17,18.2,Wheat
+Chandigarh,Jul-17,23,Wheat
+Chhattisgarh,Jul-17,24.45,Wheat
+Delhi,Jul-17,20,Wheat
+Goa,Jul-17,30,Wheat
+Gujarat,Jul-17,21.75,Wheat
+Haryana,Jul-17,20.23,Wheat
+Jammu and Kashmir,Jul-17,20,Wheat
+Jharkhand,Jul-17,24,Wheat
+Karnataka,Jul-17,32.27,Wheat
+Kerala,Jul-17,34.57,Wheat
+Madhya Pradesh,Jul-17,18.48,Wheat
+Maharashtra,Jul-17,24.77,Wheat
+Meghalaya,Jul-17,28,Wheat
+Nagaland,Jul-17,45,Wheat
+Puducherry,Jul-17,34.84,Wheat
+Punjab,Jul-17,19,Wheat
+Rajasthan,Jul-17,19.02,Wheat
+Sikkim,Jul-17,19,Wheat
+Tamil Nadu,Jul-17,31.57,Wheat
+Telangana,Jul-17,27.03,Wheat
+Uttar Pradesh,Jul-17,17.95,Wheat
+Uttarakhand,Jul-17,21.5,Wheat
+West Bengal,Jul-17,17.76,Wheat
+Andaman and Nicobar,Aug-17,35,Wheat
+Andhra Pradesh,Aug-17,27.54,Wheat
+Assam,Aug-17,26,Wheat
+Bihar,Aug-17,18.36,Wheat
+Chandigarh,Aug-17,23,Wheat
+Chhattisgarh,Aug-17,24.4,Wheat
+Delhi,Aug-17,20,Wheat
+Goa,Aug-17,30,Wheat
+Gujarat,Aug-17,21.61,Wheat
+Haryana,Aug-17,20.46,Wheat
+Jammu and Kashmir,Aug-17,20,Wheat
+Jharkhand,Aug-17,24,Wheat
+Karnataka,Aug-17,32.16,Wheat
+Kerala,Aug-17,34.23,Wheat
+Madhya Pradesh,Aug-17,18.78,Wheat
+Maharashtra,Aug-17,25.19,Wheat
+Meghalaya,Aug-17,28,Wheat
+Nagaland,Aug-17,40,Wheat
+Puducherry,Aug-17,34,Wheat
+Punjab,Aug-17,19,Wheat
+Rajasthan,Aug-17,18.52,Wheat
+Sikkim,Aug-17,19.53,Wheat
+Tamil Nadu,Aug-17,31,Wheat
+Telangana,Aug-17,26.91,Wheat
+Uttar Pradesh,Aug-17,17.78,Wheat
+Uttarakhand,Aug-17,21.5,Wheat
+West Bengal,Aug-17,18.05,Wheat
+Andaman and Nicobar,Sep-17,32,Wheat
+Andhra Pradesh,Sep-17,27.77,Wheat
+Arunachal pradesh,Sep-17,25,Wheat
+Assam,Sep-17,26,Wheat
+Bihar,Sep-17,18.3,Wheat
+Chandigarh,Sep-17,23,Wheat
+Chhattisgarh,Sep-17,24.53,Wheat
+Delhi,Sep-17,20,Wheat
+Goa,Sep-17,30,Wheat
+Gujarat,Sep-17,21.63,Wheat
+Haryana,Sep-17,20.5,Wheat
+Jammu and Kashmir,Sep-17,20.27,Wheat
+Jharkhand,Sep-17,24,Wheat
+Karnataka,Sep-17,31.78,Wheat
+Kerala,Sep-17,35.75,Wheat
+Madhya Pradesh,Sep-17,18.72,Wheat
+Maharashtra,Sep-17,25.51,Wheat
+Meghalaya,Sep-17,28.21,Wheat
+Nagaland,Sep-17,40,Wheat
+Puducherry,Sep-17,34,Wheat
+Punjab,Sep-17,19,Wheat
+Rajasthan,Sep-17,18.19,Wheat
+Sikkim,Sep-17,21,Wheat
+Tamil Nadu,Sep-17,30.56,Wheat
+Telangana,Sep-17,26.85,Wheat
+Uttar Pradesh,Sep-17,17.9,Wheat
+Uttarakhand,Sep-17,21.5,Wheat
+West Bengal,Sep-17,18.03,Wheat
+Andaman and Nicobar,Oct-17,32,Wheat
+Andhra Pradesh,Oct-17,28.15,Wheat
+Arunachal pradesh,Oct-17,25,Wheat
+Assam,Oct-17,26,Wheat
+Bihar,Oct-17,18.21,Wheat
+Chandigarh,Oct-17,23,Wheat
+Chhattisgarh,Oct-17,25.26,Wheat
+Delhi,Oct-17,20.14,Wheat
+Goa,Oct-17,30,Wheat
+Gujarat,Oct-17,21.49,Wheat
+Haryana,Oct-17,20.68,Wheat
+Jammu and Kashmir,Oct-17,20.09,Wheat
+Jharkhand,Oct-17,24,Wheat
+Karnataka,Oct-17,32.03,Wheat
+Kerala,Oct-17,35.17,Wheat
+Madhya Pradesh,Oct-17,18.44,Wheat
+Maharashtra,Oct-17,25.48,Wheat
+Meghalaya,Oct-17,29,Wheat
+Nagaland,Oct-17,40,Wheat
+Puducherry,Oct-17,34,Wheat
+Punjab,Oct-17,19.15,Wheat
+Rajasthan,Oct-17,18.45,Wheat
+Sikkim,Oct-17,21,Wheat
+Tamil Nadu,Oct-17,30.71,Wheat
+Telangana,Oct-17,26.85,Wheat
+Uttar Pradesh,Oct-17,18.28,Wheat
+Uttarakhand,Oct-17,21.5,Wheat
+West Bengal,Oct-17,18.02,Wheat
+Andaman and Nicobar,Nov-17,33.14,Wheat
+Andhra Pradesh,Nov-17,27.62,Wheat
+Arunachal pradesh,Nov-17,25,Wheat
+Assam,Nov-17,26,Wheat
+Bihar,Nov-17,18.11,Wheat
+Chandigarh,Nov-17,23,Wheat
+Chhattisgarh,Nov-17,25.89,Wheat
+Delhi,Nov-17,21,Wheat
+Goa,Nov-17,30,Wheat
+Gujarat,Nov-17,21.26,Wheat
+Haryana,Nov-17,20.87,Wheat
+Jammu and Kashmir,Nov-17,20.38,Wheat
+Jharkhand,Nov-17,24,Wheat
+Karnataka,Nov-17,32.25,Wheat
+Kerala,Nov-17,35.51,Wheat
+Madhya Pradesh,Nov-17,18.43,Wheat
+Maharashtra,Nov-17,25.71,Wheat
+Meghalaya,Nov-17,29,Wheat
+Nagaland,Nov-17,40,Wheat
+Puducherry,Nov-17,34,Wheat
+Punjab,Nov-17,19,Wheat
+Rajasthan,Nov-17,18.98,Wheat
+Sikkim,Nov-17,21,Wheat
+Tamil Nadu,Nov-17,31.04,Wheat
+Telangana,Nov-17,26.85,Wheat
+Uttar Pradesh,Nov-17,18.28,Wheat
+Uttarakhand,Nov-17,21.5,Wheat
+West Bengal,Nov-17,18.29,Wheat
+Andaman and Nicobar,Dec-17,36,Wheat
+Andhra Pradesh,Dec-17,27.75,Wheat
+Assam,Dec-17,26,Wheat
+Bihar,Dec-17,18.29,Wheat
+Chandigarh,Dec-17,23,Wheat
+Chhattisgarh,Dec-17,26.3,Wheat
+Delhi,Dec-17,19.77,Wheat
+Goa,Dec-17,30,Wheat
+Gujarat,Dec-17,20.94,Wheat
+Haryana,Dec-17,21.01,Wheat
+Jammu and Kashmir,Dec-17,21.07,Wheat
+Jharkhand,Dec-17,24,Wheat
+Karnataka,Dec-17,31.72,Wheat
+Kerala,Dec-17,35.15,Wheat
+Madhya Pradesh,Dec-17,18.61,Wheat
+Maharashtra,Dec-17,26.16,Wheat
+Meghalaya,Dec-17,29,Wheat
+Nagaland,Dec-17,40,Wheat
+Puducherry,Dec-17,34,Wheat
+Punjab,Dec-17,19,Wheat
+Rajasthan,Dec-17,18.2,Wheat
+Sikkim,Dec-17,21,Wheat
+Tamil Nadu,Dec-17,31.01,Wheat
+Telangana,Dec-17,26.86,Wheat
+Uttar Pradesh,Dec-17,18.25,Wheat
+Uttarakhand,Dec-17,21.5,Wheat
+West Bengal,Dec-17,18.32,Wheat
+Andaman and Nicobar,Jan-18,36,Wheat
+Andhra Pradesh,Jan-18,27.36,Wheat
+Assam,Jan-18,26,Wheat
+Bihar,Jan-18,18.57,Wheat
+Chandigarh,Jan-18,23,Wheat
+Chhattisgarh,Jan-18,26.09,Wheat
+Delhi,Jan-18,19.67,Wheat
+Goa,Jan-18,30,Wheat
+Gujarat,Jan-18,20.75,Wheat
+Haryana,Jan-18,20.9,Wheat
+Jammu and Kashmir,Jan-18,21.79,Wheat
+Jharkhand,Jan-18,24,Wheat
+Karnataka,Jan-18,31.75,Wheat
+Kerala,Jan-18,35.47,Wheat
+Madhya Pradesh,Jan-18,18.83,Wheat
+Maharashtra,Jan-18,25.81,Wheat
+Meghalaya,Jan-18,29,Wheat
+Nagaland,Jan-18,40,Wheat
+Puducherry,Jan-18,34,Wheat
+Punjab,Jan-18,19.54,Wheat
+Rajasthan,Jan-18,18.25,Wheat
+Sikkim,Jan-18,21.26,Wheat
+Tamil Nadu,Jan-18,30.81,Wheat
+Telangana,Jan-18,26.85,Wheat
+Uttar Pradesh,Jan-18,18.11,Wheat
+Uttarakhand,Jan-18,21.5,Wheat
+West Bengal,Jan-18,18.05,Wheat
+Andaman and Nicobar,Feb-18,36,Wheat
+Andhra Pradesh,Feb-18,27.75,Wheat
+Arunachal pradesh,Feb-18,25,Wheat
+Assam,Feb-18,26,Wheat
+Bihar,Feb-18,18.95,Wheat
+Chandigarh,Feb-18,23,Wheat
+Chhattisgarh,Feb-18,25.72,Wheat
+Delhi,Feb-18,20,Wheat
+Goa,Feb-18,30,Wheat
+Gujarat,Feb-18,20.55,Wheat
+Haryana,Feb-18,20.56,Wheat
+Jammu and Kashmir,Feb-18,20.49,Wheat
+Jharkhand,Feb-18,24,Wheat
+Karnataka,Feb-18,31.89,Wheat
+Kerala,Feb-18,35.31,Wheat
+Madhya Pradesh,Feb-18,18.83,Wheat
+Maharashtra,Feb-18,26.33,Wheat
+Meghalaya,Feb-18,29,Wheat
+Nagaland,Feb-18,40,Wheat
+Puducherry,Feb-18,34,Wheat
+Punjab,Feb-18,19.04,Wheat
+Rajasthan,Feb-18,18.53,Wheat
+Sikkim,Feb-18,21,Wheat
+Tamil Nadu,Feb-18,31.01,Wheat
+Telangana,Feb-18,26.85,Wheat
+Uttar Pradesh,Feb-18,18.27,Wheat
+Uttarakhand,Feb-18,21.5,Wheat
+West Bengal,Feb-18,17.96,Wheat
+Andaman and Nicobar,Mar-18,36,Wheat
+Andhra Pradesh,Mar-18,28.12,Wheat
+Assam,Mar-18,26,Wheat
+Bihar,Mar-18,18.65,Wheat
+Chandigarh,Mar-18,23,Wheat
+Chhattisgarh,Mar-18,24.88,Wheat
+Delhi,Mar-18,20,Wheat
+Goa,Mar-18,30,Wheat
+Gujarat,Mar-18,20.5,Wheat
+Haryana,Mar-18,20.36,Wheat
+Jammu and Kashmir,Mar-18,20.52,Wheat
+Jharkhand,Mar-18,24,Wheat
+Karnataka,Mar-18,31.21,Wheat
+Kerala,Mar-18,35.53,Wheat
+Madhya Pradesh,Mar-18,18.76,Wheat
+Maharashtra,Mar-18,26.42,Wheat
+Meghalaya,Mar-18,29,Wheat
+Nagaland,Mar-18,40,Wheat
+Puducherry,Mar-18,34,Wheat
+Punjab,Mar-18,19.44,Wheat
+Rajasthan,Mar-18,18.9,Wheat
+Sikkim,Mar-18,21.75,Wheat
+Tamil Nadu,Mar-18,30.44,Wheat
+Telangana,Mar-18,27.63,Wheat
+Uttar Pradesh,Mar-18,18.67,Wheat
+Uttarakhand,Mar-18,21.5,Wheat
+West Bengal,Mar-18,17.47,Wheat
+Andaman and Nicobar,Apr-18,35.8,Wheat
+Andhra Pradesh,Apr-18,28.25,Wheat
+Assam,Apr-18,26,Wheat
+Bihar,Apr-18,18.56,Wheat
+Chandigarh,Apr-18,23,Wheat
+Chhattisgarh,Apr-18,25.19,Wheat
+Delhi,Apr-18,20,Wheat
+Goa,Apr-18,30,Wheat
+Gujarat,Apr-18,20.5,Wheat
+Haryana,Apr-18,19.65,Wheat
+Jammu and Kashmir,Apr-18,20.5,Wheat
+Jharkhand,Apr-18,24,Wheat
+Karnataka,Apr-18,31.42,Wheat
+Kerala,Apr-18,35.48,Wheat
+Madhya Pradesh,Apr-18,18.82,Wheat
+Maharashtra,Apr-18,25.73,Wheat
+Meghalaya,Apr-18,28.5,Wheat
+Nagaland,Apr-18,40,Wheat
+Puducherry,Apr-18,34,Wheat
+Punjab,Apr-18,19.48,Wheat
+Rajasthan,Apr-18,18.84,Wheat
+Sikkim,Apr-18,24.58,Wheat
+Tamil Nadu,Apr-18,30.3,Wheat
+Telangana,Apr-18,27.85,Wheat
+Uttar Pradesh,Apr-18,19.02,Wheat
+Uttarakhand,Apr-18,21.5,Wheat
+West Bengal,Apr-18,17.52,Wheat
+Andaman and Nicobar,May-18,35,Wheat
+Andhra Pradesh,May-18,28.27,Wheat
+Arunachal pradesh,May-18,25,Wheat
+Assam,May-18,26,Wheat
+Bihar,May-18,18.04,Wheat
+Chandigarh,May-18,23,Wheat
+Chhattisgarh,May-18,25.03,Wheat
+Delhi,May-18,20,Wheat
+Goa,May-18,30,Wheat
+Gujarat,May-18,19.95,Wheat
+Haryana,May-18,19.5,Wheat
+Jammu and Kashmir,May-18,20.89,Wheat
+Jharkhand,May-18,24,Wheat
+Karnataka,May-18,31.69,Wheat
+Kerala,May-18,35.38,Wheat
+Madhya Pradesh,May-18,18.99,Wheat
+Maharashtra,May-18,26.67,Wheat
+Meghalaya,May-18,27,Wheat
+Nagaland,May-18,40.93,Wheat
+Puducherry,May-18,34.81,Wheat
+Punjab,May-18,19.33,Wheat
+Rajasthan,May-18,19.04,Wheat
+Sikkim,May-18,25,Wheat
+Tamil Nadu,May-18,30.26,Wheat
+Telangana,May-18,27.85,Wheat
+Uttar Pradesh,May-18,19.13,Wheat
+Uttarakhand,May-18,21.5,Wheat
+West Bengal,May-18,17.21,Wheat
+Andaman and Nicobar,Jun-18,35,Wheat
+Andhra Pradesh,Jun-18,28.16,Wheat
+Arunachal pradesh,Jun-18,25,Wheat
+Assam,Jun-18,26,Wheat
+Bihar,Jun-18,18.42,Wheat
+Chandigarh,Jun-18,23,Wheat
+Chhattisgarh,Jun-18,24,Wheat
+Delhi,Jun-18,20,Wheat
+Goa,Jun-18,30,Wheat
+Gujarat,Jun-18,20,Wheat
+Haryana,Jun-18,19.49,Wheat
+Jammu and Kashmir,Jun-18,20.93,Wheat
+Jharkhand,Jun-18,24.21,Wheat
+Karnataka,Jun-18,31.44,Wheat
+Kerala,Jun-18,35.34,Wheat
+Madhya Pradesh,Jun-18,19.08,Wheat
+Maharashtra,Jun-18,27.34,Wheat
+Meghalaya,Jun-18,27.19,Wheat
+Nagaland,Jun-18,42.95,Wheat
+Puducherry,Jun-18,35,Wheat
+Punjab,Jun-18,19.72,Wheat
+Rajasthan,Jun-18,19.18,Wheat
+Sikkim,Jun-18,25,Wheat
+Tamil Nadu,Jun-18,30.39,Wheat
+Telangana,Jun-18,27.85,Wheat
+Uttar Pradesh,Jun-18,18.92,Wheat
+Uttarakhand,Jun-18,21.5,Wheat
+West Bengal,Jun-18,17.7,Wheat
+Andaman and Nicobar,Jul-18,35,Wheat
+Andhra Pradesh,Jul-18,27.95,Wheat
+Arunachal pradesh,Jul-18,25,Wheat
+Assam,Jul-18,26,Wheat
+Bihar,Jul-18,18.64,Wheat
+Chandigarh,Jul-18,23,Wheat
+Chhattisgarh,Jul-18,24.96,Wheat
+Delhi,Jul-18,21.77,Wheat
+Goa,Jul-18,30.08,Wheat
+Gujarat,Jul-18,20.18,Wheat
+Haryana,Jul-18,19.5,Wheat
+Jammu and Kashmir,Jul-18,21,Wheat
+Jharkhand,Jul-18,25.08,Wheat
+Karnataka,Jul-18,31.54,Wheat
+Kerala,Jul-18,34.94,Wheat
+Madhya Pradesh,Jul-18,19.41,Wheat
+Maharashtra,Jul-18,27.1,Wheat
+Meghalaya,Jul-18,28.41,Wheat
+Nagaland,Jul-18,45,Wheat
+Puducherry,Jul-18,35,Wheat
+Punjab,Jul-18,19.66,Wheat
+Rajasthan,Jul-18,19.23,Wheat
+Sikkim,Jul-18,25,Wheat
+Tamil Nadu,Jul-18,30.74,Wheat
+Telangana,Jul-18,27.82,Wheat
+Uttar Pradesh,Jul-18,18.78,Wheat
+Uttarakhand,Jul-18,21.5,Wheat
+West Bengal,Jul-18,17.54,Wheat
+Andaman and Nicobar,Aug-18,35,Wheat
+Andhra Pradesh,Aug-18,29.52,Wheat
+Arunachal pradesh,Aug-18,25,Wheat
+Assam,Aug-18,26,Wheat
+Bihar,Aug-18,20.57,Wheat
+Chandigarh,Aug-18,23,Wheat
+Chhattisgarh,Aug-18,25.47,Wheat
+Delhi,Aug-18,23,Wheat
+Goa,Aug-18,31.43,Wheat
+Gujarat,Aug-18,21.22,Wheat
+Haryana,Aug-18,19.5,Wheat
+Jammu and Kashmir,Aug-18,21.11,Wheat
+Jharkhand,Aug-18,26,Wheat
+Karnataka,Aug-18,31.25,Wheat
+Kerala,Aug-18,36.96,Wheat
+Madhya Pradesh,Aug-18,20.06,Wheat
+Maharashtra,Aug-18,27.3,Wheat
+Meghalaya,Aug-18,30.74,Wheat
+Nagaland,Aug-18,38.4,Wheat
+Puducherry,Aug-18,35,Wheat
+Punjab,Aug-18,19.35,Wheat
+Rajasthan,Aug-18,20.65,Wheat
+Sikkim,Aug-18,25,Wheat
+Tamil Nadu,Aug-18,32.3,Wheat
+Telangana,Aug-18,27.67,Wheat
+Uttar Pradesh,Aug-18,19.51,Wheat
+Uttarakhand,Aug-18,21.5,Wheat
+West Bengal,Aug-18,17.51,Wheat
+Andaman and Nicobar,Sep-18,35,Wheat
+Andhra Pradesh,Sep-18,30.37,Wheat
+Arunachal pradesh,Sep-18,25,Wheat
+Assam,Sep-18,26.74,Wheat
+Bihar,Sep-18,20.75,Wheat
+Chandigarh,Sep-18,23,Wheat
+Chhattisgarh,Sep-18,25.75,Wheat
+Delhi,Sep-18,23,Wheat
+Goa,Sep-18,31.52,Wheat
+Gujarat,Sep-18,20.65,Wheat
+Haryana,Sep-18,19.5,Wheat
+Jammu and Kashmir,Sep-18,21.71,Wheat
+Jharkhand,Sep-18,26,Wheat
+Karnataka,Sep-18,31.78,Wheat
+Kerala,Sep-18,35.53,Wheat
+Madhya Pradesh,Sep-18,20.17,Wheat
+Maharashtra,Sep-18,27.46,Wheat
+Meghalaya,Sep-18,32.38,Wheat
+Nagaland,Sep-18,28,Wheat
+Puducherry,Sep-18,35,Wheat
+Punjab,Sep-18,19.49,Wheat
+Rajasthan,Sep-18,21.19,Wheat
+Sikkim,Sep-18,25,Wheat
+Tamil Nadu,Sep-18,32.87,Wheat
+Telangana,Sep-18,27.77,Wheat
+Uttar Pradesh,Sep-18,19.71,Wheat
+Uttarakhand,Sep-18,21.5,Wheat
+West Bengal,Sep-18,17.48,Wheat
+Andaman and Nicobar,Oct-18,35,Wheat
+Andhra Pradesh,Oct-18,31.03,Wheat
+Arunachal pradesh,Oct-18,25,Wheat
+Assam,Oct-18,30,Wheat
+Bihar,Oct-18,21.28,Wheat
+Chandigarh,Oct-18,23,Wheat
+Chhattisgarh,Oct-18,25.24,Wheat
+Delhi,Oct-18,23.77,Wheat
+Goa,Oct-18,31,Wheat
+Gujarat,Oct-18,20.25,Wheat
+Haryana,Oct-18,19.5,Wheat
+Jammu and Kashmir,Oct-18,22,Wheat
+Jharkhand,Oct-18,26.85,Wheat
+Karnataka,Oct-18,32.59,Wheat
+Kerala,Oct-18,34.69,Wheat
+Madhya Pradesh,Oct-18,20.66,Wheat
+Maharashtra,Oct-18,27.6,Wheat
+Meghalaya,Oct-18,33.79,Wheat
+Nagaland,Oct-18,28,Wheat
+Puducherry,Oct-18,35,Wheat
+Punjab,Oct-18,19.67,Wheat
+Rajasthan,Oct-18,20.74,Wheat
+Sikkim,Oct-18,25,Wheat
+Tamil Nadu,Oct-18,32.87,Wheat
+Telangana,Oct-18,27.78,Wheat
+Uttar Pradesh,Oct-18,19.94,Wheat
+Uttarakhand,Oct-18,21.5,Wheat
+West Bengal,Oct-18,16.7,Wheat
+Andaman and Nicobar,Nov-18,35,Wheat
+Andhra Pradesh,Nov-18,31.19,Wheat
+Arunachal pradesh,Nov-18,25,Wheat
+Assam,Nov-18,30,Wheat
+Bihar,Nov-18,21.92,Wheat
+Chandigarh,Nov-18,23,Wheat
+Chhattisgarh,Nov-18,25.11,Wheat
+Delhi,Nov-18,24,Wheat
+Goa,Nov-18,30.79,Wheat
+Gujarat,Nov-18,20.28,Wheat
+Haryana,Nov-18,19.5,Wheat
+Jammu and Kashmir,Nov-18,22,Wheat
+Jharkhand,Nov-18,28,Wheat
+Karnataka,Nov-18,32.52,Wheat
+Kerala,Nov-18,34.84,Wheat
+Madhya Pradesh,Nov-18,20.63,Wheat
+Maharashtra,Nov-18,28.14,Wheat
+Meghalaya,Nov-18,34,Wheat
+Nagaland,Nov-18,28,Wheat
+Puducherry,Nov-18,35,Wheat
+Punjab,Nov-18,19.65,Wheat
+Rajasthan,Nov-18,21.27,Wheat
+Sikkim,Nov-18,25,Wheat
+Tamil Nadu,Nov-18,33.5,Wheat
+Telangana,Nov-18,27.67,Wheat
+Uttar Pradesh,Nov-18,20.34,Wheat
+Uttarakhand,Nov-18,20.93,Wheat
+West Bengal,Nov-18,17.16,Wheat
+Andaman and Nicobar,Dec-18,35.06,Wheat
+Andhra Pradesh,Dec-18,30.9,Wheat
+Arunachal pradesh,Dec-18,25,Wheat
+Assam,Dec-18,30,Wheat
+Bihar,Dec-18,21.82,Wheat
+Chandigarh,Dec-18,23,Wheat
+Chhattisgarh,Dec-18,25.51,Wheat
+Delhi,Dec-18,24,Wheat
+Goa,Dec-18,31,Wheat
+Gujarat,Dec-18,20.55,Wheat
+Haryana,Dec-18,19.98,Wheat
+Jammu and Kashmir,Dec-18,22,Wheat
+Jharkhand,Dec-18,28,Wheat
+Karnataka,Dec-18,33.21,Wheat
+Kerala,Dec-18,35.42,Wheat
+Madhya Pradesh,Dec-18,20.69,Wheat
+Maharashtra,Dec-18,29.12,Wheat
+Meghalaya,Dec-18,33.06,Wheat
+Nagaland,Dec-18,25.82,Wheat
+Odisha,Dec-18,30.89,Wheat
+Puducherry,Dec-18,35,Wheat
+Punjab,Dec-18,19.72,Wheat
+Rajasthan,Dec-18,21.41,Wheat
+Sikkim,Dec-18,25,Wheat
+Tamil Nadu,Dec-18,33.69,Wheat
+Telangana,Dec-18,27.67,Wheat
+Uttar Pradesh,Dec-18,20.55,Wheat
+Uttarakhand,Dec-18,21,Wheat
+West Bengal,Dec-18,17.55,Wheat
+Andaman and Nicobar,Jan-19,36,Wheat
+Andhra Pradesh,Jan-19,31.2,Wheat
+Arunachal pradesh,Jan-19,31.95,Wheat
+Assam,Jan-19,30,Wheat
+Bihar,Jan-19,21.62,Wheat
+Chandigarh,Jan-19,23,Wheat
+Chhattisgarh,Jan-19,26.68,Wheat
+Delhi,Jan-19,24.73,Wheat
+Goa,Jan-19,31,Wheat
+Gujarat,Jan-19,20.75,Wheat
+Haryana,Jan-19,20.02,Wheat
+Himachal Pradesh,Jan-19,20,Wheat
+Jammu and Kashmir,Jan-19,22,Wheat
+Jharkhand,Jan-19,28,Wheat
+Karnataka,Jan-19,33.3,Wheat
+Kerala,Jan-19,35.98,Wheat
+Madhya Pradesh,Jan-19,20.87,Wheat
+Maharashtra,Jan-19,28.92,Wheat
+Meghalaya,Jan-19,32.18,Wheat
+Nagaland,Jan-19,25,Wheat
+Odisha,Jan-19,30.89,Wheat
+Puducherry,Jan-19,35.73,Wheat
+Punjab,Jan-19,20.4,Wheat
+Rajasthan,Jan-19,21.91,Wheat
+Sikkim,Jan-19,25,Wheat
+Tamil Nadu,Jan-19,33.32,Wheat
+Telangana,Jan-19,27.74,Wheat
+Uttar Pradesh,Jan-19,20.84,Wheat
+Uttarakhand,Jan-19,21.5,Wheat
+West Bengal,Jan-19,18.7,Wheat
+Andaman and Nicobar,Feb-19,36,Wheat
+Andhra Pradesh,Feb-19,32,Wheat
+Arunachal pradesh,Feb-19,34,Wheat
+Assam,Feb-19,30,Wheat
+Bihar,Feb-19,22.36,Wheat
+Chandigarh,Feb-19,23,Wheat
+Chhattisgarh,Feb-19,26.63,Wheat
+Delhi,Feb-19,25,Wheat
+Goa,Feb-19,30.58,Wheat
+Gujarat,Feb-19,20.75,Wheat
+Haryana,Feb-19,19.75,Wheat
+Himachal Pradesh,Feb-19,20,Wheat
+Jammu and Kashmir,Feb-19,22.03,Wheat
+Jharkhand,Feb-19,28,Wheat
+Karnataka,Feb-19,33.45,Wheat
+Kerala,Feb-19,35.08,Wheat
+Madhya Pradesh,Feb-19,21.22,Wheat
+Maharashtra,Feb-19,29.7,Wheat
+Meghalaya,Feb-19,32.53,Wheat
+Nagaland,Feb-19,26.35,Wheat
+Odisha,Feb-19,32.41,Wheat
+Puducherry,Feb-19,37,Wheat
+Punjab,Feb-19,20.8,Wheat
+Rajasthan,Feb-19,21.77,Wheat
+Sikkim,Feb-19,25,Wheat
+Tamil Nadu,Feb-19,33.73,Wheat
+Telangana,Feb-19,27.83,Wheat
+Uttar Pradesh,Feb-19,21.23,Wheat
+Uttarakhand,Feb-19,21.5,Wheat
+West Bengal,Feb-19,19.33,Wheat
+Andaman and Nicobar,Mar-19,36.47,Wheat
+Andhra Pradesh,Mar-19,30.96,Wheat
+Arunachal pradesh,Mar-19,34,Wheat
+Assam,Mar-19,30,Wheat
+Bihar,Mar-19,23.11,Wheat
+Chandigarh,Mar-19,23,Wheat
+Chhattisgarh,Mar-19,26.37,Wheat
+Delhi,Mar-19,24.73,Wheat
+Goa,Mar-19,30,Wheat
+Gujarat,Mar-19,20.75,Wheat
+Haryana,Mar-19,19.75,Wheat
+Himachal Pradesh,Mar-19,20,Wheat
+Jammu and Kashmir,Mar-19,22.09,Wheat
+Jharkhand,Mar-19,28,Wheat
+Karnataka,Mar-19,33.37,Wheat
+Kerala,Mar-19,35.85,Wheat
+Madhya Pradesh,Mar-19,21.91,Wheat
+Maharashtra,Mar-19,29.57,Wheat
+Meghalaya,Mar-19,32.51,Wheat
+Nagaland,Mar-19,28.23,Wheat
+Odisha,Mar-19,32.44,Wheat
+Puducherry,Mar-19,37,Wheat
+Punjab,Mar-19,21.21,Wheat
+Rajasthan,Mar-19,22.58,Wheat
+Sikkim,Mar-19,25,Wheat
+Tamil Nadu,Mar-19,34.01,Wheat
+Telangana,Mar-19,28.04,Wheat
+Uttar Pradesh,Mar-19,21.22,Wheat
+Uttarakhand,Mar-19,21.5,Wheat
+West Bengal,Mar-19,19.45,Wheat
+Andaman and Nicobar,Apr-19,38,Wheat
+Andhra Pradesh,Apr-19,30.77,Wheat
+Arunachal pradesh,Apr-19,34,Wheat
+Assam,Apr-19,30,Wheat
+Bihar,Apr-19,21.4,Wheat
+Chandigarh,Apr-19,23,Wheat
+Chhattisgarh,Apr-19,25.99,Wheat
+Delhi,Apr-19,21.87,Wheat
+Goa,Apr-19,30.52,Wheat
+Gujarat,Apr-19,20.75,Wheat
+Haryana,Apr-19,19.75,Wheat
+Himachal Pradesh,Apr-19,20,Wheat
+Jammu and Kashmir,Apr-19,22,Wheat
+Jharkhand,Apr-19,28,Wheat
+Karnataka,Apr-19,33.44,Wheat
+Kerala,Apr-19,35.48,Wheat
+Madhya Pradesh,Apr-19,21.96,Wheat
+Maharashtra,Apr-19,28.95,Wheat
+Meghalaya,Apr-19,32.45,Wheat
+Nagaland,Apr-19,28,Wheat
+Odisha,Apr-19,32.48,Wheat
+Puducherry,Apr-19,37,Wheat
+Punjab,Apr-19,21.36,Wheat
+Rajasthan,Apr-19,22.37,Wheat
+Sikkim,Apr-19,25,Wheat
+Tamil Nadu,Apr-19,33.52,Wheat
+Telangana,Apr-19,28.5,Wheat
+Uttar Pradesh,Apr-19,20.4,Wheat
+Uttarakhand,Apr-19,21.5,Wheat
+West Bengal,Apr-19,19.44,Wheat
+Andaman and Nicobar,May-19,38,Wheat
+Andhra Pradesh,May-19,31.48,Wheat
+Arunachal pradesh,May-19,34,Wheat
+Assam,May-19,30,Wheat
+Bihar,May-19,19.65,Wheat
+Chandigarh,May-19,23,Wheat
+Chhattisgarh,May-19,25.59,Wheat
+Delhi,May-19,21.4,Wheat
+Goa,May-19,31.17,Wheat
+Gujarat,May-19,20.75,Wheat
+Haryana,May-19,19.75,Wheat
+Himachal Pradesh,May-19,20,Wheat
+Jammu and Kashmir,May-19,21.76,Wheat
+Jharkhand,May-19,26.17,Wheat
+Karnataka,May-19,33.51,Wheat
+Kerala,May-19,35.88,Wheat
+Madhya Pradesh,May-19,22.01,Wheat
+Maharashtra,May-19,28.96,Wheat
+Meghalaya,May-19,32,Wheat
+Nagaland,May-19,28,Wheat
+Odisha,May-19,32.08,Wheat
+Puducherry,May-19,37,Wheat
+Punjab,May-19,21.22,Wheat
+Rajasthan,May-19,22.51,Wheat
+Sikkim,May-19,25,Wheat
+Tamil Nadu,May-19,35.34,Wheat
+Telangana,May-19,28.51,Wheat
+Uttar Pradesh,May-19,19.85,Wheat
+Uttarakhand,May-19,22.42,Wheat
+West Bengal,May-19,19.72,Wheat
+Andaman and Nicobar,Jun-19,38.53,Wheat
+Andhra Pradesh,Jun-19,28.88,Wheat
+Arunachal pradesh,Jun-19,34,Wheat
+Assam,Jun-19,26.69,Wheat
+Bihar,Jun-19,19.83,Wheat
+Chandigarh,Jun-19,23,Wheat
+Chhattisgarh,Jun-19,26.67,Wheat
+Delhi,Jun-19,22,Wheat
+Goa,Jun-19,31.52,Wheat
+Gujarat,Jun-19,20.75,Wheat
+Haryana,Jun-19,19.75,Wheat
+Himachal Pradesh,Jun-19,20,Wheat
+Jammu and Kashmir,Jun-19,21.07,Wheat
+Jharkhand,Jun-19,26,Wheat
+Karnataka,Jun-19,33.31,Wheat
+Kerala,Jun-19,34.86,Wheat
+Madhya Pradesh,Jun-19,21.87,Wheat
+Maharashtra,Jun-19,30.42,Wheat
+Meghalaya,Jun-19,39.39,Wheat
+Nagaland,Jun-19,28,Wheat
+Odisha,Jun-19,32.64,Wheat
+Puducherry,Jun-19,37,Wheat
+Punjab,Jun-19,20.67,Wheat
+Rajasthan,Jun-19,23.05,Wheat
+Sikkim,Jun-19,25,Wheat
+Tamil Nadu,Jun-19,35.73,Wheat
+Telangana,Jun-19,28.5,Wheat
+Uttar Pradesh,Jun-19,20.28,Wheat
+Uttarakhand,Jun-19,22.6,Wheat
+West Bengal,Jun-19,19.61,Wheat
+Andaman and Nicobar,Jul-19,39.13,Wheat
+Andhra Pradesh,Jul-19,28.15,Wheat
+Arunachal pradesh,Jul-19,35.27,Wheat
+Assam,Jul-19,26,Wheat
+Bihar,Jul-19,19.94,Wheat
+Chandigarh,Jul-19,23,Wheat
+Chhattisgarh,Jul-19,25.88,Wheat
+Delhi,Jul-19,23,Wheat
+Goa,Jul-19,32.04,Wheat
+Gujarat,Jul-19,20.8,Wheat
+Haryana,Jul-19,19.75,Wheat
+Himachal Pradesh,Jul-19,20,Wheat
+Jammu and Kashmir,Jul-19,21.94,Wheat
+Jharkhand,Jul-19,27.04,Wheat
+Karnataka,Jul-19,33.38,Wheat
+Kerala,Jul-19,34.96,Wheat
+Madhya Pradesh,Jul-19,21.62,Wheat
+Maharashtra,Jul-19,31.9,Wheat
+Meghalaya,Jul-19,42.05,Wheat
+Nagaland,Jul-19,28,Wheat
+Odisha,Jul-19,32.96,Wheat
+Puducherry,Jul-19,37.94,Wheat
+Punjab,Jul-19,20.75,Wheat
+Rajasthan,Jul-19,23.36,Wheat
+Sikkim,Jul-19,25,Wheat
+Tamil Nadu,Jul-19,34.52,Wheat
+Telangana,Jul-19,28.5,Wheat
+Uttar Pradesh,Jul-19,20.77,Wheat
+Uttarakhand,Jul-19,23.81,Wheat
+West Bengal,Jul-19,20.35,Wheat
+Andaman and Nicobar,Aug-19,40,Wheat
+Andhra Pradesh,Aug-19,29.08,Wheat
+Arunachal pradesh,Aug-19,36,Wheat
+Assam,Aug-19,26,Wheat
+Bihar,Aug-19,20.91,Wheat
+Chandigarh,Aug-19,23.19,Wheat
+Chhattisgarh,Aug-19,25.63,Wheat
+Delhi,Aug-19,24,Wheat
+Goa,Aug-19,33,Wheat
+Gujarat,Aug-19,21,Wheat
+Haryana,Aug-19,19.75,Wheat
+Himachal Pradesh,Aug-19,20,Wheat
+Jammu and Kashmir,Aug-19,23.83,Wheat
+Jharkhand,Aug-19,28,Wheat
+Karnataka,Aug-19,33.99,Wheat
+Kerala,Aug-19,33.69,Wheat
+Madhya Pradesh,Aug-19,21.59,Wheat
+Maharashtra,Aug-19,32.02,Wheat
+Meghalaya,Aug-19,41.79,Wheat
+Nagaland,Aug-19,28,Wheat
+Odisha,Aug-19,32.91,Wheat
+Puducherry,Aug-19,38,Wheat
+Punjab,Aug-19,21.1,Wheat
+Rajasthan,Aug-19,23.26,Wheat
+Sikkim,Aug-19,27.82,Wheat
+Tamil Nadu,Aug-19,34.18,Wheat
+Telangana,Aug-19,30.09,Wheat
+Uttar Pradesh,Aug-19,21.16,Wheat
+Uttarakhand,Aug-19,23.88,Wheat
+West Bengal,Aug-19,21.17,Wheat
+Andaman and Nicobar,Sep-19,40,Wheat
+Andhra Pradesh,Sep-19,31.48,Wheat
+Arunachal pradesh,Sep-19,36,Wheat
+Assam,Sep-19,26,Wheat
+Bihar,Sep-19,21.43,Wheat
+Chandigarh,Sep-19,24.97,Wheat
+Chhattisgarh,Sep-19,26.13,Wheat
+Delhi,Sep-19,24,Wheat
+Goa,Sep-19,33,Wheat
+Gujarat,Sep-19,21.39,Wheat
+Haryana,Sep-19,20.11,Wheat
+Himachal Pradesh,Sep-19,20,Wheat
+Jammu and Kashmir,Sep-19,24,Wheat
+Jharkhand,Sep-19,28,Wheat
+Karnataka,Sep-19,33.83,Wheat
+Kerala,Sep-19,34.87,Wheat
+Madhya Pradesh,Sep-19,21.81,Wheat
+Maharashtra,Sep-19,32.14,Wheat
+Meghalaya,Sep-19,37.31,Wheat
+Nagaland,Sep-19,28,Wheat
+Odisha,Sep-19,32.81,Wheat
+Puducherry,Sep-19,38,Wheat
+Punjab,Sep-19,21.67,Wheat
+Rajasthan,Sep-19,23.67,Wheat
+Sikkim,Sep-19,28,Wheat
+Tamil Nadu,Sep-19,34.56,Wheat
+Telangana,Sep-19,29.91,Wheat
+Uttar Pradesh,Sep-19,21.16,Wheat
+Uttarakhand,Sep-19,23.75,Wheat
+West Bengal,Sep-19,21.27,Wheat
+Andaman and Nicobar,Oct-19,40,Wheat
+Andhra Pradesh,Oct-19,32.02,Wheat
+Arunachal pradesh,Oct-19,36,Wheat
+Assam,Oct-19,26,Wheat
+Bihar,Oct-19,22.19,Wheat
+Chandigarh,Oct-19,25,Wheat
+Chhattisgarh,Oct-19,25.94,Wheat
+Delhi,Oct-19,24.77,Wheat
+Goa,Oct-19,32.8,Wheat
+Gujarat,Oct-19,22.88,Wheat
+Haryana,Oct-19,20.25,Wheat
+Jammu and Kashmir,Oct-19,25.88,Wheat
+Jharkhand,Oct-19,29.26,Wheat
+Karnataka,Oct-19,33.71,Wheat
+Kerala,Oct-19,34.84,Wheat
+Madhya Pradesh,Oct-19,22.13,Wheat
+Maharashtra,Oct-19,32.19,Wheat
+Meghalaya,Oct-19,37.73,Wheat
+Nagaland,Oct-19,56.24,Wheat
+Odisha,Oct-19,33.09,Wheat
+Puducherry,Oct-19,38,Wheat
+Punjab,Oct-19,21.77,Wheat
+Rajasthan,Oct-19,23.77,Wheat
+Sikkim,Oct-19,28,Wheat
+Tamil Nadu,Oct-19,35.33,Wheat
+Telangana,Oct-19,30.31,Wheat
+Uttar Pradesh,Oct-19,21.56,Wheat
+Uttarakhand,Oct-19,24.14,Wheat
+West Bengal,Oct-19,21.05,Wheat
+Andaman and Nicobar,Nov-19,40,Wheat
+Andhra Pradesh,Nov-19,34.42,Wheat
+Arunachal pradesh,Nov-19,36,Wheat
+Assam,Nov-19,26,Wheat
+Bihar,Nov-19,22.31,Wheat
+Chandigarh,Nov-19,25,Wheat
+Chhattisgarh,Nov-19,26.98,Wheat
+Delhi,Nov-19,26,Wheat
+Goa,Nov-19,33.23,Wheat
+Gujarat,Nov-19,22.84,Wheat
+Haryana,Nov-19,20.25,Wheat
+Jammu and Kashmir,Nov-19,27.2,Wheat
+Jharkhand,Nov-19,30.39,Wheat
+Karnataka,Nov-19,33.74,Wheat
+Kerala,Nov-19,34.88,Wheat
+Madhya Pradesh,Nov-19,22.39,Wheat
+Maharashtra,Nov-19,31.98,Wheat
+Meghalaya,Nov-19,38.72,Wheat
+Nagaland,Nov-19,60,Wheat
+Odisha,Nov-19,32.94,Wheat
+Puducherry,Nov-19,38,Wheat
+Punjab,Nov-19,22,Wheat
+Rajasthan,Nov-19,23.25,Wheat
+Sikkim,Nov-19,28.6,Wheat
+Tamil Nadu,Nov-19,35.17,Wheat
+Telangana,Nov-19,30.05,Wheat
+Uttar Pradesh,Nov-19,21.86,Wheat
+Uttarakhand,Nov-19,23.65,Wheat
+West Bengal,Nov-19,20.94,Wheat
+Andaman and Nicobar,Dec-19,40,Wheat
+Andhra Pradesh,Dec-19,34.03,Wheat
+Arunachal pradesh,Dec-19,36,Wheat
+Assam,Dec-19,26,Wheat
+Bihar,Dec-19,22.2,Wheat
+Chandigarh,Dec-19,25,Wheat
+Chhattisgarh,Dec-19,26.89,Wheat
+Delhi,Dec-19,25.06,Wheat
+Goa,Dec-19,33.91,Wheat
+Gujarat,Dec-19,23.01,Wheat
+Haryana,Dec-19,20.7,Wheat
+Jammu and Kashmir,Dec-19,27.18,Wheat
+Jharkhand,Dec-19,30,Wheat
+Karnataka,Dec-19,33.96,Wheat
+Kerala,Dec-19,35.31,Wheat
+Madhya Pradesh,Dec-19,22.67,Wheat
+Maharashtra,Dec-19,32.37,Wheat
+Meghalaya,Dec-19,36.84,Wheat
+Nagaland,Dec-19,60,Wheat
+Odisha,Dec-19,33.03,Wheat
+Puducherry,Dec-19,38,Wheat
+Punjab,Dec-19,22.22,Wheat
+Rajasthan,Dec-19,23.58,Wheat
+Sikkim,Dec-19,30,Wheat
+Tamil Nadu,Dec-19,35.48,Wheat
+Telangana,Dec-19,30.04,Wheat
+Uttar Pradesh,Dec-19,22.07,Wheat
+Uttarakhand,Dec-19,24.58,Wheat
+West Bengal,Dec-19,20.21,Wheat
+Andaman and Nicobar,Jan-20,40,Wheat
+Andhra Pradesh,Jan-20,33.61,Wheat
+Arunachal pradesh,Jan-20,36,Wheat
+Assam,Jan-20,26,Wheat
+Bihar,Jan-20,22.53,Wheat
+Chandigarh,Jan-20,25,Wheat
+Chhattisgarh,Jan-20,27.29,Wheat
+Delhi,Jan-20,25,Wheat
+Goa,Jan-20,33.78,Wheat
+Gujarat,Jan-20,23.01,Wheat
+Haryana,Jan-20,20.75,Wheat
+Jammu and Kashmir,Jan-20,27.11,Wheat
+Jharkhand,Jan-20,30,Wheat
+Karnataka,Jan-20,33.75,Wheat
+Kerala,Jan-20,35.44,Wheat
+Madhya Pradesh,Jan-20,22.81,Wheat
+Maharashtra,Jan-20,33.04,Wheat
+Meghalaya,Jan-20,33.47,Wheat
+Nagaland,Jan-20,60,Wheat
+Odisha,Jan-20,33.49,Wheat
+Puducherry,Jan-20,41.29,Wheat
+Punjab,Jan-20,22.45,Wheat
+Rajasthan,Jan-20,23.96,Wheat
+Sikkim,Jan-20,30,Wheat
+Tamil Nadu,Jan-20,35.87,Wheat
+Telangana,Jan-20,30.05,Wheat
+Uttar Pradesh,Jan-20,23.01,Wheat
+Uttarakhand,Jan-20,25.4,Wheat
+West Bengal,Jan-20,20.79,Wheat
+Andaman and Nicobar,Feb-20,40,Wheat
+Andhra Pradesh,Feb-20,33.62,Wheat
+Arunachal pradesh,Feb-20,36,Wheat
+Assam,Feb-20,26,Wheat
+Bihar,Feb-20,22.74,Wheat
+Chandigarh,Feb-20,25,Wheat
+Chhattisgarh,Feb-20,27.26,Wheat
+Delhi,Feb-20,24.54,Wheat
+Goa,Feb-20,34.48,Wheat
+Gujarat,Feb-20,23.73,Wheat
+Haryana,Feb-20,20.75,Wheat
+Jammu and Kashmir,Feb-20,26.31,Wheat
+Jharkhand,Feb-20,30,Wheat
+Karnataka,Feb-20,33.78,Wheat
+Kerala,Feb-20,36.14,Wheat
+Madhya Pradesh,Feb-20,22.82,Wheat
+Maharashtra,Feb-20,34.13,Wheat
+Meghalaya,Feb-20,35.08,Wheat
+Nagaland,Feb-20,60,Wheat
+Odisha,Feb-20,33.78,Wheat
+Puducherry,Feb-20,42,Wheat
+Punjab,Feb-20,22.65,Wheat
+Rajasthan,Feb-20,23.59,Wheat
+Sikkim,Feb-20,30,Wheat
+Tamil Nadu,Feb-20,36.2,Wheat
+Telangana,Feb-20,29.87,Wheat
+Uttar Pradesh,Feb-20,23.42,Wheat
+Uttarakhand,Feb-20,25.5,Wheat
+West Bengal,Feb-20,21.06,Wheat
+Andaman and Nicobar,Mar-20,40,Wheat
+Andhra Pradesh,Mar-20,33.55,Wheat
+Arunachal pradesh,Mar-20,36,Wheat
+Assam,Mar-20,26,Wheat
+Bihar,Mar-20,22.89,Wheat
+Chandigarh,Mar-20,25,Wheat
+Chhattisgarh,Mar-20,28.32,Wheat
+Delhi,Mar-20,24,Wheat
+Goa,Mar-20,34.06,Wheat
+Gujarat,Mar-20,24.7,Wheat
+Haryana,Mar-20,20.8,Wheat
+Jammu and Kashmir,Mar-20,26.93,Wheat
+Jharkhand,Mar-20,30,Wheat
+Karnataka,Mar-20,34.03,Wheat
+Kerala,Mar-20,36.12,Wheat
+Madhya Pradesh,Mar-20,23.04,Wheat
+Maharashtra,Mar-20,33.45,Wheat
+Meghalaya,Mar-20,35.12,Wheat
+Nagaland,Mar-20,60,Wheat
+Odisha,Mar-20,33.8,Wheat
+Puducherry,Mar-20,42,Wheat
+Punjab,Mar-20,22.34,Wheat
+Rajasthan,Mar-20,23.47,Wheat
+Sikkim,Mar-20,30,Wheat
+Tamil Nadu,Mar-20,35.91,Wheat
+Telangana,Mar-20,29.23,Wheat
+Uttar Pradesh,Mar-20,23.34,Wheat
+Uttarakhand,Mar-20,24.93,Wheat
+West Bengal,Mar-20,20.76,Wheat
+Andaman and Nicobar,Apr-20,42,Wheat
+Andhra Pradesh,Apr-20,33.84,Wheat
+Arunachal pradesh,Apr-20,36,Wheat
+Assam,Apr-20,26,Wheat
+Bihar,Apr-20,22.58,Wheat
+Chandigarh,Apr-20,25,Wheat
+Chhattisgarh,Apr-20,29.87,Wheat
+Delhi,Apr-20,24,Wheat
+Goa,Apr-20,36,Wheat
+Gujarat,Apr-20,24.75,Wheat
+Haryana,Apr-20,23.76,Wheat
+Jharkhand,Apr-20,32,Wheat
+Karnataka,Apr-20,34.51,Wheat
+Kerala,Apr-20,35.67,Wheat
+Madhya Pradesh,Apr-20,23.24,Wheat
+Maharashtra,Apr-20,34.33,Wheat
+Meghalaya,Apr-20,34.15,Wheat
+Nagaland,Apr-20,60,Wheat
+Odisha,Apr-20,33.85,Wheat
+Puducherry,Apr-20,38.47,Wheat
+Punjab,Apr-20,22.22,Wheat
+Rajasthan,Apr-20,22.78,Wheat
+Sikkim,Apr-20,30,Wheat
+Tamil Nadu,Apr-20,36.09,Wheat
+Telangana,Apr-20,30.87,Wheat
+Uttar Pradesh,Apr-20,22.63,Wheat
+Uttarakhand,Apr-20,25.73,Wheat
+West Bengal,Apr-20,21.2,Wheat
+Andaman and Nicobar,May-20,42,Wheat
+Andhra Pradesh,May-20,33.59,Wheat
+Assam,May-20,25.1,Wheat
+Bihar,May-20,21.07,Wheat
+Chandigarh,May-20,25,Wheat
+Chhattisgarh,May-20,29.86,Wheat
+Delhi,May-20,23.23,Wheat
+Goa,May-20,35.63,Wheat
+Gujarat,May-20,24.75,Wheat
+Haryana,May-20,23.07,Wheat
+Jharkhand,May-20,30.74,Wheat
+Karnataka,May-20,34.18,Wheat
+Kerala,May-20,35.93,Wheat
+Madhya Pradesh,May-20,23.17,Wheat
+Maharashtra,May-20,34.25,Wheat
+Meghalaya,May-20,35.44,Wheat
+Nagaland,May-20,60,Wheat
+Odisha,May-20,33.8,Wheat
+Puducherry,May-20,36.97,Wheat
+Punjab,May-20,22,Wheat
+Rajasthan,May-20,22.4,Wheat
+Sikkim,May-20,30,Wheat
+Tamil Nadu,May-20,36.56,Wheat
+Telangana,May-20,31.01,Wheat
+Uttar Pradesh,May-20,21.16,Wheat
+Uttarakhand,May-20,23.73,Wheat
+West Bengal,May-20,21.01,Wheat
+Andaman and Nicobar,Jun-20,42,Wheat
+Andhra Pradesh,Jun-20,33.62,Wheat
+Assam,Jun-20,25,Wheat
+Bihar,Jun-20,21.42,Wheat
+Chandigarh,Jun-20,21.15,Wheat
+Chhattisgarh,Jun-20,29.11,Wheat
+Delhi,Jun-20,21.93,Wheat
+Goa,Jun-20,33.6,Wheat
+Gujarat,Jun-20,24.75,Wheat
+Haryana,Jun-20,22.64,Wheat
+Jammu and Kashmir,Jun-20,27,Wheat
+Jharkhand,Jun-20,28,Wheat
+Karnataka,Jun-20,33.99,Wheat
+Kerala,Jun-20,35.78,Wheat
+Madhya Pradesh,Jun-20,23.07,Wheat
+Maharashtra,Jun-20,35.46,Wheat
+Meghalaya,Jun-20,34.15,Wheat
+Nagaland,Jun-20,37.78,Wheat
+Odisha,Jun-20,33.17,Wheat
+Puducherry,Jun-20,36,Wheat
+Punjab,Jun-20,21.72,Wheat
+Rajasthan,Jun-20,21.9,Wheat
+Sikkim,Jun-20,29.29,Wheat
+Tamil Nadu,Jun-20,36.22,Wheat
+Telangana,Jun-20,32,Wheat
+Uttar Pradesh,Jun-20,21.31,Wheat
+Uttarakhand,Jun-20,22.93,Wheat
+West Bengal,Jun-20,20.99,Wheat
+Andaman and Nicobar,Jul-20,42,Wheat
+Andhra Pradesh,Jul-20,33.24,Wheat
+Assam,Jul-20,25,Wheat
+Bihar,Jul-20,21.65,Wheat
+Chandigarh,Jul-20,21,Wheat
+Chhattisgarh,Jul-20,27.35,Wheat
+Delhi,Jul-20,20.71,Wheat
+Goa,Jul-20,33.35,Wheat
+Gujarat,Jul-20,24.51,Wheat
+Haryana,Jul-20,22.08,Wheat
+Jammu and Kashmir,Jul-20,26.5,Wheat
+Jharkhand,Jul-20,28,Wheat
+Karnataka,Jul-20,34.58,Wheat
+Kerala,Jul-20,35.56,Wheat
+Madhya Pradesh,Jul-20,23,Wheat
+Maharashtra,Jul-20,35.25,Wheat
+Meghalaya,Jul-20,33.56,Wheat
+Nagaland,Jul-20,30,Wheat
+Odisha,Jul-20,33.24,Wheat
+Puducherry,Jul-20,36,Wheat
+Punjab,Jul-20,21.59,Wheat
+Rajasthan,Jul-20,22.93,Wheat
+Sikkim,Jul-20,27,Wheat
+Tamil Nadu,Jul-20,35.92,Wheat
+Telangana,Jul-20,31.99,Wheat
+Uttar Pradesh,Jul-20,21.26,Wheat
+Uttarakhand,Jul-20,22.35,Wheat
+West Bengal,Jul-20,20.93,Wheat
+Andaman and Nicobar,Aug-20,42,Wheat
+Andhra Pradesh,Aug-20,33.29,Wheat
+Assam,Aug-20,25,Wheat
+Bihar,Aug-20,21.73,Wheat
+Chandigarh,Aug-20,21.63,Wheat
+Chhattisgarh,Aug-20,27.51,Wheat
+Delhi,Aug-20,20,Wheat
+Goa,Aug-20,33.04,Wheat
+Gujarat,Aug-20,24.5,Wheat
+Haryana,Aug-20,22.3,Wheat
+Jammu and Kashmir,Aug-20,26.59,Wheat
+Jharkhand,Aug-20,28,Wheat
+Karnataka,Aug-20,34.29,Wheat
+Kerala,Aug-20,34.22,Wheat
+Madhya Pradesh,Aug-20,22.96,Wheat
+Maharashtra,Aug-20,34.23,Wheat
+Meghalaya,Aug-20,33,Wheat
+Nagaland,Aug-20,30,Wheat
+Odisha,Aug-20,33.68,Wheat
+Puducherry,Aug-20,35.03,Wheat
+Punjab,Aug-20,21.86,Wheat
+Rajasthan,Aug-20,23,Wheat
+Sikkim,Aug-20,27,Wheat
+Tamil Nadu,Aug-20,36.25,Wheat
+Telangana,Aug-20,31.52,Wheat
+Uttar Pradesh,Aug-20,21.02,Wheat
+Uttarakhand,Aug-20,22.19,Wheat
+West Bengal,Aug-20,21.02,Wheat
+Andaman and Nicobar,Sep-20,42,Wheat
+Andhra Pradesh,Sep-20,33.12,Wheat
+Assam,Sep-20,25,Wheat
+Bihar,Sep-20,20.95,Wheat
+Chandigarh,Sep-20,22,Wheat
+Chhattisgarh,Sep-20,26.75,Wheat
+Delhi,Sep-20,19.03,Wheat
+Goa,Sep-20,32.95,Wheat
+Gujarat,Sep-20,24.38,Wheat
+Haryana,Sep-20,22.81,Wheat
+Jammu and Kashmir,Sep-20,26.5,Wheat
+Jharkhand,Sep-20,28,Wheat
+Karnataka,Sep-20,33.85,Wheat
+Kerala,Sep-20,34.5,Wheat
+Madhya Pradesh,Sep-20,22.96,Wheat
+Maharashtra,Sep-20,33.33,Wheat
+Meghalaya,Sep-20,32.59,Wheat
+Nagaland,Sep-20,30,Wheat
+Odisha,Sep-20,33.8,Wheat
+Puducherry,Sep-20,34,Wheat
+Punjab,Sep-20,21.91,Wheat
+Rajasthan,Sep-20,22.62,Wheat
+Sikkim,Sep-20,27,Wheat
+Tamil Nadu,Sep-20,35.59,Wheat
+Telangana,Sep-20,31.74,Wheat
+Uttar Pradesh,Sep-20,20.8,Wheat
+Uttarakhand,Sep-20,21.57,Wheat
+West Bengal,Sep-20,20.84,Wheat
+Andaman and Nicobar,Oct-20,42,Wheat
+Andhra Pradesh,Oct-20,32.67,Wheat
+Arunachal pradesh,Oct-20,25,Wheat
+Assam,Oct-20,25,Wheat
+Bihar,Oct-20,19.94,Wheat
+Chandigarh,Oct-20,20.97,Wheat
+Chhattisgarh,Oct-20,27.24,Wheat
+Delhi,Oct-20,19,Wheat
+Goa,Oct-20,32.89,Wheat
+Gujarat,Oct-20,24.25,Wheat
+Haryana,Oct-20,22.21,Wheat
+Jammu and Kashmir,Oct-20,25.64,Wheat
+Jharkhand,Oct-20,28,Wheat
+Karnataka,Oct-20,34.02,Wheat
+Kerala,Oct-20,34.99,Wheat
+Madhya Pradesh,Oct-20,21.76,Wheat
+Maharashtra,Oct-20,33.89,Wheat
+Meghalaya,Oct-20,31.73,Wheat
+Mizoram,Oct-20,20,Wheat
+Nagaland,Oct-20,30,Wheat
+Odisha,Oct-20,33.79,Wheat
+Puducherry,Oct-20,34,Wheat
+Punjab,Oct-20,21.81,Wheat
+Rajasthan,Oct-20,22.62,Wheat
+Sikkim,Oct-20,27,Wheat
+Tamil Nadu,Oct-20,35.54,Wheat
+Telangana,Oct-20,32,Wheat
+Uttar Pradesh,Oct-20,20.39,Wheat
+Uttarakhand,Oct-20,22.12,Wheat
+West Bengal,Oct-20,20.57,Wheat
+Andaman and Nicobar,Nov-20,42,Wheat
+Andhra Pradesh,Nov-20,32.68,Wheat
+Arunachal pradesh,Nov-20,25,Wheat
+Assam,Nov-20,25,Wheat
+Bihar,Nov-20,19.59,Wheat
+Chandigarh,Nov-20,20.72,Wheat
+Chhattisgarh,Nov-20,27.4,Wheat
+Delhi,Nov-20,19.69,Wheat
+Goa,Nov-20,33,Wheat
+Gujarat,Nov-20,24.08,Wheat
+Haryana,Nov-20,22.28,Wheat
+Himachal Pradesh,Nov-20,20,Wheat
+Jammu and Kashmir,Nov-20,25.72,Wheat
+Jharkhand,Nov-20,29.7,Wheat
+Karnataka,Nov-20,34.07,Wheat
+Kerala,Nov-20,34.62,Wheat
+Madhya Pradesh,Nov-20,21.59,Wheat
+Maharashtra,Nov-20,34.77,Wheat
+Meghalaya,Nov-20,31.36,Wheat
+Nagaland,Nov-20,32,Wheat
+Odisha,Nov-20,33.88,Wheat
+Puducherry,Nov-20,34.52,Wheat
+Punjab,Nov-20,21.71,Wheat
+Rajasthan,Nov-20,22.85,Wheat
+Sikkim,Nov-20,27.61,Wheat
+Tamil Nadu,Nov-20,35.57,Wheat
+Telangana,Nov-20,32.51,Wheat
+Uttar Pradesh,Nov-20,20.26,Wheat
+Uttarakhand,Nov-20,22.77,Wheat
+West Bengal,Nov-20,19.9,Wheat
+Andaman and Nicobar,Dec-20,42,Wheat
+Andhra Pradesh,Dec-20,32.21,Wheat
+Arunachal pradesh,Dec-20,25,Wheat
+Assam,Dec-20,25,Wheat
+Bihar,Dec-20,19.19,Wheat
+Chandigarh,Dec-20,22.03,Wheat
+Chhattisgarh,Dec-20,27.85,Wheat
+Delhi,Dec-20,20,Wheat
+Goa,Dec-20,32.71,Wheat
+Gujarat,Dec-20,24.01,Wheat
+Haryana,Dec-20,22.32,Wheat
+Jammu and Kashmir,Dec-20,25.62,Wheat
+Jharkhand,Dec-20,28.96,Wheat
+Karnataka,Dec-20,34.13,Wheat
+Kerala,Dec-20,34.4,Wheat
+Madhya Pradesh,Dec-20,21.67,Wheat
+Maharashtra,Dec-20,35.8,Wheat
+Meghalaya,Dec-20,31.13,Wheat
+Nagaland,Dec-20,34,Wheat
+Odisha,Dec-20,33.43,Wheat
+Puducherry,Dec-20,34,Wheat
+Punjab,Dec-20,20.96,Wheat
+Rajasthan,Dec-20,22.24,Wheat
+Sikkim,Dec-20,28,Wheat
+Tamil Nadu,Dec-20,35.52,Wheat
+Telangana,Dec-20,32.93,Wheat
+Uttar Pradesh,Dec-20,20.54,Wheat
+Uttarakhand,Dec-20,23.21,Wheat
+West Bengal,Dec-20,21.48,Wheat
+Andaman and Nicobar,Jan-21,42,Wheat
+Andhra Pradesh,Jan-21,32.81,Wheat
+Arunachal pradesh,Jan-21,25,Wheat
+Assam,Jan-21,25,Wheat
+Bihar,Jan-21,19.45,Wheat
+Chandigarh,Jan-21,22.76,Wheat
+Chhattisgarh,Jan-21,28.4,Wheat
+Delhi,Jan-21,21.33,Wheat
+Goa,Jan-21,33,Wheat
+Gujarat,Jan-21,24.93,Wheat
+Haryana,Jan-21,22.33,Wheat
+Jammu and Kashmir,Jan-21,25.74,Wheat
+Jharkhand,Jan-21,27.64,Wheat
+Karnataka,Jan-21,34.77,Wheat
+Kerala,Jan-21,34.64,Wheat
+Madhya Pradesh,Jan-21,22.33,Wheat
+Maharashtra,Jan-21,33.95,Wheat
+Meghalaya,Jan-21,34.6,Wheat
+Odisha,Jan-21,32.42,Wheat
+Puducherry,Jan-21,36.74,Wheat
+Punjab,Jan-21,21.64,Wheat
+Rajasthan,Jan-21,22.95,Wheat
+Sikkim,Jan-21,28,Wheat
+Tamil Nadu,Jan-21,36.1,Wheat
+Telangana,Jan-21,34.07,Wheat
+Uttar Pradesh,Jan-21,22.14,Wheat
+Uttarakhand,Jan-21,23.51,Wheat
+West Bengal,Jan-21,21.78,Wheat
+Andaman and Nicobar,Feb-21,42,Wheat
+Andhra Pradesh,Feb-21,29.76,Wheat
+Assam,Feb-21,25,Wheat
+Bihar,Feb-21,19.67,Wheat
+Chandigarh,Feb-21,22,Wheat
+Chhattisgarh,Feb-21,29.46,Wheat
+Delhi,Feb-21,22.08,Wheat
+Goa,Feb-21,33.21,Wheat
+Gujarat,Feb-21,25.16,Wheat
+Haryana,Feb-21,21.98,Wheat
+Jammu and Kashmir,Feb-21,24.84,Wheat
+Jharkhand,Feb-21,26.76,Wheat
+Karnataka,Feb-21,35.59,Wheat
+Kerala,Feb-21,35.02,Wheat
+Madhya Pradesh,Feb-21,23.15,Wheat
+Maharashtra,Feb-21,30.44,Wheat
+Meghalaya,Feb-21,37.03,Wheat
+Mizoram,Feb-21,37.5,Wheat
+Nagaland,Feb-21,34,Wheat
+Odisha,Feb-21,32.73,Wheat
+Puducherry,Feb-21,36.42,Wheat
+Punjab,Feb-21,21.32,Wheat
+Rajasthan,Feb-21,22.15,Wheat
+Sikkim,Feb-21,28,Wheat
+Tamil Nadu,Feb-21,35.81,Wheat
+Telangana,Feb-21,34.75,Wheat
+Uttar Pradesh,Feb-21,22.13,Wheat
+Uttarakhand,Feb-21,23.48,Wheat
+West Bengal,Feb-21,20.98,Wheat
+Andaman and Nicobar,Mar-21,42,Wheat
+Andhra Pradesh,Mar-21,31.67,Wheat
+Assam,Mar-21,24.74,Wheat
+Bihar,Mar-21,19.7,Wheat
+Chandigarh,Mar-21,20.97,Wheat
+Chhattisgarh,Mar-21,30.17,Wheat
+Goa,Mar-21,33.6,Wheat
+Gujarat,Mar-21,24.76,Wheat
+Haryana,Mar-21,21.78,Wheat
+Jammu and Kashmir,Mar-21,25.45,Wheat
+Jharkhand,Mar-21,23.21,Wheat
+Karnataka,Mar-21,33.76,Wheat
+Kerala,Mar-21,35.29,Wheat
+Madhya Pradesh,Mar-21,23.4,Wheat
+Maharashtra,Mar-21,30.35,Wheat
+Meghalaya,Mar-21,35.6,Wheat
+Mizoram,Mar-21,40,Wheat
+Nagaland,Mar-21,34,Wheat
+Odisha,Mar-21,32.8,Wheat
+Puducherry,Mar-21,37.94,Wheat
+Punjab,Mar-21,21.48,Wheat
+Rajasthan,Mar-21,22.18,Wheat
+Sikkim,Mar-21,27.29,Wheat
+Tamil Nadu,Mar-21,35.87,Wheat
+Telangana,Mar-21,32,Wheat
+Uttar Pradesh,Mar-21,22.45,Wheat
+Uttarakhand,Mar-21,22.89,Wheat
+West Bengal,Mar-21,22.01,Wheat
+Andaman and Nicobar,Apr-21,43.28,Wheat
+Andhra Pradesh,Apr-21,32.72,Wheat
+Assam,Apr-21,25,Wheat
+Bihar,Apr-21,19.1,Wheat
+Chandigarh,Apr-21,20.73,Wheat
+Chhattisgarh,Apr-21,27.8,Wheat
+Goa,Apr-21,35.17,Wheat
+Gujarat,Apr-21,25.53,Wheat
+Haryana,Apr-21,21.8,Wheat
+Jammu and Kashmir,Apr-21,25.72,Wheat
+Jharkhand,Apr-21,23.68,Wheat
+Karnataka,Apr-21,33.42,Wheat
+Kerala,Apr-21,35.55,Wheat
+Madhya Pradesh,Apr-21,23.85,Wheat
+Maharashtra,Apr-21,32.23,Wheat
+Meghalaya,Apr-21,33.25,Wheat
+Mizoram,Apr-21,40,Wheat
+Nagaland,Apr-21,34,Wheat
+Odisha,Apr-21,32.92,Wheat
+Puducherry,Apr-21,33.73,Wheat
+Punjab,Apr-21,21.46,Wheat
+Rajasthan,Apr-21,22.62,Wheat
+Sikkim,Apr-21,25,Wheat
+Tamil Nadu,Apr-21,35.31,Wheat
+Telangana,Apr-21,31.16,Wheat
+Uttar Pradesh,Apr-21,22.06,Wheat
+Uttarakhand,Apr-21,21.8,Wheat
+West Bengal,Apr-21,21.93,Wheat
+Andaman and Nicobar,May-21,43.58,Wheat
+Andhra Pradesh,May-21,34.88,Wheat
+Assam,May-21,25,Wheat
+Bihar,May-21,19.37,Wheat
+Chandigarh,May-21,22.47,Wheat
+Chhattisgarh,May-21,26.92,Wheat
+Goa,May-21,36,Wheat
+Gujarat,May-21,25.63,Wheat
+Haryana,May-21,21.77,Wheat
+Jammu and Kashmir,May-21,22.65,Wheat
+Jharkhand,May-21,23.99,Wheat
+Karnataka,May-21,32.88,Wheat
+Kerala,May-21,35.84,Wheat
+Madhya Pradesh,May-21,23.74,Wheat
+Maharashtra,May-21,34.37,Wheat
+Meghalaya,May-21,30.35,Wheat
+Mizoram,May-21,40,Wheat
+Nagaland,May-21,34,Wheat
+Odisha,May-21,32.88,Wheat
+Puducherry,May-21,37.88,Wheat
+Punjab,May-21,21.42,Wheat
+Rajasthan,May-21,24.56,Wheat
+Tamil Nadu,May-21,35.91,Wheat
+Telangana,May-21,31.48,Wheat
+Uttar Pradesh,May-21,21.87,Wheat
+Uttarakhand,May-21,21.07,Wheat
+West Bengal,May-21,21.25,Wheat
+Andaman and Nicobar,Jun-21,41.86,Wheat
+Andhra Pradesh,Jun-21,33.79,Wheat
+Assam,Jun-21,25,Wheat
+Bihar,Jun-21,19.72,Wheat
+Chandigarh,Jun-21,21.93,Wheat
+Chhattisgarh,Jun-21,29.02,Wheat
+Goa,Jun-21,36.06,Wheat
+Gujarat,Jun-21,25.64,Wheat
+Haryana,Jun-21,21.76,Wheat
+Jammu and Kashmir,Jun-21,24.84,Wheat
+Jharkhand,Jun-21,22.78,Wheat
+Karnataka,Jun-21,33.16,Wheat
+Kerala,Jun-21,35.99,Wheat
+Madhya Pradesh,Jun-21,22.38,Wheat
+Maharashtra,Jun-21,33.32,Wheat
+Meghalaya,Jun-21,29.33,Wheat
+Mizoram,Jun-21,40,Wheat
+Nagaland,Jun-21,34,Wheat
+Odisha,Jun-21,32.76,Wheat
+Puducherry,Jun-21,40,Wheat
+Punjab,Jun-21,21.48,Wheat
+Rajasthan,Jun-21,25.22,Wheat
+Sikkim,Jun-21,25,Wheat
+Tamil Nadu,Jun-21,35.74,Wheat
+Telangana,Jun-21,31.22,Wheat
+Uttar Pradesh,Jun-21,21.84,Wheat
+Uttarakhand,Jun-21,21.73,Wheat
+West Bengal,Jun-21,21.44,Wheat
+Andaman and Nicobar,Jul-21,41.13,Wheat
+Andhra Pradesh,Jul-21,35.05,Wheat
+Assam,Jul-21,25,Wheat
+Bihar,Jul-21,19.77,Wheat
+Chandigarh,Jul-21,20,Wheat
+Chhattisgarh,Jul-21,29.96,Wheat
+Goa,Jul-21,36,Wheat
+Gujarat,Jul-21,25.58,Wheat
+Haryana,Jul-21,21.75,Wheat
+Himachal Pradesh,Jul-21,19,Wheat
+Jammu and Kashmir,Jul-21,25.24,Wheat
+Jharkhand,Jul-21,22.81,Wheat
+Karnataka,Jul-21,32.99,Wheat
+Kerala,Jul-21,35.59,Wheat
+Madhya Pradesh,Jul-21,21.87,Wheat
+Maharashtra,Jul-21,33.92,Wheat
+Meghalaya,Jul-21,30.09,Wheat
+Nagaland,Jul-21,34,Wheat
+Odisha,Jul-21,32.59,Wheat
+Puducherry,Jul-21,40,Wheat
+Punjab,Jul-21,21.5,Wheat
+Rajasthan,Jul-21,24.97,Wheat
+Sikkim,Jul-21,25,Wheat
+Tamil Nadu,Jul-21,35.8,Wheat
+Telangana,Jul-21,32.23,Wheat
+Uttar Pradesh,Jul-21,21.91,Wheat
+Uttarakhand,Jul-21,21.56,Wheat
+West Bengal,Jul-21,22.14,Wheat
+Andaman and Nicobar,Aug-21,41.54,Wheat
+Andhra Pradesh,Aug-21,35.49,Wheat
+Assam,Aug-21,25,Wheat
+Bihar,Aug-21,19.47,Wheat
+Chandigarh,Aug-21,20,Wheat
+Chhattisgarh,Aug-21,30.72,Wheat
+Goa,Aug-21,36,Wheat
+Gujarat,Aug-21,25.53,Wheat
+Haryana,Aug-21,21.59,Wheat
+Himachal Pradesh,Aug-21,23,Wheat
+Jammu and Kashmir,Aug-21,25.14,Wheat
+Jharkhand,Aug-21,23.13,Wheat
+Karnataka,Aug-21,33.53,Wheat
+Kerala,Aug-21,35.38,Wheat
+Madhya Pradesh,Aug-21,21.91,Wheat
+Maharashtra,Aug-21,33.39,Wheat
+Meghalaya,Aug-21,29.69,Wheat
+Nagaland,Aug-21,34,Wheat
+Odisha,Aug-21,32.58,Wheat
+Puducherry,Aug-21,37.76,Wheat
+Punjab,Aug-21,21.29,Wheat
+Rajasthan,Aug-21,25.26,Wheat
+Sikkim,Aug-21,25,Wheat
+Tamil Nadu,Aug-21,35.85,Wheat
+Telangana,Aug-21,32.19,Wheat
+Uttar Pradesh,Aug-21,21.81,Wheat
+Uttarakhand,Aug-21,21.01,Wheat
+West Bengal,Aug-21,22.52,Wheat
+Andaman and Nicobar,Sep-21,40.93,Wheat
+Andhra Pradesh,Sep-21,37.01,Wheat
+Assam,Sep-21,25,Wheat
+Bihar,Sep-21,19.46,Wheat
+Chandigarh,Sep-21,20,Wheat
+Chhattisgarh,Sep-21,28.44,Wheat
+Delhi,Sep-21,25,Wheat
+Goa,Sep-21,36,Wheat
+Gujarat,Sep-21,26.51,Wheat
+Haryana,Sep-21,21.8,Wheat
+Jammu and Kashmir,Sep-21,25.79,Wheat
+Jharkhand,Sep-21,23.15,Wheat
+Karnataka,Sep-21,33.77,Wheat
+Kerala,Sep-21,35.55,Wheat
+Madhya Pradesh,Sep-21,22.07,Wheat
+Maharashtra,Sep-21,31.12,Wheat
+Meghalaya,Sep-21,29.98,Wheat
+Mizoram,Sep-21,40,Wheat
+Nagaland,Sep-21,34,Wheat
+Odisha,Sep-21,32.67,Wheat
+Puducherry,Sep-21,36.18,Wheat
+Punjab,Sep-21,21,Wheat
+Rajasthan,Sep-21,25.45,Wheat
+Sikkim,Sep-21,25,Wheat
+Tamil Nadu,Sep-21,36.23,Wheat
+Telangana,Sep-21,31.43,Wheat
+Uttar Pradesh,Sep-21,21.68,Wheat
+Uttarakhand,Sep-21,20.99,Wheat
+West Bengal,Sep-21,23,Wheat
+Andaman and Nicobar,Oct-21,40.68,Wheat
+Andhra Pradesh,Oct-21,35.45,Wheat
+Assam,Oct-21,25,Wheat
+Bihar,Oct-21,20.15,Wheat
+Chandigarh,Oct-21,20,Wheat
+Chhattisgarh,Oct-21,27.98,Wheat
+Delhi,Oct-21,22.74,Wheat
+Goa,Oct-21,36,Wheat
+Gujarat,Oct-21,27.65,Wheat
+Haryana,Oct-21,21.81,Wheat
+Himachal Pradesh,Oct-21,25.42,Wheat
+Jammu and Kashmir,Oct-21,26.33,Wheat
+Jharkhand,Oct-21,24.06,Wheat
+Karnataka,Oct-21,33.78,Wheat
+Kerala,Oct-21,36.15,Wheat
+Madhya Pradesh,Oct-21,22.51,Wheat
+Maharashtra,Oct-21,31.3,Wheat
+Meghalaya,Oct-21,30.9,Wheat
+Mizoram,Oct-21,40,Wheat
+Nagaland,Oct-21,34.54,Wheat
+Odisha,Oct-21,33.17,Wheat
+Puducherry,Oct-21,37.83,Wheat
+Punjab,Oct-21,21,Wheat
+Rajasthan,Oct-21,26.01,Wheat
+Sikkim,Oct-21,25,Wheat
+Tamil Nadu,Oct-21,36.57,Wheat
+Telangana,Oct-21,32.02,Wheat
+Uttar Pradesh,Oct-21,21.81,Wheat
+Uttarakhand,Oct-21,21.13,Wheat
+West Bengal,Oct-21,23.33,Wheat
+Andaman and Nicobar,Nov-21,41.13,Wheat
+Andhra Pradesh,Nov-21,36.04,Wheat
+Assam,Nov-21,25,Wheat
+Bihar,Nov-21,20.93,Wheat
+Chandigarh,Nov-21,20,Wheat
+Chhattisgarh,Nov-21,28.4,Wheat
+Delhi,Nov-21,24,Wheat
+Goa,Nov-21,36,Wheat
+Gujarat,Nov-21,28.15,Wheat
+Haryana,Nov-21,21.8,Wheat
+Himachal Pradesh,Nov-21,25.5,Wheat
+Jammu and Kashmir,Nov-21,26.79,Wheat
+Jharkhand,Nov-21,24.6,Wheat
+Karnataka,Nov-21,34.37,Wheat
+Kerala,Nov-21,37.18,Wheat
+Madhya Pradesh,Nov-21,23.26,Wheat
+Maharashtra,Nov-21,32.12,Wheat
+Meghalaya,Nov-21,31.63,Wheat
+Mizoram,Nov-21,40,Wheat
+Nagaland,Nov-21,35,Wheat
+Odisha,Nov-21,33.2,Wheat
+Puducherry,Nov-21,37.73,Wheat
+Punjab,Nov-21,21,Wheat
+Rajasthan,Nov-21,26.61,Wheat
+Sikkim,Nov-21,25,Wheat
+Tamil Nadu,Nov-21,37.18,Wheat
+Telangana,Nov-21,32.28,Wheat
+Uttar Pradesh,Nov-21,22.21,Wheat
+Uttarakhand,Nov-21,21.04,Wheat
+West Bengal,Nov-21,24.21,Wheat
+Andaman and Nicobar,Dec-21,40.88,Wheat
+Andhra Pradesh,Dec-21,35.78,Wheat
+Assam,Dec-21,25,Wheat
+Bihar,Dec-21,20.9,Wheat
+Chandigarh,Dec-21,19.74,Wheat
+Chhattisgarh,Dec-21,28.47,Wheat
+Delhi,Dec-21,24,Wheat
+Goa,Dec-21,36.89,Wheat
+Gujarat,Dec-21,28.58,Wheat
+Haryana,Dec-21,21.81,Wheat
+Himachal Pradesh,Dec-21,25.84,Wheat
+Jammu and Kashmir,Dec-21,27.83,Wheat
+Jharkhand,Dec-21,24.95,Wheat
+Karnataka,Dec-21,33.49,Wheat
+Kerala,Dec-21,37.36,Wheat
+Madhya Pradesh,Dec-21,22.91,Wheat
+Maharashtra,Dec-21,32.35,Wheat
+Meghalaya,Dec-21,31.77,Wheat
+Nagaland,Dec-21,34.5,Wheat
+Odisha,Dec-21,33.46,Wheat
+Puducherry,Dec-21,31.57,Wheat
+Punjab,Dec-21,21.22,Wheat
+Rajasthan,Dec-21,25.83,Wheat
+Sikkim,Dec-21,25,Wheat
+Tamil Nadu,Dec-21,36.8,Wheat
+Telangana,Dec-21,31.31,Wheat
+Uttar Pradesh,Dec-21,22.87,Wheat
+Uttarakhand,Dec-21,21.67,Wheat
+West Bengal,Dec-21,23,Wheat
+Andaman and Nicobar,Jan-22,41,Wheat
+Andhra Pradesh,Jan-22,35.73,Wheat
+Assam,Jan-22,25,Wheat
+Bihar,Jan-22,21.11,Wheat
+Chandigarh,Jan-22,19.23,Wheat
+Chhattisgarh,Jan-22,28.19,Wheat
+Goa,Jan-22,37.4,Wheat
+Gujarat,Jan-22,28.77,Wheat
+Haryana,Jan-22,22.05,Wheat
+Himachal Pradesh,Jan-22,25.55,Wheat
+Jammu and Kashmir,Jan-22,27.62,Wheat
+Jharkhand,Jan-22,25.74,Wheat
+Karnataka,Jan-22,33.47,Wheat
+Kerala,Jan-22,37.91,Wheat
+Madhya Pradesh,Jan-22,23.11,Wheat
+Maharashtra,Jan-22,31.73,Wheat
+Meghalaya,Jan-22,31.15,Wheat
+Nagaland,Jan-22,35,Wheat
+Odisha,Jan-22,33.6,Wheat
+Puducherry,Jan-22,30,Wheat
+Punjab,Jan-22,22.19,Wheat
+Rajasthan,Jan-22,26.82,Wheat
+Sikkim,Jan-22,25,Wheat
+Tamil Nadu,Jan-22,36.96,Wheat
+Telangana,Jan-22,31.52,Wheat
+Uttar Pradesh,Jan-22,22.92,Wheat
+Uttarakhand,Jan-22,21.84,Wheat
+West Bengal,Jan-22,23.16,Wheat
+Andhra Pradesh,Feb-22,36.58,Wheat
+Assam,Feb-22,25,Wheat
+Bihar,Feb-22,21.28,Wheat
+Chandigarh,Feb-22,20,Wheat
+Chhattisgarh,Feb-22,28.1,Wheat
+Goa,Feb-22,38.26,Wheat
+Gujarat,Feb-22,28.99,Wheat
+Haryana,Feb-22,22.06,Wheat
+Himachal Pradesh,Feb-22,26.04,Wheat
+Jammu and Kashmir,Feb-22,28.44,Wheat
+Jharkhand,Feb-22,26.52,Wheat
+Karnataka,Feb-22,34.25,Wheat
+Kerala,Feb-22,37.97,Wheat
+Madhya Pradesh,Feb-22,23.49,Wheat
+Maharashtra,Feb-22,32.31,Wheat
+Meghalaya,Feb-22,31.09,Wheat
+Mizoram,Feb-22,40,Wheat
+Nagaland,Feb-22,34.91,Wheat
+Odisha,Feb-22,33.14,Wheat
+Puducherry,Feb-22,30.73,Wheat
+Punjab,Feb-22,21.65,Wheat
+Rajasthan,Feb-22,26.79,Wheat
+Sikkim,Feb-22,25,Wheat
+Tamil Nadu,Feb-22,37.45,Wheat
+Telangana,Feb-22,32.97,Wheat
+Uttar Pradesh,Feb-22,23.06,Wheat
+Uttarakhand,Feb-22,21.77,Wheat
+West Bengal,Feb-22,23.12,Wheat
+Andhra Pradesh,Mar-22,34.66,Wheat
+Assam,Mar-22,25,Wheat
+Bihar,Mar-22,22.5,Wheat
+Chandigarh,Mar-22,20.74,Wheat
+Chhattisgarh,Mar-22,28.4,Wheat
+Delhi,Mar-22,23.33,Wheat
+Goa,Mar-22,38.18,Wheat
+Gujarat,Mar-22,28.49,Wheat
+Haryana,Mar-22,22.16,Wheat
+Himachal Pradesh,Mar-22,26,Wheat
+Jammu and Kashmir,Mar-22,28.94,Wheat
+Jharkhand,Mar-22,26.07,Wheat
+Karnataka,Mar-22,34.58,Wheat
+Kerala,Mar-22,37.94,Wheat
+Madhya Pradesh,Mar-22,24.9,Wheat
+Maharashtra,Mar-22,32.84,Wheat
+Meghalaya,Mar-22,31.02,Wheat
+Mizoram,Mar-22,40,Wheat
+Nagaland,Mar-22,35,Wheat
+Odisha,Mar-22,33.59,Wheat
+Puducherry,Mar-22,36.37,Wheat
+Punjab,Mar-22,21.02,Wheat
+Rajasthan,Mar-22,26.96,Wheat
+Sikkim,Mar-22,25,Wheat
+Tamil Nadu,Mar-22,37.77,Wheat
+Telangana,Mar-22,33.58,Wheat
+Uttar Pradesh,Mar-22,23.31,Wheat
+Uttarakhand,Mar-22,23,Wheat
+West Bengal,Mar-22,22.85,Wheat
+Andaman and Nicobar,Apr-22,41.06,Wheat
+Andhra Pradesh,Apr-22,35.34,Wheat
+Assam,Apr-22,27.41,Wheat
+Bihar,Apr-22,22.5,Wheat
+Chandigarh,Apr-22,21.13,Wheat
+Chhattisgarh,Apr-22,29.11,Wheat
+Delhi,Apr-22,25,Wheat
+Goa,Apr-22,38,Wheat
+Gujarat,Apr-22,28.55,Wheat
+Haryana,Apr-22,23.24,Wheat
+Himachal Pradesh,Apr-22,26.8,Wheat
+Jammu and Kashmir,Apr-22,29.26,Wheat
+Jharkhand,Apr-22,26.61,Wheat
+Karnataka,Apr-22,35.61,Wheat
+Kerala,Apr-22,37.88,Wheat
+Madhya Pradesh,Apr-22,25.02,Wheat
+Maharashtra,Apr-22,33.82,Wheat
+Meghalaya,Apr-22,31.26,Wheat
+Mizoram,Apr-22,40,Wheat
+Nagaland,Apr-22,38.61,Wheat
+Odisha,Apr-22,33.7,Wheat
+Puducherry,Apr-22,38,Wheat
+Punjab,Apr-22,21.17,Wheat
+Rajasthan,Apr-22,27.49,Wheat
+Sikkim,Apr-22,25,Wheat
+Tamil Nadu,Apr-22,37.58,Wheat
+Telangana,Apr-22,33.67,Wheat
+Uttar Pradesh,Apr-22,23.44,Wheat
+Uttarakhand,Apr-22,24.01,Wheat
+West Bengal,Apr-22,23.14,Wheat
+Andaman and Nicobar,May-22,40.52,Wheat
+Andhra Pradesh,May-22,36.34,Wheat
+Assam,May-22,28,Wheat
+Bihar,May-22,22.94,Wheat
+Chandigarh,May-22,21.16,Wheat
+Chhattisgarh,May-22,29.62,Wheat
+Delhi,May-22,25,Wheat
+Goa,May-22,38,Wheat
+Gujarat,May-22,29.53,Wheat
+Haryana,May-22,23.54,Wheat
+Himachal Pradesh,May-22,27.03,Wheat
+Jammu and Kashmir,May-22,28.89,Wheat
+Jharkhand,May-22,26.61,Wheat
+Karnataka,May-22,35.74,Wheat
+Kerala,May-22,38.72,Wheat
+Madhya Pradesh,May-22,25.55,Wheat
+Maharashtra,May-22,33.94,Wheat
+Meghalaya,May-22,31.98,Wheat
+Mizoram,May-22,40,Wheat
+Nagaland,May-22,36.22,Wheat
+Odisha,May-22,33.63,Wheat
+Puducherry,May-22,41.42,Wheat
+Punjab,May-22,21.89,Wheat
+Rajasthan,May-22,28.97,Wheat
+Sikkim,May-22,28.45,Wheat
+Tamil Nadu,May-22,38.16,Wheat
+Telangana,May-22,34.14,Wheat
+Uttar Pradesh,May-22,23.09,Wheat
+Uttarakhand,May-22,23.62,Wheat
+West Bengal,May-22,22.61,Wheat
+Andaman and Nicobar,Jun-22,40.04,Wheat
+Andhra Pradesh,Jun-22,37.05,Wheat
+Assam,Jun-22,27.61,Wheat
+Bihar,Jun-22,23.05,Wheat
+Chandigarh,Jun-22,22.48,Wheat
+Chhattisgarh,Jun-22,30.07,Wheat
+Delhi,Jun-22,22.86,Wheat
+Goa,Jun-22,38.14,Wheat
+Gujarat,Jun-22,30.12,Wheat
+Haryana,Jun-22,24.13,Wheat
+Himachal Pradesh,Jun-22,27,Wheat
+Jammu and Kashmir,Jun-22,29.75,Wheat
+Jharkhand,Jun-22,26.23,Wheat
+Karnataka,Jun-22,34.97,Wheat
+Kerala,Jun-22,39.77,Wheat
+Madhya Pradesh,Jun-22,26.61,Wheat
+Maharashtra,Jun-22,33.9,Wheat
+Manipur,Jun-22,34,Wheat
+Meghalaya,Jun-22,32.34,Wheat
+Mizoram,Jun-22,40,Wheat
+Nagaland,Jun-22,35,Wheat
+Odisha,Jun-22,33.55,Wheat
+Puducherry,Jun-22,39.93,Wheat
+Punjab,Jun-22,22.15,Wheat
+Rajasthan,Jun-22,29.47,Wheat
+Sikkim,Jun-22,30,Wheat
+Tamil Nadu,Jun-22,38.46,Wheat
+Telangana,Jun-22,33.95,Wheat
+Uttar Pradesh,Jun-22,23.13,Wheat
+Uttarakhand,Jun-22,24.02,Wheat
+West Bengal,Jun-22,23.18,Wheat
+Andaman and Nicobar,Jul-22,39.35,Wheat
+Andhra Pradesh,Jul-22,37.46,Wheat
+Assam,Jul-22,26.21,Wheat
+Bihar,Jul-22,23.65,Wheat
+Chandigarh,Jul-22,23.58,Wheat
+Chhattisgarh,Jul-22,30.2,Wheat
+Delhi,Jul-22,24,Wheat
+Goa,Jul-22,38.05,Wheat
+Gujarat,Jul-22,30.64,Wheat
+Haryana,Jul-22,24.15,Wheat
+Himachal Pradesh,Jul-22,27,Wheat
+Jammu and Kashmir,Jul-22,29.28,Wheat
+Jharkhand,Jul-22,26.65,Wheat
+Karnataka,Jul-22,35.66,Wheat
+Kerala,Jul-22,39.57,Wheat
+Madhya Pradesh,Jul-22,26.2,Wheat
+Maharashtra,Jul-22,33.06,Wheat
+Manipur,Jul-22,34,Wheat
+Meghalaya,Jul-22,32.35,Wheat
+Mizoram,Jul-22,40,Wheat
+Nagaland,Jul-22,35.43,Wheat
+Odisha,Jul-22,34.12,Wheat
+Puducherry,Jul-22,39.19,Wheat
+Punjab,Jul-22,22.42,Wheat
+Rajasthan,Jul-22,29.65,Wheat
+Sikkim,Jul-22,30,Wheat
+Tamil Nadu,Jul-22,38.46,Wheat
+Telangana,Jul-22,34.08,Wheat
+Uttar Pradesh,Jul-22,23.73,Wheat
+Uttarakhand,Jul-22,25.06,Wheat
+West Bengal,Jul-22,22.69,Wheat
+Andaman and Nicobar,Aug-22,38.92,Wheat
+Andhra Pradesh,Aug-22,38.68,Wheat
+Assam,Aug-22,26.63,Wheat
+Bihar,Aug-22,25.46,Wheat
+Chandigarh,Aug-22,23.48,Wheat
+Chhattisgarh,Aug-22,29.85,Wheat
+Delhi,Aug-22,24.52,Wheat
+Goa,Aug-22,38.11,Wheat
+Gujarat,Aug-22,31.48,Wheat
+Haryana,Aug-22,24.39,Wheat
+Jammu and Kashmir,Aug-22,28.36,Wheat
+Jharkhand,Aug-22,26.9,Wheat
+Karnataka,Aug-22,36.43,Wheat
+Kerala,Aug-22,40.33,Wheat
+Madhya Pradesh,Aug-22,25.95,Wheat
+Maharashtra,Aug-22,34.15,Wheat
+Manipur,Aug-22,34,Wheat
+Meghalaya,Aug-22,34.75,Wheat
+Mizoram,Aug-22,40,Wheat
+Nagaland,Aug-22,39.64,Wheat
+Odisha,Aug-22,34.49,Wheat
+Puducherry,Aug-22,40,Wheat
+Punjab,Aug-22,22.73,Wheat
+Rajasthan,Aug-22,29.87,Wheat
+Sikkim,Aug-22,30,Wheat
+Tamil Nadu,Aug-22,38.58,Wheat
+Telangana,Aug-22,33.97,Wheat
+Uttar Pradesh,Aug-22,25.19,Wheat
+Uttarakhand,Aug-22,26.35,Wheat
+West Bengal,Aug-22,22.06,Wheat
+Andaman and Nicobar,Sep-22,39.08,Wheat
+Andhra Pradesh,Sep-22,38.98,Wheat
+Arunachal pradesh,Sep-22,39.5,Wheat
+Assam,Sep-22,26.73,Wheat
+Bihar,Sep-22,26.83,Wheat
+Chandigarh,Sep-22,24,Wheat
+Chhattisgarh,Sep-22,30.12,Wheat
+Delhi,Sep-22,25,Wheat
+DNH and DD,Sep-22,32.14,Wheat
+Goa,Sep-22,38.48,Wheat
+Gujarat,Sep-22,30.87,Wheat
+Haryana,Sep-22,24.52,Wheat
+Himachal Pradesh,Sep-22,21.26,Wheat
+Jammu and Kashmir,Sep-22,28.42,Wheat
+Jharkhand,Sep-22,27.08,Wheat
+Karnataka,Sep-22,37.04,Wheat
+Kerala,Sep-22,41.56,Wheat
+Madhya Pradesh,Sep-22,26.28,Wheat
+Maharashtra,Sep-22,33.78,Wheat
+Manipur,Sep-22,34,Wheat
+Meghalaya,Sep-22,36.98,Wheat
+Mizoram,Sep-22,40,Wheat
+Nagaland,Sep-22,38.6,Wheat
+Odisha,Sep-22,34.32,Wheat
+Puducherry,Sep-22,40,Wheat
+Punjab,Sep-22,23.36,Wheat
+Rajasthan,Sep-22,30.09,Wheat
+Sikkim,Sep-22,34.76,Wheat
+Tamil Nadu,Sep-22,38.95,Wheat
+Telangana,Sep-22,34.33,Wheat
+Uttar Pradesh,Sep-22,25.81,Wheat
+Uttarakhand,Sep-22,26.83,Wheat
+West Bengal,Sep-22,24.72,Wheat
+Andaman and Nicobar,Oct-22,40,Wheat
+Andhra Pradesh,Oct-22,40.66,Wheat
+Arunachal pradesh,Oct-22,40,Wheat
+Assam,Oct-22,29.3,Wheat
+Bihar,Oct-22,27.31,Wheat
+Chandigarh,Oct-22,23.93,Wheat
+Chhattisgarh,Oct-22,29.05,Wheat
+Delhi,Oct-22,25.39,Wheat
+DNH and DD,Oct-22,30.19,Wheat
+Goa,Oct-22,39.23,Wheat
+Gujarat,Oct-22,30.96,Wheat
+Haryana,Oct-22,24.17,Wheat
+Himachal Pradesh,Oct-22,23.16,Wheat
+Jammu and Kashmir,Oct-22,28.65,Wheat
+Jharkhand,Oct-22,27.77,Wheat
+Karnataka,Oct-22,36.55,Wheat
+Kerala,Oct-22,41.71,Wheat
+Madhya Pradesh,Oct-22,26.53,Wheat
+Maharashtra,Oct-22,33.81,Wheat
+Manipur,Oct-22,34,Wheat
+Meghalaya,Oct-22,37.23,Wheat
+Mizoram,Oct-22,40,Wheat
+Nagaland,Oct-22,37.74,Wheat
+Odisha,Oct-22,34.37,Wheat
+Puducherry,Oct-22,40.34,Wheat
+Punjab,Oct-22,23.69,Wheat
+Rajasthan,Oct-22,30.25,Wheat
+Sikkim,Oct-22,38,Wheat
+Tamil Nadu,Oct-22,39.27,Wheat
+Telangana,Oct-22,34.51,Wheat
+Uttar Pradesh,Oct-22,25.94,Wheat
+Uttarakhand,Oct-22,27.2,Wheat
+West Bengal,Oct-22,25.19,Wheat
+Andaman and Nicobar,Nov-22,40,Wheat
+Andhra Pradesh,Nov-22,40.8,Wheat
+Arunachal pradesh,Nov-22,40,Wheat
+Assam,Nov-22,30.34,Wheat
+Bihar,Nov-22,27.94,Wheat
+Chandigarh,Nov-22,27.7,Wheat
+Chhattisgarh,Nov-22,30.25,Wheat
+Delhi,Nov-22,26.8,Wheat
+DNH and DD,Nov-22,30.82,Wheat
+Goa,Nov-22,40.05,Wheat
+Gujarat,Nov-22,31.34,Wheat
+Haryana,Nov-22,24.39,Wheat
+Himachal Pradesh,Nov-22,24.6,Wheat
+Jammu and Kashmir,Nov-22,29.41,Wheat
+Jharkhand,Nov-22,28.42,Wheat
+Karnataka,Nov-22,38.62,Wheat
+Kerala,Nov-22,42.14,Wheat
+Madhya Pradesh,Nov-22,27.42,Wheat
+Maharashtra,Nov-22,35.23,Wheat
+Manipur,Nov-22,20,Wheat
+Meghalaya,Nov-22,38.11,Wheat
+Mizoram,Nov-22,40,Wheat
+Nagaland,Nov-22,37.72,Wheat
+Odisha,Nov-22,34.5,Wheat
+Puducherry,Nov-22,40.54,Wheat
+Punjab,Nov-22,23.95,Wheat
+Rajasthan,Nov-22,30.7,Wheat
+Sikkim,Nov-22,36.92,Wheat
+Tamil Nadu,Nov-22,39.74,Wheat
+Telangana,Nov-22,35.17,Wheat
+Uttar Pradesh,Nov-22,26.6,Wheat
+Uttarakhand,Nov-22,27.72,Wheat
+West Bengal,Nov-22,25.52,Wheat
+Andaman and Nicobar,Dec-22,40.13,Wheat
+Andhra Pradesh,Dec-22,40.77,Wheat
+Arunachal pradesh,Dec-22,40.17,Wheat
+Assam,Dec-22,30.53,Wheat
+Bihar,Dec-22,28.62,Wheat
+Chandigarh,Dec-22,28,Wheat
+Chhattisgarh,Dec-22,30.78,Wheat
+Delhi,Dec-22,28,Wheat
+DNH and DD,Dec-22,30.72,Wheat
+Goa,Dec-22,41.05,Wheat
+Gujarat,Dec-22,31.51,Wheat
+Haryana,Dec-22,24.82,Wheat
+Himachal Pradesh,Dec-22,24.52,Wheat
+Jammu and Kashmir,Dec-22,29.39,Wheat
+Jharkhand,Dec-22,29.93,Wheat
+Karnataka,Dec-22,39.7,Wheat
+Kerala,Dec-22,43.1,Wheat
+Madhya Pradesh,Dec-22,29.08,Wheat
+Maharashtra,Dec-22,36.64,Wheat
+Manipur,Dec-22,20,Wheat
+Meghalaya,Dec-22,38.83,Wheat
+Mizoram,Dec-22,39.81,Wheat
+Nagaland,Dec-22,38.31,Wheat
+Odisha,Dec-22,34.76,Wheat
+Puducherry,Dec-22,39.48,Wheat
+Punjab,Dec-22,24.38,Wheat
+Rajasthan,Dec-22,30.34,Wheat
+Sikkim,Dec-22,35.36,Wheat
+Tamil Nadu,Dec-22,40.09,Wheat
+Telangana,Dec-22,36.05,Wheat
+Uttar Pradesh,Dec-22,27.83,Wheat
+Uttarakhand,Dec-22,28.03,Wheat
+West Bengal,Dec-22,25.98,Wheat
+Andaman and Nicobar,Jan-23,40,Wheat
+Andhra Pradesh,Jan-23,41.12,Wheat
+Arunachal pradesh,Jan-23,40.21,Wheat
+Assam,Jan-23,30.66,Wheat
+Bihar,Jan-23,29.77,Wheat
+Chandigarh,Jan-23,28,Wheat
+Chhattisgarh,Jan-23,31.76,Wheat
+Delhi,Jan-23,29.1,Wheat
+DNH and DD,Jan-23,30.29,Wheat
+Goa,Jan-23,42.05,Wheat
+Gujarat,Jan-23,31.99,Wheat
+Haryana,Jan-23,25.26,Wheat
+Himachal Pradesh,Jan-23,24.65,Wheat
+Jammu and Kashmir,Jan-23,29.87,Wheat
+Jharkhand,Jan-23,30.91,Wheat
+Karnataka,Jan-23,40.28,Wheat
+Kerala,Jan-23,43.48,Wheat
+Madhya Pradesh,Jan-23,29.53,Wheat
+Maharashtra,Jan-23,37.92,Wheat
+Meghalaya,Jan-23,39.08,Wheat
+Mizoram,Jan-23,40.06,Wheat
+Nagaland,Jan-23,38.6,Wheat
+Odisha,Jan-23,35.77,Wheat
+Puducherry,Jan-23,39.65,Wheat
+Punjab,Jan-23,26.04,Wheat
+Rajasthan,Jan-23,30.49,Wheat
+Sikkim,Jan-23,35.54,Wheat
+Tamil Nadu,Jan-23,41,Wheat
+Telangana,Jan-23,36.4,Wheat
+Uttar Pradesh,Jan-23,28.78,Wheat
+Uttarakhand,Jan-23,28.4,Wheat
+West Bengal,Jan-23,25.94,Wheat
+Andaman and Nicobar,Feb-23,40,Wheat
+Andhra Pradesh,Feb-23,41.81,Wheat
+Arunachal pradesh,Feb-23,41.17,Wheat
+Assam,Feb-23,32.42,Wheat
+Bihar,Feb-23,29.8,Wheat
+Chandigarh,Feb-23,28,Wheat
+Chhattisgarh,Feb-23,32.89,Wheat
+Delhi,Feb-23,30.57,Wheat
+DNH and DD,Feb-23,30.2,Wheat
+Goa,Feb-23,42.6,Wheat
+Gujarat,Feb-23,31.6,Wheat
+Haryana,Feb-23,25.77,Wheat
+Himachal Pradesh,Feb-23,21.28,Wheat
+Jammu and Kashmir,Feb-23,29.38,Wheat
+Jharkhand,Feb-23,31.95,Wheat
+Karnataka,Feb-23,41.21,Wheat
+Kerala,Feb-23,43.91,Wheat
+Madhya Pradesh,Feb-23,29.02,Wheat
+Maharashtra,Feb-23,38.65,Wheat
+Meghalaya,Feb-23,40.15,Wheat
+Mizoram,Feb-23,40.5,Wheat
+Nagaland,Feb-23,41.28,Wheat
+Odisha,Feb-23,37.54,Wheat
+Puducherry,Feb-23,39.45,Wheat
+Punjab,Feb-23,26.67,Wheat
+Rajasthan,Feb-23,30.77,Wheat
+Sikkim,Feb-23,36.32,Wheat
+Tamil Nadu,Feb-23,41.93,Wheat
+Telangana,Feb-23,36.55,Wheat
+Uttar Pradesh,Feb-23,27.81,Wheat
+Uttarakhand,Feb-23,28.71,Wheat
+West Bengal,Feb-23,26.73,Wheat
+Andaman and Nicobar,Mar-23,40,Wheat
+Andhra Pradesh,Mar-23,41.78,Wheat
+Arunachal pradesh,Mar-23,42,Wheat
+Assam,Mar-23,32.58,Wheat
+Bihar,Mar-23,28.09,Wheat
+Chandigarh,Mar-23,28,Wheat
+Chhattisgarh,Mar-23,32.66,Wheat
+Delhi,Mar-23,29.39,Wheat
+DNH and DD,Mar-23,31.02,Wheat
+Goa,Mar-23,43.02,Wheat
+Gujarat,Mar-23,31.81,Wheat
+Haryana,Mar-23,25.83,Wheat
+Himachal Pradesh,Mar-23,21,Wheat
+Jammu and Kashmir,Mar-23,28.98,Wheat
+Jharkhand,Mar-23,31.91,Wheat
+Karnataka,Mar-23,40.98,Wheat
+Kerala,Mar-23,44.29,Wheat
+Madhya Pradesh,Mar-23,26.94,Wheat
+Maharashtra,Mar-23,37.08,Wheat
+Meghalaya,Mar-23,39.86,Wheat
+Mizoram,Mar-23,40.67,Wheat
+Nagaland,Mar-23,39,Wheat
+Odisha,Mar-23,36.98,Wheat
+Puducherry,Mar-23,41.06,Wheat
+Punjab,Mar-23,24.65,Wheat
+Rajasthan,Mar-23,29.85,Wheat
+Sikkim,Mar-23,36.28,Wheat
+Tamil Nadu,Mar-23,42.26,Wheat
+Telangana,Mar-23,36.82,Wheat
+Uttar Pradesh,Mar-23,25.65,Wheat
+Uttarakhand,Mar-23,27.29,Wheat
+West Bengal,Mar-23,26.55,Wheat
+Andaman and Nicobar,Apr-23,40,Wheat
+Andhra Pradesh,Apr-23,41.18,Wheat
+Arunachal pradesh,Apr-23,42,Wheat
+Assam,Apr-23,31.66,Wheat
+Bihar,Apr-23,25.96,Wheat
+Chandigarh,Apr-23,28.4,Wheat
+Chhattisgarh,Apr-23,33.04,Wheat
+Delhi,Apr-23,28.6,Wheat
+DNH and DD,Apr-23,32.63,Wheat
+Goa,Apr-23,42.71,Wheat
+Gujarat,Apr-23,31.51,Wheat
+Haryana,Apr-23,25.62,Wheat
+Himachal Pradesh,Apr-23,21,Wheat
+Jammu and Kashmir,Apr-23,29.57,Wheat
+Jharkhand,Apr-23,31.09,Wheat
+Karnataka,Apr-23,40.67,Wheat
+Kerala,Apr-23,44.35,Wheat
+Madhya Pradesh,Apr-23,25.83,Wheat
+Maharashtra,Apr-23,36.9,Wheat
+Manipur,Apr-23,30,Wheat
+Meghalaya,Apr-23,38.55,Wheat
+Mizoram,Apr-23,40.61,Wheat
+Nagaland,Apr-23,38.68,Wheat
+Odisha,Apr-23,37.06,Wheat
+Puducherry,Apr-23,39.04,Wheat
+Punjab,Apr-23,24.32,Wheat
+Rajasthan,Apr-23,29.22,Wheat
+Sikkim,Apr-23,36.31,Wheat
+Tamil Nadu,Apr-23,42.43,Wheat
+Telangana,Apr-23,37.17,Wheat
+Uttar Pradesh,Apr-23,24.45,Wheat
+Uttarakhand,Apr-23,26.56,Wheat
+West Bengal,Apr-23,27.77,Wheat
+Andhra Pradesh,May-23,40.35,Wheat
+Arunachal pradesh,May-23,42,Wheat
+Assam,May-23,32.4,Wheat
+Bihar,May-23,25.23,Wheat
+Chandigarh,May-23,28,Wheat
+Chhattisgarh,May-23,32.88,Wheat
+Delhi,May-23,28,Wheat
+DNH and DD,May-23,33.25,Wheat
+Goa,May-23,43,Wheat
+Gujarat,May-23,32.98,Wheat
+Haryana,May-23,25.39,Wheat
+Himachal Pradesh,May-23,21,Wheat
+Jammu and Kashmir,May-23,29.38,Wheat
+Jharkhand,May-23,30.27,Wheat
+Karnataka,May-23,40.69,Wheat
+Kerala,May-23,44.08,Wheat
+Madhya Pradesh,May-23,25.71,Wheat
+Maharashtra,May-23,36.57,Wheat
+Meghalaya,May-23,38.43,Wheat
+Mizoram,May-23,40.53,Wheat
+Nagaland,May-23,39.88,Wheat
+Odisha,May-23,36.8,Wheat
+Puducherry,May-23,39.5,Wheat
+Punjab,May-23,24.15,Wheat
+Rajasthan,May-23,29.12,Wheat
+Sikkim,May-23,36.1,Wheat
+Tamil Nadu,May-23,42.54,Wheat
+Telangana,May-23,37.38,Wheat
+Uttar Pradesh,May-23,24.38,Wheat
+Uttarakhand,May-23,25.8,Wheat
+West Bengal,May-23,28.59,Wheat
+Andaman and Nicobar,Jun-23,39.79,Wheat
+Andhra Pradesh,Jun-23,40.36,Wheat
+Arunachal pradesh,Jun-23,42,Wheat
+Assam,Jun-23,32.19,Wheat
+Bihar,Jun-23,25.48,Wheat
+Chandigarh,Jun-23,28,Wheat
+Chhattisgarh,Jun-23,31.83,Wheat
+Delhi,Jun-23,28,Wheat
+DNH and DD,Jun-23,33,Wheat
+Goa,Jun-23,43.02,Wheat
+Gujarat,Jun-23,32.94,Wheat
+Haryana,Jun-23,25.54,Wheat
+Himachal Pradesh,Jun-23,21,Wheat
+Jammu and Kashmir,Jun-23,29.54,Wheat
+Jharkhand,Jun-23,30.03,Wheat
+Karnataka,Jun-23,41.34,Wheat
+Kerala,Jun-23,43.67,Wheat
+Madhya Pradesh,Jun-23,26.33,Wheat
+Maharashtra,Jun-23,36.8,Wheat
+Meghalaya,Jun-23,38.05,Wheat
+Mizoram,Jun-23,40.53,Wheat
+Nagaland,Jun-23,40.39,Wheat
+Odisha,Jun-23,36.8,Wheat
+Puducherry,Jun-23,40,Wheat
+Punjab,Jun-23,24.62,Wheat
+Rajasthan,Jun-23,29.41,Wheat
+Sikkim,Jun-23,36.57,Wheat
+Tamil Nadu,Jun-23,42.7,Wheat
+Telangana,Jun-23,37.59,Wheat
+Uttar Pradesh,Jun-23,25.04,Wheat
+Uttarakhand,Jun-23,25.75,Wheat
+West Bengal,Jun-23,29.08,Wheat
+Andaman and Nicobar,Jul-23,39.08,Wheat
+Andhra Pradesh,Jul-23,40.24,Wheat
+Arunachal pradesh,Jul-23,42,Wheat
+Assam,Jul-23,31.43,Wheat
+Bihar,Jul-23,25.84,Wheat
+Chandigarh,Jul-23,29.52,Wheat
+Chhattisgarh,Jul-23,32.84,Wheat
+Delhi,Jul-23,28,Wheat
+DNH and DD,Jul-23,37.23,Wheat
+Goa,Jul-23,43,Wheat
+Gujarat,Jul-23,33.83,Wheat
+Haryana,Jul-23,25.96,Wheat
+Himachal Pradesh,Jul-23,21,Wheat
+Jammu and Kashmir,Jul-23,30.44,Wheat
+Jharkhand,Jul-23,30.47,Wheat
+Karnataka,Jul-23,41.54,Wheat
+Kerala,Jul-23,43.57,Wheat
+Madhya Pradesh,Jul-23,26.78,Wheat
+Maharashtra,Jul-23,36.95,Wheat
+Meghalaya,Jul-23,38.38,Wheat
+Mizoram,Jul-23,40.39,Wheat
+Nagaland,Jul-23,42.22,Wheat
+Odisha,Jul-23,37.23,Wheat
+Puducherry,Jul-23,38.96,Wheat
+Punjab,Jul-23,24.55,Wheat
+Rajasthan,Jul-23,29.61,Wheat
+Sikkim,Jul-23,35.7,Wheat
+Tamil Nadu,Jul-23,43.02,Wheat
+Telangana,Jul-23,38.51,Wheat
+Uttar Pradesh,Jul-23,25.37,Wheat
+Uttarakhand,Jul-23,25.94,Wheat
+West Bengal,Jul-23,29.82,Wheat
+Andhra Pradesh,Aug-23,40.75,Wheat
+Arunachal pradesh,Aug-23,42,Wheat
+Assam,Aug-23,31.25,Wheat
+Bihar,Aug-23,26.08,Wheat
+Chandigarh,Aug-23,30,Wheat
+Chhattisgarh,Aug-23,33.45,Wheat
+Delhi,Aug-23,28,Wheat
+DNH and DD,Aug-23,38.69,Wheat
+Goa,Aug-23,42.98,Wheat
+Gujarat,Aug-23,32.77,Wheat
+Haryana,Aug-23,25.88,Wheat
+Himachal Pradesh,Aug-23,21,Wheat
+Jammu and Kashmir,Aug-23,30.63,Wheat
+Jharkhand,Aug-23,30.66,Wheat
+Karnataka,Aug-23,41.69,Wheat
+Kerala,Aug-23,43.62,Wheat
+Madhya Pradesh,Aug-23,27.36,Wheat
+Maharashtra,Aug-23,37.84,Wheat
+Meghalaya,Aug-23,37.95,Wheat
+Mizoram,Aug-23,41.86,Wheat
+Nagaland,Aug-23,40.11,Wheat
+Odisha,Aug-23,37.54,Wheat
+Puducherry,Aug-23,39,Wheat
+Punjab,Aug-23,24.18,Wheat
+Rajasthan,Aug-23,29.61,Wheat
+Sikkim,Aug-23,35.71,Wheat
+Tamil Nadu,Aug-23,43.52,Wheat
+Telangana,Aug-23,38.35,Wheat
+Uttar Pradesh,Aug-23,25.61,Wheat
+Uttarakhand,Aug-23,25.81,Wheat
+West Bengal,Aug-23,29.46,Wheat
+Andhra Pradesh,Sep-23,40.71,Wheat
+Arunachal pradesh,Sep-23,42,Wheat
+Assam,Sep-23,31.07,Wheat
+Bihar,Sep-23,26.46,Wheat
+Chandigarh,Sep-23,30,Wheat
+Chhattisgarh,Sep-23,34.24,Wheat
+Delhi,Sep-23,28,Wheat
+DNH and DD,Sep-23,39.16,Wheat
+Goa,Sep-23,43.47,Wheat
+Gujarat,Sep-23,32.9,Wheat
+Haryana,Sep-23,26.34,Wheat
+Himachal Pradesh,Sep-23,21,Wheat
+Jammu and Kashmir,Sep-23,31.78,Wheat
+Jharkhand,Sep-23,31.43,Wheat
+Karnataka,Sep-23,42.16,Wheat
+Kerala,Sep-23,43.97,Wheat
+Madhya Pradesh,Sep-23,27.62,Wheat
+Maharashtra,Sep-23,38.22,Wheat
+Meghalaya,Sep-23,38.52,Wheat
+Mizoram,Sep-23,42.08,Wheat
+Nagaland,Sep-23,40.45,Wheat
+Odisha,Sep-23,37.79,Wheat
+Puducherry,Sep-23,39.25,Wheat
+Punjab,Sep-23,24.34,Wheat
+Rajasthan,Sep-23,29.49,Wheat
+Sikkim,Sep-23,35.71,Wheat
+Tamil Nadu,Sep-23,44.05,Wheat
+Telangana,Sep-23,38.52,Wheat
+Uttar Pradesh,Sep-23,25.7,Wheat
+Uttarakhand,Sep-23,25.57,Wheat
+West Bengal,Sep-23,29.24,Wheat
+Andhra Pradesh,Oct-23,42.24,Wheat
+Arunachal pradesh,Oct-23,42,Wheat
+Assam,Oct-23,30.99,Wheat
+Bihar,Oct-23,26.97,Wheat
+Chandigarh,Oct-23,31.74,Wheat
+Chhattisgarh,Oct-23,36.15,Wheat
+Delhi,Oct-23,28.1,Wheat
+DNH and DD,Oct-23,39.51,Wheat
+Goa,Oct-23,44.56,Wheat
+Gujarat,Oct-23,33.18,Wheat
+Haryana,Oct-23,26.58,Wheat
+Himachal Pradesh,Oct-23,21,Wheat
+Jammu and Kashmir,Oct-23,32.36,Wheat
+Jharkhand,Oct-23,31.4,Wheat
+Karnataka,Oct-23,42.79,Wheat
+Kerala,Oct-23,44.34,Wheat
+Madhya Pradesh,Oct-23,27.89,Wheat
+Maharashtra,Oct-23,38.66,Wheat
+Meghalaya,Oct-23,38.26,Wheat
+Mizoram,Oct-23,41.43,Wheat
+Nagaland,Oct-23,41.78,Wheat
+Odisha,Oct-23,37.83,Wheat
+Puducherry,Oct-23,39.48,Wheat
+Punjab,Oct-23,24.63,Wheat
+Rajasthan,Oct-23,29.36,Wheat
+Sikkim,Oct-23,35.72,Wheat
+Tamil Nadu,Oct-23,44.24,Wheat
+Telangana,Oct-23,39.26,Wheat
+Uttar Pradesh,Oct-23,25.92,Wheat
+Uttarakhand,Oct-23,25.53,Wheat
+West Bengal,Oct-23,28.74,Wheat
+Andhra Pradesh,Nov-23,43.47,Wheat
+Arunachal pradesh,Nov-23,42,Wheat
+Assam,Nov-23,31.08,Wheat
+Bihar,Nov-23,27.6,Wheat
+Chandigarh,Nov-23,32,Wheat
+Chhattisgarh,Nov-23,36.1,Wheat
+Delhi,Nov-23,30,Wheat
+DNH and DD,Nov-23,40.49,Wheat
+Goa,Nov-23,44.64,Wheat
+Gujarat,Nov-23,34.64,Wheat
+Haryana,Nov-23,27.44,Wheat
+Himachal Pradesh,Nov-23,21,Wheat
+Jammu and Kashmir,Nov-23,34,Wheat
+Jharkhand,Nov-23,31.54,Wheat
+Karnataka,Nov-23,43.7,Wheat
+Kerala,Nov-23,45.02,Wheat
+Madhya Pradesh,Nov-23,28.43,Wheat
+Maharashtra,Nov-23,39.84,Wheat
+Meghalaya,Nov-23,38.46,Wheat
+Mizoram,Nov-23,41.54,Wheat
+Nagaland,Nov-23,41.94,Wheat
+Odisha,Nov-23,37.7,Wheat
+Puducherry,Nov-23,41.52,Wheat
+Punjab,Nov-23,25.54,Wheat
+Rajasthan,Nov-23,29.3,Wheat
+Sikkim,Nov-23,35.63,Wheat
+Tamil Nadu,Nov-23,44.45,Wheat
+Telangana,Nov-23,40.06,Wheat
+Uttar Pradesh,Nov-23,26.31,Wheat
+Uttarakhand,Nov-23,26.84,Wheat
+West Bengal,Nov-23,29.36,Wheat
+Andhra Pradesh,Dec-23,44.49,Wheat
+Arunachal pradesh,Dec-23,42,Wheat
+Assam,Dec-23,31.11,Wheat
+Bihar,Dec-23,27.74,Wheat
+Chandigarh,Dec-23,32,Wheat
+Chhattisgarh,Dec-23,36.27,Wheat
+Delhi,Dec-23,30,Wheat
+DNH and DD,Dec-23,40.75,Wheat
+Goa,Dec-23,44.56,Wheat
+Gujarat,Dec-23,35.5,Wheat
+Haryana,Dec-23,28.14,Wheat
+Himachal Pradesh,Dec-23,21,Wheat
+Jammu and Kashmir,Dec-23,36.21,Wheat
+Jharkhand,Dec-23,31.33,Wheat
+Karnataka,Dec-23,44.1,Wheat
+Kerala,Dec-23,45.31,Wheat
+Madhya Pradesh,Dec-23,28.73,Wheat
+Maharashtra,Dec-23,40.22,Wheat
+Meghalaya,Dec-23,38.72,Wheat
+Mizoram,Dec-23,41.78,Wheat
+Nagaland,Dec-23,42.35,Wheat
+Odisha,Dec-23,37.33,Wheat
+Puducherry,Dec-23,40.74,Wheat
+Punjab,Dec-23,25.34,Wheat
+Rajasthan,Dec-23,29.51,Wheat
+Sikkim,Dec-23,35.59,Wheat
+Tamil Nadu,Dec-23,44.64,Wheat
+Telangana,Dec-23,40.95,Wheat
+Uttar Pradesh,Dec-23,26.56,Wheat
+Uttarakhand,Dec-23,27.27,Wheat
+West Bengal,Dec-23,29.54,Wheat
+Andhra Pradesh,Jan-24,45.04,Wheat
+Arunachal pradesh,Jan-24,42,Wheat
+Assam,Jan-24,31.39,Wheat
+Bihar,Jan-24,27.63,Wheat
+Chandigarh,Jan-24,32,Wheat
+Chhattisgarh,Jan-24,36.33,Wheat
+Delhi,Jan-24,29.06,Wheat
+DNH and DD,Jan-24,40.95,Wheat
+Goa,Jan-24,44.85,Wheat
+Gujarat,Jan-24,35.74,Wheat
+Haryana,Jan-24,28.84,Wheat
+Himachal Pradesh,Jan-24,21,Wheat
+Jammu and Kashmir,Jan-24,35.46,Wheat
+Jharkhand,Jan-24,31.44,Wheat
+Karnataka,Jan-24,43.81,Wheat
+Kerala,Jan-24,45.45,Wheat
+Madhya Pradesh,Jan-24,28.96,Wheat
+Maharashtra,Jan-24,40.39,Wheat
+Meghalaya,Jan-24,38.55,Wheat
+Mizoram,Jan-24,41.46,Wheat
+Nagaland,Jan-24,42.61,Wheat
+Odisha,Jan-24,37.41,Wheat
+Puducherry,Jan-24,40,Wheat
+Punjab,Jan-24,25.01,Wheat
+Rajasthan,Jan-24,29.33,Wheat
+Sikkim,Jan-24,35.58,Wheat
+Tamil Nadu,Jan-24,44.93,Wheat
+Telangana,Jan-24,41.44,Wheat
+Uttar Pradesh,Jan-24,26.77,Wheat
+Uttarakhand,Jan-24,28.03,Wheat
+West Bengal,Jan-24,29.57,Wheat
+Andhra Pradesh,Feb-24,45.38,Wheat
+Arunachal pradesh,Feb-24,42,Wheat
+Assam,Feb-24,31.31,Wheat
+Bihar,Feb-24,27.56,Wheat
+Chandigarh,Feb-24,32,Wheat
+Chhattisgarh,Feb-24,36.72,Wheat
+Delhi,Feb-24,29,Wheat
+DNH and DD,Feb-24,41.68,Wheat
+Goa,Feb-24,47.09,Wheat
+Gujarat,Feb-24,35.65,Wheat
+Haryana,Feb-24,28.83,Wheat
+Himachal Pradesh,Feb-24,21,Wheat
+Jammu and Kashmir,Feb-24,34.07,Wheat
+Jharkhand,Feb-24,31.54,Wheat
+Karnataka,Feb-24,43.91,Wheat
+Kerala,Feb-24,45.47,Wheat
+Madhya Pradesh,Feb-24,28.8,Wheat
+Maharashtra,Feb-24,40.09,Wheat
+Manipur,Feb-24,39.41,Wheat
+Meghalaya,Feb-24,38.89,Wheat
+Mizoram,Feb-24,41.52,Wheat
+Nagaland,Feb-24,42.63,Wheat
+Odisha,Feb-24,37.26,Wheat
+Puducherry,Feb-24,41,Wheat
+Punjab,Feb-24,24.8,Wheat
+Rajasthan,Feb-24,29.26,Wheat
+Sikkim,Feb-24,35.5,Wheat
+Tamil Nadu,Feb-24,45.42,Wheat
+Telangana,Feb-24,41.67,Wheat
+Uttar Pradesh,Feb-24,26.94,Wheat
+Uttarakhand,Feb-24,27.37,Wheat
+West Bengal,Feb-24,29.46,Wheat
+Andhra Pradesh,Mar-24,45.59,Wheat
+Arunachal pradesh,Mar-24,42,Wheat
+Assam,Mar-24,31.38,Wheat
+Bihar,Mar-24,27.35,Wheat
+Chandigarh,Mar-24,32,Wheat
+Chhattisgarh,Mar-24,36.52,Wheat
+Delhi,Mar-24,29,Wheat
+DNH and DD,Mar-24,40.76,Wheat
+Goa,Mar-24,48.18,Wheat
+Gujarat,Mar-24,36.2,Wheat
+Haryana,Mar-24,29.13,Wheat
+Himachal Pradesh,Mar-24,21,Wheat
+Jammu and Kashmir,Mar-24,33.05,Wheat
+Jharkhand,Mar-24,31.36,Wheat
+Karnataka,Mar-24,43.75,Wheat
+Kerala,Mar-24,45.13,Wheat
+Madhya Pradesh,Mar-24,28.45,Wheat
+Maharashtra,Mar-24,39.27,Wheat
+Manipur,Mar-24,38.76,Wheat
+Meghalaya,Mar-24,38.56,Wheat
+Mizoram,Mar-24,41.47,Wheat
+Nagaland,Mar-24,42.68,Wheat
+Odisha,Mar-24,36.88,Wheat
+Puducherry,Mar-24,41.92,Wheat
+Punjab,Mar-24,24.94,Wheat
+Rajasthan,Mar-24,29.04,Wheat
+Sikkim,Mar-24,35.56,Wheat
+Tamil Nadu,Mar-24,45.34,Wheat
+Telangana,Mar-24,41.5,Wheat
+Uttar Pradesh,Mar-24,26.78,Wheat
+Uttarakhand,Mar-24,27.08,Wheat
+West Bengal,Mar-24,29.99,Wheat
+Andhra Pradesh,Apr-24,44.63,Wheat
+Arunachal pradesh,Apr-24,43.72,Wheat
+Assam,Apr-24,31.6,Wheat
+Bihar,Apr-24,26.98,Wheat
+Chandigarh,Apr-24,32,Wheat
+Chhattisgarh,Apr-24,36.97,Wheat
+Delhi,Apr-24,29.23,Wheat
+DNH and DD,Apr-24,40.73,Wheat
+Goa,Apr-24,48.69,Wheat
+Gujarat,Apr-24,36.19,Wheat
+Haryana,Apr-24,29.64,Wheat
+Himachal Pradesh,Apr-24,21.97,Wheat
+Jammu and Kashmir,Apr-24,32.32,Wheat
+Jharkhand,Apr-24,31.39,Wheat
+Karnataka,Apr-24,43.77,Wheat
+Kerala,Apr-24,45,Wheat
+Madhya Pradesh,Apr-24,28.3,Wheat
+Maharashtra,Apr-24,38.43,Wheat
+Manipur,Apr-24,40,Wheat
+Meghalaya,Apr-24,38.58,Wheat
+Mizoram,Apr-24,41.26,Wheat
+Nagaland,Apr-24,42.74,Wheat
+Odisha,Apr-24,37.04,Wheat
+Puducherry,Apr-24,41,Wheat
+Punjab,Apr-24,25.04,Wheat
+Rajasthan,Apr-24,29.1,Wheat
+Sikkim,Apr-24,35.54,Wheat
+Tamil Nadu,Apr-24,45.46,Wheat
+Telangana,Apr-24,42.01,Wheat
+Uttar Pradesh,Apr-24,26.22,Wheat
+Uttarakhand,Apr-24,26.99,Wheat
+West Bengal,Apr-24,30.15,Wheat
+Andhra Pradesh,May-24,44.55,Wheat
+Arunachal pradesh,May-24,45,Wheat
+Assam,May-24,31.94,Wheat
+Bihar,May-24,26.8,Wheat
+Chandigarh,May-24,32,Wheat
+Chhattisgarh,May-24,37.28,Wheat
+Delhi,May-24,29,Wheat
+DNH and DD,May-24,40.95,Wheat
+Goa,May-24,49.15,Wheat
+Gujarat,May-24,36.17,Wheat
+Haryana,May-24,29.11,Wheat
+Himachal Pradesh,May-24,22,Wheat
+Jammu and Kashmir,May-24,31.53,Wheat
+Jharkhand,May-24,31.49,Wheat
+Karnataka,May-24,43.66,Wheat
+Kerala,May-24,45.18,Wheat
+Madhya Pradesh,May-24,28.66,Wheat
+Maharashtra,May-24,38.73,Wheat
+Manipur,May-24,40,Wheat
+Meghalaya,May-24,38.45,Wheat
+Mizoram,May-24,41.41,Wheat
+Nagaland,May-24,42.91,Wheat
+Odisha,May-24,37.09,Wheat
+Puducherry,May-24,43.32,Wheat
+Punjab,May-24,24.93,Wheat
+Rajasthan,May-24,29.07,Wheat
+Sikkim,May-24,35.51,Wheat
+Tamil Nadu,May-24,45.45,Wheat
+Telangana,May-24,42.27,Wheat
+Uttar Pradesh,May-24,25.87,Wheat
+Uttarakhand,May-24,26.4,Wheat
+West Bengal,May-24,29.96,Wheat
+Andhra Pradesh,Jun-24,44.29,Wheat
+Arunachal pradesh,Jun-24,45,Wheat
+Assam,Jun-24,32.62,Wheat
+Bihar,Jun-24,27.1,Wheat
+Chandigarh,Jun-24,32,Wheat
+Chhattisgarh,Jun-24,38.38,Wheat
+Delhi,Jun-24,29,Wheat
+DNH and DD,Jun-24,41.18,Wheat
+Goa,Jun-24,48.14,Wheat
+Gujarat,Jun-24,37.99,Wheat
+Haryana,Jun-24,29.24,Wheat
+Himachal Pradesh,Jun-24,22,Wheat
+Jammu and Kashmir,Jun-24,31.67,Wheat
+Jharkhand,Jun-24,31.63,Wheat
+Karnataka,Jun-24,43.68,Wheat
+Kerala,Jun-24,44.84,Wheat
+Madhya Pradesh,Jun-24,28.98,Wheat
+Maharashtra,Jun-24,38.63,Wheat
+Manipur,Jun-24,43.5,Wheat
+Meghalaya,Jun-24,38.21,Wheat
+Mizoram,Jun-24,41.74,Wheat
+Nagaland,Jun-24,42.91,Wheat
+Odisha,Jun-24,37.22,Wheat
+Puducherry,Jun-24,45,Wheat
+Punjab,Jun-24,25.2,Wheat
+Rajasthan,Jun-24,29.26,Wheat
+Sikkim,Jun-24,35.1,Wheat
+Tamil Nadu,Jun-24,45.36,Wheat
+Telangana,Jun-24,42.23,Wheat
+Uttar Pradesh,Jun-24,26.18,Wheat
+Uttarakhand,Jun-24,26.56,Wheat
+West Bengal,Jun-24,29.92,Wheat
+Andhra Pradesh,Jul-24,42.88,Wheat
+Arunachal pradesh,Jul-24,45,Wheat
+Assam,Jul-24,33.13,Wheat
+Bihar,Jul-24,27.46,Wheat
+Chandigarh,Jul-24,31.47,Wheat
+Chhattisgarh,Jul-24,37.34,Wheat
+Delhi,Jul-24,29.61,Wheat
+DNH and DD,Jul-24,41.73,Wheat
+Goa,Jul-24,49.22,Wheat
+Gujarat,Jul-24,38.85,Wheat
+Haryana,Jul-24,29.1,Wheat
+Himachal Pradesh,Jul-24,22,Wheat
+Jammu and Kashmir,Jul-24,31.28,Wheat
+Jharkhand,Jul-24,31.43,Wheat
+Karnataka,Jul-24,43.22,Wheat
+Kerala,Jul-24,45.16,Wheat
+Madhya Pradesh,Jul-24,29.49,Wheat
+Maharashtra,Jul-24,39.32,Wheat
+Manipur,Jul-24,43.67,Wheat
+Meghalaya,Jul-24,38.63,Wheat
+Mizoram,Jul-24,42.18,Wheat
+Nagaland,Jul-24,42.92,Wheat
+Odisha,Jul-24,37.18,Wheat
+Puducherry,Jul-24,46.38,Wheat
+Punjab,Jul-24,25.78,Wheat
+Rajasthan,Jul-24,29.46,Wheat
+Sikkim,Jul-24,36.67,Wheat
+Tamil Nadu,Jul-24,45.61,Wheat
+Telangana,Jul-24,42.12,Wheat
+Uttar Pradesh,Jul-24,26.75,Wheat
+Uttarakhand,Jul-24,26.73,Wheat
+West Bengal,Jul-24,30.3,Wheat
+Andhra Pradesh,Aug-24,40.52,Wheat
+Arunachal pradesh,Aug-24,45,Wheat
+Assam,Aug-24,33.54,Wheat
+Bihar,Aug-24,27.86,Wheat
+Chandigarh,Aug-24,31.07,Wheat
+Chhattisgarh,Aug-24,33.77,Wheat
+Delhi,Aug-24,30,Wheat
+DNH and DD,Aug-24,39.86,Wheat
+Goa,Aug-24,49.39,Wheat
+Gujarat,Aug-24,34.5,Wheat
+Haryana,Aug-24,28.58,Wheat
+Himachal Pradesh,Aug-24,22,Wheat
+Jammu and Kashmir,Aug-24,31.95,Wheat
+Jharkhand,Aug-24,30.61,Wheat
+Karnataka,Aug-24,42.01,Wheat
+Kerala,Aug-24,45.74,Wheat
+Madhya Pradesh,Aug-24,28.76,Wheat
+Maharashtra,Aug-24,39.04,Wheat
+Manipur,Aug-24,44.1,Wheat
+Meghalaya,Aug-24,38.99,Wheat
+Mizoram,Aug-24,42.48,Wheat
+Nagaland,Aug-24,43.09,Wheat
+Odisha,Aug-24,36.96,Wheat
+Puducherry,Aug-24,48,Wheat
+Punjab,Aug-24,26.04,Wheat
+Rajasthan,Aug-24,28.98,Wheat
+Sikkim,Aug-24,37.67,Wheat
+Tamil Nadu,Aug-24,45.2,Wheat
+Telangana,Aug-24,40.46,Wheat
+Uttar Pradesh,Aug-24,26.92,Wheat
+Uttarakhand,Aug-24,27.52,Wheat
+West Bengal,Aug-24,29.78,Wheat
+Andhra Pradesh,Sep-24,40.31,Wheat
+Arunachal pradesh,Sep-24,45,Wheat
+Assam,Sep-24,35.14,Wheat
+Bihar,Sep-24,28.23,Wheat
+Chandigarh,Sep-24,31,Wheat
+Chhattisgarh,Sep-24,33.82,Wheat
+Delhi,Sep-24,30,Wheat
+DNH and DD,Sep-24,37.89,Wheat
+Goa,Sep-24,49.5,Wheat
+Gujarat,Sep-24,33.59,Wheat
+Haryana,Sep-24,29.13,Wheat
+Himachal Pradesh,Sep-24,22.43,Wheat
+Jammu and Kashmir,Sep-24,33.36,Wheat
+Jharkhand,Sep-24,30.94,Wheat
+Karnataka,Sep-24,41.74,Wheat
+Kerala,Sep-24,45.81,Wheat
+Madhya Pradesh,Sep-24,28.82,Wheat
+Maharashtra,Sep-24,38.8,Wheat
+Manipur,Sep-24,45,Wheat
+Meghalaya,Sep-24,39.68,Wheat
+Mizoram,Sep-24,42.4,Wheat
+Nagaland,Sep-24,42.73,Wheat
+Odisha,Sep-24,37.45,Wheat
+Puducherry,Sep-24,48.07,Wheat
+Punjab,Sep-24,26.27,Wheat
+Rajasthan,Sep-24,28.89,Wheat
+Sikkim,Sep-24,37.57,Wheat
+Tamil Nadu,Sep-24,45.68,Wheat
+Telangana,Sep-24,40.41,Wheat
+Uttar Pradesh,Sep-24,27.41,Wheat
+Uttarakhand,Sep-24,27.91,Wheat
+West Bengal,Sep-24,29.3,Wheat
+Andhra Pradesh,Oct-24,42.16,Wheat
+Arunachal pradesh,Oct-24,45,Wheat
+Assam,Oct-24,35.97,Wheat
+Bihar,Oct-24,28.68,Wheat
+Chandigarh,Oct-24,31,Wheat
+Chhattisgarh,Oct-24,33.63,Wheat
+Delhi,Oct-24,30,Wheat
+DNH and DD,Oct-24,38.4,Wheat
+Goa,Oct-24,50.05,Wheat
+Gujarat,Oct-24,34.01,Wheat
+Haryana,Oct-24,29.49,Wheat
+Himachal Pradesh,Oct-24,24,Wheat
+Jammu and Kashmir,Oct-24,32.69,Wheat
+Jharkhand,Oct-24,31.29,Wheat
+Karnataka,Oct-24,42.18,Wheat
+Kerala,Oct-24,46.31,Wheat
+Madhya Pradesh,Oct-24,29.49,Wheat
+Maharashtra,Oct-24,39.35,Wheat
+Manipur,Oct-24,45.67,Wheat
+Meghalaya,Oct-24,41.27,Wheat
+Mizoram,Oct-24,42.08,Wheat
+Nagaland,Oct-24,42.26,Wheat
+Odisha,Oct-24,37.48,Wheat
+Puducherry,Oct-24,48.08,Wheat
+Punjab,Oct-24,26.63,Wheat
+Rajasthan,Oct-24,29.31,Wheat
+Sikkim,Oct-24,38.86,Wheat
+Tamil Nadu,Oct-24,45.76,Wheat
+Telangana,Oct-24,40.45,Wheat
+Uttar Pradesh,Oct-24,27.96,Wheat
+Uttarakhand,Oct-24,27.8,Wheat
+West Bengal,Oct-24,29.98,Wheat
+Andhra Pradesh,Nov-24,42.36,Wheat
+Arunachal pradesh,Nov-24,45,Wheat
+Assam,Nov-24,37.29,Wheat
+Bihar,Nov-24,29.22,Wheat
+Chandigarh,Nov-24,31,Wheat
+Chhattisgarh,Nov-24,34.15,Wheat
+Delhi,Nov-24,30.1,Wheat
+DNH and DD,Nov-24,39.76,Wheat
+Goa,Nov-24,50.14,Wheat
+Gujarat,Nov-24,34.73,Wheat
+Haryana,Nov-24,29.36,Wheat
+Himachal Pradesh,Nov-24,24.07,Wheat
+Jammu and Kashmir,Nov-24,33.58,Wheat
+Jharkhand,Nov-24,31.96,Wheat
+Karnataka,Nov-24,42.69,Wheat
+Kerala,Nov-24,47.1,Wheat
+Madhya Pradesh,Nov-24,29.96,Wheat
+Maharashtra,Nov-24,39.94,Wheat
+Manipur,Nov-24,48.88,Wheat
+Meghalaya,Nov-24,43.28,Wheat
+Mizoram,Nov-24,42.14,Wheat
+Nagaland,Nov-24,43,Wheat
+Odisha,Nov-24,38.48,Wheat
+Puducherry,Nov-24,48,Wheat
+Punjab,Nov-24,28.14,Wheat
+Rajasthan,Nov-24,29.52,Wheat
+Sikkim,Nov-24,38.66,Wheat
+Tamil Nadu,Nov-24,45.88,Wheat
+Telangana,Nov-24,40.51,Wheat
+Uttar Pradesh,Nov-24,28.54,Wheat
+Uttarakhand,Nov-24,27.79,Wheat
+West Bengal,Nov-24,30.8,Wheat
+Andhra Pradesh,Dec-24,43.56,Wheat
+Arunachal pradesh,Dec-24,45,Wheat
+Assam,Dec-24,37.83,Wheat
+Bihar,Dec-24,29.52,Wheat
+Chandigarh,Dec-24,31,Wheat
+Chhattisgarh,Dec-24,34.18,Wheat
+Delhi,Dec-24,30,Wheat
+DNH and DD,Dec-24,39.95,Wheat
+Goa,Dec-24,50.19,Wheat
+Gujarat,Dec-24,35.07,Wheat
+Haryana,Dec-24,29.21,Wheat
+Himachal Pradesh,Dec-24,25,Wheat
+Jammu and Kashmir,Dec-24,33.77,Wheat
+Jharkhand,Dec-24,32.28,Wheat
+Karnataka,Dec-24,42.73,Wheat
+Kerala,Dec-24,46.88,Wheat
+Madhya Pradesh,Dec-24,30.15,Wheat
+Maharashtra,Dec-24,40.41,Wheat
+Manipur,Dec-24,49,Wheat
+Meghalaya,Dec-24,44.3,Wheat
+Mizoram,Dec-24,42.03,Wheat
+Nagaland,Dec-24,42.96,Wheat
+Odisha,Dec-24,39.17,Wheat
+Puducherry,Dec-24,48,Wheat
+Punjab,Dec-24,29.91,Wheat
+Rajasthan,Dec-24,29.54,Wheat
+Sikkim,Dec-24,38.56,Wheat
+Tamil Nadu,Dec-24,46.29,Wheat
+Telangana,Dec-24,40.44,Wheat
+Uttar Pradesh,Dec-24,28.89,Wheat
+Uttarakhand,Dec-24,27.99,Wheat
+West Bengal,Dec-24,30.99,Wheat
+Andhra Pradesh,Jan-25,43.09,Wheat
+Arunachal pradesh,Jan-25,45,Wheat
+Assam,Jan-25,38.72,Wheat
+Bihar,Jan-25,29.76,Wheat
+Chandigarh,Jan-25,31,Wheat
+Chhattisgarh,Jan-25,35.17,Wheat
+Delhi,Jan-25,30.97,Wheat
+DNH and DD,Jan-25,41.24,Wheat
+Goa,Jan-25,50.5,Wheat
+Gujarat,Jan-25,34.47,Wheat
+Haryana,Jan-25,28.94,Wheat
+Himachal Pradesh,Jan-25,25,Wheat
+Jammu and Kashmir,Jan-25,34.55,Wheat
+Jharkhand,Jan-25,32.74,Wheat
+Karnataka,Jan-25,42.68,Wheat
+Kerala,Jan-25,47.37,Wheat
+Madhya Pradesh,Jan-25,30.38,Wheat
+Maharashtra,Jan-25,41.02,Wheat
+Manipur,Jan-25,49,Wheat
+Meghalaya,Jan-25,44.26,Wheat
+Mizoram,Jan-25,42.04,Wheat
+Nagaland,Jan-25,42.87,Wheat
+Odisha,Jan-25,39.42,Wheat
+Puducherry,Jan-25,48.13,Wheat
+Punjab,Jan-25,30.64,Wheat
+Rajasthan,Jan-25,29.73,Wheat
+Sikkim,Jan-25,38.42,Wheat
+Tamil Nadu,Jan-25,46.51,Wheat
+Telangana,Jan-25,40.21,Wheat
+Uttar Pradesh,Jan-25,29.3,Wheat
+Uttarakhand,Jan-25,29.39,Wheat
+West Bengal,Jan-25,30.74,Wheat
+Andhra Pradesh,Feb-25,43.54,Wheat
+Arunachal pradesh,Feb-25,45,Wheat
+Assam,Feb-25,38.06,Wheat
+Bihar,Feb-25,29.95,Wheat
+Chandigarh,Feb-25,31,Wheat
+Chhattisgarh,Feb-25,35.46,Wheat
+Delhi,Feb-25,35.54,Wheat
+DNH and DD,Feb-25,43.35,Wheat
+Goa,Feb-25,48.1,Wheat
+Gujarat,Feb-25,33.8,Wheat
+Haryana,Feb-25,27.78,Wheat
+Himachal Pradesh,Feb-25,27.71,Wheat
+Jammu and Kashmir,Feb-25,34.78,Wheat
+Jharkhand,Feb-25,33,Wheat
+Karnataka,Feb-25,42.24,Wheat
+Kerala,Feb-25,47.92,Wheat
+Madhya Pradesh,Feb-25,30.67,Wheat
+Maharashtra,Feb-25,41.03,Wheat
+Manipur,Feb-25,49.25,Wheat
+Meghalaya,Feb-25,43.83,Wheat
+Mizoram,Feb-25,42.15,Wheat
+Nagaland,Feb-25,42.79,Wheat
+Odisha,Feb-25,38.83,Wheat
+Puducherry,Feb-25,53.28,Wheat
+Punjab,Feb-25,30.89,Wheat
+Rajasthan,Feb-25,30.05,Wheat
+Sikkim,Feb-25,37.89,Wheat
+Tamil Nadu,Feb-25,46.66,Wheat
+Telangana,Feb-25,39.94,Wheat
+Uttar Pradesh,Feb-25,29.53,Wheat
+Uttarakhand,Feb-25,28.95,Wheat
+West Bengal,Feb-25,30.9,Wheat
+Andhra Pradesh,Mar-25,43.63,Wheat
+Arunachal pradesh,Mar-25,45,Wheat
+Assam,Mar-25,37.38,Wheat
+Bihar,Mar-25,29.99,Wheat
+Chandigarh,Mar-25,31,Wheat
+Chhattisgarh,Mar-25,35.68,Wheat
+Delhi,Mar-25,36.68,Wheat
+DNH and DD,Mar-25,40.86,Wheat
+Goa,Mar-25,46.68,Wheat
+Gujarat,Mar-25,34.21,Wheat
+Haryana,Mar-25,27.87,Wheat
+Himachal Pradesh,Mar-25,29.1,Wheat
+Jammu and Kashmir,Mar-25,35.11,Wheat
+Jharkhand,Mar-25,32.9,Wheat
+Karnataka,Mar-25,42.08,Wheat
+Kerala,Mar-25,48.24,Wheat
+Madhya Pradesh,Mar-25,30.05,Wheat
+Maharashtra,Mar-25,39.54,Wheat
+Manipur,Mar-25,48.68,Wheat
+Meghalaya,Mar-25,43.42,Wheat
+Mizoram,Mar-25,41.72,Wheat
+Nagaland,Mar-25,43.04,Wheat
+Odisha,Mar-25,38.64,Wheat
+Puducherry,Mar-25,52.91,Wheat
+Punjab,Mar-25,30.47,Wheat
+Rajasthan,Mar-25,30.23,Wheat
+Sikkim,Mar-25,38.19,Wheat
+Tamil Nadu,Mar-25,47,Wheat
+Telangana,Mar-25,39.81,Wheat
+Uttar Pradesh,Mar-25,29.33,Wheat
+Uttarakhand,Mar-25,29.72,Wheat
+West Bengal,Mar-25,30.85,Wheat
+Andhra Pradesh,Apr-25,42.33,Wheat
+Arunachal pradesh,Apr-25,45,Wheat
+Assam,Apr-25,37.49,Wheat
+Bihar,Apr-25,29.8,Wheat
+Chandigarh,Apr-25,31,Wheat
+Chhattisgarh,Apr-25,34.36,Wheat
+Delhi,Apr-25,34,Wheat
+DNH and DD,Apr-25,39.1,Wheat
+Goa,Apr-25,46.75,Wheat
+Gujarat,Apr-25,33.93,Wheat
+Haryana,Apr-25,27.36,Wheat
+Himachal Pradesh,Apr-25,30,Wheat
+Jammu and Kashmir,Apr-25,35.38,Wheat
+Jharkhand,Apr-25,32.98,Wheat
+Karnataka,Apr-25,41.95,Wheat
+Kerala,Apr-25,48,Wheat
+Madhya Pradesh,Apr-25,29.05,Wheat
+Maharashtra,Apr-25,38.03,Wheat
+Manipur,Apr-25,49,Wheat
+Meghalaya,Apr-25,43.38,Wheat
+Mizoram,Apr-25,41.55,Wheat
+Nagaland,Apr-25,43.41,Wheat
+Odisha,Apr-25,38.54,Wheat
+Puducherry,Apr-25,52,Wheat
+Punjab,Apr-25,30.05,Wheat
+Rajasthan,Apr-25,30.07,Wheat
+Sikkim,Apr-25,38.17,Wheat
+Tamil Nadu,Apr-25,47.39,Wheat
+Telangana,Apr-25,39.61,Wheat
+Uttar Pradesh,Apr-25,28.31,Wheat
+Uttarakhand,Apr-25,30.45,Wheat
+West Bengal,Apr-25,30.44,Wheat

@@ -1,0 +1,6006 @@
+State,Month,Price,Commodity
+Assam,Jan-09,16,Rice
+Bihar,Jan-09,12,Rice
+Chandigarh,Jan-09,20,Rice
+Chhattisgarh,Jan-09,16.15,Rice
+Delhi,Jan-09,22,Rice
+Gujarat,Jan-09,17,Rice
+Himachal Pradesh,Jan-09,22,Rice
+Jammu and Kashmir,Jan-09,18,Rice
+Jharkhand,Jan-09,15,Rice
+Karnataka,Jan-09,17.45,Rice
+Kerala,Jan-09,21.25,Rice
+Madhya Pradesh,Jan-09,15.2,Rice
+Maharashtra,Jan-09,18.35,Rice
+Meghalaya,Jan-09,15,Rice
+Mizoram,Jan-09,19,Rice
+Nagaland,Jan-09,15,Rice
+Odisha,Jan-09,15,Rice
+Punjab,Jan-09,15.5,Rice
+Rajasthan,Jan-09,18,Rice
+Tamil Nadu,Jan-09,18,Rice
+Telangana,Jan-09,14,Rice
+Tripura,Jan-09,14,Rice
+Uttar Pradesh,Jan-09,15,Rice
+Uttarakhand,Jan-09,15,Rice
+West Bengal,Jan-09,14,Rice
+Assam,Feb-09,15.1,Rice
+Bihar,Feb-09,12,Rice
+Chandigarh,Feb-09,20,Rice
+Chhattisgarh,Feb-09,18.75,Rice
+Delhi,Feb-09,22,Rice
+Gujarat,Feb-09,16.9,Rice
+Himachal Pradesh,Feb-09,23,Rice
+Jammu and Kashmir,Feb-09,18,Rice
+Jharkhand,Feb-09,15,Rice
+Karnataka,Feb-09,17,Rice
+Kerala,Feb-09,22,Rice
+Madhya Pradesh,Feb-09,18.2,Rice
+Maharashtra,Feb-09,18,Rice
+Meghalaya,Feb-09,15,Rice
+Mizoram,Feb-09,19,Rice
+Nagaland,Feb-09,15,Rice
+Odisha,Feb-09,15,Rice
+Punjab,Feb-09,15.5,Rice
+Rajasthan,Feb-09,18,Rice
+Tamil Nadu,Feb-09,18,Rice
+Telangana,Feb-09,14,Rice
+Tripura,Feb-09,14,Rice
+Uttar Pradesh,Feb-09,15.55,Rice
+Uttarakhand,Feb-09,15,Rice
+West Bengal,Feb-09,14,Rice
+Assam,Mar-09,14.75,Rice
+Bihar,Mar-09,12,Rice
+Chandigarh,Mar-09,20,Rice
+Chhattisgarh,Mar-09,20,Rice
+Delhi,Mar-09,21.5,Rice
+Gujarat,Mar-09,16,Rice
+Himachal Pradesh,Mar-09,22.3,Rice
+Jammu and Kashmir,Mar-09,18,Rice
+Jharkhand,Mar-09,15,Rice
+Karnataka,Mar-09,16.7,Rice
+Kerala,Mar-09,22,Rice
+Madhya Pradesh,Mar-09,18,Rice
+Maharashtra,Mar-09,17.6,Rice
+Meghalaya,Mar-09,15,Rice
+Mizoram,Mar-09,19,Rice
+Nagaland,Mar-09,15,Rice
+Odisha,Mar-09,15,Rice
+Punjab,Mar-09,15.57,Rice
+Rajasthan,Mar-09,18,Rice
+Tamil Nadu,Mar-09,18,Rice
+Telangana,Mar-09,14,Rice
+Tripura,Mar-09,14.5,Rice
+Uttar Pradesh,Mar-09,16.35,Rice
+Uttarakhand,Mar-09,15,Rice
+West Bengal,Mar-09,14,Rice
+Assam,Apr-09,14,Rice
+Bihar,Apr-09,12,Rice
+Chandigarh,Apr-09,20,Rice
+Chhattisgarh,Apr-09,20,Rice
+Delhi,Apr-09,20,Rice
+Gujarat,Apr-09,16,Rice
+Himachal Pradesh,Apr-09,22,Rice
+Jammu and Kashmir,Apr-09,18.28,Rice
+Jharkhand,Apr-09,15,Rice
+Karnataka,Apr-09,17,Rice
+Kerala,Apr-09,23,Rice
+Madhya Pradesh,Apr-09,17.06,Rice
+Maharashtra,Apr-09,17.94,Rice
+Meghalaya,Apr-09,15,Rice
+Mizoram,Apr-09,19,Rice
+Nagaland,Apr-09,15,Rice
+Odisha,Apr-09,15,Rice
+Punjab,Apr-09,16,Rice
+Rajasthan,Apr-09,18,Rice
+Tamil Nadu,Apr-09,18.5,Rice
+Telangana,Apr-09,14,Rice
+Tripura,Apr-09,15,Rice
+Uttar Pradesh,Apr-09,16.56,Rice
+Uttarakhand,Apr-09,15,Rice
+West Bengal,Apr-09,14,Rice
+Assam,May-09,14,Rice
+Bihar,May-09,12,Rice
+Chandigarh,May-09,20,Rice
+Chhattisgarh,May-09,20,Rice
+Delhi,May-09,20,Rice
+Gujarat,May-09,16.1,Rice
+Himachal Pradesh,May-09,24,Rice
+Jammu and Kashmir,May-09,18.48,Rice
+Jharkhand,May-09,15,Rice
+Karnataka,May-09,17,Rice
+Kerala,May-09,23,Rice
+Madhya Pradesh,May-09,15,Rice
+Maharashtra,May-09,18,Rice
+Meghalaya,May-09,15,Rice
+Mizoram,May-09,19,Rice
+Nagaland,May-09,15.4,Rice
+Odisha,May-09,15,Rice
+Punjab,May-09,16.05,Rice
+Rajasthan,May-09,18,Rice
+Tamil Nadu,May-09,19,Rice
+Telangana,May-09,14,Rice
+Tripura,May-09,15,Rice
+Uttar Pradesh,May-09,16.4,Rice
+Uttarakhand,May-09,15,Rice
+West Bengal,May-09,14,Rice
+Assam,Jun-09,14,Rice
+Bihar,Jun-09,12,Rice
+Chandigarh,Jun-09,20,Rice
+Chhattisgarh,Jun-09,20,Rice
+Delhi,Jun-09,20,Rice
+Gujarat,Jun-09,16.91,Rice
+Himachal Pradesh,Jun-09,24,Rice
+Jammu and Kashmir,Jun-09,18,Rice
+Jharkhand,Jun-09,15,Rice
+Karnataka,Jun-09,16.82,Rice
+Kerala,Jun-09,23,Rice
+Madhya Pradesh,Jun-09,15.05,Rice
+Maharashtra,Jun-09,18.09,Rice
+Meghalaya,Jun-09,15,Rice
+Mizoram,Jun-09,19,Rice
+Nagaland,Jun-09,16,Rice
+Odisha,Jun-09,15.45,Rice
+Punjab,Jun-09,16.23,Rice
+Rajasthan,Jun-09,18,Rice
+Tamil Nadu,Jun-09,19,Rice
+Telangana,Jun-09,14.73,Rice
+Tripura,Jun-09,15,Rice
+Uttar Pradesh,Jun-09,16,Rice
+Uttarakhand,Jun-09,15,Rice
+West Bengal,Jun-09,14,Rice
+Assam,Jul-09,14,Rice
+Bihar,Jul-09,12,Rice
+Chandigarh,Jul-09,20,Rice
+Chhattisgarh,Jul-09,20.7,Rice
+Delhi,Jul-09,20.17,Rice
+Gujarat,Jul-09,16.52,Rice
+Himachal Pradesh,Jul-09,24.35,Rice
+Jammu and Kashmir,Jul-09,19.26,Rice
+Jharkhand,Jul-09,15.48,Rice
+Karnataka,Jul-09,17,Rice
+Kerala,Jul-09,21.17,Rice
+Madhya Pradesh,Jul-09,16,Rice
+Maharashtra,Jul-09,18.78,Rice
+Meghalaya,Jul-09,15,Rice
+Mizoram,Jul-09,19,Rice
+Nagaland,Jul-09,16,Rice
+Odisha,Jul-09,15.48,Rice
+Punjab,Jul-09,17.24,Rice
+Rajasthan,Jul-09,18,Rice
+Tamil Nadu,Jul-09,19,Rice
+Telangana,Jul-09,16,Rice
+Tripura,Jul-09,15,Rice
+Uttar Pradesh,Jul-09,15.87,Rice
+Uttarakhand,Jul-09,15,Rice
+West Bengal,Jul-09,14,Rice
+Assam,Aug-09,14,Rice
+Bihar,Aug-09,12,Rice
+Chandigarh,Aug-09,20,Rice
+Chhattisgarh,Aug-09,21.3,Rice
+Delhi,Aug-09,20.25,Rice
+Gujarat,Aug-09,15.25,Rice
+Himachal Pradesh,Aug-09,25,Rice
+Jammu and Kashmir,Aug-09,21,Rice
+Jharkhand,Aug-09,16,Rice
+Karnataka,Aug-09,17.3,Rice
+Kerala,Aug-09,21.3,Rice
+Madhya Pradesh,Aug-09,16,Rice
+Maharashtra,Aug-09,19.25,Rice
+Meghalaya,Aug-09,15,Rice
+Mizoram,Aug-09,19,Rice
+Nagaland,Aug-09,16,Rice
+Odisha,Aug-09,16,Rice
+Punjab,Aug-09,17.5,Rice
+Rajasthan,Aug-09,18,Rice
+Tamil Nadu,Aug-09,19.2,Rice
+Telangana,Aug-09,16.1,Rice
+Tripura,Aug-09,15,Rice
+Uttar Pradesh,Aug-09,15,Rice
+Uttarakhand,Aug-09,15,Rice
+West Bengal,Aug-09,14,Rice
+Assam,Sep-09,14,Rice
+Bihar,Sep-09,12,Rice
+Chandigarh,Sep-09,20,Rice
+Chhattisgarh,Sep-09,19.85,Rice
+Delhi,Sep-09,21.75,Rice
+Gujarat,Sep-09,16,Rice
+Himachal Pradesh,Sep-09,25,Rice
+Jammu and Kashmir,Sep-09,21.65,Rice
+Jharkhand,Sep-09,16,Rice
+Karnataka,Sep-09,17.65,Rice
+Kerala,Sep-09,23,Rice
+Madhya Pradesh,Sep-09,16,Rice
+Maharashtra,Sep-09,19.3,Rice
+Meghalaya,Sep-09,15,Rice
+Mizoram,Sep-09,19,Rice
+Nagaland,Sep-09,16,Rice
+Odisha,Sep-09,16,Rice
+Punjab,Sep-09,17.5,Rice
+Rajasthan,Sep-09,18,Rice
+Tamil Nadu,Sep-09,21.5,Rice
+Telangana,Sep-09,18,Rice
+Tripura,Sep-09,16,Rice
+Uttar Pradesh,Sep-09,15.15,Rice
+Uttarakhand,Sep-09,15,Rice
+West Bengal,Sep-09,14,Rice
+Assam,Oct-09,15.71,Rice
+Bihar,Oct-09,12,Rice
+Chandigarh,Oct-09,20,Rice
+Chhattisgarh,Oct-09,19,Rice
+Delhi,Oct-09,22.1,Rice
+Gujarat,Oct-09,16.29,Rice
+Himachal Pradesh,Oct-09,25,Rice
+Jammu and Kashmir,Oct-09,21.07,Rice
+Jharkhand,Oct-09,15.43,Rice
+Karnataka,Oct-09,17.57,Rice
+Kerala,Oct-09,23,Rice
+Madhya Pradesh,Oct-09,16.19,Rice
+Maharashtra,Oct-09,19.24,Rice
+Meghalaya,Oct-09,15,Rice
+Mizoram,Oct-09,19,Rice
+Nagaland,Oct-09,16,Rice
+Odisha,Oct-09,15.9,Rice
+Punjab,Oct-09,17.5,Rice
+Rajasthan,Oct-09,18,Rice
+Tamil Nadu,Oct-09,22,Rice
+Telangana,Oct-09,18,Rice
+Tripura,Oct-09,16.1,Rice
+Uttar Pradesh,Oct-09,16,Rice
+Uttarakhand,Oct-09,15.9,Rice
+West Bengal,Oct-09,14.29,Rice
+Assam,Nov-09,15.6,Rice
+Bihar,Nov-09,12.25,Rice
+Chandigarh,Nov-09,20,Rice
+Chhattisgarh,Nov-09,16.9,Rice
+Delhi,Nov-09,22.3,Rice
+Gujarat,Nov-09,20.85,Rice
+Himachal Pradesh,Nov-09,25,Rice
+Jammu and Kashmir,Nov-09,21.5,Rice
+Jharkhand,Nov-09,14,Rice
+Karnataka,Nov-09,32.5,Rice
+Kerala,Nov-09,23,Rice
+Madhya Pradesh,Nov-09,16.9,Rice
+Maharashtra,Nov-09,19,Rice
+Meghalaya,Nov-09,15.8,Rice
+Mizoram,Nov-09,19,Rice
+Nagaland,Nov-09,16,Rice
+Odisha,Nov-09,16,Rice
+Punjab,Nov-09,17.5,Rice
+Rajasthan,Nov-09,18,Rice
+Tamil Nadu,Nov-09,20.8,Rice
+Telangana,Nov-09,18.4,Rice
+Tripura,Nov-09,17,Rice
+Uttar Pradesh,Nov-09,16,Rice
+Uttarakhand,Nov-09,16,Rice
+West Bengal,Nov-09,14.9,Rice
+Assam,Dec-09,15.67,Rice
+Bihar,Dec-09,13.24,Rice
+Chandigarh,Dec-09,20,Rice
+Chhattisgarh,Dec-09,19,Rice
+Delhi,Dec-09,23,Rice
+Gujarat,Dec-09,24.33,Rice
+Himachal Pradesh,Dec-09,25,Rice
+Jammu and Kashmir,Dec-09,20.93,Rice
+Jharkhand,Dec-09,14.38,Rice
+Karnataka,Dec-09,32.48,Rice
+Kerala,Dec-09,25.95,Rice
+Madhya Pradesh,Dec-09,17.33,Rice
+Maharashtra,Dec-09,19.24,Rice
+Meghalaya,Dec-09,16,Rice
+Mizoram,Dec-09,19,Rice
+Nagaland,Dec-09,16,Rice
+Odisha,Dec-09,15.76,Rice
+Punjab,Dec-09,17.36,Rice
+Rajasthan,Dec-09,18,Rice
+Tamil Nadu,Dec-09,22,Rice
+Telangana,Dec-09,19,Rice
+Tripura,Dec-09,17,Rice
+Uttar Pradesh,Dec-09,16,Rice
+Uttarakhand,Dec-09,16,Rice
+West Bengal,Dec-09,15.33,Rice
+Assam,Jan-10,16,Rice
+Bihar,Jan-10,14,Rice
+Chandigarh,Jan-10,20,Rice
+Chhattisgarh,Jan-10,19,Rice
+Delhi,Jan-10,23,Rice
+Gujarat,Jan-10,21.75,Rice
+Himachal Pradesh,Jan-10,25,Rice
+Jammu and Kashmir,Jan-10,20.75,Rice
+Jharkhand,Jan-10,16,Rice
+Karnataka,Jan-10,35.75,Rice
+Kerala,Jan-10,25,Rice
+Madhya Pradesh,Jan-10,17.05,Rice
+Maharashtra,Jan-10,18.85,Rice
+Meghalaya,Jan-10,16,Rice
+Mizoram,Jan-10,19.8,Rice
+Nagaland,Jan-10,16.05,Rice
+Odisha,Jan-10,16,Rice
+Punjab,Jan-10,17,Rice
+Rajasthan,Jan-10,19.3,Rice
+Tamil Nadu,Jan-10,22,Rice
+Telangana,Jan-10,19,Rice
+Tripura,Jan-10,17.05,Rice
+Uttar Pradesh,Jan-10,16,Rice
+Uttarakhand,Jan-10,16,Rice
+West Bengal,Jan-10,17.9,Rice
+Assam,Feb-10,16,Rice
+Bihar,Feb-10,14,Rice
+Chandigarh,Feb-10,20,Rice
+Chhattisgarh,Feb-10,19,Rice
+Delhi,Feb-10,23,Rice
+Gujarat,Feb-10,17.45,Rice
+Himachal Pradesh,Feb-10,25,Rice
+Jammu and Kashmir,Feb-10,21,Rice
+Jharkhand,Feb-10,14.7,Rice
+Karnataka,Feb-10,32.05,Rice
+Kerala,Feb-10,23.5,Rice
+Madhya Pradesh,Feb-10,18,Rice
+Maharashtra,Feb-10,20.15,Rice
+Meghalaya,Feb-10,16,Rice
+Mizoram,Feb-10,21,Rice
+Nagaland,Feb-10,17,Rice
+Odisha,Feb-10,15.9,Rice
+Punjab,Feb-10,17,Rice
+Rajasthan,Feb-10,20,Rice
+Tamil Nadu,Feb-10,21.8,Rice
+Telangana,Feb-10,17.9,Rice
+Tripura,Feb-10,18,Rice
+Uttar Pradesh,Feb-10,16,Rice
+Uttarakhand,Feb-10,16,Rice
+West Bengal,Feb-10,18,Rice
+Assam,Mar-10,16.11,Rice
+Bihar,Mar-10,14.5,Rice
+Chandigarh,Mar-10,20,Rice
+Chhattisgarh,Mar-10,19,Rice
+Delhi,Mar-10,23,Rice
+Gujarat,Mar-10,17,Rice
+Himachal Pradesh,Mar-10,25.3,Rice
+Jammu and Kashmir,Mar-10,23.63,Rice
+Jharkhand,Mar-10,14.75,Rice
+Karnataka,Mar-10,18.06,Rice
+Kerala,Mar-10,22.95,Rice
+Madhya Pradesh,Mar-10,17.18,Rice
+Maharashtra,Mar-10,19.79,Rice
+Meghalaya,Mar-10,16,Rice
+Mizoram,Mar-10,21,Rice
+Nagaland,Mar-10,17,Rice
+Odisha,Mar-10,15.59,Rice
+Punjab,Mar-10,17,Rice
+Rajasthan,Mar-10,21.63,Rice
+Tamil Nadu,Mar-10,20,Rice
+Telangana,Mar-10,17.9,Rice
+Tripura,Mar-10,18,Rice
+Uttar Pradesh,Mar-10,16.3,Rice
+Uttarakhand,Mar-10,16,Rice
+West Bengal,Mar-10,17.44,Rice
+Andhra Pradesh,Apr-10,17,Rice
+Assam,Apr-10,16,Rice
+Bihar,Apr-10,17,Rice
+Chhattisgarh,Apr-10,19,Rice
+Delhi,Apr-10,23.2,Rice
+Gujarat,Apr-10,17.38,Rice
+Himachal Pradesh,Apr-10,26.85,Rice
+Jammu and Kashmir,Apr-10,24,Rice
+Karnataka,Apr-10,18,Rice
+Kerala,Apr-10,21,Rice
+Madhya Pradesh,Apr-10,17,Rice
+Maharashtra,Apr-10,19.3,Rice
+Meghalaya,Apr-10,16,Rice
+Mizoram,Apr-10,18,Rice
+Odisha,Apr-10,15,Rice
+Rajasthan,Apr-10,22,Rice
+Tamil Nadu,Apr-10,19.91,Rice
+Telangana,Apr-10,18.7,Rice
+Tripura,Apr-10,18,Rice
+Uttar Pradesh,Apr-10,15.03,Rice
+Uttarakhand,Apr-10,15,Rice
+West Bengal,Apr-10,17.74,Rice
+Andhra Pradesh,May-10,17,Rice
+Assam,May-10,16,Rice
+Bihar,May-10,17,Rice
+Chhattisgarh,May-10,19,Rice
+Delhi,May-10,22.3,Rice
+Gujarat,May-10,17.57,Rice
+Himachal Pradesh,May-10,27,Rice
+Jammu and Kashmir,May-10,23.1,Rice
+Karnataka,May-10,17.68,Rice
+Kerala,May-10,21.95,Rice
+Madhya Pradesh,May-10,17,Rice
+Maharashtra,May-10,19.56,Rice
+Meghalaya,May-10,16.75,Rice
+Nagaland,May-10,18,Rice
+Odisha,May-10,15.41,Rice
+Punjab,May-10,17.58,Rice
+Rajasthan,May-10,22,Rice
+Tamil Nadu,May-10,20.07,Rice
+Telangana,May-10,18.5,Rice
+Tripura,May-10,18,Rice
+Uttar Pradesh,May-10,15,Rice
+Uttarakhand,May-10,15,Rice
+West Bengal,May-10,18,Rice
+Andhra Pradesh,Jun-10,17,Rice
+Assam,Jun-10,16.76,Rice
+Bihar,Jun-10,17,Rice
+Chhattisgarh,Jun-10,19,Rice
+Delhi,Jun-10,22,Rice
+Gujarat,Jun-10,18.5,Rice
+Himachal Pradesh,Jun-10,27,Rice
+Jammu and Kashmir,Jun-10,22.5,Rice
+Jharkhand,Jun-10,17,Rice
+Karnataka,Jun-10,18,Rice
+Kerala,Jun-10,22.14,Rice
+Madhya Pradesh,Jun-10,17.32,Rice
+Maharashtra,Jun-10,19.55,Rice
+Meghalaya,Jun-10,17.36,Rice
+Nagaland,Jun-10,18,Rice
+Odisha,Jun-10,16,Rice
+Punjab,Jun-10,17.45,Rice
+Rajasthan,Jun-10,22,Rice
+Tamil Nadu,Jun-10,20.02,Rice
+Telangana,Jun-10,18.95,Rice
+Tripura,Jun-10,18.82,Rice
+Uttar Pradesh,Jun-10,15,Rice
+Uttarakhand,Jun-10,15,Rice
+West Bengal,Jun-10,18.32,Rice
+Andhra Pradesh,Jul-10,17.77,Rice
+Assam,Jul-10,17,Rice
+Bihar,Jul-10,18,Rice
+Chandigarh,Jul-10,15.4,Rice
+Chhattisgarh,Jul-10,19,Rice
+Delhi,Jul-10,22,Rice
+Gujarat,Jul-10,19.5,Rice
+Himachal Pradesh,Jul-10,27,Rice
+Jammu and Kashmir,Jul-10,23,Rice
+Jharkhand,Jul-10,15,Rice
+Karnataka,Jul-10,19,Rice
+Kerala,Jul-10,24,Rice
+Madhya Pradesh,Jul-10,19.23,Rice
+Maharashtra,Jul-10,19.68,Rice
+Meghalaya,Jul-10,18.05,Rice
+Nagaland,Jul-10,19,Rice
+Odisha,Jul-10,16.73,Rice
+Punjab,Jul-10,18.05,Rice
+Rajasthan,Jul-10,22,Rice
+Tamil Nadu,Jul-10,20.05,Rice
+Telangana,Jul-10,19.32,Rice
+Tripura,Jul-10,19.91,Rice
+Uttar Pradesh,Jul-10,15,Rice
+Uttarakhand,Jul-10,15,Rice
+West Bengal,Jul-10,19.68,Rice
+Andhra Pradesh,Aug-10,18,Rice
+Assam,Aug-10,17,Rice
+Bihar,Aug-10,19.77,Rice
+Chandigarh,Aug-10,16.62,Rice
+Chhattisgarh,Aug-10,19,Rice
+Delhi,Aug-10,22.18,Rice
+Gujarat,Aug-10,18.23,Rice
+Himachal Pradesh,Aug-10,27,Rice
+Jammu and Kashmir,Aug-10,23,Rice
+Karnataka,Aug-10,20,Rice
+Kerala,Aug-10,25.55,Rice
+Madhya Pradesh,Aug-10,19.36,Rice
+Maharashtra,Aug-10,20.14,Rice
+Meghalaya,Aug-10,19,Rice
+Mizoram,Aug-10,18,Rice
+Nagaland,Aug-10,18.8,Rice
+Odisha,Aug-10,17,Rice
+Punjab,Aug-10,17.98,Rice
+Rajasthan,Aug-10,22,Rice
+Tamil Nadu,Aug-10,20.55,Rice
+Telangana,Aug-10,19,Rice
+Tripura,Aug-10,20,Rice
+Uttar Pradesh,Aug-10,15,Rice
+Uttarakhand,Aug-10,15,Rice
+West Bengal,Aug-10,20,Rice
+Andhra Pradesh,Sep-10,18,Rice
+Arunachal pradesh,Sep-10,22,Rice
+Assam,Sep-10,17,Rice
+Bihar,Sep-10,21.49,Rice
+Chandigarh,Sep-10,22,Rice
+Chhattisgarh,Sep-10,19,Rice
+Delhi,Sep-10,22.76,Rice
+Gujarat,Sep-10,16.53,Rice
+Haryana,Sep-10,19,Rice
+Himachal Pradesh,Sep-10,24.24,Rice
+Jammu and Kashmir,Sep-10,23,Rice
+Karnataka,Sep-10,19.75,Rice
+Kerala,Sep-10,26,Rice
+Madhya Pradesh,Sep-10,17.67,Rice
+Maharashtra,Sep-10,20.34,Rice
+Meghalaya,Sep-10,19,Rice
+Mizoram,Sep-10,18,Rice
+Nagaland,Sep-10,18,Rice
+Odisha,Sep-10,17.97,Rice
+Punjab,Sep-10,17.74,Rice
+Rajasthan,Sep-10,22.1,Rice
+Tamil Nadu,Sep-10,20.66,Rice
+Telangana,Sep-10,19,Rice
+Tripura,Sep-10,20,Rice
+Uttar Pradesh,Sep-10,15.14,Rice
+Uttarakhand,Sep-10,15,Rice
+West Bengal,Sep-10,20.38,Rice
+Andhra Pradesh,Oct-10,18,Rice
+Arunachal pradesh,Oct-10,24,Rice
+Assam,Oct-10,17,Rice
+Bihar,Oct-10,21.45,Rice
+Chandigarh,Oct-10,22,Rice
+Chhattisgarh,Oct-10,19.45,Rice
+Delhi,Oct-10,22.4,Rice
+Gujarat,Oct-10,16.5,Rice
+Haryana,Oct-10,19.27,Rice
+Himachal Pradesh,Oct-10,24,Rice
+Jammu and Kashmir,Oct-10,22.69,Rice
+Jharkhand,Oct-10,18,Rice
+Karnataka,Oct-10,20.6,Rice
+Kerala,Oct-10,26.65,Rice
+Madhya Pradesh,Oct-10,17.95,Rice
+Maharashtra,Oct-10,20.2,Rice
+Meghalaya,Oct-10,19,Rice
+Nagaland,Oct-10,18.05,Rice
+Odisha,Oct-10,18.57,Rice
+Punjab,Oct-10,18.19,Rice
+Rajasthan,Oct-10,23.53,Rice
+Tamil Nadu,Oct-10,20.8,Rice
+Telangana,Oct-10,19,Rice
+Tripura,Oct-10,20,Rice
+Uttar Pradesh,Oct-10,15,Rice
+Uttarakhand,Oct-10,15,Rice
+West Bengal,Oct-10,19.69,Rice
+Andhra Pradesh,Nov-10,18,Rice
+Arunachal pradesh,Nov-10,24,Rice
+Assam,Nov-10,17,Rice
+Bihar,Nov-10,21.5,Rice
+Chhattisgarh,Nov-10,19.3,Rice
+Delhi,Nov-10,23,Rice
+Gujarat,Nov-10,16.82,Rice
+Haryana,Nov-10,19.48,Rice
+Himachal Pradesh,Nov-10,24.05,Rice
+Jammu and Kashmir,Nov-10,22.56,Rice
+Jharkhand,Nov-10,18,Rice
+Karnataka,Nov-10,22.7,Rice
+Kerala,Nov-10,28.3,Rice
+Madhya Pradesh,Nov-10,18.1,Rice
+Maharashtra,Nov-10,20.32,Rice
+Meghalaya,Nov-10,19,Rice
+Mizoram,Nov-10,18,Rice
+Nagaland,Nov-10,18,Rice
+Odisha,Nov-10,18.67,Rice
+Punjab,Nov-10,17.44,Rice
+Rajasthan,Nov-10,23.21,Rice
+Tamil Nadu,Nov-10,21.43,Rice
+Telangana,Nov-10,19.15,Rice
+Tripura,Nov-10,20,Rice
+Uttar Pradesh,Nov-10,15,Rice
+Uttarakhand,Nov-10,15,Rice
+West Bengal,Nov-10,19.55,Rice
+Andhra Pradesh,Dec-10,18,Rice
+Arunachal pradesh,Dec-10,24,Rice
+Assam,Dec-10,16.82,Rice
+Bihar,Dec-10,21.66,Rice
+Chandigarh,Dec-10,25,Rice
+Chhattisgarh,Dec-10,19,Rice
+Delhi,Dec-10,23,Rice
+Gujarat,Dec-10,17.75,Rice
+Haryana,Dec-10,19.14,Rice
+Himachal Pradesh,Dec-10,24,Rice
+Jammu and Kashmir,Dec-10,23.79,Rice
+Jharkhand,Dec-10,18,Rice
+Karnataka,Dec-10,22.17,Rice
+Kerala,Dec-10,28.5,Rice
+Madhya Pradesh,Dec-10,18.2,Rice
+Maharashtra,Dec-10,19.61,Rice
+Meghalaya,Dec-10,18.73,Rice
+Mizoram,Dec-10,18,Rice
+Nagaland,Dec-10,17.36,Rice
+Odisha,Dec-10,18.79,Rice
+Punjab,Dec-10,17.93,Rice
+Rajasthan,Dec-10,24.55,Rice
+Tamil Nadu,Dec-10,21.94,Rice
+Telangana,Dec-10,19.14,Rice
+Tripura,Dec-10,18.36,Rice
+Uttar Pradesh,Dec-10,14.94,Rice
+Uttarakhand,Dec-10,15,Rice
+West Bengal,Dec-10,19.14,Rice
+Andhra Pradesh,Jan-11,18,Rice
+Arunachal pradesh,Jan-11,24,Rice
+Assam,Jan-11,15,Rice
+Bihar,Jan-11,21.68,Rice
+Chhattisgarh,Jan-11,19,Rice
+Delhi,Jan-11,23,Rice
+Gujarat,Jan-11,16.5,Rice
+Haryana,Jan-11,19,Rice
+Himachal Pradesh,Jan-11,24,Rice
+Jammu and Kashmir,Jan-11,25.65,Rice
+Jharkhand,Jan-11,18,Rice
+Karnataka,Jan-11,19.71,Rice
+Kerala,Jan-11,27.62,Rice
+Madhya Pradesh,Jan-11,19,Rice
+Maharashtra,Jan-11,19.37,Rice
+Meghalaya,Jan-11,18,Rice
+Mizoram,Jan-11,18,Rice
+Nagaland,Jan-11,17.58,Rice
+Odisha,Jan-11,18.96,Rice
+Punjab,Jan-11,20.03,Rice
+Rajasthan,Jan-11,24.07,Rice
+Tamil Nadu,Jan-11,21.7,Rice
+Telangana,Jan-11,19.11,Rice
+Tripura,Jan-11,17,Rice
+Uttar Pradesh,Jan-11,14.78,Rice
+Uttarakhand,Jan-11,15,Rice
+West Bengal,Jan-11,19.45,Rice
+Andhra Pradesh,Feb-11,18,Rice
+Arunachal pradesh,Feb-11,24,Rice
+Assam,Feb-11,15.33,Rice
+Bihar,Feb-11,21.74,Rice
+Chhattisgarh,Feb-11,19,Rice
+Delhi,Feb-11,23.21,Rice
+Gujarat,Feb-11,16.5,Rice
+Haryana,Feb-11,19,Rice
+Himachal Pradesh,Feb-11,23.84,Rice
+Jammu and Kashmir,Feb-11,24.5,Rice
+Jharkhand,Feb-11,18,Rice
+Karnataka,Feb-11,20.53,Rice
+Kerala,Feb-11,27.5,Rice
+Madhya Pradesh,Feb-11,19.32,Rice
+Maharashtra,Feb-11,19.24,Rice
+Meghalaya,Feb-11,18,Rice
+Mizoram,Feb-11,18,Rice
+Nagaland,Feb-11,16.68,Rice
+Odisha,Feb-11,18.67,Rice
+Punjab,Feb-11,19,Rice
+Rajasthan,Feb-11,23,Rice
+Tamil Nadu,Feb-11,21.16,Rice
+Telangana,Feb-11,19.58,Rice
+Tripura,Feb-11,18.37,Rice
+Uttar Pradesh,Feb-11,14.96,Rice
+Uttarakhand,Feb-11,15.26,Rice
+West Bengal,Feb-11,19.26,Rice
+Andhra Pradesh,Mar-11,18,Rice
+Arunachal pradesh,Mar-11,24,Rice
+Assam,Mar-11,16.55,Rice
+Bihar,Mar-11,22,Rice
+Chhattisgarh,Mar-11,19,Rice
+Delhi,Mar-11,23,Rice
+Gujarat,Mar-11,16.39,Rice
+Haryana,Mar-11,19,Rice
+Himachal Pradesh,Mar-11,23.26,Rice
+Jammu and Kashmir,Mar-11,23.59,Rice
+Jharkhand,Mar-11,20.35,Rice
+Karnataka,Mar-11,21.27,Rice
+Kerala,Mar-11,28.27,Rice
+Madhya Pradesh,Mar-11,19.5,Rice
+Maharashtra,Mar-11,19.2,Rice
+Meghalaya,Mar-11,18,Rice
+Mizoram,Mar-11,20.55,Rice
+Nagaland,Mar-11,16,Rice
+Odisha,Mar-11,18.67,Rice
+Rajasthan,Mar-11,21.23,Rice
+Tamil Nadu,Mar-11,20.68,Rice
+Telangana,Mar-11,19.86,Rice
+Tripura,Mar-11,19,Rice
+Uttar Pradesh,Mar-11,14.98,Rice
+Uttarakhand,Mar-11,16,Rice
+West Bengal,Mar-11,19.3,Rice
+Andhra Pradesh,Apr-11,18,Rice
+Arunachal pradesh,Apr-11,20.56,Rice
+Assam,Apr-11,17.72,Rice
+Bihar,Apr-11,22,Rice
+Chhattisgarh,Apr-11,19,Rice
+Delhi,Apr-11,23.22,Rice
+Gujarat,Apr-11,16.44,Rice
+Haryana,Apr-11,19,Rice
+Himachal Pradesh,Apr-11,23.26,Rice
+Jammu and Kashmir,Apr-11,23.5,Rice
+Jharkhand,Apr-11,24.78,Rice
+Karnataka,Apr-11,22.22,Rice
+Kerala,Apr-11,28.06,Rice
+Madhya Pradesh,Apr-11,19.81,Rice
+Maharashtra,Apr-11,18.69,Rice
+Meghalaya,Apr-11,18,Rice
+Mizoram,Apr-11,25,Rice
+Nagaland,Apr-11,16.5,Rice
+Odisha,Apr-11,18.67,Rice
+Rajasthan,Apr-11,20,Rice
+Tamil Nadu,Apr-11,20.57,Rice
+Telangana,Apr-11,19.67,Rice
+Tripura,Apr-11,19,Rice
+Uttar Pradesh,Apr-11,15,Rice
+Uttarakhand,Apr-11,16,Rice
+West Bengal,Apr-11,19.11,Rice
+Andhra Pradesh,May-11,18,Rice
+Arunachal pradesh,May-11,19.5,Rice
+Assam,May-11,17.95,Rice
+Bihar,May-11,21.95,Rice
+Chandigarh,May-11,16.86,Rice
+Chhattisgarh,May-11,19,Rice
+Delhi,May-11,23,Rice
+Gujarat,May-11,17,Rice
+Haryana,May-11,19,Rice
+Himachal Pradesh,May-11,23.5,Rice
+Jammu and Kashmir,May-11,23.84,Rice
+Jharkhand,May-11,25,Rice
+Karnataka,May-11,22.2,Rice
+Kerala,May-11,26.17,Rice
+Madhya Pradesh,May-11,20,Rice
+Maharashtra,May-11,18.67,Rice
+Meghalaya,May-11,18,Rice
+Mizoram,May-11,25,Rice
+Nagaland,May-11,17,Rice
+Odisha,May-11,19,Rice
+Punjab,May-11,18,Rice
+Rajasthan,May-11,20,Rice
+Tamil Nadu,May-11,20.78,Rice
+Telangana,May-11,19.48,Rice
+Tripura,May-11,19,Rice
+Uttar Pradesh,May-11,15,Rice
+Uttarakhand,May-11,16,Rice
+West Bengal,May-11,18.48,Rice
+Andhra Pradesh,Jun-11,18,Rice
+Arunachal pradesh,Jun-11,20,Rice
+Assam,Jun-11,18.77,Rice
+Bihar,Jun-11,21.32,Rice
+Chandigarh,Jun-11,22,Rice
+Chhattisgarh,Jun-11,18.41,Rice
+Delhi,Jun-11,23,Rice
+Gujarat,Jun-11,17.09,Rice
+Haryana,Jun-11,19,Rice
+Himachal Pradesh,Jun-11,23.5,Rice
+Jammu and Kashmir,Jun-11,24.39,Rice
+Jharkhand,Jun-11,25,Rice
+Karnataka,Jun-11,22.34,Rice
+Kerala,Jun-11,25.34,Rice
+Madhya Pradesh,Jun-11,19.93,Rice
+Maharashtra,Jun-11,18.84,Rice
+Meghalaya,Jun-11,18,Rice
+Mizoram,Jun-11,25,Rice
+Nagaland,Jun-11,16.41,Rice
+Odisha,Jun-11,19.29,Rice
+Punjab,Jun-11,19.97,Rice
+Rajasthan,Jun-11,20,Rice
+Tamil Nadu,Jun-11,21,Rice
+Telangana,Jun-11,19.91,Rice
+Tripura,Jun-11,19,Rice
+Uttar Pradesh,Jun-11,15,Rice
+Uttarakhand,Jun-11,16,Rice
+West Bengal,Jun-11,19.16,Rice
+Andhra Pradesh,Jul-11,18,Rice
+Arunachal pradesh,Jul-11,20,Rice
+Assam,Jul-11,18.52,Rice
+Bihar,Jul-11,21,Rice
+Chandigarh,Jul-11,22,Rice
+Chhattisgarh,Jul-11,18,Rice
+Delhi,Jul-11,23,Rice
+Gujarat,Jul-11,18.52,Rice
+Haryana,Jul-11,19.07,Rice
+Himachal Pradesh,Jul-11,23.5,Rice
+Jammu and Kashmir,Jul-11,24.5,Rice
+Jharkhand,Jul-11,25.19,Rice
+Karnataka,Jul-11,22.5,Rice
+Kerala,Jul-11,23.73,Rice
+Madhya Pradesh,Jul-11,19.76,Rice
+Maharashtra,Jul-11,19.95,Rice
+Meghalaya,Jul-11,18,Rice
+Mizoram,Jul-11,25,Rice
+Nagaland,Jul-11,15.86,Rice
+Odisha,Jul-11,19.25,Rice
+Rajasthan,Jul-11,20.14,Rice
+Tamil Nadu,Jul-11,20.7,Rice
+Telangana,Jul-11,20.43,Rice
+Tripura,Jul-11,19.81,Rice
+Uttar Pradesh,Jul-11,15.02,Rice
+Uttarakhand,Jul-11,15.1,Rice
+West Bengal,Jul-11,19,Rice
+Andhra Pradesh,Aug-11,18,Rice
+Assam,Aug-11,18,Rice
+Bihar,Aug-11,21.52,Rice
+Chandigarh,Aug-11,22,Rice
+Chhattisgarh,Aug-11,18,Rice
+Delhi,Aug-11,23.6,Rice
+Gujarat,Aug-11,19,Rice
+Haryana,Aug-11,19.5,Rice
+Himachal Pradesh,Aug-11,23.5,Rice
+Jammu and Kashmir,Aug-11,24.5,Rice
+Jharkhand,Aug-11,26.35,Rice
+Karnataka,Aug-11,22.5,Rice
+Kerala,Aug-11,23.5,Rice
+Madhya Pradesh,Aug-11,20,Rice
+Maharashtra,Aug-11,21.55,Rice
+Meghalaya,Aug-11,18,Rice
+Mizoram,Aug-11,25,Rice
+Nagaland,Aug-11,15.85,Rice
+Odisha,Aug-11,19.33,Rice
+Rajasthan,Aug-11,20,Rice
+Tamil Nadu,Aug-11,20.93,Rice
+Telangana,Aug-11,20.8,Rice
+Tripura,Aug-11,19.1,Rice
+Uttar Pradesh,Aug-11,15.5,Rice
+Uttarakhand,Aug-11,15,Rice
+West Bengal,Aug-11,19,Rice
+Andhra Pradesh,Sep-11,18.23,Rice
+Assam,Sep-11,18,Rice
+Bihar,Sep-11,22.5,Rice
+Chandigarh,Sep-11,22,Rice
+Chhattisgarh,Sep-11,18.18,Rice
+Delhi,Sep-11,24,Rice
+Gujarat,Sep-11,18.34,Rice
+Haryana,Sep-11,19.89,Rice
+Himachal Pradesh,Sep-11,23.5,Rice
+Jammu and Kashmir,Sep-11,24.5,Rice
+Jharkhand,Sep-11,25.91,Rice
+Karnataka,Sep-11,22.55,Rice
+Kerala,Sep-11,23.68,Rice
+Madhya Pradesh,Sep-11,19.59,Rice
+Maharashtra,Sep-11,22.32,Rice
+Meghalaya,Sep-11,16.64,Rice
+Mizoram,Sep-11,25,Rice
+Nagaland,Sep-11,14.18,Rice
+Odisha,Sep-11,19.33,Rice
+Punjab,Sep-11,19.67,Rice
+Rajasthan,Sep-11,20.29,Rice
+Tamil Nadu,Sep-11,20.7,Rice
+Telangana,Sep-11,19.5,Rice
+Tripura,Sep-11,19,Rice
+Uttar Pradesh,Sep-11,15.66,Rice
+Uttarakhand,Sep-11,15,Rice
+West Bengal,Sep-11,18.88,Rice
+Andhra Pradesh,Oct-11,19,Rice
+Assam,Oct-11,18,Rice
+Bihar,Oct-11,24.06,Rice
+Chandigarh,Oct-11,20,Rice
+Chhattisgarh,Oct-11,18.35,Rice
+Delhi,Oct-11,24,Rice
+Gujarat,Oct-11,16.56,Rice
+Haryana,Oct-11,20,Rice
+Himachal Pradesh,Oct-11,24.52,Rice
+Jammu and Kashmir,Oct-11,25.65,Rice
+Jharkhand,Oct-11,27,Rice
+Karnataka,Oct-11,23,Rice
+Kerala,Oct-11,25.27,Rice
+Madhya Pradesh,Oct-11,19.74,Rice
+Maharashtra,Oct-11,21.53,Rice
+Meghalaya,Oct-11,15.93,Rice
+Mizoram,Oct-11,25,Rice
+Nagaland,Oct-11,14,Rice
+Odisha,Oct-11,19.15,Rice
+Punjab,Oct-11,19.47,Rice
+Rajasthan,Oct-11,20.33,Rice
+Tamil Nadu,Oct-11,20.74,Rice
+Telangana,Oct-11,20.79,Rice
+Tripura,Oct-11,19,Rice
+Uttar Pradesh,Oct-11,16.18,Rice
+Uttarakhand,Oct-11,15,Rice
+West Bengal,Oct-11,19.5,Rice
+Andhra Pradesh,Nov-11,19,Rice
+Arunachal pradesh,Nov-11,20,Rice
+Assam,Nov-11,17.18,Rice
+Bihar,Nov-11,24.57,Rice
+Chandigarh,Nov-11,21,Rice
+Chhattisgarh,Nov-11,18,Rice
+Delhi,Nov-11,24,Rice
+Gujarat,Nov-11,18.03,Rice
+Haryana,Nov-11,20,Rice
+Himachal Pradesh,Nov-11,24.21,Rice
+Jammu and Kashmir,Nov-11,23.94,Rice
+Jharkhand,Nov-11,26.64,Rice
+Karnataka,Nov-11,22.63,Rice
+Kerala,Nov-11,24.79,Rice
+Madhya Pradesh,Nov-11,20.16,Rice
+Maharashtra,Nov-11,21.82,Rice
+Meghalaya,Nov-11,16,Rice
+Mizoram,Nov-11,25,Rice
+Nagaland,Nov-11,13.1,Rice
+Odisha,Nov-11,19.36,Rice
+Punjab,Nov-11,23.08,Rice
+Rajasthan,Nov-11,21.36,Rice
+Tamil Nadu,Nov-11,21.22,Rice
+Telangana,Nov-11,19.35,Rice
+Tripura,Nov-11,19,Rice
+Uttar Pradesh,Nov-11,16,Rice
+Uttarakhand,Nov-11,15,Rice
+West Bengal,Nov-11,18.57,Rice
+Andhra Pradesh,Dec-11,19,Rice
+Arunachal pradesh,Dec-11,19.88,Rice
+Assam,Dec-11,16.67,Rice
+Bihar,Dec-11,25,Rice
+Chandigarh,Dec-11,22,Rice
+Chhattisgarh,Dec-11,18.57,Rice
+Delhi,Dec-11,23.86,Rice
+Gujarat,Dec-11,18.39,Rice
+Haryana,Dec-11,20,Rice
+Himachal Pradesh,Dec-11,25.27,Rice
+Jammu and Kashmir,Dec-11,23.68,Rice
+Jharkhand,Dec-11,25,Rice
+Karnataka,Dec-11,22.63,Rice
+Kerala,Dec-11,24.02,Rice
+Madhya Pradesh,Dec-11,20.41,Rice
+Maharashtra,Dec-11,21.68,Rice
+Meghalaya,Dec-11,16,Rice
+Mizoram,Dec-11,25.7,Rice
+Nagaland,Dec-11,12,Rice
+Odisha,Dec-11,19.67,Rice
+Punjab,Dec-11,22.58,Rice
+Rajasthan,Dec-11,21.72,Rice
+Tamil Nadu,Dec-11,21.22,Rice
+Telangana,Dec-11,17.67,Rice
+Tripura,Dec-11,19,Rice
+Uttar Pradesh,Dec-11,16.13,Rice
+Uttarakhand,Dec-11,15,Rice
+West Bengal,Dec-11,18.41,Rice
+Andhra Pradesh,Jan-12,18.62,Rice
+Arunachal pradesh,Jan-12,18,Rice
+Assam,Jan-12,16.71,Rice
+Bihar,Jan-12,25,Rice
+Chandigarh,Jan-12,22,Rice
+Chhattisgarh,Jan-12,19,Rice
+Delhi,Jan-12,24,Rice
+Gujarat,Jan-12,18.9,Rice
+Haryana,Jan-12,20,Rice
+Himachal Pradesh,Jan-12,25.2,Rice
+Jammu and Kashmir,Jan-12,23.88,Rice
+Jharkhand,Jan-12,24.5,Rice
+Karnataka,Jan-12,22.5,Rice
+Kerala,Jan-12,24.2,Rice
+Madhya Pradesh,Jan-12,20.31,Rice
+Maharashtra,Jan-12,21.71,Rice
+Meghalaya,Jan-12,16,Rice
+Mizoram,Jan-12,26,Rice
+Nagaland,Jan-12,13,Rice
+Odisha,Jan-12,19.67,Rice
+Punjab,Jan-12,22.71,Rice
+Rajasthan,Jan-12,23.09,Rice
+Tamil Nadu,Jan-12,21.12,Rice
+Telangana,Jan-12,18.1,Rice
+Tripura,Jan-12,19,Rice
+Uttar Pradesh,Jan-12,15.99,Rice
+Uttarakhand,Jan-12,15,Rice
+West Bengal,Jan-12,17.97,Rice
+Andhra Pradesh,Feb-12,18,Rice
+Arunachal pradesh,Feb-12,18,Rice
+Assam,Feb-12,18.41,Rice
+Bihar,Feb-12,25,Rice
+Chandigarh,Feb-12,22,Rice
+Chhattisgarh,Feb-12,19,Rice
+Delhi,Feb-12,23.9,Rice
+Gujarat,Feb-12,18.5,Rice
+Haryana,Feb-12,20.5,Rice
+Himachal Pradesh,Feb-12,25.32,Rice
+Jammu and Kashmir,Feb-12,23.69,Rice
+Jharkhand,Feb-12,26,Rice
+Karnataka,Feb-12,22.55,Rice
+Kerala,Feb-12,24.16,Rice
+Madhya Pradesh,Feb-12,20.78,Rice
+Maharashtra,Feb-12,22,Rice
+Meghalaya,Feb-12,15.94,Rice
+Mizoram,Feb-12,26,Rice
+Nagaland,Feb-12,14.46,Rice
+Odisha,Feb-12,19.52,Rice
+Punjab,Feb-12,23.27,Rice
+Rajasthan,Feb-12,22.69,Rice
+Tamil Nadu,Feb-12,21,Rice
+Telangana,Feb-12,19.5,Rice
+Tripura,Feb-12,19,Rice
+Uttar Pradesh,Feb-12,16.07,Rice
+Uttarakhand,Feb-12,15,Rice
+West Bengal,Feb-12,18.18,Rice
+Andhra Pradesh,Mar-12,19.4,Rice
+Arunachal pradesh,Mar-12,18,Rice
+Assam,Mar-12,17.43,Rice
+Bihar,Mar-12,25,Rice
+Chandigarh,Mar-12,22,Rice
+Chhattisgarh,Mar-12,19,Rice
+Delhi,Mar-12,24,Rice
+Gujarat,Mar-12,19.02,Rice
+Haryana,Mar-12,20.81,Rice
+Himachal Pradesh,Mar-12,25.46,Rice
+Jammu and Kashmir,Mar-12,23.44,Rice
+Jharkhand,Mar-12,27,Rice
+Karnataka,Mar-12,22.71,Rice
+Kerala,Mar-12,24.07,Rice
+Madhya Pradesh,Mar-12,20.36,Rice
+Maharashtra,Mar-12,22,Rice
+Meghalaya,Mar-12,16,Rice
+Mizoram,Mar-12,26,Rice
+Nagaland,Mar-12,15,Rice
+Odisha,Mar-12,19,Rice
+Punjab,Mar-12,23.12,Rice
+Rajasthan,Mar-12,22.65,Rice
+Tamil Nadu,Mar-12,21.23,Rice
+Telangana,Mar-12,21.95,Rice
+Tripura,Mar-12,19,Rice
+Uttar Pradesh,Mar-12,16,Rice
+Uttarakhand,Mar-12,15.18,Rice
+West Bengal,Mar-12,18.09,Rice
+Andhra Pradesh,Apr-12,20,Rice
+Arunachal pradesh,Apr-12,18.5,Rice
+Assam,Apr-12,18,Rice
+Bihar,Apr-12,22.74,Rice
+Chandigarh,Apr-12,22,Rice
+Chhattisgarh,Apr-12,19,Rice
+Delhi,Apr-12,24.57,Rice
+Gujarat,Apr-12,19,Rice
+Haryana,Apr-12,20.97,Rice
+Himachal Pradesh,Apr-12,25.4,Rice
+Jammu and Kashmir,Apr-12,24.27,Rice
+Jharkhand,Apr-12,27,Rice
+Karnataka,Apr-12,23.8,Rice
+Kerala,Apr-12,25.67,Rice
+Madhya Pradesh,Apr-12,20.5,Rice
+Maharashtra,Apr-12,22.18,Rice
+Meghalaya,Apr-12,16,Rice
+Mizoram,Apr-12,26,Rice
+Nagaland,Apr-12,15.71,Rice
+Odisha,Apr-12,19,Rice
+Punjab,Apr-12,22.83,Rice
+Rajasthan,Apr-12,22.15,Rice
+Tamil Nadu,Apr-12,21.52,Rice
+Telangana,Apr-12,22,Rice
+Tripura,Apr-12,19,Rice
+Uttar Pradesh,Apr-12,16,Rice
+Uttarakhand,Apr-12,16,Rice
+West Bengal,Apr-12,18.07,Rice
+Andhra Pradesh,May-12,20.78,Rice
+Arunachal pradesh,May-12,18,Rice
+Assam,May-12,17.06,Rice
+Bihar,May-12,21.59,Rice
+Chandigarh,May-12,22.41,Rice
+Chhattisgarh,May-12,19.05,Rice
+Delhi,May-12,25.23,Rice
+Gujarat,May-12,18.09,Rice
+Haryana,May-12,21.22,Rice
+Himachal Pradesh,May-12,25.5,Rice
+Jammu and Kashmir,May-12,24.41,Rice
+Jharkhand,May-12,27.54,Rice
+Karnataka,May-12,24,Rice
+Kerala,May-12,25.76,Rice
+Madhya Pradesh,May-12,20.78,Rice
+Maharashtra,May-12,23.91,Rice
+Meghalaya,May-12,16.63,Rice
+Mizoram,May-12,26,Rice
+Nagaland,May-12,15.15,Rice
+Odisha,May-12,18.67,Rice
+Punjab,May-12,23.67,Rice
+Rajasthan,May-12,23.67,Rice
+Tamil Nadu,May-12,21.66,Rice
+Telangana,May-12,22.7,Rice
+Tripura,May-12,19,Rice
+Uttar Pradesh,May-12,16.19,Rice
+Uttarakhand,May-12,16,Rice
+West Bengal,May-12,18.54,Rice
+Andaman and Nicobar,Jun-12,40,Rice
+Andhra Pradesh,Jun-12,22,Rice
+Arunachal pradesh,Jun-12,18,Rice
+Assam,Jun-12,16.33,Rice
+Bihar,Jun-12,22.68,Rice
+Chandigarh,Jun-12,23,Rice
+Chhattisgarh,Jun-12,19.75,Rice
+Delhi,Jun-12,24.57,Rice
+Gujarat,Jun-12,18.5,Rice
+Haryana,Jun-12,21.5,Rice
+Himachal Pradesh,Jun-12,25.54,Rice
+Jammu and Kashmir,Jun-12,23.88,Rice
+Jharkhand,Jun-12,27.13,Rice
+Karnataka,Jun-12,24.25,Rice
+Kerala,Jun-12,26.93,Rice
+Madhya Pradesh,Jun-12,21.22,Rice
+Maharashtra,Jun-12,24.94,Rice
+Meghalaya,Jun-12,17,Rice
+Mizoram,Jun-12,26,Rice
+Nagaland,Jun-12,15,Rice
+Odisha,Jun-12,18.98,Rice
+Puducherry,Jun-12,21.71,Rice
+Punjab,Jun-12,23.97,Rice
+Rajasthan,Jun-12,24.21,Rice
+Tamil Nadu,Jun-12,22.76,Rice
+Telangana,Jun-12,24.71,Rice
+Tripura,Jun-12,19,Rice
+Uttar Pradesh,Jun-12,16.56,Rice
+Uttarakhand,Jun-12,16,Rice
+West Bengal,Jun-12,19.06,Rice
+Andaman and Nicobar,Jul-12,40.15,Rice
+Andhra Pradesh,Jul-12,22,Rice
+Arunachal pradesh,Jul-12,19.43,Rice
+Assam,Jul-12,17.5,Rice
+Bihar,Jul-12,23.94,Rice
+Chandigarh,Jul-12,22.3,Rice
+Chhattisgarh,Jul-12,21.21,Rice
+Delhi,Jul-12,24.38,Rice
+Gujarat,Jul-12,18.8,Rice
+Haryana,Jul-12,21.98,Rice
+Himachal Pradesh,Jul-12,25.98,Rice
+Jammu and Kashmir,Jul-12,23.47,Rice
+Jharkhand,Jul-12,28,Rice
+Karnataka,Jul-12,25.39,Rice
+Kerala,Jul-12,27.43,Rice
+Madhya Pradesh,Jul-12,21.38,Rice
+Maharashtra,Jul-12,24.72,Rice
+Meghalaya,Jul-12,17,Rice
+Mizoram,Jul-12,26,Rice
+Nagaland,Jul-12,15.7,Rice
+Odisha,Jul-12,20.15,Rice
+Puducherry,Jul-12,24.73,Rice
+Punjab,Jul-12,24.69,Rice
+Rajasthan,Jul-12,24.25,Rice
+Tamil Nadu,Jul-12,25.91,Rice
+Telangana,Jul-12,23.09,Rice
+Tripura,Jul-12,18.47,Rice
+Uttar Pradesh,Jul-12,16.84,Rice
+Uttarakhand,Jul-12,16.68,Rice
+West Bengal,Jul-12,19.1,Rice
+Andaman and Nicobar,Aug-12,41,Rice
+Andhra Pradesh,Aug-12,22,Rice
+Arunachal pradesh,Aug-12,20,Rice
+Assam,Aug-12,17,Rice
+Bihar,Aug-12,24.48,Rice
+Chandigarh,Aug-12,22.6,Rice
+Chhattisgarh,Aug-12,21,Rice
+Delhi,Aug-12,24.84,Rice
+Gujarat,Aug-12,19.21,Rice
+Haryana,Aug-12,21.95,Rice
+Himachal Pradesh,Aug-12,27,Rice
+Jammu and Kashmir,Aug-12,23.39,Rice
+Jharkhand,Aug-12,28,Rice
+Karnataka,Aug-12,25.5,Rice
+Kerala,Aug-12,28.68,Rice
+Madhya Pradesh,Aug-12,21.31,Rice
+Maharashtra,Aug-12,25.88,Rice
+Meghalaya,Aug-12,17.69,Rice
+Mizoram,Aug-12,30,Rice
+Nagaland,Aug-12,16.79,Rice
+Odisha,Aug-12,20.34,Rice
+Puducherry,Aug-12,26,Rice
+Punjab,Aug-12,26.12,Rice
+Rajasthan,Aug-12,24.7,Rice
+Tamil Nadu,Aug-12,28.05,Rice
+Telangana,Aug-12,23,Rice
+Tripura,Aug-12,17.89,Rice
+Uttar Pradesh,Aug-12,17.43,Rice
+Uttarakhand,Aug-12,17,Rice
+West Bengal,Aug-12,19.47,Rice
+Andaman and Nicobar,Sep-12,41,Rice
+Andhra Pradesh,Sep-12,22,Rice
+Arunachal pradesh,Sep-12,20,Rice
+Assam,Sep-12,17,Rice
+Bihar,Sep-12,24.26,Rice
+Chandigarh,Sep-12,25,Rice
+Chhattisgarh,Sep-12,21,Rice
+Delhi,Sep-12,25.89,Rice
+Gujarat,Sep-12,19.84,Rice
+Haryana,Sep-12,22.26,Rice
+Himachal Pradesh,Sep-12,26.8,Rice
+Jammu and Kashmir,Sep-12,23.53,Rice
+Jharkhand,Sep-12,28,Rice
+Karnataka,Sep-12,26.23,Rice
+Kerala,Sep-12,28.63,Rice
+Madhya Pradesh,Sep-12,21.5,Rice
+Maharashtra,Sep-12,25.55,Rice
+Meghalaya,Sep-12,18,Rice
+Mizoram,Sep-12,30,Rice
+Nagaland,Sep-12,17,Rice
+Odisha,Sep-12,20.33,Rice
+Puducherry,Sep-12,26.42,Rice
+Punjab,Sep-12,26.91,Rice
+Rajasthan,Sep-12,24.38,Rice
+Tamil Nadu,Sep-12,28.65,Rice
+Telangana,Sep-12,23,Rice
+Tripura,Sep-12,16.56,Rice
+Uttar Pradesh,Sep-12,17.5,Rice
+Uttarakhand,Sep-12,17,Rice
+West Bengal,Sep-12,20.14,Rice
+Andaman and Nicobar,Oct-12,43.89,Rice
+Andhra Pradesh,Oct-12,22,Rice
+Arunachal pradesh,Oct-12,21,Rice
+Assam,Oct-12,17,Rice
+Bihar,Oct-12,24.48,Rice
+Chandigarh,Oct-12,25,Rice
+Chhattisgarh,Oct-12,21,Rice
+Delhi,Oct-12,26.74,Rice
+Gujarat,Oct-12,20.08,Rice
+Haryana,Oct-12,21.8,Rice
+Himachal Pradesh,Oct-12,26.92,Rice
+Jammu and Kashmir,Oct-12,24.41,Rice
+Jharkhand,Oct-12,27.4,Rice
+Karnataka,Oct-12,26.52,Rice
+Kerala,Oct-12,30,Rice
+Madhya Pradesh,Oct-12,21.44,Rice
+Maharashtra,Oct-12,27,Rice
+Meghalaya,Oct-12,18,Rice
+Mizoram,Oct-12,30,Rice
+Nagaland,Oct-12,17,Rice
+Odisha,Oct-12,20.36,Rice
+Puducherry,Oct-12,28,Rice
+Punjab,Oct-12,26.96,Rice
+Rajasthan,Oct-12,26.04,Rice
+Tamil Nadu,Oct-12,30.23,Rice
+Telangana,Oct-12,23,Rice
+Tripura,Oct-12,16.78,Rice
+Uttar Pradesh,Oct-12,17.43,Rice
+Uttarakhand,Oct-12,17.17,Rice
+West Bengal,Oct-12,20.1,Rice
+Andaman and Nicobar,Nov-12,46.55,Rice
+Andhra Pradesh,Nov-12,22.6,Rice
+Arunachal pradesh,Nov-12,20.5,Rice
+Assam,Nov-12,17,Rice
+Bihar,Nov-12,24.82,Rice
+Chandigarh,Nov-12,25,Rice
+Chhattisgarh,Nov-12,21,Rice
+Delhi,Nov-12,25.68,Rice
+Gujarat,Nov-12,20,Rice
+Haryana,Nov-12,22.47,Rice
+Himachal Pradesh,Nov-12,27.05,Rice
+Jammu and Kashmir,Nov-12,25.57,Rice
+Jharkhand,Nov-12,26.86,Rice
+Karnataka,Nov-12,26.63,Rice
+Kerala,Nov-12,31.7,Rice
+Madhya Pradesh,Nov-12,22.5,Rice
+Maharashtra,Nov-12,27.64,Rice
+Meghalaya,Nov-12,18,Rice
+Mizoram,Nov-12,30,Rice
+Nagaland,Nov-12,17,Rice
+Odisha,Nov-12,20.35,Rice
+Puducherry,Nov-12,28.9,Rice
+Punjab,Nov-12,27.49,Rice
+Rajasthan,Nov-12,26.44,Rice
+Tamil Nadu,Nov-12,30.7,Rice
+Telangana,Nov-12,23.45,Rice
+Tripura,Nov-12,17,Rice
+Uttar Pradesh,Nov-12,17.21,Rice
+Uttarakhand,Nov-12,16.59,Rice
+West Bengal,Nov-12,20.45,Rice
+Andaman and Nicobar,Dec-12,48,Rice
+Andhra Pradesh,Dec-12,24,Rice
+Assam,Dec-12,17.3,Rice
+Bihar,Dec-12,24.82,Rice
+Chandigarh,Dec-12,25,Rice
+Chhattisgarh,Dec-12,21,Rice
+Delhi,Dec-12,25.75,Rice
+Gujarat,Dec-12,19.56,Rice
+Haryana,Dec-12,22.58,Rice
+Himachal Pradesh,Dec-12,26.69,Rice
+Jammu and Kashmir,Dec-12,25.28,Rice
+Jharkhand,Dec-12,25.31,Rice
+Karnataka,Dec-12,26.03,Rice
+Kerala,Dec-12,33.78,Rice
+Madhya Pradesh,Dec-12,21.54,Rice
+Maharashtra,Dec-12,27.82,Rice
+Meghalaya,Dec-12,18,Rice
+Mizoram,Dec-12,32.69,Rice
+Nagaland,Dec-12,17,Rice
+Odisha,Dec-12,20.58,Rice
+Puducherry,Dec-12,29,Rice
+Punjab,Dec-12,28.09,Rice
+Rajasthan,Dec-12,26.86,Rice
+Tamil Nadu,Dec-12,31.17,Rice
+Telangana,Dec-12,24,Rice
+Tripura,Dec-12,17,Rice
+Uttar Pradesh,Dec-12,17.07,Rice
+Uttarakhand,Dec-12,16.5,Rice
+West Bengal,Dec-12,19.97,Rice
+Andaman and Nicobar,Jan-13,48,Rice
+Andhra Pradesh,Jan-13,24.1,Rice
+Arunachal pradesh,Jan-13,20,Rice
+Assam,Jan-13,18,Rice
+Bihar,Jan-13,24.53,Rice
+Chandigarh,Jan-13,25.11,Rice
+Chhattisgarh,Jan-13,21,Rice
+Delhi,Jan-13,25.86,Rice
+Gujarat,Jan-13,20.45,Rice
+Haryana,Jan-13,22.19,Rice
+Himachal Pradesh,Jan-13,26.65,Rice
+Jammu and Kashmir,Jan-13,25.73,Rice
+Jharkhand,Jan-13,26.75,Rice
+Karnataka,Jan-13,26.94,Rice
+Kerala,Jan-13,35.04,Rice
+Madhya Pradesh,Jan-13,22.2,Rice
+Maharashtra,Jan-13,27.9,Rice
+Meghalaya,Jan-13,18,Rice
+Mizoram,Jan-13,32,Rice
+Nagaland,Jan-13,17,Rice
+Odisha,Jan-13,20.74,Rice
+Puducherry,Jan-13,29,Rice
+Punjab,Jan-13,29.15,Rice
+Rajasthan,Jan-13,27.04,Rice
+Tamil Nadu,Jan-13,33.12,Rice
+Telangana,Jan-13,24.1,Rice
+Tripura,Jan-13,17,Rice
+Uttar Pradesh,Jan-13,17,Rice
+Uttarakhand,Jan-13,16.6,Rice
+West Bengal,Jan-13,20.13,Rice
+Andaman and Nicobar,Feb-13,48.94,Rice
+Andhra Pradesh,Feb-13,25,Rice
+Arunachal pradesh,Feb-13,20,Rice
+Assam,Feb-13,18,Rice
+Bihar,Feb-13,24.21,Rice
+Chandigarh,Feb-13,27,Rice
+Chhattisgarh,Feb-13,21.35,Rice
+Delhi,Feb-13,26.3,Rice
+Gujarat,Feb-13,20.5,Rice
+Haryana,Feb-13,22.28,Rice
+Himachal Pradesh,Feb-13,26.92,Rice
+Jammu and Kashmir,Feb-13,30.05,Rice
+Jharkhand,Feb-13,27,Rice
+Karnataka,Feb-13,29.72,Rice
+Kerala,Feb-13,34.57,Rice
+Madhya Pradesh,Feb-13,23.6,Rice
+Maharashtra,Feb-13,27.95,Rice
+Meghalaya,Feb-13,18,Rice
+Mizoram,Feb-13,34.72,Rice
+Nagaland,Feb-13,17,Rice
+Odisha,Feb-13,21.04,Rice
+Puducherry,Feb-13,29.45,Rice
+Punjab,Feb-13,28.83,Rice
+Rajasthan,Feb-13,27.72,Rice
+Tamil Nadu,Feb-13,33.59,Rice
+Telangana,Feb-13,25,Rice
+Tripura,Feb-13,17,Rice
+Uttar Pradesh,Feb-13,17.1,Rice
+Uttarakhand,Feb-13,16.47,Rice
+West Bengal,Feb-13,20.8,Rice
+Andaman and Nicobar,Mar-13,49.5,Rice
+Andhra Pradesh,Mar-13,25,Rice
+Arunachal pradesh,Mar-13,20,Rice
+Assam,Mar-13,18,Rice
+Bihar,Mar-13,24.37,Rice
+Chandigarh,Mar-13,27,Rice
+Chhattisgarh,Mar-13,22,Rice
+Delhi,Mar-13,27.47,Rice
+Gujarat,Mar-13,20.58,Rice
+Haryana,Mar-13,22.53,Rice
+Himachal Pradesh,Mar-13,27.57,Rice
+Jammu and Kashmir,Mar-13,32.29,Rice
+Jharkhand,Mar-13,27.23,Rice
+Karnataka,Mar-13,29.81,Rice
+Kerala,Mar-13,33.83,Rice
+Madhya Pradesh,Mar-13,23.47,Rice
+Maharashtra,Mar-13,28,Rice
+Meghalaya,Mar-13,18,Rice
+Mizoram,Mar-13,35,Rice
+Nagaland,Mar-13,17,Rice
+Odisha,Mar-13,21.03,Rice
+Puducherry,Mar-13,30,Rice
+Punjab,Mar-13,29.84,Rice
+Rajasthan,Mar-13,27.14,Rice
+Tamil Nadu,Mar-13,32.97,Rice
+Telangana,Mar-13,25,Rice
+Tripura,Mar-13,17,Rice
+Uttar Pradesh,Mar-13,17.32,Rice
+Uttarakhand,Mar-13,17.85,Rice
+West Bengal,Mar-13,21.39,Rice
+Andaman and Nicobar,Apr-13,50,Rice
+Andhra Pradesh,Apr-13,25,Rice
+Arunachal pradesh,Apr-13,20,Rice
+Assam,Apr-13,18,Rice
+Bihar,Apr-13,24.77,Rice
+Chandigarh,Apr-13,27,Rice
+Chhattisgarh,Apr-13,20.95,Rice
+Delhi,Apr-13,28,Rice
+Gujarat,Apr-13,20.35,Rice
+Haryana,Apr-13,22.38,Rice
+Himachal Pradesh,Apr-13,28.44,Rice
+Jammu and Kashmir,Apr-13,30.61,Rice
+Jharkhand,Apr-13,27.53,Rice
+Karnataka,Apr-13,28.81,Rice
+Kerala,Apr-13,34,Rice
+Madhya Pradesh,Apr-13,23.39,Rice
+Maharashtra,Apr-13,28.37,Rice
+Meghalaya,Apr-13,18,Rice
+Mizoram,Apr-13,35,Rice
+Nagaland,Apr-13,16.5,Rice
+Odisha,Apr-13,21.03,Rice
+Puducherry,Apr-13,30,Rice
+Punjab,Apr-13,30.05,Rice
+Rajasthan,Apr-13,27.87,Rice
+Tamil Nadu,Apr-13,30.92,Rice
+Telangana,Apr-13,25,Rice
+Tripura,Apr-13,17,Rice
+Uttar Pradesh,Apr-13,17.72,Rice
+Uttarakhand,Apr-13,18,Rice
+West Bengal,Apr-13,21.68,Rice
+Andaman and Nicobar,May-13,50,Rice
+Andhra Pradesh,May-13,25,Rice
+Arunachal pradesh,May-13,20.64,Rice
+Assam,May-13,18,Rice
+Bihar,May-13,25.61,Rice
+Chandigarh,May-13,29.29,Rice
+Chhattisgarh,May-13,20,Rice
+Delhi,May-13,27.74,Rice
+Gujarat,May-13,20.81,Rice
+Haryana,May-13,22,Rice
+Himachal Pradesh,May-13,29.36,Rice
+Jammu and Kashmir,May-13,27.57,Rice
+Jharkhand,May-13,27.9,Rice
+Karnataka,May-13,28.63,Rice
+Kerala,May-13,34.26,Rice
+Madhya Pradesh,May-13,22.72,Rice
+Maharashtra,May-13,28.91,Rice
+Meghalaya,May-13,19.18,Rice
+Mizoram,May-13,37.21,Rice
+Nagaland,May-13,18.11,Rice
+Odisha,May-13,21.34,Rice
+Puducherry,May-13,30,Rice
+Punjab,May-13,30.82,Rice
+Rajasthan,May-13,27.79,Rice
+Tamil Nadu,May-13,29.91,Rice
+Telangana,May-13,25.78,Rice
+Tripura,May-13,17,Rice
+Uttar Pradesh,May-13,17.86,Rice
+Uttarakhand,May-13,19.14,Rice
+West Bengal,May-13,22.79,Rice
+Andaman and Nicobar,Jun-13,52,Rice
+Andhra Pradesh,Jun-13,25.02,Rice
+Arunachal pradesh,Jun-13,21.11,Rice
+Assam,Jun-13,17.38,Rice
+Bihar,Jun-13,27.3,Rice
+Chandigarh,Jun-13,30,Rice
+Chhattisgarh,Jun-13,20,Rice
+Delhi,Jun-13,27.85,Rice
+Gujarat,Jun-13,21.16,Rice
+Haryana,Jun-13,22,Rice
+Himachal Pradesh,Jun-13,29.5,Rice
+Jammu and Kashmir,Jun-13,27.34,Rice
+Jharkhand,Jun-13,27.26,Rice
+Karnataka,Jun-13,28.5,Rice
+Kerala,Jun-13,35.08,Rice
+Madhya Pradesh,Jun-13,23.08,Rice
+Maharashtra,Jun-13,30,Rice
+Meghalaya,Jun-13,20,Rice
+Mizoram,Jun-13,38,Rice
+Nagaland,Jun-13,20,Rice
+Odisha,Jun-13,21.71,Rice
+Puducherry,Jun-13,30,Rice
+Punjab,Jun-13,30.78,Rice
+Rajasthan,Jun-13,27.92,Rice
+Tamil Nadu,Jun-13,29.3,Rice
+Telangana,Jun-13,26,Rice
+Tripura,Jun-13,17,Rice
+Uttar Pradesh,Jun-13,19.61,Rice
+Uttarakhand,Jun-13,21,Rice
+West Bengal,Jun-13,23.62,Rice
+Andhra Pradesh,Jul-13,25.5,Rice
+Arunachal pradesh,Jul-13,24.4,Rice
+Assam,Jul-13,21.96,Rice
+Bihar,Jul-13,28.76,Rice
+Chandigarh,Jul-13,30,Rice
+Chhattisgarh,Jul-13,22.75,Rice
+Delhi,Jul-13,27.83,Rice
+Gujarat,Jul-13,21.59,Rice
+Haryana,Jul-13,23.55,Rice
+Himachal Pradesh,Jul-13,29.38,Rice
+Jammu and Kashmir,Jul-13,28.11,Rice
+Jharkhand,Jul-13,27.57,Rice
+Karnataka,Jul-13,28.5,Rice
+Kerala,Jul-13,36.11,Rice
+Madhya Pradesh,Jul-13,22.54,Rice
+Maharashtra,Jul-13,31.61,Rice
+Meghalaya,Jul-13,20.95,Rice
+Mizoram,Jul-13,38,Rice
+Nagaland,Jul-13,21.27,Rice
+Odisha,Jul-13,23.36,Rice
+Puducherry,Jul-13,30,Rice
+Punjab,Jul-13,30.56,Rice
+Rajasthan,Jul-13,28.02,Rice
+Tamil Nadu,Jul-13,29.68,Rice
+Telangana,Jul-13,26,Rice
+Tripura,Jul-13,18.25,Rice
+Uttar Pradesh,Jul-13,20,Rice
+Uttarakhand,Jul-13,21,Rice
+West Bengal,Jul-13,23.13,Rice
+Andaman and Nicobar,Aug-13,54,Rice
+Andhra Pradesh,Aug-13,25.5,Rice
+Arunachal pradesh,Aug-13,25,Rice
+Assam,Aug-13,22,Rice
+Bihar,Aug-13,29.68,Rice
+Chandigarh,Aug-13,30,Rice
+Chhattisgarh,Aug-13,22.14,Rice
+Delhi,Aug-13,27.07,Rice
+Gujarat,Aug-13,21.22,Rice
+Haryana,Aug-13,24.47,Rice
+Himachal Pradesh,Aug-13,28.56,Rice
+Jammu and Kashmir,Aug-13,29.5,Rice
+Jharkhand,Aug-13,29.68,Rice
+Karnataka,Aug-13,29.06,Rice
+Kerala,Aug-13,36.57,Rice
+Madhya Pradesh,Aug-13,22.9,Rice
+Maharashtra,Aug-13,31.11,Rice
+Meghalaya,Aug-13,21,Rice
+Mizoram,Aug-13,38,Rice
+Nagaland,Aug-13,22,Rice
+Odisha,Aug-13,23.48,Rice
+Puducherry,Aug-13,30,Rice
+Punjab,Aug-13,30.65,Rice
+Rajasthan,Aug-13,27.49,Rice
+Tamil Nadu,Aug-13,29.77,Rice
+Telangana,Aug-13,26,Rice
+Tripura,Aug-13,22.58,Rice
+Uttar Pradesh,Aug-13,20.41,Rice
+Uttarakhand,Aug-13,20.13,Rice
+West Bengal,Aug-13,23.17,Rice
+Andaman and Nicobar,Sep-13,54,Rice
+Arunachal pradesh,Sep-13,25,Rice
+Assam,Sep-13,24.05,Rice
+Bihar,Sep-13,30,Rice
+Chandigarh,Sep-13,30,Rice
+Chhattisgarh,Sep-13,22,Rice
+Delhi,Sep-13,28,Rice
+Gujarat,Sep-13,21,Rice
+Haryana,Sep-13,24.5,Rice
+Himachal Pradesh,Sep-13,28.63,Rice
+Jammu and Kashmir,Sep-13,29.42,Rice
+Jharkhand,Sep-13,30,Rice
+Karnataka,Sep-13,30.26,Rice
+Kerala,Sep-13,35.54,Rice
+Madhya Pradesh,Sep-13,22.51,Rice
+Maharashtra,Sep-13,28.41,Rice
+Meghalaya,Sep-13,21,Rice
+Mizoram,Sep-13,38,Rice
+Nagaland,Sep-13,22,Rice
+Odisha,Sep-13,23.68,Rice
+Puducherry,Sep-13,30,Rice
+Punjab,Sep-13,31.3,Rice
+Rajasthan,Sep-13,28.8,Rice
+Tamil Nadu,Sep-13,30,Rice
+Telangana,Sep-13,26.11,Rice
+Tripura,Sep-13,25.53,Rice
+Uttar Pradesh,Sep-13,20.86,Rice
+Uttarakhand,Sep-13,20.53,Rice
+West Bengal,Sep-13,23.71,Rice
+Andaman and Nicobar,Oct-13,53.67,Rice
+Andhra Pradesh,Oct-13,25,Rice
+Arunachal pradesh,Oct-13,28,Rice
+Assam,Oct-13,24.37,Rice
+Bihar,Oct-13,30.03,Rice
+Chandigarh,Oct-13,29.47,Rice
+Chhattisgarh,Oct-13,22,Rice
+Delhi,Oct-13,26.47,Rice
+Gujarat,Oct-13,20.88,Rice
+Haryana,Oct-13,24.5,Rice
+Himachal Pradesh,Oct-13,28.45,Rice
+Jammu and Kashmir,Oct-13,32.1,Rice
+Jharkhand,Oct-13,30.17,Rice
+Karnataka,Oct-13,30.5,Rice
+Kerala,Oct-13,34.67,Rice
+Madhya Pradesh,Oct-13,23.48,Rice
+Maharashtra,Oct-13,28.4,Rice
+Meghalaya,Oct-13,21,Rice
+Mizoram,Oct-13,38,Rice
+Nagaland,Oct-13,22,Rice
+Odisha,Oct-13,23.83,Rice
+Puducherry,Oct-13,30,Rice
+Punjab,Oct-13,31.21,Rice
+Rajasthan,Oct-13,26.94,Rice
+Tamil Nadu,Oct-13,29.4,Rice
+Telangana,Oct-13,27,Rice
+Tripura,Oct-13,30,Rice
+Uttar Pradesh,Oct-13,20.99,Rice
+Uttarakhand,Oct-13,21,Rice
+West Bengal,Oct-13,24.07,Rice
+Andaman and Nicobar,Nov-13,53,Rice
+Andhra Pradesh,Nov-13,25,Rice
+Arunachal pradesh,Nov-13,28,Rice
+Assam,Nov-13,23.65,Rice
+Bihar,Nov-13,29.31,Rice
+Chandigarh,Nov-13,29,Rice
+Chhattisgarh,Nov-13,22.46,Rice
+Delhi,Nov-13,26.45,Rice
+Goa,Nov-13,32.5,Rice
+Gujarat,Nov-13,20.63,Rice
+Haryana,Nov-13,24.28,Rice
+Himachal Pradesh,Nov-13,29.47,Rice
+Jammu and Kashmir,Nov-13,32.87,Rice
+Jharkhand,Nov-13,31.14,Rice
+Karnataka,Nov-13,30.5,Rice
+Kerala,Nov-13,34.62,Rice
+Madhya Pradesh,Nov-13,23.78,Rice
+Maharashtra,Nov-13,29,Rice
+Meghalaya,Nov-13,21,Rice
+Mizoram,Nov-13,38,Rice
+Nagaland,Nov-13,24,Rice
+Odisha,Nov-13,24,Rice
+Puducherry,Nov-13,29,Rice
+Punjab,Nov-13,31.1,Rice
+Rajasthan,Nov-13,29.88,Rice
+Tamil Nadu,Nov-13,29.59,Rice
+Telangana,Nov-13,27,Rice
+Tripura,Nov-13,30.5,Rice
+Uttar Pradesh,Nov-13,21.29,Rice
+Uttarakhand,Nov-13,21,Rice
+West Bengal,Nov-13,25.68,Rice
+Andaman and Nicobar,Dec-13,52.56,Rice
+Andhra Pradesh,Dec-13,25,Rice
+Arunachal pradesh,Dec-13,30,Rice
+Assam,Dec-13,23.84,Rice
+Bihar,Dec-13,28.49,Rice
+Chandigarh,Dec-13,29,Rice
+Chhattisgarh,Dec-13,23,Rice
+Delhi,Dec-13,27.5,Rice
+Goa,Dec-13,33,Rice
+Gujarat,Dec-13,21.5,Rice
+Haryana,Dec-13,24.5,Rice
+Himachal Pradesh,Dec-13,29.5,Rice
+Jammu and Kashmir,Dec-13,30.04,Rice
+Jharkhand,Dec-13,31.61,Rice
+Karnataka,Dec-13,30.31,Rice
+Kerala,Dec-13,34.18,Rice
+Madhya Pradesh,Dec-13,23.7,Rice
+Maharashtra,Dec-13,29.43,Rice
+Meghalaya,Dec-13,21,Rice
+Mizoram,Dec-13,38,Rice
+Nagaland,Dec-13,24,Rice
+Odisha,Dec-13,23.76,Rice
+Puducherry,Dec-13,28,Rice
+Punjab,Dec-13,30.59,Rice
+Rajasthan,Dec-13,31.6,Rice
+Tamil Nadu,Dec-13,30.08,Rice
+Telangana,Dec-13,27,Rice
+Tripura,Dec-13,31,Rice
+Uttar Pradesh,Dec-13,21.13,Rice
+Uttarakhand,Dec-13,21,Rice
+West Bengal,Dec-13,26.13,Rice
+Andaman and Nicobar,Jan-14,52,Rice
+Andhra Pradesh,Jan-14,25,Rice
+Arunachal pradesh,Jan-14,26,Rice
+Assam,Jan-14,22.67,Rice
+Bihar,Jan-14,28.53,Rice
+Chandigarh,Jan-14,29,Rice
+Chhattisgarh,Jan-14,23.26,Rice
+Delhi,Jan-14,28,Rice
+Goa,Jan-14,33,Rice
+Gujarat,Jan-14,21.5,Rice
+Haryana,Jan-14,23.65,Rice
+Himachal Pradesh,Jan-14,29.48,Rice
+Jammu and Kashmir,Jan-14,26.88,Rice
+Jharkhand,Jan-14,31.29,Rice
+Karnataka,Jan-14,29.5,Rice
+Kerala,Jan-14,34.39,Rice
+Madhya Pradesh,Jan-14,23.39,Rice
+Maharashtra,Jan-14,29.49,Rice
+Meghalaya,Jan-14,21,Rice
+Mizoram,Jan-14,37.65,Rice
+Nagaland,Jan-14,22.43,Rice
+Odisha,Jan-14,23.75,Rice
+Puducherry,Jan-14,28,Rice
+Punjab,Jan-14,30.4,Rice
+Rajasthan,Jan-14,30.66,Rice
+Tamil Nadu,Jan-14,30.23,Rice
+Telangana,Jan-14,27,Rice
+Tripura,Jan-14,30.05,Rice
+Uttar Pradesh,Jan-14,21.46,Rice
+Uttarakhand,Jan-14,21,Rice
+West Bengal,Jan-14,25.68,Rice
+Andaman and Nicobar,Feb-14,52,Rice
+Andhra Pradesh,Feb-14,25,Rice
+Assam,Feb-14,24,Rice
+Bihar,Feb-14,28.17,Rice
+Chandigarh,Feb-14,29,Rice
+Chhattisgarh,Feb-14,24,Rice
+Delhi,Feb-14,28.95,Rice
+Goa,Feb-14,33,Rice
+Gujarat,Feb-14,21.5,Rice
+Haryana,Feb-14,23.5,Rice
+Himachal Pradesh,Feb-14,30.03,Rice
+Jammu and Kashmir,Feb-14,28.63,Rice
+Jharkhand,Feb-14,29.75,Rice
+Karnataka,Feb-14,29.5,Rice
+Kerala,Feb-14,34.02,Rice
+Madhya Pradesh,Feb-14,24.36,Rice
+Maharashtra,Feb-14,29.71,Rice
+Meghalaya,Feb-14,21,Rice
+Mizoram,Feb-14,38,Rice
+Nagaland,Feb-14,22.41,Rice
+Odisha,Feb-14,23.75,Rice
+Puducherry,Feb-14,28,Rice
+Punjab,Feb-14,30.56,Rice
+Rajasthan,Feb-14,33.62,Rice
+Tamil Nadu,Feb-14,30.22,Rice
+Telangana,Feb-14,27,Rice
+Tripura,Feb-14,29,Rice
+Uttar Pradesh,Feb-14,21.11,Rice
+Uttarakhand,Feb-14,21,Rice
+West Bengal,Feb-14,26.29,Rice
+Andaman and Nicobar,Mar-14,51,Rice
+Andhra Pradesh,Mar-14,25,Rice
+Arunachal pradesh,Mar-14,26,Rice
+Assam,Mar-14,24,Rice
+Bihar,Mar-14,28.88,Rice
+Chandigarh,Mar-14,29,Rice
+Chhattisgarh,Mar-14,24,Rice
+Delhi,Mar-14,27.8,Rice
+Goa,Mar-14,33,Rice
+Gujarat,Mar-14,21.25,Rice
+Haryana,Mar-14,23.5,Rice
+Himachal Pradesh,Mar-14,30.39,Rice
+Jammu and Kashmir,Mar-14,32.38,Rice
+Jharkhand,Mar-14,30.38,Rice
+Karnataka,Mar-14,29.43,Rice
+Kerala,Mar-14,33.98,Rice
+Madhya Pradesh,Mar-14,24.14,Rice
+Maharashtra,Mar-14,29.76,Rice
+Meghalaya,Mar-14,21,Rice
+Mizoram,Mar-14,38,Rice
+Nagaland,Mar-14,23,Rice
+Odisha,Mar-14,23.89,Rice
+Puducherry,Mar-14,28,Rice
+Punjab,Mar-14,30.53,Rice
+Rajasthan,Mar-14,31.43,Rice
+Tamil Nadu,Mar-14,29.8,Rice
+Telangana,Mar-14,27,Rice
+Tripura,Mar-14,29,Rice
+Uttar Pradesh,Mar-14,21.19,Rice
+Uttarakhand,Mar-14,21,Rice
+West Bengal,Mar-14,26.5,Rice
+Andaman and Nicobar,Apr-14,51,Rice
+Andhra Pradesh,Apr-14,25,Rice
+Assam,Apr-14,24,Rice
+Bihar,Apr-14,29.77,Rice
+Chandigarh,Apr-14,29,Rice
+Chhattisgarh,Apr-14,24,Rice
+Delhi,Apr-14,27.67,Rice
+Goa,Apr-14,33,Rice
+Gujarat,Apr-14,21.31,Rice
+Haryana,Apr-14,23.89,Rice
+Himachal Pradesh,Apr-14,30.44,Rice
+Jammu and Kashmir,Apr-14,32.21,Rice
+Jharkhand,Apr-14,30.4,Rice
+Karnataka,Apr-14,29.5,Rice
+Kerala,Apr-14,34.28,Rice
+Madhya Pradesh,Apr-14,23.71,Rice
+Maharashtra,Apr-14,30,Rice
+Meghalaya,Apr-14,21,Rice
+Mizoram,Apr-14,35,Rice
+Nagaland,Apr-14,23,Rice
+Odisha,Apr-14,24,Rice
+Puducherry,Apr-14,28,Rice
+Punjab,Apr-14,32.92,Rice
+Rajasthan,Apr-14,30.81,Rice
+Tamil Nadu,Apr-14,29.98,Rice
+Telangana,Apr-14,27,Rice
+Tripura,Apr-14,29,Rice
+Uttar Pradesh,Apr-14,21.19,Rice
+Uttarakhand,Apr-14,21,Rice
+West Bengal,Apr-14,25.78,Rice
+Andaman and Nicobar,May-14,51,Rice
+Andhra Pradesh,May-14,25,Rice
+Assam,May-14,25.47,Rice
+Bihar,May-14,30.85,Rice
+Chandigarh,May-14,29,Rice
+Chhattisgarh,May-14,24,Rice
+Delhi,May-14,29,Rice
+Goa,May-14,33,Rice
+Gujarat,May-14,22.54,Rice
+Haryana,May-14,24.11,Rice
+Himachal Pradesh,May-14,30.5,Rice
+Jammu and Kashmir,May-14,32.92,Rice
+Jharkhand,May-14,31,Rice
+Karnataka,May-14,29.43,Rice
+Kerala,May-14,34.6,Rice
+Madhya Pradesh,May-14,24.14,Rice
+Maharashtra,May-14,29.06,Rice
+Meghalaya,May-14,21,Rice
+Mizoram,May-14,35,Rice
+Nagaland,May-14,23,Rice
+Odisha,May-14,24.23,Rice
+Puducherry,May-14,28,Rice
+Punjab,May-14,31.42,Rice
+Rajasthan,May-14,32.5,Rice
+Tamil Nadu,May-14,30.44,Rice
+Telangana,May-14,27,Rice
+Tripura,May-14,29.24,Rice
+Uttar Pradesh,May-14,21.23,Rice
+Uttarakhand,May-14,21,Rice
+West Bengal,May-14,25.62,Rice
+Andaman and Nicobar,Jun-14,52,Rice
+Andhra Pradesh,Jun-14,25,Rice
+Assam,Jun-14,26,Rice
+Bihar,Jun-14,30.68,Rice
+Chandigarh,Jun-14,29,Rice
+Chhattisgarh,Jun-14,24.4,Rice
+Delhi,Jun-14,29.33,Rice
+Goa,Jun-14,34,Rice
+Gujarat,Jun-14,22.77,Rice
+Haryana,Jun-14,24.52,Rice
+Himachal Pradesh,Jun-14,30.66,Rice
+Jammu and Kashmir,Jun-14,32.55,Rice
+Jharkhand,Jun-14,31.06,Rice
+Karnataka,Jun-14,29.81,Rice
+Kerala,Jun-14,33.9,Rice
+Madhya Pradesh,Jun-14,24.55,Rice
+Maharashtra,Jun-14,29,Rice
+Meghalaya,Jun-14,21,Rice
+Mizoram,Jun-14,36.11,Rice
+Nagaland,Jun-14,22.4,Rice
+Odisha,Jun-14,24.76,Rice
+Puducherry,Jun-14,28,Rice
+Punjab,Jun-14,31.95,Rice
+Rajasthan,Jun-14,32.14,Rice
+Tamil Nadu,Jun-14,31.27,Rice
+Telangana,Jun-14,27,Rice
+Tripura,Jun-14,30,Rice
+Uttar Pradesh,Jun-14,21.66,Rice
+Uttarakhand,Jun-14,21,Rice
+West Bengal,Jun-14,25.68,Rice
+Andaman and Nicobar,Jul-14,52,Rice
+Andhra Pradesh,Jul-14,25.43,Rice
+Assam,Jul-14,25.95,Rice
+Bihar,Jul-14,30,Rice
+Chandigarh,Jul-14,29,Rice
+Chhattisgarh,Jul-14,25.79,Rice
+Delhi,Jul-14,29.59,Rice
+Goa,Jul-14,34,Rice
+Gujarat,Jul-14,22.89,Rice
+Haryana,Jul-14,24.98,Rice
+Himachal Pradesh,Jul-14,30.67,Rice
+Jammu and Kashmir,Jul-14,33.4,Rice
+Jharkhand,Jul-14,29.43,Rice
+Karnataka,Jul-14,29.55,Rice
+Kerala,Jul-14,34.52,Rice
+Madhya Pradesh,Jul-14,25.36,Rice
+Maharashtra,Jul-14,29.14,Rice
+Meghalaya,Jul-14,21,Rice
+Mizoram,Jul-14,40,Rice
+Nagaland,Jul-14,21,Rice
+Odisha,Jul-14,25.17,Rice
+Puducherry,Jul-14,28.45,Rice
+Punjab,Jul-14,30.52,Rice
+Rajasthan,Jul-14,30.58,Rice
+Tamil Nadu,Jul-14,31.33,Rice
+Telangana,Jul-14,27,Rice
+Tripura,Jul-14,30,Rice
+Uttar Pradesh,Jul-14,23,Rice
+Uttarakhand,Jul-14,21,Rice
+West Bengal,Jul-14,26.67,Rice
+Andaman and Nicobar,Aug-14,51.67,Rice
+Andhra Pradesh,Aug-14,26,Rice
+Assam,Aug-14,24.61,Rice
+Bihar,Aug-14,30.81,Rice
+Chandigarh,Aug-14,29,Rice
+Chhattisgarh,Aug-14,26,Rice
+Delhi,Aug-14,29.89,Rice
+Goa,Aug-14,34.61,Rice
+Gujarat,Aug-14,22.5,Rice
+Haryana,Aug-14,25.05,Rice
+Himachal Pradesh,Aug-14,31,Rice
+Jammu and Kashmir,Aug-14,32.53,Rice
+Jharkhand,Aug-14,29,Rice
+Karnataka,Aug-14,29.6,Rice
+Kerala,Aug-14,35.02,Rice
+Madhya Pradesh,Aug-14,25.92,Rice
+Maharashtra,Aug-14,29.03,Rice
+Meghalaya,Aug-14,21,Rice
+Mizoram,Aug-14,40,Rice
+Nagaland,Aug-14,23.4,Rice
+Odisha,Aug-14,25.51,Rice
+Puducherry,Aug-14,30,Rice
+Punjab,Aug-14,29.13,Rice
+Rajasthan,Aug-14,29.88,Rice
+Tamil Nadu,Aug-14,31.59,Rice
+Telangana,Aug-14,27,Rice
+Tripura,Aug-14,30,Rice
+Uttar Pradesh,Aug-14,24.19,Rice
+Uttarakhand,Aug-14,21,Rice
+West Bengal,Aug-14,27,Rice
+Andaman and Nicobar,Sep-14,50,Rice
+Andhra Pradesh,Sep-14,26,Rice
+Assam,Sep-14,26,Rice
+Bihar,Sep-14,30.18,Rice
+Chandigarh,Sep-14,29,Rice
+Chhattisgarh,Sep-14,26,Rice
+Delhi,Sep-14,30.86,Rice
+Goa,Sep-14,35,Rice
+Gujarat,Sep-14,22.5,Rice
+Haryana,Sep-14,25.29,Rice
+Himachal Pradesh,Sep-14,30.88,Rice
+Jammu and Kashmir,Sep-14,34.48,Rice
+Jharkhand,Sep-14,28.3,Rice
+Karnataka,Sep-14,29.5,Rice
+Kerala,Sep-14,35.17,Rice
+Madhya Pradesh,Sep-14,28.94,Rice
+Maharashtra,Sep-14,29,Rice
+Meghalaya,Sep-14,21,Rice
+Mizoram,Sep-14,40,Rice
+Nagaland,Sep-14,24,Rice
+Odisha,Sep-14,25.51,Rice
+Puducherry,Sep-14,30,Rice
+Punjab,Sep-14,28.38,Rice
+Rajasthan,Sep-14,28.84,Rice
+Tamil Nadu,Sep-14,31.92,Rice
+Telangana,Sep-14,27,Rice
+Tripura,Sep-14,31.43,Rice
+Uttar Pradesh,Sep-14,24.09,Rice
+Uttarakhand,Sep-14,21,Rice
+West Bengal,Sep-14,27,Rice
+Andaman and Nicobar,Oct-14,50,Rice
+Andhra Pradesh,Oct-14,26,Rice
+Assam,Oct-14,26.94,Rice
+Bihar,Oct-14,27.61,Rice
+Chandigarh,Oct-14,29,Rice
+Chhattisgarh,Oct-14,26,Rice
+Delhi,Oct-14,30.53,Rice
+Goa,Oct-14,35,Rice
+Gujarat,Oct-14,22.5,Rice
+Haryana,Oct-14,25.2,Rice
+Himachal Pradesh,Oct-14,30.72,Rice
+Jammu and Kashmir,Oct-14,31.63,Rice
+Jharkhand,Oct-14,28,Rice
+Karnataka,Oct-14,29.44,Rice
+Kerala,Oct-14,35.33,Rice
+Madhya Pradesh,Oct-14,29.05,Rice
+Maharashtra,Oct-14,29.97,Rice
+Meghalaya,Oct-14,21,Rice
+Mizoram,Oct-14,34.23,Rice
+Nagaland,Oct-14,24,Rice
+Odisha,Oct-14,25.5,Rice
+Puducherry,Oct-14,30,Rice
+Punjab,Oct-14,28.8,Rice
+Rajasthan,Oct-14,27.71,Rice
+Tamil Nadu,Oct-14,31.63,Rice
+Telangana,Oct-14,27,Rice
+Tripura,Oct-14,32,Rice
+Uttar Pradesh,Oct-14,24.09,Rice
+Uttarakhand,Oct-14,20.46,Rice
+West Bengal,Oct-14,27,Rice
+Andaman and Nicobar,Nov-14,37,Rice
+Andhra Pradesh,Nov-14,26,Rice
+Assam,Nov-14,27,Rice
+Bihar,Nov-14,27.38,Rice
+Chandigarh,Nov-14,29,Rice
+Chhattisgarh,Nov-14,26,Rice
+Delhi,Nov-14,30,Rice
+Goa,Nov-14,35,Rice
+Gujarat,Nov-14,22.92,Rice
+Haryana,Nov-14,25.24,Rice
+Himachal Pradesh,Nov-14,30.77,Rice
+Jammu and Kashmir,Nov-14,28.48,Rice
+Jharkhand,Nov-14,27.39,Rice
+Karnataka,Nov-14,29.7,Rice
+Kerala,Nov-14,35.25,Rice
+Madhya Pradesh,Nov-14,28.33,Rice
+Maharashtra,Nov-14,29.42,Rice
+Meghalaya,Nov-14,21,Rice
+Mizoram,Nov-14,35,Rice
+Nagaland,Nov-14,24,Rice
+Odisha,Nov-14,25.51,Rice
+Puducherry,Nov-14,30,Rice
+Punjab,Nov-14,27.8,Rice
+Rajasthan,Nov-14,27.69,Rice
+Tamil Nadu,Nov-14,32.04,Rice
+Telangana,Nov-14,27,Rice
+Tripura,Nov-14,32.75,Rice
+Uttar Pradesh,Nov-14,24.31,Rice
+Uttarakhand,Nov-14,20,Rice
+West Bengal,Nov-14,25.76,Rice
+Andaman and Nicobar,Dec-14,36.69,Rice
+Andhra Pradesh,Dec-14,26,Rice
+Assam,Dec-14,25.05,Rice
+Bihar,Dec-14,26.27,Rice
+Chandigarh,Dec-14,29,Rice
+Chhattisgarh,Dec-14,26,Rice
+Delhi,Dec-14,30,Rice
+Goa,Dec-14,35,Rice
+Gujarat,Dec-14,22.25,Rice
+Haryana,Dec-14,25.38,Rice
+Himachal Pradesh,Dec-14,30.98,Rice
+Jammu and Kashmir,Dec-14,28.16,Rice
+Jharkhand,Dec-14,25.6,Rice
+Karnataka,Dec-14,29.95,Rice
+Kerala,Dec-14,35,Rice
+Madhya Pradesh,Dec-14,27.94,Rice
+Maharashtra,Dec-14,29.48,Rice
+Meghalaya,Dec-14,21,Rice
+Mizoram,Dec-14,35,Rice
+Nagaland,Dec-14,24,Rice
+Odisha,Dec-14,25.26,Rice
+Puducherry,Dec-14,30,Rice
+Punjab,Dec-14,27.5,Rice
+Rajasthan,Dec-14,27.84,Rice
+Tamil Nadu,Dec-14,31.79,Rice
+Telangana,Dec-14,27,Rice
+Tripura,Dec-14,33,Rice
+Uttar Pradesh,Dec-14,24.08,Rice
+Uttarakhand,Dec-14,20,Rice
+West Bengal,Dec-14,24.68,Rice
+Andaman and Nicobar,Jan-15,36,Rice
+Andhra Pradesh,Jan-15,26,Rice
+Assam,Jan-15,24,Rice
+Bihar,Jan-15,24.6,Rice
+Chandigarh,Jan-15,29,Rice
+Chhattisgarh,Jan-15,25.79,Rice
+Delhi,Jan-15,30,Rice
+Goa,Jan-15,35,Rice
+Gujarat,Jan-15,22.37,Rice
+Haryana,Jan-15,25.21,Rice
+Himachal Pradesh,Jan-15,30.29,Rice
+Jammu and Kashmir,Jan-15,28.18,Rice
+Jharkhand,Jan-15,24.47,Rice
+Karnataka,Jan-15,30.1,Rice
+Kerala,Jan-15,33.68,Rice
+Madhya Pradesh,Jan-15,28.94,Rice
+Maharashtra,Jan-15,27.63,Rice
+Meghalaya,Jan-15,21,Rice
+Mizoram,Jan-15,35,Rice
+Nagaland,Jan-15,24,Rice
+Odisha,Jan-15,25.41,Rice
+Puducherry,Jan-15,30,Rice
+Punjab,Jan-15,27.3,Rice
+Rajasthan,Jan-15,27.96,Rice
+Tamil Nadu,Jan-15,31.38,Rice
+Telangana,Jan-15,27,Rice
+Tripura,Jan-15,31.12,Rice
+Uttar Pradesh,Jan-15,24.39,Rice
+Uttarakhand,Jan-15,20,Rice
+West Bengal,Jan-15,24.11,Rice
+Andaman and Nicobar,Feb-15,36,Rice
+Andhra Pradesh,Feb-15,26,Rice
+Assam,Feb-15,24,Rice
+Bihar,Feb-15,24.84,Rice
+Chandigarh,Feb-15,29,Rice
+Chhattisgarh,Feb-15,24,Rice
+Delhi,Feb-15,29.6,Rice
+Goa,Feb-15,35,Rice
+Gujarat,Feb-15,22.53,Rice
+Haryana,Feb-15,24.75,Rice
+Himachal Pradesh,Feb-15,30.5,Rice
+Jammu and Kashmir,Feb-15,29.42,Rice
+Jharkhand,Feb-15,24,Rice
+Karnataka,Feb-15,30.5,Rice
+Kerala,Feb-15,33.13,Rice
+Madhya Pradesh,Feb-15,28.62,Rice
+Maharashtra,Feb-15,28.21,Rice
+Meghalaya,Feb-15,21,Rice
+Mizoram,Feb-15,35,Rice
+Nagaland,Feb-15,23.11,Rice
+Odisha,Feb-15,24.86,Rice
+Puducherry,Feb-15,28.5,Rice
+Punjab,Feb-15,27.3,Rice
+Rajasthan,Feb-15,28.25,Rice
+Tamil Nadu,Feb-15,30.75,Rice
+Telangana,Feb-15,27,Rice
+Tripura,Feb-15,28.12,Rice
+Uttar Pradesh,Feb-15,24.36,Rice
+Uttarakhand,Feb-15,20,Rice
+West Bengal,Feb-15,24.77,Rice
+Andaman and Nicobar,Mar-15,36,Rice
+Andhra Pradesh,Mar-15,26,Rice
+Assam,Mar-15,24,Rice
+Bihar,Mar-15,24.69,Rice
+Chandigarh,Mar-15,29.65,Rice
+Chhattisgarh,Mar-15,24,Rice
+Delhi,Mar-15,29,Rice
+Goa,Mar-15,35.16,Rice
+Gujarat,Mar-15,22.2,Rice
+Haryana,Mar-15,24.75,Rice
+Himachal Pradesh,Mar-15,30.31,Rice
+Jammu and Kashmir,Mar-15,29.8,Rice
+Jharkhand,Mar-15,25.93,Rice
+Karnataka,Mar-15,30.57,Rice
+Kerala,Mar-15,32.67,Rice
+Madhya Pradesh,Mar-15,27.76,Rice
+Maharashtra,Mar-15,28,Rice
+Meghalaya,Mar-15,21,Rice
+Mizoram,Mar-15,35,Rice
+Nagaland,Mar-15,22.83,Rice
+Odisha,Mar-15,24.75,Rice
+Puducherry,Mar-15,28,Rice
+Punjab,Mar-15,27.15,Rice
+Rajasthan,Mar-15,28.65,Rice
+Tamil Nadu,Mar-15,30.01,Rice
+Telangana,Mar-15,27,Rice
+Tripura,Mar-15,26.81,Rice
+Uttar Pradesh,Mar-15,24.2,Rice
+Uttarakhand,Mar-15,20,Rice
+West Bengal,Mar-15,25.53,Rice
+Andaman and Nicobar,Apr-15,36,Rice
+Andhra Pradesh,Apr-15,26,Rice
+Assam,Apr-15,24,Rice
+Bihar,Apr-15,24.71,Rice
+Chandigarh,Apr-15,30,Rice
+Chhattisgarh,Apr-15,24,Rice
+Delhi,Apr-15,30.89,Rice
+Goa,Apr-15,35,Rice
+Gujarat,Apr-15,23.86,Rice
+Haryana,Apr-15,24.6,Rice
+Himachal Pradesh,Apr-15,30.08,Rice
+Jammu and Kashmir,Apr-15,29.18,Rice
+Jharkhand,Apr-15,28,Rice
+Karnataka,Apr-15,31.67,Rice
+Kerala,Apr-15,32.59,Rice
+Madhya Pradesh,Apr-15,27.32,Rice
+Maharashtra,Apr-15,28,Rice
+Meghalaya,Apr-15,21.44,Rice
+Mizoram,Apr-15,38,Rice
+Nagaland,Apr-15,22,Rice
+Odisha,Apr-15,24.75,Rice
+Puducherry,Apr-15,28,Rice
+Punjab,Apr-15,27.02,Rice
+Rajasthan,Apr-15,28.66,Rice
+Tamil Nadu,Apr-15,29.8,Rice
+Telangana,Apr-15,27,Rice
+Tripura,Apr-15,27,Rice
+Uttar Pradesh,Apr-15,23.22,Rice
+Uttarakhand,Apr-15,20,Rice
+West Bengal,Apr-15,24.28,Rice
+Andaman and Nicobar,May-15,36,Rice
+Andhra Pradesh,May-15,26.65,Rice
+Assam,May-15,24,Rice
+Bihar,May-15,24.6,Rice
+Chandigarh,May-15,30,Rice
+Chhattisgarh,May-15,24,Rice
+Delhi,May-15,31,Rice
+Goa,May-15,35,Rice
+Gujarat,May-15,25.85,Rice
+Haryana,May-15,24.34,Rice
+Himachal Pradesh,May-15,30.3,Rice
+Jammu and Kashmir,May-15,29.52,Rice
+Jharkhand,May-15,28,Rice
+Karnataka,May-15,32.6,Rice
+Kerala,May-15,32.63,Rice
+Madhya Pradesh,May-15,26.93,Rice
+Maharashtra,May-15,28.66,Rice
+Meghalaya,May-15,21.58,Rice
+Mizoram,May-15,38,Rice
+Nagaland,May-15,21.11,Rice
+Odisha,May-15,24.75,Rice
+Puducherry,May-15,28,Rice
+Punjab,May-15,27.04,Rice
+Rajasthan,May-15,28.81,Rice
+Tamil Nadu,May-15,29.8,Rice
+Telangana,May-15,27.65,Rice
+Tripura,May-15,25.13,Rice
+Uttar Pradesh,May-15,22.49,Rice
+Uttarakhand,May-15,20,Rice
+West Bengal,May-15,25.53,Rice
+Andaman and Nicobar,Jun-15,36,Rice
+Andhra Pradesh,Jun-15,27,Rice
+Assam,Jun-15,24,Rice
+Bihar,Jun-15,25.69,Rice
+Chandigarh,Jun-15,30,Rice
+Chhattisgarh,Jun-15,24,Rice
+Delhi,Jun-15,31.09,Rice
+Goa,Jun-15,35,Rice
+Gujarat,Jun-15,26.14,Rice
+Haryana,Jun-15,24.49,Rice
+Himachal Pradesh,Jun-15,27.79,Rice
+Jammu and Kashmir,Jun-15,28.78,Rice
+Jharkhand,Jun-15,28.92,Rice
+Karnataka,Jun-15,32.1,Rice
+Kerala,Jun-15,32.58,Rice
+Madhya Pradesh,Jun-15,28.59,Rice
+Maharashtra,Jun-15,29.11,Rice
+Meghalaya,Jun-15,21,Rice
+Mizoram,Jun-15,39.17,Rice
+Nagaland,Jun-15,21.94,Rice
+Odisha,Jun-15,24.54,Rice
+Puducherry,Jun-15,28,Rice
+Punjab,Jun-15,27.55,Rice
+Rajasthan,Jun-15,29.21,Rice
+Tamil Nadu,Jun-15,29.8,Rice
+Telangana,Jun-15,26.76,Rice
+Tripura,Jun-15,26.55,Rice
+Uttar Pradesh,Jun-15,22.21,Rice
+Uttarakhand,Jun-15,20,Rice
+West Bengal,Jun-15,25,Rice
+Andaman and Nicobar,Jul-15,36,Rice
+Andhra Pradesh,Jul-15,27,Rice
+Assam,Jul-15,24,Rice
+Bihar,Jul-15,24.37,Rice
+Chandigarh,Jul-15,30,Rice
+Chhattisgarh,Jul-15,23.24,Rice
+Delhi,Jul-15,32,Rice
+Goa,Jul-15,35,Rice
+Gujarat,Jul-15,25.77,Rice
+Haryana,Jul-15,24.68,Rice
+Himachal Pradesh,Jul-15,27.29,Rice
+Jammu and Kashmir,Jul-15,29.2,Rice
+Jharkhand,Jul-15,29.73,Rice
+Karnataka,Jul-15,32.71,Rice
+Kerala,Jul-15,31.81,Rice
+Madhya Pradesh,Jul-15,28.79,Rice
+Maharashtra,Jul-15,28.89,Rice
+Meghalaya,Jul-15,21,Rice
+Mizoram,Jul-15,40,Rice
+Nagaland,Jul-15,21.58,Rice
+Odisha,Jul-15,24.25,Rice
+Puducherry,Jul-15,28,Rice
+Punjab,Jul-15,27.73,Rice
+Rajasthan,Jul-15,27.78,Rice
+Tamil Nadu,Jul-15,29.73,Rice
+Telangana,Jul-15,26.67,Rice
+Tripura,Jul-15,26.8,Rice
+Uttar Pradesh,Jul-15,22.28,Rice
+Uttarakhand,Jul-15,20,Rice
+West Bengal,Jul-15,24.03,Rice
+Andaman and Nicobar,Aug-15,36,Rice
+Andhra Pradesh,Aug-15,27,Rice
+Assam,Aug-15,24,Rice
+Bihar,Aug-15,24.37,Rice
+Chandigarh,Aug-15,30,Rice
+Chhattisgarh,Aug-15,23,Rice
+Delhi,Aug-15,30.29,Rice
+Goa,Aug-15,35,Rice
+Gujarat,Aug-15,26.47,Rice
+Haryana,Aug-15,25.1,Rice
+Himachal Pradesh,Aug-15,28,Rice
+Jammu and Kashmir,Aug-15,29.08,Rice
+Jharkhand,Aug-15,29.86,Rice
+Karnataka,Aug-15,32.39,Rice
+Kerala,Aug-15,31.92,Rice
+Madhya Pradesh,Aug-15,28.13,Rice
+Maharashtra,Aug-15,28.5,Rice
+Meghalaya,Aug-15,21,Rice
+Mizoram,Aug-15,40,Rice
+Nagaland,Aug-15,20,Rice
+Odisha,Aug-15,24.26,Rice
+Puducherry,Aug-15,28,Rice
+Punjab,Aug-15,27.67,Rice
+Rajasthan,Aug-15,27.53,Rice
+Tamil Nadu,Aug-15,29.17,Rice
+Telangana,Aug-15,26.67,Rice
+Tripura,Aug-15,27,Rice
+Uttar Pradesh,Aug-15,22.31,Rice
+Uttarakhand,Aug-15,20,Rice
+West Bengal,Aug-15,24.29,Rice
+Andaman and Nicobar,Sep-15,36,Rice
+Andhra Pradesh,Sep-15,27,Rice
+Assam,Sep-15,24.13,Rice
+Bihar,Sep-15,24.31,Rice
+Chandigarh,Sep-15,30,Rice
+Chhattisgarh,Sep-15,23,Rice
+Delhi,Sep-15,29,Rice
+Goa,Sep-15,37.37,Rice
+Gujarat,Sep-15,26.59,Rice
+Haryana,Sep-15,25.96,Rice
+Himachal Pradesh,Sep-15,28.17,Rice
+Jammu and Kashmir,Sep-15,29.32,Rice
+Jharkhand,Sep-15,28.5,Rice
+Karnataka,Sep-15,33.45,Rice
+Kerala,Sep-15,32.04,Rice
+Madhya Pradesh,Sep-15,26.48,Rice
+Maharashtra,Sep-15,28.5,Rice
+Meghalaya,Sep-15,21,Rice
+Mizoram,Sep-15,40,Rice
+Nagaland,Sep-15,20,Rice
+Odisha,Sep-15,24.34,Rice
+Puducherry,Sep-15,28,Rice
+Punjab,Sep-15,27.57,Rice
+Rajasthan,Sep-15,27.5,Rice
+Tamil Nadu,Sep-15,28.96,Rice
+Telangana,Sep-15,26.67,Rice
+Tripura,Sep-15,27.74,Rice
+Uttar Pradesh,Sep-15,22.32,Rice
+Uttarakhand,Sep-15,21.08,Rice
+West Bengal,Sep-15,24.38,Rice
+Andaman and Nicobar,Oct-15,36,Rice
+Andhra Pradesh,Oct-15,27,Rice
+Assam,Oct-15,24,Rice
+Bihar,Oct-15,24.56,Rice
+Chandigarh,Oct-15,30,Rice
+Chhattisgarh,Oct-15,21.24,Rice
+Delhi,Oct-15,29,Rice
+Goa,Oct-15,38,Rice
+Gujarat,Oct-15,25.54,Rice
+Haryana,Oct-15,26,Rice
+Himachal Pradesh,Oct-15,28.22,Rice
+Jammu and Kashmir,Oct-15,29.41,Rice
+Jharkhand,Oct-15,27.65,Rice
+Karnataka,Oct-15,34.78,Rice
+Kerala,Oct-15,31.91,Rice
+Madhya Pradesh,Oct-15,26.12,Rice
+Maharashtra,Oct-15,28.5,Rice
+Meghalaya,Oct-15,21,Rice
+Mizoram,Oct-15,40,Rice
+Nagaland,Oct-15,20,Rice
+Odisha,Oct-15,24.51,Rice
+Puducherry,Oct-15,28,Rice
+Punjab,Oct-15,27.61,Rice
+Rajasthan,Oct-15,27.27,Rice
+Tamil Nadu,Oct-15,28.98,Rice
+Telangana,Oct-15,26.67,Rice
+Tripura,Oct-15,29,Rice
+Uttar Pradesh,Oct-15,22.15,Rice
+Uttarakhand,Oct-15,21.86,Rice
+West Bengal,Oct-15,25.48,Rice
+Andaman and Nicobar,Nov-15,36,Rice
+Andhra Pradesh,Nov-15,27.07,Rice
+Arunachal pradesh,Nov-15,32,Rice
+Assam,Nov-15,24,Rice
+Bihar,Nov-15,24.98,Rice
+Chandigarh,Nov-15,30,Rice
+Chhattisgarh,Nov-15,20.65,Rice
+Delhi,Nov-15,29,Rice
+Goa,Nov-15,38.68,Rice
+Gujarat,Nov-15,24.31,Rice
+Haryana,Nov-15,26.26,Rice
+Himachal Pradesh,Nov-15,29.42,Rice
+Jammu and Kashmir,Nov-15,28.3,Rice
+Jharkhand,Nov-15,27.33,Rice
+Karnataka,Nov-15,34.92,Rice
+Kerala,Nov-15,31.99,Rice
+Madhya Pradesh,Nov-15,25.91,Rice
+Maharashtra,Nov-15,28.5,Rice
+Meghalaya,Nov-15,21,Rice
+Mizoram,Nov-15,40,Rice
+Nagaland,Nov-15,21.83,Rice
+Odisha,Nov-15,24.5,Rice
+Puducherry,Nov-15,28,Rice
+Punjab,Nov-15,27.62,Rice
+Rajasthan,Nov-15,26.6,Rice
+Tamil Nadu,Nov-15,29.17,Rice
+Telangana,Nov-15,26.71,Rice
+Tripura,Nov-15,29,Rice
+Uttar Pradesh,Nov-15,22.26,Rice
+Uttarakhand,Nov-15,21.84,Rice
+West Bengal,Nov-15,26.06,Rice
+Andaman and Nicobar,Dec-15,36,Rice
+Andhra Pradesh,Dec-15,27.23,Rice
+Arunachal pradesh,Dec-15,33,Rice
+Assam,Dec-15,24,Rice
+Bihar,Dec-15,25,Rice
+Chandigarh,Dec-15,28.84,Rice
+Chhattisgarh,Dec-15,21,Rice
+Delhi,Dec-15,29,Rice
+Goa,Dec-15,39,Rice
+Gujarat,Dec-15,24.74,Rice
+Haryana,Dec-15,26.49,Rice
+Himachal Pradesh,Dec-15,29.96,Rice
+Jammu and Kashmir,Dec-15,28.33,Rice
+Jharkhand,Dec-15,29,Rice
+Karnataka,Dec-15,35.25,Rice
+Kerala,Dec-15,32,Rice
+Madhya Pradesh,Dec-15,25.72,Rice
+Maharashtra,Dec-15,28.5,Rice
+Meghalaya,Dec-15,21,Rice
+Mizoram,Dec-15,40,Rice
+Nagaland,Dec-15,22,Rice
+Odisha,Dec-15,24.47,Rice
+Puducherry,Dec-15,28,Rice
+Punjab,Dec-15,27.2,Rice
+Rajasthan,Dec-15,26.24,Rice
+Tamil Nadu,Dec-15,29.53,Rice
+Telangana,Dec-15,27.35,Rice
+Tripura,Dec-15,29,Rice
+Uttar Pradesh,Dec-15,22.1,Rice
+Uttarakhand,Dec-15,22.56,Rice
+West Bengal,Dec-15,28.47,Rice
+Andaman and Nicobar,Jan-16,36.58,Rice
+Andhra Pradesh,Jan-16,27.31,Rice
+Assam,Jan-16,24,Rice
+Bihar,Jan-16,23.52,Rice
+Chandigarh,Jan-16,28,Rice
+Chhattisgarh,Jan-16,21,Rice
+Delhi,Jan-16,28.37,Rice
+Goa,Jan-16,36.17,Rice
+Gujarat,Jan-16,24.75,Rice
+Haryana,Jan-16,26.32,Rice
+Himachal Pradesh,Jan-16,29.75,Rice
+Jammu and Kashmir,Jan-16,28.06,Rice
+Jharkhand,Jan-16,29,Rice
+Karnataka,Jan-16,34.67,Rice
+Kerala,Jan-16,31.98,Rice
+Madhya Pradesh,Jan-16,25.36,Rice
+Maharashtra,Jan-16,29.17,Rice
+Meghalaya,Jan-16,21,Rice
+Mizoram,Jan-16,40,Rice
+Nagaland,Jan-16,21.93,Rice
+Odisha,Jan-16,24.48,Rice
+Puducherry,Jan-16,28,Rice
+Punjab,Jan-16,27.48,Rice
+Rajasthan,Jan-16,26.31,Rice
+Tamil Nadu,Jan-16,29.41,Rice
+Telangana,Jan-16,27.37,Rice
+Tripura,Jan-16,28.37,Rice
+Uttar Pradesh,Jan-16,22,Rice
+Uttarakhand,Jan-16,22.36,Rice
+West Bengal,Jan-16,27.81,Rice
+Andaman and Nicobar,Feb-16,37,Rice
+Andhra Pradesh,Feb-16,27.29,Rice
+Assam,Feb-16,24,Rice
+Bihar,Feb-16,23.11,Rice
+Chandigarh,Feb-16,28,Rice
+Chhattisgarh,Feb-16,21,Rice
+Delhi,Feb-16,28,Rice
+Goa,Feb-16,36,Rice
+Gujarat,Feb-16,24.88,Rice
+Haryana,Feb-16,26.51,Rice
+Himachal Pradesh,Feb-16,28.53,Rice
+Jammu and Kashmir,Feb-16,28.33,Rice
+Jharkhand,Feb-16,29,Rice
+Karnataka,Feb-16,34.52,Rice
+Kerala,Feb-16,31.83,Rice
+Madhya Pradesh,Feb-16,25.13,Rice
+Maharashtra,Feb-16,30.66,Rice
+Meghalaya,Feb-16,21,Rice
+Mizoram,Feb-16,30.12,Rice
+Nagaland,Feb-16,22,Rice
+Odisha,Feb-16,24.04,Rice
+Puducherry,Feb-16,27.55,Rice
+Punjab,Feb-16,27.48,Rice
+Rajasthan,Feb-16,26,Rice
+Tamil Nadu,Feb-16,28.66,Rice
+Telangana,Feb-16,27.36,Rice
+Tripura,Feb-16,27.24,Rice
+Uttar Pradesh,Feb-16,22.11,Rice
+Uttarakhand,Feb-16,22.04,Rice
+West Bengal,Feb-16,27.06,Rice
+Andaman and Nicobar,Mar-16,37,Rice
+Andhra Pradesh,Mar-16,27.3,Rice
+Assam,Mar-16,24,Rice
+Bihar,Mar-16,23.44,Rice
+Chandigarh,Mar-16,28,Rice
+Chhattisgarh,Mar-16,21,Rice
+Delhi,Mar-16,28,Rice
+Goa,Mar-16,37.22,Rice
+Gujarat,Mar-16,24.75,Rice
+Haryana,Mar-16,26.47,Rice
+Himachal Pradesh,Mar-16,29.28,Rice
+Jammu and Kashmir,Mar-16,28.21,Rice
+Jharkhand,Mar-16,29,Rice
+Karnataka,Mar-16,34.68,Rice
+Kerala,Mar-16,31.82,Rice
+Madhya Pradesh,Mar-16,25.24,Rice
+Maharashtra,Mar-16,31,Rice
+Meghalaya,Mar-16,21,Rice
+Mizoram,Mar-16,30,Rice
+Nagaland,Mar-16,22,Rice
+Odisha,Mar-16,24.01,Rice
+Puducherry,Mar-16,27,Rice
+Punjab,Mar-16,28.23,Rice
+Rajasthan,Mar-16,26.24,Rice
+Tamil Nadu,Mar-16,27.95,Rice
+Telangana,Mar-16,27.36,Rice
+Tripura,Mar-16,25.8,Rice
+Uttar Pradesh,Mar-16,22.23,Rice
+Uttarakhand,Mar-16,22.07,Rice
+West Bengal,Mar-16,25.45,Rice
+Andaman and Nicobar,Apr-16,37,Rice
+Andhra Pradesh,Apr-16,27.38,Rice
+Assam,Apr-16,24,Rice
+Bihar,Apr-16,24.58,Rice
+Chandigarh,Apr-16,28,Rice
+Chhattisgarh,Apr-16,21.93,Rice
+Delhi,Apr-16,28,Rice
+Goa,Apr-16,38,Rice
+Gujarat,Apr-16,24.85,Rice
+Haryana,Apr-16,26.5,Rice
+Himachal Pradesh,Apr-16,29.66,Rice
+Jammu and Kashmir,Apr-16,28.37,Rice
+Jharkhand,Apr-16,28.93,Rice
+Karnataka,Apr-16,35.45,Rice
+Kerala,Apr-16,30.86,Rice
+Madhya Pradesh,Apr-16,25.01,Rice
+Maharashtra,Apr-16,31.13,Rice
+Meghalaya,Apr-16,21.5,Rice
+Mizoram,Apr-16,30,Rice
+Nagaland,Apr-16,22,Rice
+Odisha,Apr-16,24.06,Rice
+Puducherry,Apr-16,27,Rice
+Punjab,Apr-16,28.47,Rice
+Rajasthan,Apr-16,27,Rice
+Tamil Nadu,Apr-16,27.65,Rice
+Telangana,Apr-16,27.36,Rice
+Tripura,Apr-16,25.07,Rice
+Uttar Pradesh,Apr-16,21.93,Rice
+Uttarakhand,Apr-16,22.51,Rice
+West Bengal,Apr-16,25.5,Rice
+Andaman and Nicobar,May-16,34.2,Rice
+Andhra Pradesh,May-16,27.4,Rice
+Assam,May-16,24.14,Rice
+Bihar,May-16,24.68,Rice
+Chandigarh,May-16,28,Rice
+Chhattisgarh,May-16,22.7,Rice
+Delhi,May-16,28,Rice
+Goa,May-16,38.46,Rice
+Gujarat,May-16,25.2,Rice
+Haryana,May-16,26.5,Rice
+Himachal Pradesh,May-16,28.05,Rice
+Jammu and Kashmir,May-16,28.67,Rice
+Jharkhand,May-16,29.2,Rice
+Karnataka,May-16,36.2,Rice
+Kerala,May-16,29.58,Rice
+Madhya Pradesh,May-16,24.38,Rice
+Maharashtra,May-16,33.16,Rice
+Meghalaya,May-16,23,Rice
+Mizoram,May-16,30,Rice
+Nagaland,May-16,22.69,Rice
+Odisha,May-16,24.13,Rice
+Puducherry,May-16,27,Rice
+Punjab,May-16,28.16,Rice
+Rajasthan,May-16,26.9,Rice
+Tamil Nadu,May-16,27.86,Rice
+Telangana,May-16,27.36,Rice
+Tripura,May-16,25.9,Rice
+Uttar Pradesh,May-16,21.8,Rice
+Uttarakhand,May-16,22.5,Rice
+West Bengal,May-16,26.79,Rice
+Andaman and Nicobar,Jun-16,33,Rice
+Andhra Pradesh,Jun-16,27.76,Rice
+Arunachal pradesh,Jun-16,28,Rice
+Assam,Jun-16,25.5,Rice
+Bihar,Jun-16,24.45,Rice
+Chandigarh,Jun-16,28,Rice
+Chhattisgarh,Jun-16,23.21,Rice
+Delhi,Jun-16,28.37,Rice
+Goa,Jun-16,39.73,Rice
+Gujarat,Jun-16,25.38,Rice
+Haryana,Jun-16,27.33,Rice
+Himachal Pradesh,Jun-16,28.36,Rice
+Jammu and Kashmir,Jun-16,28.91,Rice
+Jharkhand,Jun-16,30,Rice
+Karnataka,Jun-16,35.78,Rice
+Kerala,Jun-16,30.14,Rice
+Madhya Pradesh,Jun-16,24.32,Rice
+Maharashtra,Jun-16,33.62,Rice
+Meghalaya,Jun-16,23,Rice
+Mizoram,Jun-16,30,Rice
+Nagaland,Jun-16,24,Rice
+Odisha,Jun-16,24.43,Rice
+Puducherry,Jun-16,27,Rice
+Punjab,Jun-16,27.86,Rice
+Rajasthan,Jun-16,27.12,Rice
+Tamil Nadu,Jun-16,28.26,Rice
+Telangana,Jun-16,27.36,Rice
+Tripura,Jun-16,26.86,Rice
+Uttar Pradesh,Jun-16,22.27,Rice
+Uttarakhand,Jun-16,22.5,Rice
+West Bengal,Jun-16,27.78,Rice
+Andaman and Nicobar,Jul-16,33,Rice
+Andhra Pradesh,Jul-16,28.9,Rice
+Arunachal pradesh,Jul-16,28,Rice
+Assam,Jul-16,26,Rice
+Bihar,Jul-16,24.48,Rice
+Chandigarh,Jul-16,28,Rice
+Chhattisgarh,Jul-16,23.49,Rice
+Delhi,Jul-16,30.19,Rice
+Goa,Jul-16,40,Rice
+Gujarat,Jul-16,25.27,Rice
+Haryana,Jul-16,27.77,Rice
+Himachal Pradesh,Jul-16,29.53,Rice
+Jammu and Kashmir,Jul-16,31.58,Rice
+Jharkhand,Jul-16,30.5,Rice
+Karnataka,Jul-16,36.52,Rice
+Kerala,Jul-16,30.33,Rice
+Madhya Pradesh,Jul-16,24.5,Rice
+Maharashtra,Jul-16,34.23,Rice
+Meghalaya,Jul-16,23,Rice
+Mizoram,Jul-16,30,Rice
+Nagaland,Jul-16,24,Rice
+Odisha,Jul-16,24.47,Rice
+Puducherry,Jul-16,27,Rice
+Punjab,Jul-16,27.21,Rice
+Rajasthan,Jul-16,27.24,Rice
+Tamil Nadu,Jul-16,28.41,Rice
+Telangana,Jul-16,27.37,Rice
+Tripura,Jul-16,28,Rice
+Uttar Pradesh,Jul-16,22.38,Rice
+Uttarakhand,Jul-16,22.5,Rice
+West Bengal,Jul-16,28.2,Rice
+Andaman and Nicobar,Aug-16,33,Rice
+Andhra Pradesh,Aug-16,29.51,Rice
+Arunachal pradesh,Aug-16,26,Rice
+Assam,Aug-16,26,Rice
+Bihar,Aug-16,25.13,Rice
+Chandigarh,Aug-16,29.28,Rice
+Chhattisgarh,Aug-16,23.73,Rice
+Delhi,Aug-16,31.55,Rice
+Goa,Aug-16,40.54,Rice
+Gujarat,Aug-16,24.75,Rice
+Haryana,Aug-16,27.76,Rice
+Himachal Pradesh,Aug-16,30.12,Rice
+Jammu and Kashmir,Aug-16,33,Rice
+Jharkhand,Aug-16,31.67,Rice
+Karnataka,Aug-16,37.27,Rice
+Kerala,Aug-16,30.74,Rice
+Madhya Pradesh,Aug-16,24.5,Rice
+Maharashtra,Aug-16,32.08,Rice
+Meghalaya,Aug-16,23,Rice
+Mizoram,Aug-16,30,Rice
+Nagaland,Aug-16,24.18,Rice
+Odisha,Aug-16,24.61,Rice
+Puducherry,Aug-16,27,Rice
+Punjab,Aug-16,27.52,Rice
+Rajasthan,Aug-16,27.75,Rice
+Tamil Nadu,Aug-16,28.63,Rice
+Telangana,Aug-16,27.36,Rice
+Tripura,Aug-16,30.7,Rice
+Uttar Pradesh,Aug-16,22.64,Rice
+Uttarakhand,Aug-16,22.5,Rice
+West Bengal,Aug-16,27.59,Rice
+Andaman and Nicobar,Sep-16,33,Rice
+Andhra Pradesh,Sep-16,29.9,Rice
+Arunachal pradesh,Sep-16,28,Rice
+Assam,Sep-16,26,Rice
+Bihar,Sep-16,24.9,Rice
+Chandigarh,Sep-16,30,Rice
+Chhattisgarh,Sep-16,23.3,Rice
+Delhi,Sep-16,31,Rice
+Goa,Sep-16,41,Rice
+Gujarat,Sep-16,24.59,Rice
+Haryana,Sep-16,28.06,Rice
+Himachal Pradesh,Sep-16,30.31,Rice
+Jammu and Kashmir,Sep-16,33,Rice
+Jharkhand,Sep-16,31.81,Rice
+Karnataka,Sep-16,36.51,Rice
+Kerala,Sep-16,31.01,Rice
+Madhya Pradesh,Sep-16,24.57,Rice
+Maharashtra,Sep-16,31.48,Rice
+Meghalaya,Sep-16,23,Rice
+Mizoram,Sep-16,30,Rice
+Nagaland,Sep-16,26.17,Rice
+Odisha,Sep-16,24.44,Rice
+Puducherry,Sep-16,27,Rice
+Punjab,Sep-16,27.63,Rice
+Rajasthan,Sep-16,29,Rice
+Tamil Nadu,Sep-16,29.06,Rice
+Telangana,Sep-16,27.36,Rice
+Tripura,Sep-16,30.06,Rice
+Uttar Pradesh,Sep-16,22.59,Rice
+Uttarakhand,Sep-16,22.62,Rice
+West Bengal,Sep-16,27.36,Rice
+Andaman and Nicobar,Oct-16,33,Rice
+Andhra Pradesh,Oct-16,29.93,Rice
+Arunachal pradesh,Oct-16,32,Rice
+Assam,Oct-16,26,Rice
+Bihar,Oct-16,24.81,Rice
+Chandigarh,Oct-16,30,Rice
+Chhattisgarh,Oct-16,23.1,Rice
+Delhi,Oct-16,29.83,Rice
+Goa,Oct-16,41.5,Rice
+Gujarat,Oct-16,24.22,Rice
+Haryana,Oct-16,27.5,Rice
+Himachal Pradesh,Oct-16,30.59,Rice
+Jammu and Kashmir,Oct-16,33,Rice
+Jharkhand,Oct-16,30,Rice
+Karnataka,Oct-16,37.07,Rice
+Kerala,Oct-16,32.54,Rice
+Madhya Pradesh,Oct-16,24.36,Rice
+Maharashtra,Oct-16,30.82,Rice
+Meghalaya,Oct-16,23,Rice
+Mizoram,Oct-16,30,Rice
+Nagaland,Oct-16,25,Rice
+Odisha,Oct-16,24.39,Rice
+Puducherry,Oct-16,27,Rice
+Punjab,Oct-16,27.59,Rice
+Rajasthan,Oct-16,27.21,Rice
+Tamil Nadu,Oct-16,30.51,Rice
+Telangana,Oct-16,27.38,Rice
+Tripura,Oct-16,30,Rice
+Uttar Pradesh,Oct-16,22.52,Rice
+Uttarakhand,Oct-16,22.75,Rice
+West Bengal,Oct-16,27.87,Rice
+Andaman and Nicobar,Nov-16,33,Rice
+Andhra Pradesh,Nov-16,29.79,Rice
+Assam,Nov-16,26,Rice
+Bihar,Nov-16,24.97,Rice
+Chandigarh,Nov-16,28.92,Rice
+Chhattisgarh,Nov-16,22.54,Rice
+Delhi,Nov-16,29,Rice
+Goa,Nov-16,40.82,Rice
+Gujarat,Nov-16,24,Rice
+Haryana,Nov-16,28.91,Rice
+Himachal Pradesh,Nov-16,30.47,Rice
+Jammu and Kashmir,Nov-16,31.08,Rice
+Jharkhand,Nov-16,30.43,Rice
+Karnataka,Nov-16,41.31,Rice
+Kerala,Nov-16,33.66,Rice
+Madhya Pradesh,Nov-16,23.67,Rice
+Maharashtra,Nov-16,31.76,Rice
+Meghalaya,Nov-16,24.16,Rice
+Mizoram,Nov-16,30,Rice
+Nagaland,Nov-16,25,Rice
+Odisha,Nov-16,24.28,Rice
+Puducherry,Nov-16,27,Rice
+Punjab,Nov-16,27.61,Rice
+Rajasthan,Nov-16,27.46,Rice
+Tamil Nadu,Nov-16,31.44,Rice
+Telangana,Nov-16,27.34,Rice
+Tripura,Nov-16,30,Rice
+Uttar Pradesh,Nov-16,22.49,Rice
+Uttarakhand,Nov-16,22.5,Rice
+West Bengal,Nov-16,28.1,Rice
+Andaman and Nicobar,Dec-16,33,Rice
+Andhra Pradesh,Dec-16,29.88,Rice
+Assam,Dec-16,26,Rice
+Bihar,Dec-16,25.05,Rice
+Chandigarh,Dec-16,28,Rice
+Chhattisgarh,Dec-16,22.32,Rice
+Delhi,Dec-16,29.9,Rice
+Goa,Dec-16,41.75,Rice
+Gujarat,Dec-16,23.78,Rice
+Haryana,Dec-16,30.67,Rice
+Himachal Pradesh,Dec-16,31.17,Rice
+Jammu and Kashmir,Dec-16,29.39,Rice
+Jharkhand,Dec-16,31.82,Rice
+Karnataka,Dec-16,42.77,Rice
+Kerala,Dec-16,34.74,Rice
+Madhya Pradesh,Dec-16,23.27,Rice
+Maharashtra,Dec-16,32.09,Rice
+Meghalaya,Dec-16,25,Rice
+Mizoram,Dec-16,30,Rice
+Nagaland,Dec-16,24.81,Rice
+Odisha,Dec-16,24.26,Rice
+Puducherry,Dec-16,29.42,Rice
+Punjab,Dec-16,27.61,Rice
+Rajasthan,Dec-16,27.29,Rice
+Tamil Nadu,Dec-16,33.05,Rice
+Telangana,Dec-16,27.36,Rice
+Tripura,Dec-16,30.88,Rice
+Uttar Pradesh,Dec-16,22.61,Rice
+Uttarakhand,Dec-16,22.73,Rice
+West Bengal,Dec-16,27.88,Rice
+Andaman and Nicobar,Jan-17,33,Rice
+Andhra Pradesh,Jan-17,30.38,Rice
+Arunachal pradesh,Jan-17,30,Rice
+Assam,Jan-17,26,Rice
+Bihar,Jan-17,24.54,Rice
+Chandigarh,Jan-17,28,Rice
+Chhattisgarh,Jan-17,22.73,Rice
+Delhi,Jan-17,30.23,Rice
+Goa,Jan-17,41.04,Rice
+Gujarat,Jan-17,23.5,Rice
+Haryana,Jan-17,30.91,Rice
+Himachal Pradesh,Jan-17,30.99,Rice
+Jammu and Kashmir,Jan-17,30.1,Rice
+Jharkhand,Jan-17,31,Rice
+Karnataka,Jan-17,43.2,Rice
+Kerala,Jan-17,37.17,Rice
+Madhya Pradesh,Jan-17,23.33,Rice
+Maharashtra,Jan-17,32.56,Rice
+Meghalaya,Jan-17,25,Rice
+Mizoram,Jan-17,30,Rice
+Nagaland,Jan-17,25,Rice
+Odisha,Jan-17,24.06,Rice
+Puducherry,Jan-17,32,Rice
+Punjab,Jan-17,27.69,Rice
+Rajasthan,Jan-17,27.27,Rice
+Sikkim,Jan-17,24.89,Rice
+Tamil Nadu,Jan-17,35.15,Rice
+Telangana,Jan-17,27.36,Rice
+Tripura,Jan-17,28.68,Rice
+Uttar Pradesh,Jan-17,22.5,Rice
+Uttarakhand,Jan-17,22.75,Rice
+West Bengal,Jan-17,27.79,Rice
+Andaman and Nicobar,Feb-17,33,Rice
+Andhra Pradesh,Feb-17,30.98,Rice
+Assam,Feb-17,26,Rice
+Bihar,Feb-17,25.6,Rice
+Chandigarh,Feb-17,28,Rice
+Chhattisgarh,Feb-17,23.04,Rice
+Delhi,Feb-17,31.79,Rice
+Goa,Feb-17,40,Rice
+Gujarat,Feb-17,23.5,Rice
+Haryana,Feb-17,31.75,Rice
+Himachal Pradesh,Feb-17,31.04,Rice
+Jammu and Kashmir,Feb-17,29.44,Rice
+Jharkhand,Feb-17,31.57,Rice
+Karnataka,Feb-17,43.82,Rice
+Kerala,Feb-17,38.67,Rice
+Madhya Pradesh,Feb-17,23.42,Rice
+Maharashtra,Feb-17,32.93,Rice
+Meghalaya,Feb-17,25,Rice
+Mizoram,Feb-17,33,Rice
+Nagaland,Feb-17,25.5,Rice
+Odisha,Feb-17,24.22,Rice
+Puducherry,Feb-17,32,Rice
+Punjab,Feb-17,28.26,Rice
+Rajasthan,Feb-17,27.39,Rice
+Sikkim,Feb-17,28,Rice
+Tamil Nadu,Feb-17,35.98,Rice
+Telangana,Feb-17,27.37,Rice
+Tripura,Feb-17,28.94,Rice
+Uttar Pradesh,Feb-17,22.73,Rice
+Uttarakhand,Feb-17,22.75,Rice
+West Bengal,Feb-17,27.66,Rice
+Andaman and Nicobar,Mar-17,33,Rice
+Andhra Pradesh,Mar-17,30.46,Rice
+Assam,Mar-17,26,Rice
+Bihar,Mar-17,25.97,Rice
+Chandigarh,Mar-17,28,Rice
+Chhattisgarh,Mar-17,23.05,Rice
+Delhi,Mar-17,32,Rice
+Goa,Mar-17,40,Rice
+Gujarat,Mar-17,23.73,Rice
+Haryana,Mar-17,31.57,Rice
+Himachal Pradesh,Mar-17,30.96,Rice
+Jammu and Kashmir,Mar-17,29.08,Rice
+Jharkhand,Mar-17,31.63,Rice
+Karnataka,Mar-17,44.84,Rice
+Kerala,Mar-17,39.49,Rice
+Madhya Pradesh,Mar-17,23.34,Rice
+Maharashtra,Mar-17,32.62,Rice
+Meghalaya,Mar-17,25,Rice
+Mizoram,Mar-17,32.71,Rice
+Nagaland,Mar-17,26,Rice
+Odisha,Mar-17,24.25,Rice
+Puducherry,Mar-17,32,Rice
+Punjab,Mar-17,27.98,Rice
+Rajasthan,Mar-17,27.12,Rice
+Tamil Nadu,Mar-17,35.99,Rice
+Telangana,Mar-17,27.36,Rice
+Tripura,Mar-17,29,Rice
+Uttar Pradesh,Mar-17,22.84,Rice
+Uttarakhand,Mar-17,22.75,Rice
+West Bengal,Mar-17,28.04,Rice
+Andaman and Nicobar,Apr-17,33,Rice
+Andhra Pradesh,Apr-17,30.29,Rice
+Arunachal pradesh,Apr-17,30,Rice
+Assam,Apr-17,26,Rice
+Bihar,Apr-17,26.03,Rice
+Chandigarh,Apr-17,28,Rice
+Chhattisgarh,Apr-17,23.37,Rice
+Delhi,Apr-17,32,Rice
+Goa,Apr-17,40,Rice
+Gujarat,Apr-17,23.75,Rice
+Haryana,Apr-17,31.38,Rice
+Himachal Pradesh,Apr-17,30.86,Rice
+Jammu and Kashmir,Apr-17,29.17,Rice
+Jharkhand,Apr-17,32.19,Rice
+Karnataka,Apr-17,45.21,Rice
+Kerala,Apr-17,38.12,Rice
+Madhya Pradesh,Apr-17,23.28,Rice
+Maharashtra,Apr-17,33.13,Rice
+Meghalaya,Apr-17,25,Rice
+Mizoram,Apr-17,30,Rice
+Nagaland,Apr-17,25.67,Rice
+Odisha,Apr-17,24.46,Rice
+Puducherry,Apr-17,32,Rice
+Punjab,Apr-17,27.92,Rice
+Rajasthan,Apr-17,26.66,Rice
+Tamil Nadu,Apr-17,35.07,Rice
+Telangana,Apr-17,27.36,Rice
+Tripura,Apr-17,30.25,Rice
+Uttar Pradesh,Apr-17,23,Rice
+Uttarakhand,Apr-17,22.75,Rice
+West Bengal,Apr-17,28.28,Rice
+Andaman and Nicobar,May-17,33,Rice
+Andhra Pradesh,May-17,30.5,Rice
+Arunachal pradesh,May-17,30,Rice
+Assam,May-17,26,Rice
+Bihar,May-17,26.41,Rice
+Chandigarh,May-17,28,Rice
+Chhattisgarh,May-17,23.77,Rice
+Delhi,May-17,32,Rice
+Goa,May-17,40,Rice
+Gujarat,May-17,23.87,Rice
+Haryana,May-17,31.34,Rice
+Himachal Pradesh,May-17,31.04,Rice
+Jammu and Kashmir,May-17,28.58,Rice
+Jharkhand,May-17,33.92,Rice
+Karnataka,May-17,45.16,Rice
+Kerala,May-17,38.17,Rice
+Madhya Pradesh,May-17,23.36,Rice
+Maharashtra,May-17,33.43,Rice
+Meghalaya,May-17,25,Rice
+Mizoram,May-17,30,Rice
+Nagaland,May-17,25,Rice
+Odisha,May-17,24.86,Rice
+Puducherry,May-17,32,Rice
+Punjab,May-17,27.9,Rice
+Rajasthan,May-17,26.75,Rice
+Sikkim,May-17,30,Rice
+Tamil Nadu,May-17,34.35,Rice
+Telangana,May-17,27.41,Rice
+Tripura,May-17,31,Rice
+Uttar Pradesh,May-17,23.22,Rice
+Uttarakhand,May-17,22.77,Rice
+West Bengal,May-17,28.49,Rice
+Andhra Pradesh,Jun-17,30.27,Rice
+Assam,Jun-17,26,Rice
+Bihar,Jun-17,26.85,Rice
+Chandigarh,Jun-17,28,Rice
+Chhattisgarh,Jun-17,23.63,Rice
+Delhi,Jun-17,32,Rice
+Goa,Jun-17,40.86,Rice
+Gujarat,Jun-17,23.75,Rice
+Haryana,Jun-17,31.45,Rice
+Himachal Pradesh,Jun-17,31.1,Rice
+Jammu and Kashmir,Jun-17,28.64,Rice
+Jharkhand,Jun-17,34.57,Rice
+Karnataka,Jun-17,45.45,Rice
+Kerala,Jun-17,39.69,Rice
+Madhya Pradesh,Jun-17,23.2,Rice
+Maharashtra,Jun-17,33.62,Rice
+Meghalaya,Jun-17,25,Rice
+Mizoram,Jun-17,30,Rice
+Nagaland,Jun-17,25,Rice
+Odisha,Jun-17,24.84,Rice
+Puducherry,Jun-17,32.2,Rice
+Punjab,Jun-17,28.28,Rice
+Rajasthan,Jun-17,26.93,Rice
+Sikkim,Jun-17,32.56,Rice
+Tamil Nadu,Jun-17,35.98,Rice
+Telangana,Jun-17,27.36,Rice
+Tripura,Jun-17,31,Rice
+Uttar Pradesh,Jun-17,23.62,Rice
+Uttarakhand,Jun-17,23.1,Rice
+West Bengal,Jun-17,27.98,Rice
+Andaman and Nicobar,Jul-17,33,Rice
+Andhra Pradesh,Jul-17,30.36,Rice
+Assam,Jul-17,26.55,Rice
+Bihar,Jul-17,27.88,Rice
+Chandigarh,Jul-17,28,Rice
+Chhattisgarh,Jul-17,23.48,Rice
+Delhi,Jul-17,32,Rice
+Goa,Jul-17,40.54,Rice
+Gujarat,Jul-17,24.3,Rice
+Haryana,Jul-17,30.29,Rice
+Himachal Pradesh,Jul-17,31.08,Rice
+Jammu and Kashmir,Jul-17,30.13,Rice
+Jharkhand,Jul-17,33.27,Rice
+Karnataka,Jul-17,46.74,Rice
+Kerala,Jul-17,40.44,Rice
+Madhya Pradesh,Jul-17,23.93,Rice
+Maharashtra,Jul-17,33.59,Rice
+Meghalaya,Jul-17,25,Rice
+Mizoram,Jul-17,30,Rice
+Nagaland,Jul-17,25,Rice
+Odisha,Jul-17,25.06,Rice
+Puducherry,Jul-17,34,Rice
+Punjab,Jul-17,34.92,Rice
+Rajasthan,Jul-17,27.17,Rice
+Sikkim,Jul-17,34.84,Rice
+Tamil Nadu,Jul-17,36.09,Rice
+Telangana,Jul-17,27.37,Rice
+Tripura,Jul-17,31,Rice
+Uttar Pradesh,Jul-17,23.81,Rice
+Uttarakhand,Jul-17,23.25,Rice
+West Bengal,Jul-17,27.64,Rice
+Andaman and Nicobar,Aug-17,33,Rice
+Andhra Pradesh,Aug-17,30.48,Rice
+Assam,Aug-17,30,Rice
+Bihar,Aug-17,28.64,Rice
+Chandigarh,Aug-17,28,Rice
+Chhattisgarh,Aug-17,23.21,Rice
+Delhi,Aug-17,32,Rice
+Goa,Aug-17,40.05,Rice
+Gujarat,Aug-17,24.56,Rice
+Haryana,Aug-17,30.21,Rice
+Himachal Pradesh,Aug-17,30.31,Rice
+Jammu and Kashmir,Aug-17,30.22,Rice
+Jharkhand,Aug-17,33.96,Rice
+Karnataka,Aug-17,46.66,Rice
+Kerala,Aug-17,40.8,Rice
+Madhya Pradesh,Aug-17,24.25,Rice
+Maharashtra,Aug-17,34.68,Rice
+Meghalaya,Aug-17,25,Rice
+Mizoram,Aug-17,30,Rice
+Nagaland,Aug-17,24,Rice
+Odisha,Aug-17,25.17,Rice
+Puducherry,Aug-17,34,Rice
+Punjab,Aug-17,33.25,Rice
+Rajasthan,Aug-17,27.18,Rice
+Sikkim,Aug-17,35.33,Rice
+Tamil Nadu,Aug-17,36.62,Rice
+Telangana,Aug-17,27.36,Rice
+Tripura,Aug-17,31,Rice
+Uttar Pradesh,Aug-17,23.7,Rice
+Uttarakhand,Aug-17,23.25,Rice
+West Bengal,Aug-17,28.92,Rice
+Andaman and Nicobar,Sep-17,36.5,Rice
+Andhra Pradesh,Sep-17,29.83,Rice
+Arunachal pradesh,Sep-17,28,Rice
+Assam,Sep-17,30,Rice
+Bihar,Sep-17,29.41,Rice
+Chandigarh,Sep-17,28,Rice
+Chhattisgarh,Sep-17,23.78,Rice
+Delhi,Sep-17,32,Rice
+Goa,Sep-17,41.67,Rice
+Gujarat,Sep-17,24.75,Rice
+Haryana,Sep-17,30.57,Rice
+Himachal Pradesh,Sep-17,30.98,Rice
+Jammu and Kashmir,Sep-17,30.14,Rice
+Jharkhand,Sep-17,33.79,Rice
+Karnataka,Sep-17,46.56,Rice
+Kerala,Sep-17,40.18,Rice
+Madhya Pradesh,Sep-17,24.34,Rice
+Maharashtra,Sep-17,34.68,Rice
+Meghalaya,Sep-17,25,Rice
+Mizoram,Sep-17,30,Rice
+Nagaland,Sep-17,25.43,Rice
+Odisha,Sep-17,25.17,Rice
+Puducherry,Sep-17,34,Rice
+Punjab,Sep-17,30.98,Rice
+Rajasthan,Sep-17,26.83,Rice
+Sikkim,Sep-17,36.65,Rice
+Tamil Nadu,Sep-17,36.2,Rice
+Telangana,Sep-17,27.36,Rice
+Tripura,Sep-17,31.78,Rice
+Uttar Pradesh,Sep-17,24.06,Rice
+Uttarakhand,Sep-17,23.25,Rice
+West Bengal,Sep-17,29.53,Rice
+Andaman and Nicobar,Oct-17,33,Rice
+Andhra Pradesh,Oct-17,29.48,Rice
+Arunachal pradesh,Oct-17,30.33,Rice
+Assam,Oct-17,30,Rice
+Bihar,Oct-17,29.28,Rice
+Chandigarh,Oct-17,28,Rice
+Chhattisgarh,Oct-17,25.44,Rice
+Delhi,Oct-17,32.14,Rice
+Goa,Oct-17,41.78,Rice
+Gujarat,Oct-17,24.75,Rice
+Haryana,Oct-17,30.5,Rice
+Himachal Pradesh,Oct-17,31.12,Rice
+Jammu and Kashmir,Oct-17,30.09,Rice
+Jharkhand,Oct-17,34,Rice
+Karnataka,Oct-17,47.01,Rice
+Kerala,Oct-17,39.49,Rice
+Madhya Pradesh,Oct-17,24.18,Rice
+Maharashtra,Oct-17,34.89,Rice
+Meghalaya,Oct-17,25,Rice
+Mizoram,Oct-17,30,Rice
+Nagaland,Oct-17,26,Rice
+Odisha,Oct-17,25.7,Rice
+Puducherry,Oct-17,34,Rice
+Punjab,Oct-17,31.62,Rice
+Rajasthan,Oct-17,27.27,Rice
+Sikkim,Oct-17,39.75,Rice
+Tamil Nadu,Oct-17,36.26,Rice
+Telangana,Oct-17,27.36,Rice
+Tripura,Oct-17,31.18,Rice
+Uttar Pradesh,Oct-17,24.4,Rice
+Uttarakhand,Oct-17,23.23,Rice
+West Bengal,Oct-17,29.39,Rice
+Andaman and Nicobar,Nov-17,33,Rice
+Andhra Pradesh,Nov-17,30.09,Rice
+Arunachal pradesh,Nov-17,31,Rice
+Assam,Nov-17,30,Rice
+Bihar,Nov-17,29.09,Rice
+Chandigarh,Nov-17,28,Rice
+Chhattisgarh,Nov-17,25.53,Rice
+Delhi,Nov-17,33.47,Rice
+Goa,Nov-17,42,Rice
+Gujarat,Nov-17,24.73,Rice
+Haryana,Nov-17,30.68,Rice
+Himachal Pradesh,Nov-17,31.57,Rice
+Jammu and Kashmir,Nov-17,30.34,Rice
+Jharkhand,Nov-17,34,Rice
+Karnataka,Nov-17,46.76,Rice
+Kerala,Nov-17,38.89,Rice
+Madhya Pradesh,Nov-17,24.04,Rice
+Maharashtra,Nov-17,34.15,Rice
+Meghalaya,Nov-17,25,Rice
+Mizoram,Nov-17,30,Rice
+Nagaland,Nov-17,25.56,Rice
+Odisha,Nov-17,26.18,Rice
+Puducherry,Nov-17,34,Rice
+Punjab,Nov-17,31.56,Rice
+Rajasthan,Nov-17,28.24,Rice
+Sikkim,Nov-17,59,Rice
+Tamil Nadu,Nov-17,35.72,Rice
+Telangana,Nov-17,27.36,Rice
+Tripura,Nov-17,31,Rice
+Uttar Pradesh,Nov-17,24.41,Rice
+Uttarakhand,Nov-17,23.25,Rice
+West Bengal,Nov-17,29.78,Rice
+Andaman and Nicobar,Dec-17,33,Rice
+Andhra Pradesh,Dec-17,29.99,Rice
+Assam,Dec-17,30,Rice
+Bihar,Dec-17,29.02,Rice
+Chandigarh,Dec-17,28,Rice
+Chhattisgarh,Dec-17,25.6,Rice
+Delhi,Dec-17,34,Rice
+Goa,Dec-17,42,Rice
+Gujarat,Dec-17,23.83,Rice
+Haryana,Dec-17,30.94,Rice
+Himachal Pradesh,Dec-17,31.23,Rice
+Jammu and Kashmir,Dec-17,30.15,Rice
+Jharkhand,Dec-17,34,Rice
+Karnataka,Dec-17,45.71,Rice
+Kerala,Dec-17,39.84,Rice
+Madhya Pradesh,Dec-17,24.32,Rice
+Maharashtra,Dec-17,34,Rice
+Manipur,Dec-17,46.43,Rice
+Meghalaya,Dec-17,25,Rice
+Mizoram,Dec-17,30,Rice
+Nagaland,Dec-17,25,Rice
+Odisha,Dec-17,25.74,Rice
+Puducherry,Dec-17,32.47,Rice
+Punjab,Dec-17,31.22,Rice
+Rajasthan,Dec-17,27.61,Rice
+Sikkim,Dec-17,58.08,Rice
+Tamil Nadu,Dec-17,35.64,Rice
+Telangana,Dec-17,27.37,Rice
+Tripura,Dec-17,31,Rice
+Uttar Pradesh,Dec-17,24.33,Rice
+Uttarakhand,Dec-17,23.25,Rice
+West Bengal,Dec-17,29.85,Rice
+Andaman and Nicobar,Jan-18,33,Rice
+Andhra Pradesh,Jan-18,30.29,Rice
+Assam,Jan-18,30,Rice
+Bihar,Jan-18,29.89,Rice
+Chandigarh,Jan-18,28,Rice
+Chhattisgarh,Jan-18,25.01,Rice
+Delhi,Jan-18,34,Rice
+Goa,Jan-18,41.69,Rice
+Gujarat,Jan-18,23.75,Rice
+Haryana,Jan-18,30.9,Rice
+Himachal Pradesh,Jan-18,30.74,Rice
+Jammu and Kashmir,Jan-18,30.47,Rice
+Jharkhand,Jan-18,34,Rice
+Karnataka,Jan-18,46.09,Rice
+Kerala,Jan-18,40.48,Rice
+Madhya Pradesh,Jan-18,24.33,Rice
+Maharashtra,Jan-18,34.75,Rice
+Manipur,Jan-18,49.74,Rice
+Meghalaya,Jan-18,25,Rice
+Mizoram,Jan-18,30,Rice
+Nagaland,Jan-18,25,Rice
+Odisha,Jan-18,25.68,Rice
+Puducherry,Jan-18,32,Rice
+Punjab,Jan-18,33.32,Rice
+Rajasthan,Jan-18,27.87,Rice
+Sikkim,Jan-18,54.78,Rice
+Tamil Nadu,Jan-18,36.31,Rice
+Telangana,Jan-18,27.36,Rice
+Tripura,Jan-18,31,Rice
+Uttar Pradesh,Jan-18,24.34,Rice
+Uttarakhand,Jan-18,23.25,Rice
+West Bengal,Jan-18,29.26,Rice
+Andaman and Nicobar,Feb-18,33,Rice
+Andhra Pradesh,Feb-18,30.54,Rice
+Arunachal pradesh,Feb-18,28,Rice
+Assam,Feb-18,30,Rice
+Bihar,Feb-18,30.31,Rice
+Chandigarh,Feb-18,28,Rice
+Chhattisgarh,Feb-18,25.25,Rice
+Delhi,Feb-18,34,Rice
+Goa,Feb-18,42.13,Rice
+Gujarat,Feb-18,23.75,Rice
+Haryana,Feb-18,29.19,Rice
+Himachal Pradesh,Feb-18,30.99,Rice
+Jammu and Kashmir,Feb-18,30.53,Rice
+Jharkhand,Feb-18,34.36,Rice
+Karnataka,Feb-18,45.63,Rice
+Kerala,Feb-18,40.02,Rice
+Madhya Pradesh,Feb-18,24.27,Rice
+Maharashtra,Feb-18,34.93,Rice
+Manipur,Feb-18,50,Rice
+Meghalaya,Feb-18,25,Rice
+Mizoram,Feb-18,30,Rice
+Nagaland,Feb-18,25,Rice
+Odisha,Feb-18,25.92,Rice
+Puducherry,Feb-18,32,Rice
+Punjab,Feb-18,31.79,Rice
+Rajasthan,Feb-18,27.87,Rice
+Sikkim,Feb-18,55,Rice
+Tamil Nadu,Feb-18,35.36,Rice
+Telangana,Feb-18,27.36,Rice
+Tripura,Feb-18,31,Rice
+Uttar Pradesh,Feb-18,24.5,Rice
+Uttarakhand,Feb-18,23.25,Rice
+West Bengal,Feb-18,29.78,Rice
+Andaman and Nicobar,Mar-18,33,Rice
+Andhra Pradesh,Mar-18,31.73,Rice
+Assam,Mar-18,30,Rice
+Bihar,Mar-18,30.21,Rice
+Chandigarh,Mar-18,28,Rice
+Chhattisgarh,Mar-18,25.85,Rice
+Delhi,Mar-18,34,Rice
+Goa,Mar-18,42,Rice
+Gujarat,Mar-18,23.75,Rice
+Haryana,Mar-18,30.56,Rice
+Himachal Pradesh,Mar-18,31.12,Rice
+Jammu and Kashmir,Mar-18,30.43,Rice
+Jharkhand,Mar-18,35,Rice
+Karnataka,Mar-18,44.84,Rice
+Kerala,Mar-18,39.85,Rice
+Madhya Pradesh,Mar-18,24.26,Rice
+Maharashtra,Mar-18,35.02,Rice
+Manipur,Mar-18,49.12,Rice
+Meghalaya,Mar-18,25,Rice
+Mizoram,Mar-18,30,Rice
+Nagaland,Mar-18,25,Rice
+Odisha,Mar-18,25.94,Rice
+Puducherry,Mar-18,31.67,Rice
+Punjab,Mar-18,31.51,Rice
+Rajasthan,Mar-18,28.24,Rice
+Sikkim,Mar-18,55,Rice
+Tamil Nadu,Mar-18,33.75,Rice
+Telangana,Mar-18,27.98,Rice
+Tripura,Mar-18,31,Rice
+Uttar Pradesh,Mar-18,24.96,Rice
+Uttarakhand,Mar-18,23.25,Rice
+West Bengal,Mar-18,29.39,Rice
+Andaman and Nicobar,Apr-18,33,Rice
+Andhra Pradesh,Apr-18,32.04,Rice
+Assam,Apr-18,30,Rice
+Bihar,Apr-18,30.26,Rice
+Chandigarh,Apr-18,28,Rice
+Chhattisgarh,Apr-18,26.51,Rice
+Delhi,Apr-18,34,Rice
+Goa,Apr-18,42,Rice
+Gujarat,Apr-18,23.75,Rice
+Haryana,Apr-18,32.02,Rice
+Himachal Pradesh,Apr-18,31.61,Rice
+Jammu and Kashmir,Apr-18,30.74,Rice
+Jharkhand,Apr-18,34.55,Rice
+Karnataka,Apr-18,44.81,Rice
+Kerala,Apr-18,39.56,Rice
+Madhya Pradesh,Apr-18,23.97,Rice
+Maharashtra,Apr-18,35.34,Rice
+Manipur,Apr-18,50,Rice
+Meghalaya,Apr-18,25,Rice
+Nagaland,Apr-18,25,Rice
+Odisha,Apr-18,26.17,Rice
+Puducherry,Apr-18,30,Rice
+Punjab,Apr-18,31.9,Rice
+Rajasthan,Apr-18,28.51,Rice
+Sikkim,Apr-18,55,Rice
+Tamil Nadu,Apr-18,33.72,Rice
+Telangana,Apr-18,28.15,Rice
+Tripura,Apr-18,31,Rice
+Uttar Pradesh,Apr-18,24.8,Rice
+Uttarakhand,Apr-18,23.42,Rice
+West Bengal,Apr-18,29.42,Rice
+Andaman and Nicobar,May-18,34.16,Rice
+Andhra Pradesh,May-18,31.92,Rice
+Arunachal pradesh,May-18,28,Rice
+Assam,May-18,30,Rice
+Bihar,May-18,30.2,Rice
+Chandigarh,May-18,28,Rice
+Chhattisgarh,May-18,25.64,Rice
+Delhi,May-18,34,Rice
+Goa,May-18,42,Rice
+Gujarat,May-18,23.75,Rice
+Haryana,May-18,31.5,Rice
+Himachal Pradesh,May-18,31.99,Rice
+Jammu and Kashmir,May-18,30.57,Rice
+Jharkhand,May-18,35,Rice
+Karnataka,May-18,44.29,Rice
+Kerala,May-18,39.16,Rice
+Madhya Pradesh,May-18,24.09,Rice
+Maharashtra,May-18,35.58,Rice
+Manipur,May-18,41.36,Rice
+Meghalaya,May-18,25,Rice
+Mizoram,May-18,30,Rice
+Nagaland,May-18,25,Rice
+Odisha,May-18,26.2,Rice
+Puducherry,May-18,30,Rice
+Punjab,May-18,31.11,Rice
+Rajasthan,May-18,28.83,Rice
+Sikkim,May-18,55.96,Rice
+Tamil Nadu,May-18,33.85,Rice
+Telangana,May-18,28.16,Rice
+Tripura,May-18,31,Rice
+Uttar Pradesh,May-18,25.17,Rice
+Uttarakhand,May-18,23.5,Rice
+West Bengal,May-18,28.9,Rice
+Andaman and Nicobar,Jun-18,33,Rice
+Andhra Pradesh,Jun-18,31.78,Rice
+Arunachal pradesh,Jun-18,28,Rice
+Assam,Jun-18,30,Rice
+Bihar,Jun-18,30.2,Rice
+Chandigarh,Jun-18,28,Rice
+Chhattisgarh,Jun-18,25.23,Rice
+Delhi,Jun-18,34,Rice
+Goa,Jun-18,42.23,Rice
+Gujarat,Jun-18,23.55,Rice
+Haryana,Jun-18,31.67,Rice
+Himachal Pradesh,Jun-18,31.2,Rice
+Jammu and Kashmir,Jun-18,30.61,Rice
+Jharkhand,Jun-18,35,Rice
+Karnataka,Jun-18,44.03,Rice
+Kerala,Jun-18,38.05,Rice
+Madhya Pradesh,Jun-18,24.51,Rice
+Maharashtra,Jun-18,35.55,Rice
+Manipur,Jun-18,40,Rice
+Meghalaya,Jun-18,24.52,Rice
+Mizoram,Jun-18,30,Rice
+Nagaland,Jun-18,24.68,Rice
+Odisha,Jun-18,26.21,Rice
+Puducherry,Jun-18,30,Rice
+Punjab,Jun-18,31.62,Rice
+Rajasthan,Jun-18,27.59,Rice
+Sikkim,Jun-18,57,Rice
+Tamil Nadu,Jun-18,34.34,Rice
+Telangana,Jun-18,28.15,Rice
+Tripura,Jun-18,31,Rice
+Uttar Pradesh,Jun-18,25.53,Rice
+Uttarakhand,Jun-18,23.5,Rice
+West Bengal,Jun-18,29.79,Rice
+Andaman and Nicobar,Jul-18,33,Rice
+Andhra Pradesh,Jul-18,31.63,Rice
+Arunachal pradesh,Jul-18,28,Rice
+Assam,Jul-18,30,Rice
+Bihar,Jul-18,31.4,Rice
+Chandigarh,Jul-18,28,Rice
+Chhattisgarh,Jul-18,25.09,Rice
+Delhi,Jul-18,34,Rice
+Goa,Jul-18,42,Rice
+Gujarat,Jul-18,23.29,Rice
+Haryana,Jul-18,31.75,Rice
+Himachal Pradesh,Jul-18,31.12,Rice
+Jammu and Kashmir,Jul-18,30.5,Rice
+Jharkhand,Jul-18,35,Rice
+Karnataka,Jul-18,44.7,Rice
+Kerala,Jul-18,37.35,Rice
+Madhya Pradesh,Jul-18,25.88,Rice
+Maharashtra,Jul-18,35.54,Rice
+Manipur,Jul-18,40,Rice
+Meghalaya,Jul-18,32.84,Rice
+Mizoram,Jul-18,30,Rice
+Nagaland,Jul-18,25,Rice
+Odisha,Jul-18,26.9,Rice
+Puducherry,Jul-18,31.73,Rice
+Punjab,Jul-18,30.34,Rice
+Rajasthan,Jul-18,27.02,Rice
+Sikkim,Jul-18,57,Rice
+Tamil Nadu,Jul-18,34.13,Rice
+Telangana,Jul-18,28.16,Rice
+Tripura,Jul-18,31,Rice
+Uttar Pradesh,Jul-18,25.64,Rice
+Uttarakhand,Jul-18,23.5,Rice
+West Bengal,Jul-18,29.94,Rice
+Andaman and Nicobar,Aug-18,33,Rice
+Andhra Pradesh,Aug-18,31.41,Rice
+Arunachal pradesh,Aug-18,28,Rice
+Assam,Aug-18,30,Rice
+Bihar,Aug-18,32.88,Rice
+Chandigarh,Aug-18,28,Rice
+Chhattisgarh,Aug-18,25.97,Rice
+Delhi,Aug-18,34,Rice
+Goa,Aug-18,41.81,Rice
+Gujarat,Aug-18,23.31,Rice
+Haryana,Aug-18,31.35,Rice
+Himachal Pradesh,Aug-18,31.42,Rice
+Jammu and Kashmir,Aug-18,30.82,Rice
+Jharkhand,Aug-18,35,Rice
+Karnataka,Aug-18,44.5,Rice
+Kerala,Aug-18,36.17,Rice
+Madhya Pradesh,Aug-18,25.95,Rice
+Maharashtra,Aug-18,35.65,Rice
+Meghalaya,Aug-18,34.53,Rice
+Mizoram,Aug-18,30,Rice
+Nagaland,Aug-18,25,Rice
+Odisha,Aug-18,27.48,Rice
+Puducherry,Aug-18,32,Rice
+Punjab,Aug-18,29.28,Rice
+Rajasthan,Aug-18,26.98,Rice
+Sikkim,Aug-18,57,Rice
+Tamil Nadu,Aug-18,34.41,Rice
+Telangana,Aug-18,28.33,Rice
+Tripura,Aug-18,31,Rice
+Uttar Pradesh,Aug-18,26.26,Rice
+Uttarakhand,Aug-18,23.5,Rice
+West Bengal,Aug-18,29.68,Rice
+Andaman and Nicobar,Sep-18,33,Rice
+Andhra Pradesh,Sep-18,31.79,Rice
+Arunachal pradesh,Sep-18,30.67,Rice
+Assam,Sep-18,30,Rice
+Bihar,Sep-18,32.11,Rice
+Chandigarh,Sep-18,28,Rice
+Chhattisgarh,Sep-18,25.99,Rice
+Delhi,Sep-18,34.83,Rice
+Goa,Sep-18,39.87,Rice
+Gujarat,Sep-18,23,Rice
+Haryana,Sep-18,29.25,Rice
+Himachal Pradesh,Sep-18,31.62,Rice
+Jammu and Kashmir,Sep-18,30.59,Rice
+Jharkhand,Sep-18,35,Rice
+Karnataka,Sep-18,44.56,Rice
+Kerala,Sep-18,36.27,Rice
+Madhya Pradesh,Sep-18,25.34,Rice
+Maharashtra,Sep-18,35.47,Rice
+Manipur,Sep-18,40,Rice
+Meghalaya,Sep-18,38.24,Rice
+Mizoram,Sep-18,30,Rice
+Nagaland,Sep-18,25,Rice
+Odisha,Sep-18,27.61,Rice
+Puducherry,Sep-18,32,Rice
+Punjab,Sep-18,29.72,Rice
+Rajasthan,Sep-18,26.98,Rice
+Sikkim,Sep-18,57,Rice
+Tamil Nadu,Sep-18,34.12,Rice
+Telangana,Sep-18,28.31,Rice
+Tripura,Sep-18,31,Rice
+Uttar Pradesh,Sep-18,26.37,Rice
+Uttarakhand,Sep-18,23.5,Rice
+West Bengal,Sep-18,29.42,Rice
+Andaman and Nicobar,Oct-18,36.33,Rice
+Andhra Pradesh,Oct-18,32.19,Rice
+Arunachal pradesh,Oct-18,32,Rice
+Assam,Oct-18,30,Rice
+Bihar,Oct-18,32.11,Rice
+Chandigarh,Oct-18,28,Rice
+Chhattisgarh,Oct-18,25.1,Rice
+Delhi,Oct-18,35,Rice
+Goa,Oct-18,41.12,Rice
+Gujarat,Oct-18,22.98,Rice
+Haryana,Oct-18,29.25,Rice
+Himachal Pradesh,Oct-18,31.11,Rice
+Jammu and Kashmir,Oct-18,31.15,Rice
+Jharkhand,Oct-18,35,Rice
+Karnataka,Oct-18,44.25,Rice
+Kerala,Oct-18,34.47,Rice
+Madhya Pradesh,Oct-18,25.9,Rice
+Maharashtra,Oct-18,35.08,Rice
+Manipur,Oct-18,40,Rice
+Meghalaya,Oct-18,40.27,Rice
+Mizoram,Oct-18,30,Rice
+Nagaland,Oct-18,25,Rice
+Odisha,Oct-18,27.57,Rice
+Puducherry,Oct-18,32,Rice
+Punjab,Oct-18,29.82,Rice
+Rajasthan,Oct-18,27.27,Rice
+Sikkim,Oct-18,57,Rice
+Tamil Nadu,Oct-18,33.54,Rice
+Telangana,Oct-18,28.33,Rice
+Tripura,Oct-18,31,Rice
+Uttar Pradesh,Oct-18,26.23,Rice
+Uttarakhand,Oct-18,23.5,Rice
+West Bengal,Oct-18,29.59,Rice
+Andaman and Nicobar,Nov-18,35,Rice
+Andhra Pradesh,Nov-18,32.14,Rice
+Arunachal pradesh,Nov-18,32,Rice
+Assam,Nov-18,30,Rice
+Bihar,Nov-18,31.15,Rice
+Chandigarh,Nov-18,28,Rice
+Chhattisgarh,Nov-18,25.57,Rice
+Delhi,Nov-18,35.66,Rice
+Goa,Nov-18,42,Rice
+Gujarat,Nov-18,22.76,Rice
+Haryana,Nov-18,29.25,Rice
+Himachal Pradesh,Nov-18,31.02,Rice
+Jammu and Kashmir,Nov-18,31.24,Rice
+Jharkhand,Nov-18,35,Rice
+Karnataka,Nov-18,44.44,Rice
+Kerala,Nov-18,35.04,Rice
+Madhya Pradesh,Nov-18,25.99,Rice
+Maharashtra,Nov-18,35.56,Rice
+Manipur,Nov-18,40,Rice
+Meghalaya,Nov-18,39.22,Rice
+Nagaland,Nov-18,25,Rice
+Odisha,Nov-18,27.76,Rice
+Puducherry,Nov-18,32,Rice
+Punjab,Nov-18,29.58,Rice
+Rajasthan,Nov-18,26.94,Rice
+Sikkim,Nov-18,57,Rice
+Tamil Nadu,Nov-18,33.68,Rice
+Telangana,Nov-18,28.34,Rice
+Tripura,Nov-18,31,Rice
+Uttar Pradesh,Nov-18,26.21,Rice
+Uttarakhand,Nov-18,22.93,Rice
+West Bengal,Nov-18,29.48,Rice
+Andaman and Nicobar,Dec-18,37.33,Rice
+Andhra Pradesh,Dec-18,31.92,Rice
+Arunachal pradesh,Dec-18,33.56,Rice
+Assam,Dec-18,30,Rice
+Bihar,Dec-18,30.64,Rice
+Chandigarh,Dec-18,28,Rice
+Chhattisgarh,Dec-18,25.55,Rice
+Delhi,Dec-18,36,Rice
+Goa,Dec-18,42,Rice
+Gujarat,Dec-18,22.5,Rice
+Haryana,Dec-18,29.25,Rice
+Himachal Pradesh,Dec-18,31.52,Rice
+Jammu and Kashmir,Dec-18,33.79,Rice
+Jharkhand,Dec-18,35,Rice
+Karnataka,Dec-18,44.41,Rice
+Kerala,Dec-18,33.53,Rice
+Madhya Pradesh,Dec-18,26.39,Rice
+Maharashtra,Dec-18,36.31,Rice
+Manipur,Dec-18,40,Rice
+Meghalaya,Dec-18,34.89,Rice
+Mizoram,Dec-18,30,Rice
+Nagaland,Dec-18,25,Rice
+Odisha,Dec-18,27.8,Rice
+Puducherry,Dec-18,32,Rice
+Punjab,Dec-18,29.99,Rice
+Rajasthan,Dec-18,26.78,Rice
+Sikkim,Dec-18,57,Rice
+Tamil Nadu,Dec-18,33.82,Rice
+Telangana,Dec-18,28.33,Rice
+Tripura,Dec-18,31,Rice
+Uttar Pradesh,Dec-18,26.7,Rice
+Uttarakhand,Dec-18,23.25,Rice
+West Bengal,Dec-18,29.54,Rice
+Andaman and Nicobar,Jan-19,38,Rice
+Andhra Pradesh,Jan-19,32,Rice
+Arunachal pradesh,Jan-19,31.68,Rice
+Assam,Jan-19,30,Rice
+Bihar,Jan-19,31.22,Rice
+Chandigarh,Jan-19,28,Rice
+Chhattisgarh,Jan-19,26.59,Rice
+Delhi,Jan-19,36,Rice
+Goa,Jan-19,42,Rice
+Gujarat,Jan-19,22.5,Rice
+Haryana,Jan-19,29.25,Rice
+Himachal Pradesh,Jan-19,30.24,Rice
+Jammu and Kashmir,Jan-19,35,Rice
+Jharkhand,Jan-19,35,Rice
+Karnataka,Jan-19,44.13,Rice
+Kerala,Jan-19,35.44,Rice
+Madhya Pradesh,Jan-19,26.51,Rice
+Maharashtra,Jan-19,36.26,Rice
+Manipur,Jan-19,40,Rice
+Meghalaya,Jan-19,27.09,Rice
+Mizoram,Jan-19,30,Rice
+Nagaland,Jan-19,25.2,Rice
+Odisha,Jan-19,27.87,Rice
+Puducherry,Jan-19,32,Rice
+Punjab,Jan-19,32.09,Rice
+Rajasthan,Jan-19,26.5,Rice
+Sikkim,Jan-19,57,Rice
+Tamil Nadu,Jan-19,33.44,Rice
+Telangana,Jan-19,28.33,Rice
+Tripura,Jan-19,31,Rice
+Uttar Pradesh,Jan-19,26.85,Rice
+Uttarakhand,Jan-19,24,Rice
+West Bengal,Jan-19,29.33,Rice
+Andaman and Nicobar,Feb-19,38.95,Rice
+Andhra Pradesh,Feb-19,32,Rice
+Arunachal pradesh,Feb-19,31.55,Rice
+Assam,Feb-19,30,Rice
+Bihar,Feb-19,31.28,Rice
+Chandigarh,Feb-19,28,Rice
+Chhattisgarh,Feb-19,26.77,Rice
+Delhi,Feb-19,36,Rice
+Goa,Feb-19,42,Rice
+Gujarat,Feb-19,22.5,Rice
+Haryana,Feb-19,29.25,Rice
+Himachal Pradesh,Feb-19,30.6,Rice
+Jammu and Kashmir,Feb-19,33.86,Rice
+Jharkhand,Feb-19,35,Rice
+Karnataka,Feb-19,44.29,Rice
+Kerala,Feb-19,34.91,Rice
+Madhya Pradesh,Feb-19,26.25,Rice
+Maharashtra,Feb-19,36.18,Rice
+Manipur,Feb-19,40,Rice
+Meghalaya,Feb-19,29.19,Rice
+Mizoram,Feb-19,30,Rice
+Nagaland,Feb-19,25.91,Rice
+Odisha,Feb-19,27.88,Rice
+Puducherry,Feb-19,31,Rice
+Punjab,Feb-19,32.3,Rice
+Rajasthan,Feb-19,27.08,Rice
+Sikkim,Feb-19,57,Rice
+Tamil Nadu,Feb-19,33.13,Rice
+Telangana,Feb-19,28.74,Rice
+Tripura,Feb-19,31,Rice
+Uttar Pradesh,Feb-19,26.83,Rice
+Uttarakhand,Feb-19,24,Rice
+West Bengal,Feb-19,29.43,Rice
+Andaman and Nicobar,Mar-19,38.33,Rice
+Andhra Pradesh,Mar-19,31.91,Rice
+Arunachal pradesh,Mar-19,32,Rice
+Assam,Mar-19,30,Rice
+Bihar,Mar-19,31.14,Rice
+Chandigarh,Mar-19,28,Rice
+Chhattisgarh,Mar-19,26.74,Rice
+Delhi,Mar-19,35.83,Rice
+Goa,Mar-19,42,Rice
+Gujarat,Mar-19,22.5,Rice
+Haryana,Mar-19,29.25,Rice
+Himachal Pradesh,Mar-19,30.16,Rice
+Jammu and Kashmir,Mar-19,32.26,Rice
+Jharkhand,Mar-19,35,Rice
+Karnataka,Mar-19,44.24,Rice
+Kerala,Mar-19,34.83,Rice
+Madhya Pradesh,Mar-19,26.31,Rice
+Maharashtra,Mar-19,35.83,Rice
+Manipur,Mar-19,40,Rice
+Meghalaya,Mar-19,29.63,Rice
+Mizoram,Mar-19,30,Rice
+Nagaland,Mar-19,26,Rice
+Odisha,Mar-19,27.97,Rice
+Puducherry,Mar-19,30,Rice
+Punjab,Mar-19,32.63,Rice
+Rajasthan,Mar-19,27.58,Rice
+Sikkim,Mar-19,57,Rice
+Tamil Nadu,Mar-19,33.28,Rice
+Telangana,Mar-19,29.89,Rice
+Tripura,Mar-19,31,Rice
+Uttar Pradesh,Mar-19,27.43,Rice
+Uttarakhand,Mar-19,24,Rice
+West Bengal,Mar-19,29.17,Rice
+Andaman and Nicobar,Apr-19,36.95,Rice
+Andhra Pradesh,Apr-19,32.24,Rice
+Arunachal pradesh,Apr-19,32,Rice
+Assam,Apr-19,30,Rice
+Bihar,Apr-19,30.58,Rice
+Chandigarh,Apr-19,28,Rice
+Chhattisgarh,Apr-19,26.68,Rice
+Delhi,Apr-19,34.93,Rice
+Goa,Apr-19,42,Rice
+Gujarat,Apr-19,22.5,Rice
+Haryana,Apr-19,29.25,Rice
+Himachal Pradesh,Apr-19,30.44,Rice
+Jammu and Kashmir,Apr-19,32.23,Rice
+Jharkhand,Apr-19,34.64,Rice
+Karnataka,Apr-19,44.3,Rice
+Kerala,Apr-19,34.9,Rice
+Madhya Pradesh,Apr-19,26.53,Rice
+Maharashtra,Apr-19,35.4,Rice
+Manipur,Apr-19,40,Rice
+Meghalaya,Apr-19,30.55,Rice
+Mizoram,Apr-19,30,Rice
+Nagaland,Apr-19,26,Rice
+Odisha,Apr-19,27.99,Rice
+Puducherry,Apr-19,30,Rice
+Punjab,Apr-19,32.9,Rice
+Rajasthan,Apr-19,28,Rice
+Sikkim,Apr-19,57,Rice
+Tamil Nadu,Apr-19,33.45,Rice
+Telangana,Apr-19,30.33,Rice
+Tripura,Apr-19,31,Rice
+Uttar Pradesh,Apr-19,27.39,Rice
+Uttarakhand,Apr-19,24,Rice
+West Bengal,Apr-19,29.35,Rice
+Andaman and Nicobar,May-19,38,Rice
+Andhra Pradesh,May-19,33.88,Rice
+Arunachal pradesh,May-19,32,Rice
+Assam,May-19,30,Rice
+Bihar,May-19,30.61,Rice
+Chandigarh,May-19,28,Rice
+Chhattisgarh,May-19,26.42,Rice
+Delhi,May-19,34.1,Rice
+Goa,May-19,42,Rice
+Gujarat,May-19,22.5,Rice
+Haryana,May-19,29.25,Rice
+Himachal Pradesh,May-19,31.47,Rice
+Jammu and Kashmir,May-19,32.74,Rice
+Jharkhand,May-19,34,Rice
+Karnataka,May-19,44.67,Rice
+Kerala,May-19,35.61,Rice
+Madhya Pradesh,May-19,26.36,Rice
+Maharashtra,May-19,35.92,Rice
+Manipur,May-19,40.76,Rice
+Meghalaya,May-19,30.5,Rice
+Mizoram,May-19,30,Rice
+Nagaland,May-19,26,Rice
+Odisha,May-19,28.04,Rice
+Puducherry,May-19,31.17,Rice
+Punjab,May-19,32.99,Rice
+Rajasthan,May-19,29.84,Rice
+Sikkim,May-19,57,Rice
+Tamil Nadu,May-19,36.19,Rice
+Telangana,May-19,30.39,Rice
+Tripura,May-19,31,Rice
+Uttar Pradesh,May-19,27.51,Rice
+Uttarakhand,May-19,24.65,Rice
+West Bengal,May-19,29.88,Rice
+Andaman and Nicobar,Jun-19,38,Rice
+Andhra Pradesh,Jun-19,34.24,Rice
+Arunachal pradesh,Jun-19,32,Rice
+Assam,Jun-19,30,Rice
+Bihar,Jun-19,30.91,Rice
+Chandigarh,Jun-19,28,Rice
+Chhattisgarh,Jun-19,26.41,Rice
+Delhi,Jun-19,35,Rice
+Goa,Jun-19,42,Rice
+Gujarat,Jun-19,22.5,Rice
+Haryana,Jun-19,29.25,Rice
+Himachal Pradesh,Jun-19,31.89,Rice
+Jammu and Kashmir,Jun-19,33.15,Rice
+Jharkhand,Jun-19,34,Rice
+Karnataka,Jun-19,44.01,Rice
+Kerala,Jun-19,37.97,Rice
+Madhya Pradesh,Jun-19,26.57,Rice
+Maharashtra,Jun-19,36.5,Rice
+Manipur,Jun-19,40.28,Rice
+Meghalaya,Jun-19,36.3,Rice
+Mizoram,Jun-19,29.75,Rice
+Nagaland,Jun-19,30,Rice
+Odisha,Jun-19,28.31,Rice
+Puducherry,Jun-19,32,Rice
+Punjab,Jun-19,32.49,Rice
+Rajasthan,Jun-19,31.52,Rice
+Sikkim,Jun-19,57,Rice
+Tamil Nadu,Jun-19,38.35,Rice
+Telangana,Jun-19,30.5,Rice
+Tripura,Jun-19,30.91,Rice
+Uttar Pradesh,Jun-19,27.82,Rice
+Uttarakhand,Jun-19,25.36,Rice
+West Bengal,Jun-19,29.95,Rice
+Andaman and Nicobar,Jul-19,38.26,Rice
+Andhra Pradesh,Jul-19,35.12,Rice
+Arunachal pradesh,Jul-19,32,Rice
+Assam,Jul-19,30,Rice
+Bihar,Jul-19,30.81,Rice
+Chandigarh,Jul-19,28,Rice
+Chhattisgarh,Jul-19,26.08,Rice
+Delhi,Jul-19,34.1,Rice
+Goa,Jul-19,42,Rice
+Gujarat,Jul-19,22.5,Rice
+Haryana,Jul-19,29.25,Rice
+Himachal Pradesh,Jul-19,32.12,Rice
+Jammu and Kashmir,Jul-19,35.74,Rice
+Jharkhand,Jul-19,34.85,Rice
+Karnataka,Jul-19,44.15,Rice
+Kerala,Jul-19,38.69,Rice
+Madhya Pradesh,Jul-19,26.77,Rice
+Maharashtra,Jul-19,36.94,Rice
+Manipur,Jul-19,46,Rice
+Meghalaya,Jul-19,34.54,Rice
+Mizoram,Jul-19,30,Rice
+Nagaland,Jul-19,30,Rice
+Odisha,Jul-19,28.19,Rice
+Puducherry,Jul-19,32,Rice
+Punjab,Jul-19,32.57,Rice
+Rajasthan,Jul-19,32.38,Rice
+Sikkim,Jul-19,57,Rice
+Tamil Nadu,Jul-19,38.26,Rice
+Telangana,Jul-19,30.5,Rice
+Tripura,Jul-19,29.35,Rice
+Uttar Pradesh,Jul-19,27.94,Rice
+Uttarakhand,Jul-19,26.35,Rice
+West Bengal,Jul-19,30.72,Rice
+Andaman and Nicobar,Aug-19,40,Rice
+Andhra Pradesh,Aug-19,36.09,Rice
+Arunachal pradesh,Aug-19,32,Rice
+Assam,Aug-19,30,Rice
+Bihar,Aug-19,30.6,Rice
+Chandigarh,Aug-19,27.81,Rice
+Chhattisgarh,Aug-19,26.14,Rice
+Delhi,Aug-19,34,Rice
+Goa,Aug-19,42,Rice
+Gujarat,Aug-19,22.54,Rice
+Haryana,Aug-19,29.25,Rice
+Himachal Pradesh,Aug-19,31.42,Rice
+Jammu and Kashmir,Aug-19,38.96,Rice
+Jharkhand,Aug-19,35,Rice
+Karnataka,Aug-19,44.67,Rice
+Kerala,Aug-19,38.96,Rice
+Madhya Pradesh,Aug-19,26.75,Rice
+Maharashtra,Aug-19,37.45,Rice
+Manipur,Aug-19,43.33,Rice
+Meghalaya,Aug-19,32.93,Rice
+Mizoram,Aug-19,30,Rice
+Nagaland,Aug-19,30,Rice
+Odisha,Aug-19,27.9,Rice
+Puducherry,Aug-19,32,Rice
+Punjab,Aug-19,32.64,Rice
+Rajasthan,Aug-19,32.6,Rice
+Sikkim,Aug-19,57,Rice
+Tamil Nadu,Aug-19,37.74,Rice
+Telangana,Aug-19,36.48,Rice
+Tripura,Aug-19,30.22,Rice
+Uttar Pradesh,Aug-19,28.12,Rice
+Uttarakhand,Aug-19,26.18,Rice
+West Bengal,Aug-19,31.02,Rice
+Andaman and Nicobar,Sep-19,40,Rice
+Andhra Pradesh,Sep-19,38.06,Rice
+Arunachal pradesh,Sep-19,32,Rice
+Assam,Sep-19,30,Rice
+Bihar,Sep-19,30.5,Rice
+Chandigarh,Sep-19,27.97,Rice
+Chhattisgarh,Sep-19,26.13,Rice
+Delhi,Sep-19,34,Rice
+Goa,Sep-19,42,Rice
+Gujarat,Sep-19,22.8,Rice
+Haryana,Sep-19,30.72,Rice
+Himachal Pradesh,Sep-19,32.4,Rice
+Jammu and Kashmir,Sep-19,40,Rice
+Jharkhand,Sep-19,35,Rice
+Karnataka,Sep-19,45.57,Rice
+Kerala,Sep-19,39.58,Rice
+Madhya Pradesh,Sep-19,26.68,Rice
+Maharashtra,Sep-19,38.03,Rice
+Manipur,Sep-19,47.5,Rice
+Meghalaya,Sep-19,30.07,Rice
+Mizoram,Sep-19,30,Rice
+Nagaland,Sep-19,28.35,Rice
+Odisha,Sep-19,27.97,Rice
+Puducherry,Sep-19,32,Rice
+Punjab,Sep-19,32.3,Rice
+Rajasthan,Sep-19,32.05,Rice
+Sikkim,Sep-19,57,Rice
+Tamil Nadu,Sep-19,41.23,Rice
+Telangana,Sep-19,36.94,Rice
+Tripura,Sep-19,31,Rice
+Uttar Pradesh,Sep-19,28.2,Rice
+Uttarakhand,Sep-19,25.65,Rice
+West Bengal,Sep-19,31.42,Rice
+Andaman and Nicobar,Oct-19,40,Rice
+Andhra Pradesh,Oct-19,38.21,Rice
+Arunachal pradesh,Oct-19,32,Rice
+Assam,Oct-19,30,Rice
+Bihar,Oct-19,30.59,Rice
+Chandigarh,Oct-19,28,Rice
+Chhattisgarh,Oct-19,25.94,Rice
+Delhi,Oct-19,34,Rice
+Goa,Oct-19,42,Rice
+Gujarat,Oct-19,23.8,Rice
+Haryana,Oct-19,31.75,Rice
+Himachal Pradesh,Oct-19,33.46,Rice
+Jammu and Kashmir,Oct-19,38.03,Rice
+Jharkhand,Oct-19,35,Rice
+Karnataka,Oct-19,45.49,Rice
+Kerala,Oct-19,40.02,Rice
+Madhya Pradesh,Oct-19,26.66,Rice
+Maharashtra,Oct-19,38.16,Rice
+Manipur,Oct-19,46.81,Rice
+Meghalaya,Oct-19,29.3,Rice
+Mizoram,Oct-19,30,Rice
+Nagaland,Oct-19,26.33,Rice
+Odisha,Oct-19,28.12,Rice
+Puducherry,Oct-19,32.87,Rice
+Punjab,Oct-19,31.89,Rice
+Rajasthan,Oct-19,35.26,Rice
+Sikkim,Oct-19,57,Rice
+Tamil Nadu,Oct-19,43.76,Rice
+Telangana,Oct-19,37.38,Rice
+Tripura,Oct-19,31.18,Rice
+Uttar Pradesh,Oct-19,28.41,Rice
+Uttarakhand,Oct-19,26.41,Rice
+West Bengal,Oct-19,31.5,Rice
+Andaman and Nicobar,Nov-19,40,Rice
+Andhra Pradesh,Nov-19,39.97,Rice
+Arunachal pradesh,Nov-19,32,Rice
+Assam,Nov-19,30,Rice
+Bihar,Nov-19,30.68,Rice
+Chandigarh,Nov-19,28,Rice
+Chhattisgarh,Nov-19,25.27,Rice
+Delhi,Nov-19,34,Rice
+Goa,Nov-19,42,Rice
+Gujarat,Nov-19,24.55,Rice
+Haryana,Nov-19,31.75,Rice
+Himachal Pradesh,Nov-19,33.43,Rice
+Jammu and Kashmir,Nov-19,34.59,Rice
+Jharkhand,Nov-19,35,Rice
+Karnataka,Nov-19,45.42,Rice
+Kerala,Nov-19,40.06,Rice
+Madhya Pradesh,Nov-19,27.31,Rice
+Maharashtra,Nov-19,38.9,Rice
+Manipur,Nov-19,52.22,Rice
+Meghalaya,Nov-19,30.36,Rice
+Mizoram,Nov-19,30,Rice
+Nagaland,Nov-19,26,Rice
+Odisha,Nov-19,28.04,Rice
+Puducherry,Nov-19,34,Rice
+Punjab,Nov-19,31.27,Rice
+Rajasthan,Nov-19,30.19,Rice
+Sikkim,Nov-19,57.6,Rice
+Tamil Nadu,Nov-19,43.78,Rice
+Telangana,Nov-19,37.52,Rice
+Tripura,Nov-19,32,Rice
+Uttar Pradesh,Nov-19,28.38,Rice
+Uttarakhand,Nov-19,26.88,Rice
+West Bengal,Nov-19,31.44,Rice
+Andaman and Nicobar,Dec-19,39.31,Rice
+Andhra Pradesh,Dec-19,39.45,Rice
+Arunachal pradesh,Dec-19,32,Rice
+Assam,Dec-19,30,Rice
+Bihar,Dec-19,30.85,Rice
+Chandigarh,Dec-19,28,Rice
+Chhattisgarh,Dec-19,25.29,Rice
+Delhi,Dec-19,34,Rice
+Goa,Dec-19,42,Rice
+Gujarat,Dec-19,24.75,Rice
+Haryana,Dec-19,32.88,Rice
+Himachal Pradesh,Dec-19,33.11,Rice
+Jammu and Kashmir,Dec-19,32.73,Rice
+Jharkhand,Dec-19,35,Rice
+Karnataka,Dec-19,45.33,Rice
+Kerala,Dec-19,40.05,Rice
+Madhya Pradesh,Dec-19,27.51,Rice
+Maharashtra,Dec-19,39.29,Rice
+Manipur,Dec-19,53.13,Rice
+Meghalaya,Dec-19,29.66,Rice
+Mizoram,Dec-19,33.75,Rice
+Nagaland,Dec-19,26,Rice
+Odisha,Dec-19,27.39,Rice
+Puducherry,Dec-19,34,Rice
+Punjab,Dec-19,31.33,Rice
+Rajasthan,Dec-19,35.62,Rice
+Sikkim,Dec-19,59,Rice
+Tamil Nadu,Dec-19,43.13,Rice
+Telangana,Dec-19,37.23,Rice
+Tripura,Dec-19,32,Rice
+Uttar Pradesh,Dec-19,27.9,Rice
+Uttarakhand,Dec-19,27.25,Rice
+West Bengal,Dec-19,31.35,Rice
+Andaman and Nicobar,Jan-20,39.15,Rice
+Andhra Pradesh,Jan-20,39.01,Rice
+Arunachal pradesh,Jan-20,25.57,Rice
+Assam,Jan-20,30,Rice
+Bihar,Jan-20,31.07,Rice
+Chandigarh,Jan-20,28,Rice
+Chhattisgarh,Jan-20,25.39,Rice
+Delhi,Jan-20,34,Rice
+Goa,Jan-20,42,Rice
+Gujarat,Jan-20,24.74,Rice
+Haryana,Jan-20,33,Rice
+Himachal Pradesh,Jan-20,32.5,Rice
+Jammu and Kashmir,Jan-20,32.72,Rice
+Jharkhand,Jan-20,34.52,Rice
+Karnataka,Jan-20,44.5,Rice
+Kerala,Jan-20,40.74,Rice
+Madhya Pradesh,Jan-20,27.51,Rice
+Maharashtra,Jan-20,39.32,Rice
+Manipur,Jan-20,51.76,Rice
+Meghalaya,Jan-20,28.25,Rice
+Mizoram,Jan-20,30,Rice
+Nagaland,Jan-20,26,Rice
+Odisha,Jan-20,27.09,Rice
+Puducherry,Jan-20,34,Rice
+Punjab,Jan-20,31.76,Rice
+Rajasthan,Jan-20,40.71,Rice
+Sikkim,Jan-20,59,Rice
+Tamil Nadu,Jan-20,43.33,Rice
+Telangana,Jan-20,36.34,Rice
+Tripura,Jan-20,32,Rice
+Uttar Pradesh,Jan-20,27.92,Rice
+Uttarakhand,Jan-20,27.25,Rice
+West Bengal,Jan-20,32.29,Rice
+Andaman and Nicobar,Feb-20,48.74,Rice
+Andhra Pradesh,Feb-20,38.88,Rice
+Arunachal pradesh,Feb-20,23,Rice
+Assam,Feb-20,30,Rice
+Bihar,Feb-20,29.3,Rice
+Chandigarh,Feb-20,28,Rice
+Chhattisgarh,Feb-20,25.81,Rice
+Delhi,Feb-20,34,Rice
+Goa,Feb-20,42,Rice
+Gujarat,Feb-20,24.93,Rice
+Haryana,Feb-20,33,Rice
+Himachal Pradesh,Feb-20,32.65,Rice
+Jammu and Kashmir,Feb-20,32.54,Rice
+Jharkhand,Feb-20,34,Rice
+Karnataka,Feb-20,44.55,Rice
+Kerala,Feb-20,40.71,Rice
+Madhya Pradesh,Feb-20,27.52,Rice
+Maharashtra,Feb-20,39.56,Rice
+Manipur,Feb-20,51.67,Rice
+Meghalaya,Feb-20,27.95,Rice
+Mizoram,Feb-20,30,Rice
+Nagaland,Feb-20,26,Rice
+Odisha,Feb-20,27.11,Rice
+Puducherry,Feb-20,34,Rice
+Punjab,Feb-20,30.72,Rice
+Rajasthan,Feb-20,40.2,Rice
+Sikkim,Feb-20,59,Rice
+Tamil Nadu,Feb-20,43.29,Rice
+Telangana,Feb-20,35.42,Rice
+Tripura,Feb-20,32,Rice
+Uttar Pradesh,Feb-20,28.25,Rice
+Uttarakhand,Feb-20,27.25,Rice
+West Bengal,Feb-20,32.18,Rice
+Andaman and Nicobar,Mar-20,47.26,Rice
+Andhra Pradesh,Mar-20,39.63,Rice
+Arunachal pradesh,Mar-20,23,Rice
+Assam,Mar-20,30.06,Rice
+Bihar,Mar-20,29.17,Rice
+Chandigarh,Mar-20,28,Rice
+Chhattisgarh,Mar-20,26.65,Rice
+Delhi,Mar-20,34,Rice
+Goa,Mar-20,42,Rice
+Gujarat,Mar-20,25.75,Rice
+Haryana,Mar-20,33.43,Rice
+Himachal Pradesh,Mar-20,32.49,Rice
+Jammu and Kashmir,Mar-20,32.21,Rice
+Jharkhand,Mar-20,34,Rice
+Karnataka,Mar-20,44.06,Rice
+Kerala,Mar-20,40.91,Rice
+Madhya Pradesh,Mar-20,27.51,Rice
+Maharashtra,Mar-20,40.05,Rice
+Manipur,Mar-20,45.56,Rice
+Meghalaya,Mar-20,29.67,Rice
+Mizoram,Mar-20,31.43,Rice
+Nagaland,Mar-20,26,Rice
+Odisha,Mar-20,27.72,Rice
+Puducherry,Mar-20,33.93,Rice
+Punjab,Mar-20,31.41,Rice
+Rajasthan,Mar-20,37.37,Rice
+Sikkim,Mar-20,59,Rice
+Tamil Nadu,Mar-20,43.93,Rice
+Telangana,Mar-20,35.22,Rice
+Tripura,Mar-20,32,Rice
+Uttar Pradesh,Mar-20,28.28,Rice
+Uttarakhand,Mar-20,27.07,Rice
+West Bengal,Mar-20,32.14,Rice
+Andaman and Nicobar,Apr-20,51.12,Rice
+Andhra Pradesh,Apr-20,41.62,Rice
+Arunachal pradesh,Apr-20,26.67,Rice
+Assam,Apr-20,32,Rice
+Bihar,Apr-20,29.72,Rice
+Chandigarh,Apr-20,31.7,Rice
+Chhattisgarh,Apr-20,27.36,Rice
+Delhi,Apr-20,34.93,Rice
+Goa,Apr-20,42.28,Rice
+Gujarat,Apr-20,26.4,Rice
+Haryana,Apr-20,31.18,Rice
+Himachal Pradesh,Apr-20,33.17,Rice
+Jharkhand,Apr-20,35.55,Rice
+Karnataka,Apr-20,45.03,Rice
+Kerala,Apr-20,40.38,Rice
+Madhya Pradesh,Apr-20,27.55,Rice
+Maharashtra,Apr-20,40.73,Rice
+Meghalaya,Apr-20,35.28,Rice
+Mizoram,Apr-20,30,Rice
+Nagaland,Apr-20,26,Rice
+Odisha,Apr-20,27.73,Rice
+Puducherry,Apr-20,34.63,Rice
+Punjab,Apr-20,30.69,Rice
+Rajasthan,Apr-20,32.7,Rice
+Sikkim,Apr-20,57.1,Rice
+Tamil Nadu,Apr-20,46.6,Rice
+Telangana,Apr-20,38.72,Rice
+Tripura,Apr-20,31.29,Rice
+Uttar Pradesh,Apr-20,28.59,Rice
+Uttarakhand,Apr-20,27.2,Rice
+West Bengal,Apr-20,32.47,Rice
+Andaman and Nicobar,May-20,45.18,Rice
+Andhra Pradesh,May-20,42.17,Rice
+Arunachal pradesh,May-20,34,Rice
+Assam,May-20,32,Rice
+Bihar,May-20,29.22,Rice
+Chandigarh,May-20,32,Rice
+Chhattisgarh,May-20,27.82,Rice
+Delhi,May-20,35,Rice
+Goa,May-20,45.5,Rice
+Gujarat,May-20,26.5,Rice
+Haryana,May-20,30.91,Rice
+Himachal Pradesh,May-20,33.08,Rice
+Jharkhand,May-20,35.37,Rice
+Karnataka,May-20,45.24,Rice
+Kerala,May-20,40.52,Rice
+Madhya Pradesh,May-20,27.39,Rice
+Maharashtra,May-20,41.06,Rice
+Meghalaya,May-20,34.73,Rice
+Mizoram,May-20,30,Rice
+Nagaland,May-20,26,Rice
+Odisha,May-20,27.67,Rice
+Puducherry,May-20,35,Rice
+Punjab,May-20,31.23,Rice
+Rajasthan,May-20,32.49,Rice
+Sikkim,May-20,57,Rice
+Tamil Nadu,May-20,46.58,Rice
+Telangana,May-20,38.5,Rice
+Tripura,May-20,31,Rice
+Uttar Pradesh,May-20,27.97,Rice
+Uttarakhand,May-20,27,Rice
+West Bengal,May-20,32.33,Rice
+Andaman and Nicobar,Jun-20,42.69,Rice
+Andhra Pradesh,Jun-20,42.36,Rice
+Arunachal pradesh,Jun-20,34,Rice
+Assam,Jun-20,32,Rice
+Bihar,Jun-20,29.55,Rice
+Chandigarh,Jun-20,31.04,Rice
+Chhattisgarh,Jun-20,27.51,Rice
+Delhi,Jun-20,35,Rice
+Goa,Jun-20,44.2,Rice
+Gujarat,Jun-20,26.6,Rice
+Haryana,Jun-20,30.79,Rice
+Himachal Pradesh,Jun-20,32.45,Rice
+Jammu and Kashmir,Jun-20,33,Rice
+Jharkhand,Jun-20,35,Rice
+Karnataka,Jun-20,45.33,Rice
+Kerala,Jun-20,40.02,Rice
+Madhya Pradesh,Jun-20,27.46,Rice
+Maharashtra,Jun-20,42.91,Rice
+Manipur,Jun-20,45.71,Rice
+Meghalaya,Jun-20,34.15,Rice
+Mizoram,Jun-20,30,Rice
+Nagaland,Jun-20,26.81,Rice
+Odisha,Jun-20,27.74,Rice
+Puducherry,Jun-20,36.93,Rice
+Punjab,Jun-20,31.04,Rice
+Rajasthan,Jun-20,34.92,Rice
+Sikkim,Jun-20,56.52,Rice
+Tamil Nadu,Jun-20,46.73,Rice
+Telangana,Jun-20,37.92,Rice
+Tripura,Jun-20,31,Rice
+Uttar Pradesh,Jun-20,28.79,Rice
+Uttarakhand,Jun-20,26.96,Rice
+West Bengal,Jun-20,32.62,Rice
+Andaman and Nicobar,Jul-20,43.98,Rice
+Andhra Pradesh,Jul-20,42.35,Rice
+Arunachal pradesh,Jul-20,34,Rice
+Assam,Jul-20,32,Rice
+Bihar,Jul-20,29.13,Rice
+Chandigarh,Jul-20,30.84,Rice
+Chhattisgarh,Jul-20,26.66,Rice
+Delhi,Jul-20,35,Rice
+Goa,Jul-20,43.54,Rice
+Gujarat,Jul-20,26.74,Rice
+Haryana,Jul-20,30.56,Rice
+Himachal Pradesh,Jul-20,32.56,Rice
+Jammu and Kashmir,Jul-20,37.67,Rice
+Jharkhand,Jul-20,35,Rice
+Karnataka,Jul-20,45.46,Rice
+Kerala,Jul-20,39.08,Rice
+Madhya Pradesh,Jul-20,27.51,Rice
+Maharashtra,Jul-20,42.15,Rice
+Manipur,Jul-20,46.05,Rice
+Meghalaya,Jul-20,33.15,Rice
+Mizoram,Jul-20,30,Rice
+Nagaland,Jul-20,28,Rice
+Odisha,Jul-20,27.66,Rice
+Puducherry,Jul-20,37,Rice
+Punjab,Jul-20,31,Rice
+Rajasthan,Jul-20,34.45,Rice
+Sikkim,Jul-20,51.16,Rice
+Tamil Nadu,Jul-20,46.84,Rice
+Telangana,Jul-20,38.56,Rice
+Tripura,Jul-20,31,Rice
+Uttar Pradesh,Jul-20,29.1,Rice
+Uttarakhand,Jul-20,26.93,Rice
+West Bengal,Jul-20,31.77,Rice
+Andaman and Nicobar,Aug-20,43.04,Rice
+Andhra Pradesh,Aug-20,42.92,Rice
+Arunachal pradesh,Aug-20,37.7,Rice
+Assam,Aug-20,32,Rice
+Bihar,Aug-20,29.55,Rice
+Chandigarh,Aug-20,31.27,Rice
+Chhattisgarh,Aug-20,26.75,Rice
+Delhi,Aug-20,35,Rice
+Goa,Aug-20,44.23,Rice
+Gujarat,Aug-20,27.67,Rice
+Haryana,Aug-20,31.09,Rice
+Himachal Pradesh,Aug-20,32.3,Rice
+Jammu and Kashmir,Aug-20,48.59,Rice
+Jharkhand,Aug-20,35,Rice
+Karnataka,Aug-20,45.43,Rice
+Kerala,Aug-20,38.89,Rice
+Madhya Pradesh,Aug-20,27.51,Rice
+Maharashtra,Aug-20,42.83,Rice
+Manipur,Aug-20,47,Rice
+Meghalaya,Aug-20,30.22,Rice
+Mizoram,Aug-20,30,Rice
+Nagaland,Aug-20,28,Rice
+Odisha,Aug-20,27.96,Rice
+Puducherry,Aug-20,37,Rice
+Punjab,Aug-20,30.76,Rice
+Rajasthan,Aug-20,35.35,Rice
+Sikkim,Aug-20,51,Rice
+Tamil Nadu,Aug-20,46.63,Rice
+Telangana,Aug-20,39.73,Rice
+Tripura,Aug-20,31,Rice
+Uttar Pradesh,Aug-20,28.99,Rice
+Uttarakhand,Aug-20,26.74,Rice
+West Bengal,Aug-20,32.23,Rice
+Andaman and Nicobar,Sep-20,41.29,Rice
+Andhra Pradesh,Sep-20,42.41,Rice
+Arunachal pradesh,Sep-20,36,Rice
+Assam,Sep-20,32,Rice
+Bihar,Sep-20,31.35,Rice
+Chandigarh,Sep-20,32.61,Rice
+Chhattisgarh,Sep-20,26.29,Rice
+Delhi,Sep-20,35,Rice
+Goa,Sep-20,44.77,Rice
+Gujarat,Sep-20,29.15,Rice
+Haryana,Sep-20,30.77,Rice
+Himachal Pradesh,Sep-20,32.44,Rice
+Jammu and Kashmir,Sep-20,48,Rice
+Jharkhand,Sep-20,35,Rice
+Karnataka,Sep-20,45.02,Rice
+Kerala,Sep-20,38.65,Rice
+Madhya Pradesh,Sep-20,27.47,Rice
+Maharashtra,Sep-20,42.74,Rice
+Manipur,Sep-20,46.7,Rice
+Meghalaya,Sep-20,29.81,Rice
+Mizoram,Sep-20,30,Rice
+Nagaland,Sep-20,28,Rice
+Odisha,Sep-20,27.95,Rice
+Puducherry,Sep-20,37,Rice
+Punjab,Sep-20,30.74,Rice
+Rajasthan,Sep-20,35.58,Rice
+Sikkim,Sep-20,50.19,Rice
+Tamil Nadu,Sep-20,46.75,Rice
+Telangana,Sep-20,40.03,Rice
+Tripura,Sep-20,31,Rice
+Uttar Pradesh,Sep-20,29.03,Rice
+Uttarakhand,Sep-20,26.62,Rice
+West Bengal,Sep-20,31.5,Rice
+Andaman and Nicobar,Oct-20,39.71,Rice
+Andhra Pradesh,Oct-20,42.84,Rice
+Arunachal pradesh,Oct-20,36.79,Rice
+Assam,Oct-20,32,Rice
+Bihar,Oct-20,30.72,Rice
+Chandigarh,Oct-20,34.55,Rice
+Chhattisgarh,Oct-20,26.2,Rice
+Delhi,Oct-20,35,Rice
+Goa,Oct-20,44,Rice
+Gujarat,Oct-20,29.19,Rice
+Haryana,Oct-20,31.09,Rice
+Himachal Pradesh,Oct-20,32.02,Rice
+Jammu and Kashmir,Oct-20,47.05,Rice
+Jharkhand,Oct-20,35,Rice
+Karnataka,Oct-20,45.17,Rice
+Kerala,Oct-20,38.19,Rice
+Madhya Pradesh,Oct-20,27.15,Rice
+Maharashtra,Oct-20,42.51,Rice
+Manipur,Oct-20,45.84,Rice
+Meghalaya,Oct-20,32.08,Rice
+Mizoram,Oct-20,30,Rice
+Nagaland,Oct-20,28,Rice
+Odisha,Oct-20,28.06,Rice
+Puducherry,Oct-20,35.93,Rice
+Punjab,Oct-20,30.85,Rice
+Rajasthan,Oct-20,39.42,Rice
+Sikkim,Oct-20,52,Rice
+Tamil Nadu,Oct-20,47.44,Rice
+Telangana,Oct-20,40.57,Rice
+Tripura,Oct-20,31,Rice
+Uttar Pradesh,Oct-20,29.13,Rice
+Uttarakhand,Oct-20,26.14,Rice
+West Bengal,Oct-20,31.74,Rice
+Andaman and Nicobar,Nov-20,40.23,Rice
+Andhra Pradesh,Nov-20,42.86,Rice
+Arunachal pradesh,Nov-20,38,Rice
+Assam,Nov-20,32,Rice
+Bihar,Nov-20,31.57,Rice
+Chandigarh,Nov-20,33.1,Rice
+Chhattisgarh,Nov-20,26.07,Rice
+Delhi,Nov-20,34.14,Rice
+Goa,Nov-20,44.71,Rice
+Gujarat,Nov-20,27.92,Rice
+Haryana,Nov-20,31.54,Rice
+Himachal Pradesh,Nov-20,32.26,Rice
+Jammu and Kashmir,Nov-20,49.06,Rice
+Jharkhand,Nov-20,34.85,Rice
+Karnataka,Nov-20,45.11,Rice
+Kerala,Nov-20,38.16,Rice
+Madhya Pradesh,Nov-20,27.05,Rice
+Maharashtra,Nov-20,42.74,Rice
+Manipur,Nov-20,45.62,Rice
+Meghalaya,Nov-20,32.49,Rice
+Mizoram,Nov-20,30,Rice
+Nagaland,Nov-20,26.5,Rice
+Odisha,Nov-20,28.04,Rice
+Puducherry,Nov-20,36.03,Rice
+Punjab,Nov-20,30.28,Rice
+Rajasthan,Nov-20,42.24,Rice
+Sikkim,Nov-20,52,Rice
+Tamil Nadu,Nov-20,47.32,Rice
+Telangana,Nov-20,41.14,Rice
+Tripura,Nov-20,31,Rice
+Uttar Pradesh,Nov-20,28.57,Rice
+Uttarakhand,Nov-20,26.02,Rice
+West Bengal,Nov-20,31.48,Rice
+Andaman and Nicobar,Dec-20,39.12,Rice
+Andhra Pradesh,Dec-20,43.17,Rice
+Arunachal pradesh,Dec-20,39.03,Rice
+Assam,Dec-20,32,Rice
+Bihar,Dec-20,31.49,Rice
+Chandigarh,Dec-20,32,Rice
+Chhattisgarh,Dec-20,26,Rice
+Delhi,Dec-20,34.19,Rice
+Goa,Dec-20,44.19,Rice
+Gujarat,Dec-20,27.58,Rice
+Haryana,Dec-20,30.73,Rice
+Himachal Pradesh,Dec-20,32.41,Rice
+Jammu and Kashmir,Dec-20,48.62,Rice
+Jharkhand,Dec-20,34.3,Rice
+Karnataka,Dec-20,44.38,Rice
+Kerala,Dec-20,37.45,Rice
+Madhya Pradesh,Dec-20,28.82,Rice
+Maharashtra,Dec-20,41.8,Rice
+Manipur,Dec-20,45.74,Rice
+Meghalaya,Dec-20,30.09,Rice
+Nagaland,Dec-20,26,Rice
+Odisha,Dec-20,28.22,Rice
+Puducherry,Dec-20,37,Rice
+Punjab,Dec-20,30.73,Rice
+Rajasthan,Dec-20,41.83,Rice
+Sikkim,Dec-20,52,Rice
+Tamil Nadu,Dec-20,47.03,Rice
+Telangana,Dec-20,40.46,Rice
+Tripura,Dec-20,31.29,Rice
+Uttar Pradesh,Dec-20,28.32,Rice
+Uttarakhand,Dec-20,26.46,Rice
+West Bengal,Dec-20,30.28,Rice
+Andaman and Nicobar,Jan-21,47.84,Rice
+Andhra Pradesh,Jan-21,45.34,Rice
+Arunachal pradesh,Jan-21,40,Rice
+Assam,Jan-21,32,Rice
+Bihar,Jan-21,33.36,Rice
+Chandigarh,Jan-21,35.45,Rice
+Chhattisgarh,Jan-21,26.54,Rice
+Delhi,Jan-21,30.53,Rice
+Goa,Jan-21,45,Rice
+Gujarat,Jan-21,43.03,Rice
+Haryana,Jan-21,30.74,Rice
+Himachal Pradesh,Jan-21,32.61,Rice
+Jammu and Kashmir,Jan-21,45.09,Rice
+Jharkhand,Jan-21,35,Rice
+Karnataka,Jan-21,50.26,Rice
+Kerala,Jan-21,37.51,Rice
+Madhya Pradesh,Jan-21,37.1,Rice
+Maharashtra,Jan-21,38.57,Rice
+Manipur,Jan-21,45.87,Rice
+Meghalaya,Jan-21,33.6,Rice
+Odisha,Jan-21,29.53,Rice
+Puducherry,Jan-21,52.04,Rice
+Punjab,Jan-21,32.6,Rice
+Rajasthan,Jan-21,48.22,Rice
+Sikkim,Jan-21,53.73,Rice
+Tamil Nadu,Jan-21,48.02,Rice
+Telangana,Jan-21,42.45,Rice
+Tripura,Jan-21,30.13,Rice
+Uttar Pradesh,Jan-21,32.36,Rice
+Uttarakhand,Jan-21,26.74,Rice
+West Bengal,Jan-21,33.6,Rice
+Andaman and Nicobar,Feb-21,53.42,Rice
+Andhra Pradesh,Feb-21,44.36,Rice
+Arunachal pradesh,Feb-21,26,Rice
+Assam,Feb-21,34.76,Rice
+Bihar,Feb-21,32.55,Rice
+Chandigarh,Feb-21,36,Rice
+Chhattisgarh,Feb-21,28.51,Rice
+Delhi,Feb-21,30.57,Rice
+Goa,Feb-21,45,Rice
+Gujarat,Feb-21,38.39,Rice
+Haryana,Feb-21,32.08,Rice
+Himachal Pradesh,Feb-21,35.81,Rice
+Jammu and Kashmir,Feb-21,41.29,Rice
+Jharkhand,Feb-21,32.34,Rice
+Karnataka,Feb-21,48.03,Rice
+Kerala,Feb-21,36.64,Rice
+Madhya Pradesh,Feb-21,39.31,Rice
+Maharashtra,Feb-21,39.58,Rice
+Manipur,Feb-21,45.25,Rice
+Meghalaya,Feb-21,37.51,Rice
+Mizoram,Feb-21,41,Rice
+Nagaland,Feb-21,26,Rice
+Odisha,Feb-21,30.07,Rice
+Puducherry,Feb-21,54.08,Rice
+Punjab,Feb-21,34.97,Rice
+Rajasthan,Feb-21,49.62,Rice
+Sikkim,Feb-21,56.61,Rice
+Tamil Nadu,Feb-21,46.62,Rice
+Telangana,Feb-21,42.86,Rice
+Tripura,Feb-21,30.12,Rice
+Uttar Pradesh,Feb-21,30.2,Rice
+Uttarakhand,Feb-21,27.46,Rice
+West Bengal,Feb-21,34.17,Rice
+Andaman and Nicobar,Mar-21,42.9,Rice
+Andhra Pradesh,Mar-21,45.12,Rice
+Assam,Mar-21,35,Rice
+Bihar,Mar-21,32.2,Rice
+Chandigarh,Mar-21,36.03,Rice
+Chhattisgarh,Mar-21,33.73,Rice
+Delhi,Mar-21,30.26,Rice
+Goa,Mar-21,43,Rice
+Gujarat,Mar-21,38.02,Rice
+Haryana,Mar-21,32.32,Rice
+Himachal Pradesh,Mar-21,33.48,Rice
+Jammu and Kashmir,Mar-21,34.55,Rice
+Jharkhand,Mar-21,29.36,Rice
+Karnataka,Mar-21,48.23,Rice
+Kerala,Mar-21,38.11,Rice
+Madhya Pradesh,Mar-21,37.9,Rice
+Maharashtra,Mar-21,39.7,Rice
+Manipur,Mar-21,45.23,Rice
+Meghalaya,Mar-21,41.28,Rice
+Mizoram,Mar-21,42.33,Rice
+Nagaland,Mar-21,25,Rice
+Odisha,Mar-21,30.09,Rice
+Puducherry,Mar-21,57.71,Rice
+Punjab,Mar-21,35.35,Rice
+Rajasthan,Mar-21,49.85,Rice
+Sikkim,Mar-21,56.57,Rice
+Tamil Nadu,Mar-21,47.32,Rice
+Telangana,Mar-21,41.6,Rice
+Tripura,Mar-21,30.65,Rice
+Uttar Pradesh,Mar-21,31.75,Rice
+Uttarakhand,Mar-21,27.54,Rice
+West Bengal,Mar-21,34.98,Rice
+Andaman and Nicobar,Apr-21,44.08,Rice
+Andhra Pradesh,Apr-21,47.12,Rice
+Assam,Apr-21,35,Rice
+Bihar,Apr-21,33.94,Rice
+Chandigarh,Apr-21,35.73,Rice
+Chhattisgarh,Apr-21,31.9,Rice
+Delhi,Apr-21,30,Rice
+Goa,Apr-21,41.39,Rice
+Gujarat,Apr-21,36.17,Rice
+Haryana,Apr-21,34.15,Rice
+Himachal Pradesh,Apr-21,33.28,Rice
+Jammu and Kashmir,Apr-21,34.6,Rice
+Jharkhand,Apr-21,29.73,Rice
+Karnataka,Apr-21,47.68,Rice
+Kerala,Apr-21,38.98,Rice
+Madhya Pradesh,Apr-21,36.31,Rice
+Maharashtra,Apr-21,39.21,Rice
+Manipur,Apr-21,45,Rice
+Meghalaya,Apr-21,31.96,Rice
+Mizoram,Apr-21,42,Rice
+Nagaland,Apr-21,25,Rice
+Odisha,Apr-21,29.5,Rice
+Puducherry,Apr-21,55.27,Rice
+Punjab,Apr-21,36.13,Rice
+Rajasthan,Apr-21,47.02,Rice
+Sikkim,Apr-21,58.27,Rice
+Tamil Nadu,Apr-21,46.88,Rice
+Telangana,Apr-21,40.49,Rice
+Tripura,Apr-21,30.87,Rice
+Uttar Pradesh,Apr-21,29.99,Rice
+Uttarakhand,Apr-21,26.94,Rice
+West Bengal,Apr-21,34.27,Rice
+Andaman and Nicobar,May-21,43.71,Rice
+Andhra Pradesh,May-21,45.62,Rice
+Assam,May-21,35,Rice
+Bihar,May-21,34.42,Rice
+Chandigarh,May-21,37,Rice
+Chhattisgarh,May-21,30.98,Rice
+Delhi,May-21,30,Rice
+Goa,May-21,41,Rice
+Gujarat,May-21,34.57,Rice
+Haryana,May-21,33.61,Rice
+Himachal Pradesh,May-21,33.64,Rice
+Jammu and Kashmir,May-21,35,Rice
+Jharkhand,May-21,30.97,Rice
+Karnataka,May-21,48.74,Rice
+Kerala,May-21,38.93,Rice
+Madhya Pradesh,May-21,36.8,Rice
+Maharashtra,May-21,40.35,Rice
+Meghalaya,May-21,30.65,Rice
+Mizoram,May-21,43.5,Rice
+Nagaland,May-21,25,Rice
+Odisha,May-21,28.87,Rice
+Puducherry,May-21,55.44,Rice
+Punjab,May-21,36.23,Rice
+Rajasthan,May-21,45.91,Rice
+Tamil Nadu,May-21,47.85,Rice
+Telangana,May-21,40.76,Rice
+Tripura,May-21,31.81,Rice
+Uttar Pradesh,May-21,30.97,Rice
+Uttarakhand,May-21,27.5,Rice
+West Bengal,May-21,33.47,Rice
+Andaman and Nicobar,Jun-21,41,Rice
+Andhra Pradesh,Jun-21,45.13,Rice
+Assam,Jun-21,35,Rice
+Bihar,Jun-21,32.75,Rice
+Chandigarh,Jun-21,37,Rice
+Chhattisgarh,Jun-21,31.78,Rice
+Delhi,Jun-21,30.87,Rice
+Goa,Jun-21,39.67,Rice
+Gujarat,Jun-21,31.09,Rice
+Haryana,Jun-21,32.86,Rice
+Himachal Pradesh,Jun-21,33.28,Rice
+Jammu and Kashmir,Jun-21,33.02,Rice
+Jharkhand,Jun-21,31.23,Rice
+Karnataka,Jun-21,47.31,Rice
+Kerala,Jun-21,39.24,Rice
+Madhya Pradesh,Jun-21,34.13,Rice
+Maharashtra,Jun-21,36.53,Rice
+Meghalaya,Jun-21,28.84,Rice
+Mizoram,Jun-21,45,Rice
+Nagaland,Jun-21,25.07,Rice
+Odisha,Jun-21,29,Rice
+Puducherry,Jun-21,55.21,Rice
+Punjab,Jun-21,36.19,Rice
+Rajasthan,Jun-21,34.21,Rice
+Sikkim,Jun-21,58,Rice
+Tamil Nadu,Jun-21,47.15,Rice
+Telangana,Jun-21,39.72,Rice
+Tripura,Jun-21,32,Rice
+Uttar Pradesh,Jun-21,33.28,Rice
+Uttarakhand,Jun-21,29.76,Rice
+West Bengal,Jun-21,33.34,Rice
+Andaman and Nicobar,Jul-21,41.03,Rice
+Andhra Pradesh,Jul-21,45.38,Rice
+Assam,Jul-21,35,Rice
+Bihar,Jul-21,32.39,Rice
+Chandigarh,Jul-21,37,Rice
+Chhattisgarh,Jul-21,31.89,Rice
+Delhi,Jul-21,31,Rice
+Goa,Jul-21,39,Rice
+Gujarat,Jul-21,30.24,Rice
+Haryana,Jul-21,32.04,Rice
+Himachal Pradesh,Jul-21,33.52,Rice
+Jammu and Kashmir,Jul-21,33.75,Rice
+Jharkhand,Jul-21,30.57,Rice
+Karnataka,Jul-21,45.58,Rice
+Kerala,Jul-21,39.08,Rice
+Madhya Pradesh,Jul-21,33.82,Rice
+Maharashtra,Jul-21,35.76,Rice
+Meghalaya,Jul-21,28.23,Rice
+Nagaland,Jul-21,25,Rice
+Odisha,Jul-21,28.9,Rice
+Puducherry,Jul-21,54,Rice
+Punjab,Jul-21,36.5,Rice
+Rajasthan,Jul-21,33.77,Rice
+Sikkim,Jul-21,58,Rice
+Tamil Nadu,Jul-21,46.67,Rice
+Telangana,Jul-21,39.65,Rice
+Tripura,Jul-21,32,Rice
+Uttar Pradesh,Jul-21,33.73,Rice
+Uttarakhand,Jul-21,29.8,Rice
+West Bengal,Jul-21,33.4,Rice
+Andaman and Nicobar,Aug-21,40.2,Rice
+Andhra Pradesh,Aug-21,44.99,Rice
+Arunachal pradesh,Aug-21,28,Rice
+Assam,Aug-21,35.46,Rice
+Bihar,Aug-21,32.02,Rice
+Chandigarh,Aug-21,35.86,Rice
+Chhattisgarh,Aug-21,32.58,Rice
+Delhi,Aug-21,31.48,Rice
+Goa,Aug-21,39,Rice
+Gujarat,Aug-21,29.8,Rice
+Haryana,Aug-21,30.88,Rice
+Himachal Pradesh,Aug-21,33.76,Rice
+Jammu and Kashmir,Aug-21,33.57,Rice
+Jharkhand,Aug-21,30.27,Rice
+Karnataka,Aug-21,45.98,Rice
+Kerala,Aug-21,39.12,Rice
+Madhya Pradesh,Aug-21,34.41,Rice
+Maharashtra,Aug-21,35.36,Rice
+Meghalaya,Aug-21,25.78,Rice
+Nagaland,Aug-21,25,Rice
+Odisha,Aug-21,28.9,Rice
+Puducherry,Aug-21,43.2,Rice
+Punjab,Aug-21,35.38,Rice
+Rajasthan,Aug-21,34.78,Rice
+Sikkim,Aug-21,58,Rice
+Tamil Nadu,Aug-21,46.66,Rice
+Telangana,Aug-21,39.98,Rice
+Tripura,Aug-21,32,Rice
+Uttar Pradesh,Aug-21,34.64,Rice
+Uttarakhand,Aug-21,30.07,Rice
+West Bengal,Aug-21,32.93,Rice
+Andaman and Nicobar,Sep-21,39.2,Rice
+Andhra Pradesh,Sep-21,46.24,Rice
+Arunachal pradesh,Sep-21,27.87,Rice
+Assam,Sep-21,36,Rice
+Bihar,Sep-21,32.38,Rice
+Chandigarh,Sep-21,35,Rice
+Chhattisgarh,Sep-21,31.26,Rice
+Delhi,Sep-21,31.47,Rice
+Goa,Sep-21,39,Rice
+Gujarat,Sep-21,30.5,Rice
+Haryana,Sep-21,31.48,Rice
+Himachal Pradesh,Sep-21,32.98,Rice
+Jammu and Kashmir,Sep-21,33.86,Rice
+Jharkhand,Sep-21,30.51,Rice
+Karnataka,Sep-21,45.13,Rice
+Kerala,Sep-21,39.38,Rice
+Madhya Pradesh,Sep-21,31.74,Rice
+Maharashtra,Sep-21,37.97,Rice
+Meghalaya,Sep-21,24.38,Rice
+Mizoram,Sep-21,45,Rice
+Nagaland,Sep-21,25.14,Rice
+Odisha,Sep-21,28.7,Rice
+Puducherry,Sep-21,31.68,Rice
+Punjab,Sep-21,34.36,Rice
+Rajasthan,Sep-21,36.72,Rice
+Sikkim,Sep-21,58,Rice
+Tamil Nadu,Sep-21,46.28,Rice
+Telangana,Sep-21,40.74,Rice
+Tripura,Sep-21,32,Rice
+Uttar Pradesh,Sep-21,33.73,Rice
+Uttarakhand,Sep-21,30.29,Rice
+West Bengal,Sep-21,33.23,Rice
+Andaman and Nicobar,Oct-21,39.59,Rice
+Andhra Pradesh,Oct-21,46.67,Rice
+Arunachal pradesh,Oct-21,24.83,Rice
+Assam,Oct-21,36,Rice
+Bihar,Oct-21,33,Rice
+Chandigarh,Oct-21,35,Rice
+Chhattisgarh,Oct-21,31.69,Rice
+Delhi,Oct-21,31.81,Rice
+Goa,Oct-21,39,Rice
+Gujarat,Oct-21,32.81,Rice
+Haryana,Oct-21,31.37,Rice
+Himachal Pradesh,Oct-21,32.3,Rice
+Jammu and Kashmir,Oct-21,34.25,Rice
+Jharkhand,Oct-21,30.53,Rice
+Karnataka,Oct-21,44.55,Rice
+Kerala,Oct-21,39.41,Rice
+Madhya Pradesh,Oct-21,31.64,Rice
+Maharashtra,Oct-21,38.09,Rice
+Meghalaya,Oct-21,23.92,Rice
+Mizoram,Oct-21,45,Rice
+Nagaland,Oct-21,24.46,Rice
+Odisha,Oct-21,29.46,Rice
+Puducherry,Oct-21,32.38,Rice
+Punjab,Oct-21,34.74,Rice
+Rajasthan,Oct-21,37.83,Rice
+Sikkim,Oct-21,58,Rice
+Tamil Nadu,Oct-21,45.9,Rice
+Telangana,Oct-21,40.81,Rice
+Tripura,Oct-21,32,Rice
+Uttar Pradesh,Oct-21,32.62,Rice
+Uttarakhand,Oct-21,31.48,Rice
+West Bengal,Oct-21,33.22,Rice
+Andaman and Nicobar,Nov-21,40.17,Rice
+Andhra Pradesh,Nov-21,47.79,Rice
+Arunachal pradesh,Nov-21,24.4,Rice
+Assam,Nov-21,36,Rice
+Bihar,Nov-21,33.86,Rice
+Chandigarh,Nov-21,35.59,Rice
+Chhattisgarh,Nov-21,32.53,Rice
+Delhi,Nov-21,31.17,Rice
+Goa,Nov-21,39,Rice
+Gujarat,Nov-21,32.68,Rice
+Haryana,Nov-21,31.1,Rice
+Himachal Pradesh,Nov-21,31.78,Rice
+Jammu and Kashmir,Nov-21,34.56,Rice
+Jharkhand,Nov-21,30.62,Rice
+Karnataka,Nov-21,44.52,Rice
+Kerala,Nov-21,39.81,Rice
+Madhya Pradesh,Nov-21,31.65,Rice
+Maharashtra,Nov-21,36.89,Rice
+Manipur,Nov-21,41.25,Rice
+Meghalaya,Nov-21,24.88,Rice
+Mizoram,Nov-21,45,Rice
+Nagaland,Nov-21,24,Rice
+Odisha,Nov-21,29.47,Rice
+Puducherry,Nov-21,34,Rice
+Punjab,Nov-21,35.48,Rice
+Rajasthan,Nov-21,36.89,Rice
+Sikkim,Nov-21,58.4,Rice
+Tamil Nadu,Nov-21,46.56,Rice
+Telangana,Nov-21,40.6,Rice
+Tripura,Nov-21,32,Rice
+Uttar Pradesh,Nov-21,32.45,Rice
+Uttarakhand,Nov-21,31.7,Rice
+West Bengal,Nov-21,33.83,Rice
+Andaman and Nicobar,Dec-21,41.67,Rice
+Andhra Pradesh,Dec-21,47.11,Rice
+Arunachal pradesh,Dec-21,24,Rice
+Assam,Dec-21,36,Rice
+Bihar,Dec-21,33.8,Rice
+Chandigarh,Dec-21,36.74,Rice
+Chhattisgarh,Dec-21,32.26,Rice
+Delhi,Dec-21,32,Rice
+Goa,Dec-21,38.11,Rice
+Gujarat,Dec-21,33.46,Rice
+Haryana,Dec-21,32.13,Rice
+Himachal Pradesh,Dec-21,31.97,Rice
+Jammu and Kashmir,Dec-21,34.55,Rice
+Jharkhand,Dec-21,31.16,Rice
+Karnataka,Dec-21,45.07,Rice
+Kerala,Dec-21,41.8,Rice
+Madhya Pradesh,Dec-21,32.03,Rice
+Maharashtra,Dec-21,35.08,Rice
+Meghalaya,Dec-21,24.69,Rice
+Nagaland,Dec-21,24,Rice
+Odisha,Dec-21,29.59,Rice
+Puducherry,Dec-21,34,Rice
+Punjab,Dec-21,35.99,Rice
+Rajasthan,Dec-21,36.41,Rice
+Sikkim,Dec-21,62,Rice
+Tamil Nadu,Dec-21,46.47,Rice
+Telangana,Dec-21,40.5,Rice
+Tripura,Dec-21,32,Rice
+Uttar Pradesh,Dec-21,32.2,Rice
+Uttarakhand,Dec-21,31.65,Rice
+West Bengal,Dec-21,33.62,Rice
+Andaman and Nicobar,Jan-22,41.91,Rice
+Andhra Pradesh,Jan-22,46.58,Rice
+Arunachal pradesh,Jan-22,24,Rice
+Assam,Jan-22,36,Rice
+Bihar,Jan-22,33.76,Rice
+Chandigarh,Jan-22,36.23,Rice
+Chhattisgarh,Jan-22,32.89,Rice
+Delhi,Jan-22,31.39,Rice
+Goa,Jan-22,39.6,Rice
+Gujarat,Jan-22,35.23,Rice
+Haryana,Jan-22,31.03,Rice
+Himachal Pradesh,Jan-22,31.9,Rice
+Jammu and Kashmir,Jan-22,35.52,Rice
+Jharkhand,Jan-22,31.52,Rice
+Karnataka,Jan-22,45.31,Rice
+Kerala,Jan-22,42.47,Rice
+Madhya Pradesh,Jan-22,31.18,Rice
+Maharashtra,Jan-22,34.06,Rice
+Meghalaya,Jan-22,23.68,Rice
+Nagaland,Jan-22,24,Rice
+Odisha,Jan-22,29.68,Rice
+Puducherry,Jan-22,34.34,Rice
+Punjab,Jan-22,34.78,Rice
+Rajasthan,Jan-22,36.93,Rice
+Sikkim,Jan-22,62,Rice
+Tamil Nadu,Jan-22,46.73,Rice
+Telangana,Jan-22,40.96,Rice
+Tripura,Jan-22,32,Rice
+Uttar Pradesh,Jan-22,31.25,Rice
+Uttarakhand,Jan-22,30.44,Rice
+West Bengal,Jan-22,34.28,Rice
+Andaman and Nicobar,Feb-22,45,Rice
+Andhra Pradesh,Feb-22,46.71,Rice
+Arunachal pradesh,Feb-22,24,Rice
+Assam,Feb-22,36,Rice
+Bihar,Feb-22,34.57,Rice
+Chandigarh,Feb-22,37.04,Rice
+Chhattisgarh,Feb-22,32.68,Rice
+Delhi,Feb-22,31.86,Rice
+Goa,Feb-22,40.16,Rice
+Gujarat,Feb-22,33.17,Rice
+Haryana,Feb-22,30.38,Rice
+Himachal Pradesh,Feb-22,31.24,Rice
+Jammu and Kashmir,Feb-22,35.79,Rice
+Jharkhand,Feb-22,31.62,Rice
+Karnataka,Feb-22,44.14,Rice
+Kerala,Feb-22,42.66,Rice
+Madhya Pradesh,Feb-22,31.39,Rice
+Maharashtra,Feb-22,35.25,Rice
+Meghalaya,Feb-22,25.24,Rice
+Mizoram,Feb-22,45,Rice
+Nagaland,Feb-22,24.18,Rice
+Odisha,Feb-22,29.71,Rice
+Puducherry,Feb-22,33.86,Rice
+Punjab,Feb-22,34.29,Rice
+Rajasthan,Feb-22,36.45,Rice
+Sikkim,Feb-22,52.9,Rice
+Tamil Nadu,Feb-22,47.12,Rice
+Telangana,Feb-22,41.56,Rice
+Tripura,Feb-22,32,Rice
+Uttar Pradesh,Feb-22,33.42,Rice
+Uttarakhand,Feb-22,30.26,Rice
+West Bengal,Feb-22,36.14,Rice
+Andaman and Nicobar,Mar-22,43.83,Rice
+Andhra Pradesh,Mar-22,46.16,Rice
+Arunachal pradesh,Mar-22,24,Rice
+Assam,Mar-22,36,Rice
+Bihar,Mar-22,34.99,Rice
+Chandigarh,Mar-22,37.81,Rice
+Chhattisgarh,Mar-22,32.67,Rice
+Delhi,Mar-22,31.19,Rice
+Goa,Mar-22,39.82,Rice
+Gujarat,Mar-22,33.1,Rice
+Haryana,Mar-22,30.76,Rice
+Himachal Pradesh,Mar-22,31.76,Rice
+Jammu and Kashmir,Mar-22,35.51,Rice
+Jharkhand,Mar-22,31.99,Rice
+Karnataka,Mar-22,44.02,Rice
+Kerala,Mar-22,43.15,Rice
+Madhya Pradesh,Mar-22,31.89,Rice
+Maharashtra,Mar-22,35.21,Rice
+Meghalaya,Mar-22,26.82,Rice
+Mizoram,Mar-22,45,Rice
+Nagaland,Mar-22,24,Rice
+Odisha,Mar-22,29.93,Rice
+Puducherry,Mar-22,33.6,Rice
+Punjab,Mar-22,35.07,Rice
+Rajasthan,Mar-22,34.96,Rice
+Sikkim,Mar-22,48.39,Rice
+Tamil Nadu,Mar-22,47.25,Rice
+Telangana,Mar-22,40.08,Rice
+Tripura,Mar-22,36.68,Rice
+Uttar Pradesh,Mar-22,34.94,Rice
+Uttarakhand,Mar-22,29.24,Rice
+West Bengal,Mar-22,37.4,Rice
+Andaman and Nicobar,Apr-22,42.42,Rice
+Andhra Pradesh,Apr-22,46.36,Rice
+Arunachal pradesh,Apr-22,24,Rice
+Assam,Apr-22,31,Rice
+Bihar,Apr-22,34.62,Rice
+Chandigarh,Apr-22,38.1,Rice
+Chhattisgarh,Apr-22,32.55,Rice
+Delhi,Apr-22,31.67,Rice
+Goa,Apr-22,39,Rice
+Gujarat,Apr-22,33.08,Rice
+Haryana,Apr-22,32.13,Rice
+Himachal Pradesh,Apr-22,32.25,Rice
+Jammu and Kashmir,Apr-22,35.3,Rice
+Jharkhand,Apr-22,32.23,Rice
+Karnataka,Apr-22,44.17,Rice
+Kerala,Apr-22,43.16,Rice
+Madhya Pradesh,Apr-22,32.78,Rice
+Maharashtra,Apr-22,35.68,Rice
+Manipur,Apr-22,42.07,Rice
+Meghalaya,Apr-22,26.7,Rice
+Mizoram,Apr-22,45,Rice
+Nagaland,Apr-22,26.35,Rice
+Odisha,Apr-22,30.04,Rice
+Puducherry,Apr-22,34,Rice
+Punjab,Apr-22,35.22,Rice
+Rajasthan,Apr-22,36.17,Rice
+Sikkim,Apr-22,48,Rice
+Tamil Nadu,Apr-22,46.13,Rice
+Telangana,Apr-22,40.29,Rice
+Tripura,Apr-22,45,Rice
+Uttar Pradesh,Apr-22,32.74,Rice
+Uttarakhand,Apr-22,31.23,Rice
+West Bengal,Apr-22,37.86,Rice
+Andaman and Nicobar,May-22,42.87,Rice
+Andhra Pradesh,May-22,46.68,Rice
+Arunachal pradesh,May-22,24,Rice
+Assam,May-22,30,Rice
+Bihar,May-22,34.85,Rice
+Chandigarh,May-22,39,Rice
+Chhattisgarh,May-22,33.44,Rice
+Delhi,May-22,32,Rice
+Goa,May-22,39,Rice
+Gujarat,May-22,33.55,Rice
+Haryana,May-22,32.33,Rice
+Himachal Pradesh,May-22,32.3,Rice
+Jammu and Kashmir,May-22,34.9,Rice
+Jharkhand,May-22,32.17,Rice
+Karnataka,May-22,43.71,Rice
+Kerala,May-22,43.61,Rice
+Madhya Pradesh,May-22,33.16,Rice
+Maharashtra,May-22,35.9,Rice
+Manipur,May-22,42.62,Rice
+Meghalaya,May-22,26.76,Rice
+Mizoram,May-22,45,Rice
+Nagaland,May-22,28.18,Rice
+Odisha,May-22,30.4,Rice
+Puducherry,May-22,32.67,Rice
+Punjab,May-22,35.28,Rice
+Rajasthan,May-22,36.11,Rice
+Sikkim,May-22,49.45,Rice
+Tamil Nadu,May-22,45.77,Rice
+Telangana,May-22,41.19,Rice
+Tripura,May-22,45,Rice
+Uttar Pradesh,May-22,30.59,Rice
+Uttarakhand,May-22,37.2,Rice
+West Bengal,May-22,38.1,Rice
+Andaman and Nicobar,Jun-22,42.72,Rice
+Andhra Pradesh,Jun-22,46.47,Rice
+Arunachal pradesh,Jun-22,24,Rice
+Assam,Jun-22,27.64,Rice
+Bihar,Jun-22,35.25,Rice
+Chandigarh,Jun-22,38.9,Rice
+Chhattisgarh,Jun-22,33.43,Rice
+Delhi,Jun-22,32.1,Rice
+Goa,Jun-22,40.59,Rice
+Gujarat,Jun-22,34.04,Rice
+Haryana,Jun-22,33.32,Rice
+Himachal Pradesh,Jun-22,32.52,Rice
+Jammu and Kashmir,Jun-22,35.75,Rice
+Jharkhand,Jun-22,32.17,Rice
+Karnataka,Jun-22,43.36,Rice
+Kerala,Jun-22,44.68,Rice
+Madhya Pradesh,Jun-22,33.56,Rice
+Maharashtra,Jun-22,37.43,Rice
+Manipur,Jun-22,39.5,Rice
+Meghalaya,Jun-22,26.19,Rice
+Mizoram,Jun-22,45,Rice
+Nagaland,Jun-22,31.69,Rice
+Odisha,Jun-22,30.73,Rice
+Puducherry,Jun-22,32,Rice
+Punjab,Jun-22,35.65,Rice
+Rajasthan,Jun-22,36.16,Rice
+Sikkim,Jun-22,51.5,Rice
+Tamil Nadu,Jun-22,46.64,Rice
+Telangana,Jun-22,41.3,Rice
+Tripura,Jun-22,45,Rice
+Uttar Pradesh,Jun-22,31.37,Rice
+Uttarakhand,Jun-22,35.48,Rice
+West Bengal,Jun-22,38.57,Rice
+Andaman and Nicobar,Jul-22,43.28,Rice
+Andhra Pradesh,Jul-22,47,Rice
+Arunachal pradesh,Jul-22,24,Rice
+Assam,Jul-22,27.66,Rice
+Bihar,Jul-22,35.81,Rice
+Chandigarh,Jul-22,38.42,Rice
+Chhattisgarh,Jul-22,32.91,Rice
+Delhi,Jul-22,32.32,Rice
+Goa,Jul-22,40.48,Rice
+Gujarat,Jul-22,34.02,Rice
+Haryana,Jul-22,33.58,Rice
+Himachal Pradesh,Jul-22,32.76,Rice
+Jammu and Kashmir,Jul-22,35.69,Rice
+Jharkhand,Jul-22,33.32,Rice
+Karnataka,Jul-22,44.54,Rice
+Kerala,Jul-22,46.32,Rice
+Madhya Pradesh,Jul-22,32.8,Rice
+Maharashtra,Jul-22,38.68,Rice
+Manipur,Jul-22,40,Rice
+Meghalaya,Jul-22,26.23,Rice
+Mizoram,Jul-22,45,Rice
+Nagaland,Jul-22,31.19,Rice
+Odisha,Jul-22,31.49,Rice
+Puducherry,Jul-22,33.48,Rice
+Punjab,Jul-22,35.97,Rice
+Rajasthan,Jul-22,36.52,Rice
+Sikkim,Jul-22,53,Rice
+Tamil Nadu,Jul-22,47.63,Rice
+Telangana,Jul-22,41.14,Rice
+Tripura,Jul-22,45,Rice
+Uttar Pradesh,Jul-22,31.98,Rice
+Uttarakhand,Jul-22,31.41,Rice
+West Bengal,Jul-22,38.93,Rice
+Andaman and Nicobar,Aug-22,43.23,Rice
+Andhra Pradesh,Aug-22,49.57,Rice
+Arunachal pradesh,Aug-22,24,Rice
+Assam,Aug-22,28.57,Rice
+Bihar,Aug-22,36.9,Rice
+Chandigarh,Aug-22,38.48,Rice
+Chhattisgarh,Aug-22,33.73,Rice
+Delhi,Aug-22,32,Rice
+Goa,Aug-22,43.05,Rice
+Gujarat,Aug-22,34.71,Rice
+Haryana,Aug-22,33.77,Rice
+Himachal Pradesh,Aug-22,33.14,Rice
+Jammu and Kashmir,Aug-22,36.17,Rice
+Jharkhand,Aug-22,33.98,Rice
+Karnataka,Aug-22,47.84,Rice
+Kerala,Aug-22,47.3,Rice
+Madhya Pradesh,Aug-22,32.76,Rice
+Maharashtra,Aug-22,39.37,Rice
+Manipur,Aug-22,40.53,Rice
+Meghalaya,Aug-22,26.65,Rice
+Mizoram,Aug-22,45,Rice
+Nagaland,Aug-22,30.49,Rice
+Odisha,Aug-22,32.22,Rice
+Puducherry,Aug-22,34,Rice
+Punjab,Aug-22,36.16,Rice
+Rajasthan,Aug-22,36.45,Rice
+Sikkim,Aug-22,53,Rice
+Tamil Nadu,Aug-22,48.57,Rice
+Telangana,Aug-22,41.05,Rice
+Tripura,Aug-22,45,Rice
+Uttar Pradesh,Aug-22,32.32,Rice
+Uttarakhand,Aug-22,32.3,Rice
+West Bengal,Aug-22,40.45,Rice
+Andaman and Nicobar,Sep-22,43.91,Rice
+Andhra Pradesh,Sep-22,52.13,Rice
+Arunachal pradesh,Sep-22,29.87,Rice
+Assam,Sep-22,29.64,Rice
+Bihar,Sep-22,38.31,Rice
+Chandigarh,Sep-22,38,Rice
+Chhattisgarh,Sep-22,33.19,Rice
+Delhi,Sep-22,32,Rice
+DNH and DD,Sep-22,38.86,Rice
+Goa,Sep-22,39,Rice
+Gujarat,Sep-22,35.07,Rice
+Haryana,Sep-22,33.76,Rice
+Himachal Pradesh,Sep-22,33.72,Rice
+Jammu and Kashmir,Sep-22,37.67,Rice
+Jharkhand,Sep-22,34.38,Rice
+Karnataka,Sep-22,48.43,Rice
+Kerala,Sep-22,50.12,Rice
+Madhya Pradesh,Sep-22,33.43,Rice
+Maharashtra,Sep-22,40.79,Rice
+Manipur,Sep-22,41.09,Rice
+Meghalaya,Sep-22,26.4,Rice
+Mizoram,Sep-22,47.43,Rice
+Nagaland,Sep-22,31.88,Rice
+Odisha,Sep-22,32.08,Rice
+Puducherry,Sep-22,34,Rice
+Punjab,Sep-22,37.17,Rice
+Rajasthan,Sep-22,36.75,Rice
+Sikkim,Sep-22,53,Rice
+Tamil Nadu,Sep-22,49.37,Rice
+Telangana,Sep-22,41.67,Rice
+Tripura,Sep-22,45,Rice
+Uttar Pradesh,Sep-22,33.25,Rice
+Uttarakhand,Sep-22,33.09,Rice
+West Bengal,Sep-22,42.23,Rice
+Andaman and Nicobar,Oct-22,46.09,Rice
+Andhra Pradesh,Oct-22,53.5,Rice
+Arunachal pradesh,Oct-22,31.28,Rice
+Assam,Oct-22,30.54,Rice
+Bihar,Oct-22,37.62,Rice
+Chandigarh,Oct-22,38,Rice
+Chhattisgarh,Oct-22,33.14,Rice
+Delhi,Oct-22,32.48,Rice
+DNH and DD,Oct-22,38.49,Rice
+Goa,Oct-22,41.71,Rice
+Gujarat,Oct-22,35.82,Rice
+Haryana,Oct-22,33.96,Rice
+Himachal Pradesh,Oct-22,33.63,Rice
+Jammu and Kashmir,Oct-22,38.56,Rice
+Jharkhand,Oct-22,34.57,Rice
+Karnataka,Oct-22,48.35,Rice
+Kerala,Oct-22,53.18,Rice
+Madhya Pradesh,Oct-22,33.76,Rice
+Maharashtra,Oct-22,40.49,Rice
+Manipur,Oct-22,43.53,Rice
+Meghalaya,Oct-22,26.07,Rice
+Mizoram,Oct-22,46.98,Rice
+Nagaland,Oct-22,33,Rice
+Odisha,Oct-22,31.91,Rice
+Puducherry,Oct-22,34.55,Rice
+Punjab,Oct-22,38.16,Rice
+Rajasthan,Oct-22,37.73,Rice
+Sikkim,Oct-22,53,Rice
+Tamil Nadu,Oct-22,50.18,Rice
+Telangana,Oct-22,41.35,Rice
+Tripura,Oct-22,39.21,Rice
+Uttar Pradesh,Oct-22,33.94,Rice
+Uttarakhand,Oct-22,33.59,Rice
+West Bengal,Oct-22,41.67,Rice
+Andaman and Nicobar,Nov-22,48.66,Rice
+Andhra Pradesh,Nov-22,51.38,Rice
+Arunachal pradesh,Nov-22,30.4,Rice
+Assam,Nov-22,33.93,Rice
+Bihar,Nov-22,36.53,Rice
+Chandigarh,Nov-22,38.13,Rice
+Chhattisgarh,Nov-22,34.53,Rice
+Delhi,Nov-22,33.47,Rice
+DNH and DD,Nov-22,38.34,Rice
+Goa,Nov-22,42.42,Rice
+Gujarat,Nov-22,35.75,Rice
+Haryana,Nov-22,35.83,Rice
+Himachal Pradesh,Nov-22,33.5,Rice
+Jammu and Kashmir,Nov-22,38.21,Rice
+Jharkhand,Nov-22,35.61,Rice
+Karnataka,Nov-22,48.43,Rice
+Kerala,Nov-22,54.07,Rice
+Madhya Pradesh,Nov-22,34.11,Rice
+Maharashtra,Nov-22,40.37,Rice
+Manipur,Nov-22,40.55,Rice
+Meghalaya,Nov-22,26.06,Rice
+Mizoram,Nov-22,47.38,Rice
+Nagaland,Nov-22,33.95,Rice
+Odisha,Nov-22,32.02,Rice
+Puducherry,Nov-22,35.04,Rice
+Punjab,Nov-22,35.98,Rice
+Rajasthan,Nov-22,37.51,Rice
+Sikkim,Nov-22,51.27,Rice
+Tamil Nadu,Nov-22,50.58,Rice
+Telangana,Nov-22,42.09,Rice
+Tripura,Nov-22,33.23,Rice
+Uttar Pradesh,Nov-22,34.24,Rice
+Uttarakhand,Nov-22,33.99,Rice
+West Bengal,Nov-22,40.24,Rice
+Andaman and Nicobar,Dec-22,46.35,Rice
+Andhra Pradesh,Dec-22,50.35,Rice
+Arunachal pradesh,Dec-22,31.64,Rice
+Assam,Dec-22,36.53,Rice
+Bihar,Dec-22,36.23,Rice
+Chandigarh,Dec-22,38,Rice
+Chhattisgarh,Dec-22,33.97,Rice
+Delhi,Dec-22,33.32,Rice
+DNH and DD,Dec-22,38.23,Rice
+Goa,Dec-22,42.79,Rice
+Gujarat,Dec-22,35.72,Rice
+Haryana,Dec-22,37.47,Rice
+Himachal Pradesh,Dec-22,33.33,Rice
+Jammu and Kashmir,Dec-22,38.2,Rice
+Jharkhand,Dec-22,37.1,Rice
+Karnataka,Dec-22,48.48,Rice
+Kerala,Dec-22,52.69,Rice
+Madhya Pradesh,Dec-22,33.35,Rice
+Maharashtra,Dec-22,41.71,Rice
+Manipur,Dec-22,40.42,Rice
+Meghalaya,Dec-22,26.06,Rice
+Mizoram,Dec-22,47.34,Rice
+Nagaland,Dec-22,34.19,Rice
+Odisha,Dec-22,31.7,Rice
+Puducherry,Dec-22,35,Rice
+Punjab,Dec-22,34.07,Rice
+Rajasthan,Dec-22,36.82,Rice
+Sikkim,Dec-22,52.62,Rice
+Tamil Nadu,Dec-22,51.19,Rice
+Telangana,Dec-22,43.31,Rice
+Tripura,Dec-22,33.37,Rice
+Uttar Pradesh,Dec-22,34.42,Rice
+Uttarakhand,Dec-22,34.08,Rice
+West Bengal,Dec-22,39.38,Rice
+Andaman and Nicobar,Jan-23,41.52,Rice
+Andhra Pradesh,Jan-23,49.83,Rice
+Arunachal pradesh,Jan-23,32.82,Rice
+Assam,Jan-23,35.69,Rice
+Bihar,Jan-23,36.48,Rice
+Chandigarh,Jan-23,38,Rice
+Chhattisgarh,Jan-23,34.53,Rice
+Delhi,Jan-23,35.48,Rice
+DNH and DD,Jan-23,38.52,Rice
+Goa,Jan-23,41.85,Rice
+Gujarat,Jan-23,35.6,Rice
+Haryana,Jan-23,34.89,Rice
+Himachal Pradesh,Jan-23,33.15,Rice
+Jammu and Kashmir,Jan-23,38.27,Rice
+Jharkhand,Jan-23,35.48,Rice
+Karnataka,Jan-23,48.34,Rice
+Kerala,Jan-23,51.48,Rice
+Madhya Pradesh,Jan-23,32.81,Rice
+Maharashtra,Jan-23,43.77,Rice
+Manipur,Jan-23,43.47,Rice
+Meghalaya,Jan-23,26.88,Rice
+Mizoram,Jan-23,45.82,Rice
+Nagaland,Jan-23,34,Rice
+Odisha,Jan-23,32.74,Rice
+Puducherry,Jan-23,35.57,Rice
+Punjab,Jan-23,34.06,Rice
+Rajasthan,Jan-23,38.16,Rice
+Sikkim,Jan-23,54.92,Rice
+Tamil Nadu,Jan-23,50.79,Rice
+Telangana,Jan-23,43.6,Rice
+Tripura,Jan-23,32.27,Rice
+Uttar Pradesh,Jan-23,34.11,Rice
+Uttarakhand,Jan-23,34.53,Rice
+West Bengal,Jan-23,39.57,Rice
+Andaman and Nicobar,Feb-23,41.38,Rice
+Andhra Pradesh,Feb-23,50.63,Rice
+Arunachal pradesh,Feb-23,32.36,Rice
+Assam,Feb-23,36.54,Rice
+Bihar,Feb-23,36.44,Rice
+Chandigarh,Feb-23,38,Rice
+Chhattisgarh,Feb-23,35.21,Rice
+Delhi,Feb-23,36.32,Rice
+DNH and DD,Feb-23,39.2,Rice
+Goa,Feb-23,43.05,Rice
+Gujarat,Feb-23,34.11,Rice
+Haryana,Feb-23,36.36,Rice
+Himachal Pradesh,Feb-23,33.41,Rice
+Jammu and Kashmir,Feb-23,38.39,Rice
+Jharkhand,Feb-23,35.89,Rice
+Karnataka,Feb-23,49.34,Rice
+Kerala,Feb-23,52.08,Rice
+Madhya Pradesh,Feb-23,33.1,Rice
+Maharashtra,Feb-23,43.66,Rice
+Manipur,Feb-23,41.97,Rice
+Meghalaya,Feb-23,29.4,Rice
+Mizoram,Feb-23,46.75,Rice
+Nagaland,Feb-23,34.18,Rice
+Odisha,Feb-23,33.76,Rice
+Puducherry,Feb-23,38,Rice
+Punjab,Feb-23,34.25,Rice
+Rajasthan,Feb-23,38.26,Rice
+Sikkim,Feb-23,57.72,Rice
+Tamil Nadu,Feb-23,50.56,Rice
+Telangana,Feb-23,43.68,Rice
+Tripura,Feb-23,32.36,Rice
+Uttar Pradesh,Feb-23,34.49,Rice
+Uttarakhand,Feb-23,34.85,Rice
+West Bengal,Feb-23,40.42,Rice
+Andaman and Nicobar,Mar-23,41.49,Rice
+Andhra Pradesh,Mar-23,51.9,Rice
+Arunachal pradesh,Mar-23,32.38,Rice
+Assam,Mar-23,37.36,Rice
+Bihar,Mar-23,36.29,Rice
+Chandigarh,Mar-23,38,Rice
+Chhattisgarh,Mar-23,35.24,Rice
+Delhi,Mar-23,38.26,Rice
+DNH and DD,Mar-23,39.36,Rice
+Goa,Mar-23,42.93,Rice
+Gujarat,Mar-23,32.8,Rice
+Haryana,Mar-23,37.55,Rice
+Himachal Pradesh,Mar-23,33.54,Rice
+Jammu and Kashmir,Mar-23,38.22,Rice
+Jharkhand,Mar-23,36.53,Rice
+Karnataka,Mar-23,49.8,Rice
+Kerala,Mar-23,52.58,Rice
+Madhya Pradesh,Mar-23,33.74,Rice
+Maharashtra,Mar-23,43.12,Rice
+Manipur,Mar-23,44.05,Rice
+Meghalaya,Mar-23,29.31,Rice
+Mizoram,Mar-23,46.83,Rice
+Nagaland,Mar-23,34.19,Rice
+Odisha,Mar-23,33.44,Rice
+Puducherry,Mar-23,40.61,Rice
+Punjab,Mar-23,34.62,Rice
+Rajasthan,Mar-23,38.45,Rice
+Sikkim,Mar-23,58.21,Rice
+Tamil Nadu,Mar-23,50.76,Rice
+Telangana,Mar-23,43.83,Rice
+Tripura,Mar-23,32.95,Rice
+Uttar Pradesh,Mar-23,34.59,Rice
+Uttarakhand,Mar-23,34.65,Rice
+West Bengal,Mar-23,42.04,Rice
+Andaman and Nicobar,Apr-23,41.58,Rice
+Andhra Pradesh,Apr-23,52.23,Rice
+Arunachal pradesh,Apr-23,32.23,Rice
+Assam,Apr-23,37.59,Rice
+Bihar,Apr-23,36.09,Rice
+Chandigarh,Apr-23,38.47,Rice
+Chhattisgarh,Apr-23,35.73,Rice
+Delhi,Apr-23,39,Rice
+DNH and DD,Apr-23,41.29,Rice
+Goa,Apr-23,43.21,Rice
+Gujarat,Apr-23,33.61,Rice
+Haryana,Apr-23,37.96,Rice
+Himachal Pradesh,Apr-23,33.97,Rice
+Jammu and Kashmir,Apr-23,38.32,Rice
+Jharkhand,Apr-23,36.19,Rice
+Karnataka,Apr-23,50.39,Rice
+Kerala,Apr-23,52.34,Rice
+Madhya Pradesh,Apr-23,34.55,Rice
+Maharashtra,Apr-23,43.82,Rice
+Manipur,Apr-23,37.9,Rice
+Meghalaya,Apr-23,30.28,Rice
+Mizoram,Apr-23,46.76,Rice
+Nagaland,Apr-23,34.01,Rice
+Odisha,Apr-23,33.44,Rice
+Puducherry,Apr-23,40.96,Rice
+Punjab,Apr-23,33.92,Rice
+Rajasthan,Apr-23,38.19,Rice
+Sikkim,Apr-23,53.99,Rice
+Tamil Nadu,Apr-23,51.26,Rice
+Telangana,Apr-23,44.63,Rice
+Tripura,Apr-23,33.25,Rice
+Uttar Pradesh,Apr-23,35.17,Rice
+Uttarakhand,Apr-23,34.51,Rice
+West Bengal,Apr-23,42.11,Rice
+Andaman and Nicobar,May-23,40.1,Rice
+Andhra Pradesh,May-23,51.36,Rice
+Arunachal pradesh,May-23,30.9,Rice
+Assam,May-23,38.2,Rice
+Bihar,May-23,35.86,Rice
+Chandigarh,May-23,39,Rice
+Chhattisgarh,May-23,35.28,Rice
+Delhi,May-23,39,Rice
+DNH and DD,May-23,40.08,Rice
+Goa,May-23,42.43,Rice
+Gujarat,May-23,37.22,Rice
+Haryana,May-23,38.71,Rice
+Himachal Pradesh,May-23,34.86,Rice
+Jammu and Kashmir,May-23,38.1,Rice
+Jharkhand,May-23,35.67,Rice
+Karnataka,May-23,50.51,Rice
+Kerala,May-23,50.65,Rice
+Madhya Pradesh,May-23,34.78,Rice
+Maharashtra,May-23,44.39,Rice
+Manipur,May-23,36.65,Rice
+Meghalaya,May-23,31.92,Rice
+Mizoram,May-23,46.6,Rice
+Nagaland,May-23,34.7,Rice
+Odisha,May-23,33.66,Rice
+Puducherry,May-23,40.96,Rice
+Punjab,May-23,34.74,Rice
+Rajasthan,May-23,38.37,Rice
+Sikkim,May-23,52.69,Rice
+Tamil Nadu,May-23,51.43,Rice
+Telangana,May-23,45.29,Rice
+Tripura,May-23,33.55,Rice
+Uttar Pradesh,May-23,35.16,Rice
+Uttarakhand,May-23,34.45,Rice
+West Bengal,May-23,42.54,Rice
+Andaman and Nicobar,Jun-23,41.04,Rice
+Andhra Pradesh,Jun-23,52.03,Rice
+Arunachal pradesh,Jun-23,33.77,Rice
+Assam,Jun-23,39.08,Rice
+Bihar,Jun-23,36.18,Rice
+Chandigarh,Jun-23,39,Rice
+Chhattisgarh,Jun-23,34.9,Rice
+Delhi,Jun-23,38.73,Rice
+DNH and DD,Jun-23,39.24,Rice
+Goa,Jun-23,42.6,Rice
+Gujarat,Jun-23,37.97,Rice
+Haryana,Jun-23,39.72,Rice
+Himachal Pradesh,Jun-23,35.24,Rice
+Jammu and Kashmir,Jun-23,38.06,Rice
+Jharkhand,Jun-23,36.05,Rice
+Karnataka,Jun-23,51.58,Rice
+Kerala,Jun-23,48.98,Rice
+Madhya Pradesh,Jun-23,35.68,Rice
+Maharashtra,Jun-23,44.63,Rice
+Meghalaya,Jun-23,34.35,Rice
+Mizoram,Jun-23,45.93,Rice
+Nagaland,Jun-23,38.78,Rice
+Odisha,Jun-23,33.88,Rice
+Puducherry,Jun-23,41.06,Rice
+Punjab,Jun-23,35.32,Rice
+Rajasthan,Jun-23,38.27,Rice
+Sikkim,Jun-23,52.76,Rice
+Tamil Nadu,Jun-23,52.11,Rice
+Telangana,Jun-23,45.79,Rice
+Tripura,Jun-23,34.98,Rice
+Uttar Pradesh,Jun-23,35.69,Rice
+Uttarakhand,Jun-23,33.81,Rice
+West Bengal,Jun-23,42.83,Rice
+Andaman and Nicobar,Jul-23,41.12,Rice
+Andhra Pradesh,Jul-23,52.76,Rice
+Arunachal pradesh,Jul-23,35.45,Rice
+Assam,Jul-23,40.44,Rice
+Bihar,Jul-23,37.26,Rice
+Chandigarh,Jul-23,39.56,Rice
+Chhattisgarh,Jul-23,36.89,Rice
+Delhi,Jul-23,38.84,Rice
+DNH and DD,Jul-23,43.93,Rice
+Goa,Jul-23,44.83,Rice
+Gujarat,Jul-23,38.5,Rice
+Haryana,Jul-23,39.82,Rice
+Himachal Pradesh,Jul-23,35.45,Rice
+Jammu and Kashmir,Jul-23,38.21,Rice
+Jharkhand,Jul-23,37.15,Rice
+Karnataka,Jul-23,53.38,Rice
+Kerala,Jul-23,48.97,Rice
+Madhya Pradesh,Jul-23,35.71,Rice
+Maharashtra,Jul-23,46.06,Rice
+Meghalaya,Jul-23,37.31,Rice
+Mizoram,Jul-23,45.86,Rice
+Nagaland,Jul-23,39.92,Rice
+Odisha,Jul-23,35.85,Rice
+Puducherry,Jul-23,43.12,Rice
+Punjab,Jul-23,37.54,Rice
+Rajasthan,Jul-23,38.67,Rice
+Sikkim,Jul-23,52.04,Rice
+Tamil Nadu,Jul-23,54.4,Rice
+Telangana,Jul-23,46.68,Rice
+Tripura,Jul-23,37.78,Rice
+Uttar Pradesh,Jul-23,36.29,Rice
+Uttarakhand,Jul-23,34.71,Rice
+West Bengal,Jul-23,42.89,Rice
+Andaman and Nicobar,Aug-23,41.4,Rice
+Andhra Pradesh,Aug-23,53.79,Rice
+Arunachal pradesh,Aug-23,35.07,Rice
+Assam,Aug-23,41.28,Rice
+Bihar,Aug-23,37.77,Rice
+Chandigarh,Aug-23,41,Rice
+Chhattisgarh,Aug-23,37.79,Rice
+Delhi,Aug-23,39,Rice
+DNH and DD,Aug-23,44.43,Rice
+Goa,Aug-23,46.4,Rice
+Gujarat,Aug-23,37.47,Rice
+Haryana,Aug-23,40.28,Rice
+Himachal Pradesh,Aug-23,36.31,Rice
+Jammu and Kashmir,Aug-23,38.49,Rice
+Jharkhand,Aug-23,37.75,Rice
+Karnataka,Aug-23,54.07,Rice
+Kerala,Aug-23,50.17,Rice
+Madhya Pradesh,Aug-23,36.24,Rice
+Maharashtra,Aug-23,47.08,Rice
+Meghalaya,Aug-23,38.1,Rice
+Mizoram,Aug-23,46.46,Rice
+Nagaland,Aug-23,40.48,Rice
+Odisha,Aug-23,36.65,Rice
+Puducherry,Aug-23,43.53,Rice
+Punjab,Aug-23,36.56,Rice
+Rajasthan,Aug-23,39.39,Rice
+Sikkim,Aug-23,51.81,Rice
+Tamil Nadu,Aug-23,55.53,Rice
+Telangana,Aug-23,48.29,Rice
+Tripura,Aug-23,38.24,Rice
+Uttar Pradesh,Aug-23,36.58,Rice
+Uttarakhand,Aug-23,35.17,Rice
+West Bengal,Aug-23,43.14,Rice
+Andaman and Nicobar,Sep-23,42.78,Rice
+Andhra Pradesh,Sep-23,52.11,Rice
+Arunachal pradesh,Sep-23,35.56,Rice
+Assam,Sep-23,41.85,Rice
+Bihar,Sep-23,38.23,Rice
+Chandigarh,Sep-23,41,Rice
+Chhattisgarh,Sep-23,38.58,Rice
+Delhi,Sep-23,39,Rice
+DNH and DD,Sep-23,45.93,Rice
+Goa,Sep-23,47,Rice
+Gujarat,Sep-23,37.73,Rice
+Haryana,Sep-23,40.6,Rice
+Himachal Pradesh,Sep-23,38.08,Rice
+Jammu and Kashmir,Sep-23,37.93,Rice
+Jharkhand,Sep-23,38.36,Rice
+Karnataka,Sep-23,55.51,Rice
+Kerala,Sep-23,50.48,Rice
+Madhya Pradesh,Sep-23,37.45,Rice
+Maharashtra,Sep-23,47.55,Rice
+Meghalaya,Sep-23,38.99,Rice
+Mizoram,Sep-23,47.31,Rice
+Nagaland,Sep-23,40.72,Rice
+Odisha,Sep-23,37.15,Rice
+Puducherry,Sep-23,46.3,Rice
+Punjab,Sep-23,37,Rice
+Rajasthan,Sep-23,39.88,Rice
+Sikkim,Sep-23,51.78,Rice
+Tamil Nadu,Sep-23,56.07,Rice
+Telangana,Sep-23,49,Rice
+Tripura,Sep-23,39.23,Rice
+Uttar Pradesh,Sep-23,36.68,Rice
+Uttarakhand,Sep-23,34.75,Rice
+West Bengal,Sep-23,43.28,Rice
+Andaman and Nicobar,Oct-23,44.63,Rice
+Andhra Pradesh,Oct-23,53.34,Rice
+Arunachal pradesh,Oct-23,36.1,Rice
+Assam,Oct-23,42.26,Rice
+Bihar,Oct-23,38.33,Rice
+Chandigarh,Oct-23,41.87,Rice
+Chhattisgarh,Oct-23,40.61,Rice
+Delhi,Oct-23,39,Rice
+DNH and DD,Oct-23,46.71,Rice
+Goa,Oct-23,47.64,Rice
+Gujarat,Oct-23,38.96,Rice
+Haryana,Oct-23,40.86,Rice
+Himachal Pradesh,Oct-23,38.32,Rice
+Jammu and Kashmir,Oct-23,38.26,Rice
+Jharkhand,Oct-23,38.94,Rice
+Karnataka,Oct-23,56.26,Rice
+Kerala,Oct-23,50.48,Rice
+Madhya Pradesh,Oct-23,37.9,Rice
+Maharashtra,Oct-23,48.43,Rice
+Meghalaya,Oct-23,38.71,Rice
+Mizoram,Oct-23,47.7,Rice
+Nagaland,Oct-23,40.64,Rice
+Odisha,Oct-23,37.59,Rice
+Puducherry,Oct-23,52,Rice
+Punjab,Oct-23,37.66,Rice
+Rajasthan,Oct-23,39.71,Rice
+Sikkim,Oct-23,51.85,Rice
+Tamil Nadu,Oct-23,56.83,Rice
+Telangana,Oct-23,49.98,Rice
+Tripura,Oct-23,39.12,Rice
+Uttar Pradesh,Oct-23,36.97,Rice
+Uttarakhand,Oct-23,35.3,Rice
+West Bengal,Oct-23,43.38,Rice
+Andaman and Nicobar,Nov-23,45.78,Rice
+Andhra Pradesh,Nov-23,53.66,Rice
+Arunachal pradesh,Nov-23,36.02,Rice
+Assam,Nov-23,42.66,Rice
+Bihar,Nov-23,38.37,Rice
+Chandigarh,Nov-23,42,Rice
+Chhattisgarh,Nov-23,40.88,Rice
+Delhi,Nov-23,39,Rice
+DNH and DD,Nov-23,48.37,Rice
+Goa,Nov-23,48.31,Rice
+Gujarat,Nov-23,40.64,Rice
+Haryana,Nov-23,41.86,Rice
+Himachal Pradesh,Nov-23,38.64,Rice
+Jammu and Kashmir,Nov-23,40.59,Rice
+Jharkhand,Nov-23,38.9,Rice
+Karnataka,Nov-23,56.2,Rice
+Kerala,Nov-23,50.74,Rice
+Madhya Pradesh,Nov-23,38.29,Rice
+Maharashtra,Nov-23,48.66,Rice
+Meghalaya,Nov-23,38.7,Rice
+Mizoram,Nov-23,48.08,Rice
+Nagaland,Nov-23,40.65,Rice
+Odisha,Nov-23,37.46,Rice
+Puducherry,Nov-23,54.52,Rice
+Punjab,Nov-23,38.46,Rice
+Rajasthan,Nov-23,39.5,Rice
+Sikkim,Nov-23,54.03,Rice
+Tamil Nadu,Nov-23,57.62,Rice
+Telangana,Nov-23,50.9,Rice
+Tripura,Nov-23,38.99,Rice
+Uttar Pradesh,Nov-23,37.22,Rice
+Uttarakhand,Nov-23,35.65,Rice
+West Bengal,Nov-23,43.38,Rice
+Andaman and Nicobar,Dec-23,48.01,Rice
+Andhra Pradesh,Dec-23,55.75,Rice
+Arunachal pradesh,Dec-23,34.42,Rice
+Assam,Dec-23,43.11,Rice
+Bihar,Dec-23,38.15,Rice
+Chandigarh,Dec-23,42,Rice
+Chhattisgarh,Dec-23,41.33,Rice
+Delhi,Dec-23,39,Rice
+DNH and DD,Dec-23,48.76,Rice
+Goa,Dec-23,49.33,Rice
+Gujarat,Dec-23,41.82,Rice
+Haryana,Dec-23,42.85,Rice
+Himachal Pradesh,Dec-23,38.75,Rice
+Jammu and Kashmir,Dec-23,42.74,Rice
+Jharkhand,Dec-23,38.65,Rice
+Karnataka,Dec-23,57.45,Rice
+Kerala,Dec-23,50.78,Rice
+Madhya Pradesh,Dec-23,38.91,Rice
+Maharashtra,Dec-23,49.32,Rice
+Meghalaya,Dec-23,39.19,Rice
+Mizoram,Dec-23,48.16,Rice
+Nagaland,Dec-23,41.02,Rice
+Odisha,Dec-23,37.68,Rice
+Puducherry,Dec-23,59.13,Rice
+Punjab,Dec-23,38.67,Rice
+Rajasthan,Dec-23,39.99,Rice
+Sikkim,Dec-23,54.04,Rice
+Tamil Nadu,Dec-23,58.26,Rice
+Telangana,Dec-23,51.28,Rice
+Tripura,Dec-23,38.99,Rice
+Uttar Pradesh,Dec-23,37.47,Rice
+Uttarakhand,Dec-23,36.59,Rice
+West Bengal,Dec-23,43.4,Rice
+Andaman and Nicobar,Jan-24,48.95,Rice
+Andhra Pradesh,Jan-24,58.1,Rice
+Arunachal pradesh,Jan-24,34.46,Rice
+Assam,Jan-24,43.55,Rice
+Bihar,Jan-24,37.62,Rice
+Chandigarh,Jan-24,42,Rice
+Chhattisgarh,Jan-24,41.64,Rice
+Delhi,Jan-24,39.65,Rice
+DNH and DD,Jan-24,48.47,Rice
+Goa,Jan-24,51.97,Rice
+Gujarat,Jan-24,42.92,Rice
+Haryana,Jan-24,42.6,Rice
+Himachal Pradesh,Jan-24,38.56,Rice
+Jammu and Kashmir,Jan-24,43.85,Rice
+Jharkhand,Jan-24,38.39,Rice
+Karnataka,Jan-24,58.27,Rice
+Kerala,Jan-24,50.67,Rice
+Madhya Pradesh,Jan-24,39.04,Rice
+Maharashtra,Jan-24,49.95,Rice
+Manipur,Jan-24,50.5,Rice
+Meghalaya,Jan-24,38.97,Rice
+Mizoram,Jan-24,48.16,Rice
+Nagaland,Jan-24,41.59,Rice
+Odisha,Jan-24,37.68,Rice
+Puducherry,Jan-24,56.68,Rice
+Punjab,Jan-24,38.04,Rice
+Rajasthan,Jan-24,39.85,Rice
+Sikkim,Jan-24,54.92,Rice
+Tamil Nadu,Jan-24,60.17,Rice
+Telangana,Jan-24,51.73,Rice
+Tripura,Jan-24,38.82,Rice
+Uttar Pradesh,Jan-24,37.72,Rice
+Uttarakhand,Jan-24,36.49,Rice
+West Bengal,Jan-24,43.32,Rice
+Andaman and Nicobar,Feb-24,49.05,Rice
+Andhra Pradesh,Feb-24,60.38,Rice
+Arunachal pradesh,Feb-24,38.51,Rice
+Assam,Feb-24,43.37,Rice
+Bihar,Feb-24,37.53,Rice
+Chandigarh,Feb-24,42,Rice
+Chhattisgarh,Feb-24,41.52,Rice
+Delhi,Feb-24,40,Rice
+DNH and DD,Feb-24,48.67,Rice
+Goa,Feb-24,52,Rice
+Gujarat,Feb-24,43.23,Rice
+Haryana,Feb-24,43.69,Rice
+Himachal Pradesh,Feb-24,38.6,Rice
+Jammu and Kashmir,Feb-24,43.98,Rice
+Jharkhand,Feb-24,38.92,Rice
+Karnataka,Feb-24,58.63,Rice
+Kerala,Feb-24,50.42,Rice
+Madhya Pradesh,Feb-24,39.56,Rice
+Maharashtra,Feb-24,51.02,Rice
+Manipur,Feb-24,50.29,Rice
+Meghalaya,Feb-24,39.04,Rice
+Mizoram,Feb-24,48.05,Rice
+Nagaland,Feb-24,41.74,Rice
+Odisha,Feb-24,38.18,Rice
+Puducherry,Feb-24,58.31,Rice
+Punjab,Feb-24,38.31,Rice
+Rajasthan,Feb-24,40.18,Rice
+Sikkim,Feb-24,53.99,Rice
+Tamil Nadu,Feb-24,61.34,Rice
+Telangana,Feb-24,52.63,Rice
+Tripura,Feb-24,38.8,Rice
+Uttar Pradesh,Feb-24,38.14,Rice
+Uttarakhand,Feb-24,36.33,Rice
+West Bengal,Feb-24,43.43,Rice
+Andaman and Nicobar,Mar-24,48.56,Rice
+Andhra Pradesh,Mar-24,60.76,Rice
+Arunachal pradesh,Mar-24,41.35,Rice
+Assam,Mar-24,43.09,Rice
+Bihar,Mar-24,37.47,Rice
+Chandigarh,Mar-24,42,Rice
+Chhattisgarh,Mar-24,40.91,Rice
+Delhi,Mar-24,40,Rice
+DNH and DD,Mar-24,48.43,Rice
+Goa,Mar-24,52.29,Rice
+Gujarat,Mar-24,43.72,Rice
+Haryana,Mar-24,43.51,Rice
+Himachal Pradesh,Mar-24,39.33,Rice
+Jammu and Kashmir,Mar-24,43.99,Rice
+Jharkhand,Mar-24,38.8,Rice
+Karnataka,Mar-24,58.91,Rice
+Kerala,Mar-24,50.13,Rice
+Madhya Pradesh,Mar-24,39.38,Rice
+Maharashtra,Mar-24,51.12,Rice
+Manipur,Mar-24,50.24,Rice
+Meghalaya,Mar-24,39.02,Rice
+Mizoram,Mar-24,48.12,Rice
+Nagaland,Mar-24,41.99,Rice
+Odisha,Mar-24,38.35,Rice
+Puducherry,Mar-24,60.73,Rice
+Punjab,Mar-24,38.81,Rice
+Rajasthan,Mar-24,40.43,Rice
+Sikkim,Mar-24,54.69,Rice
+Tamil Nadu,Mar-24,61.71,Rice
+Telangana,Mar-24,53.49,Rice
+Tripura,Mar-24,38.53,Rice
+Uttar Pradesh,Mar-24,38.29,Rice
+Uttarakhand,Mar-24,36.91,Rice
+West Bengal,Mar-24,43.56,Rice
+Andaman and Nicobar,Apr-24,48.53,Rice
+Andhra Pradesh,Apr-24,60.38,Rice
+Arunachal pradesh,Apr-24,45.55,Rice
+Assam,Apr-24,43.03,Rice
+Bihar,Apr-24,37.66,Rice
+Chandigarh,Apr-24,42,Rice
+Chhattisgarh,Apr-24,41.28,Rice
+Delhi,Apr-24,39.77,Rice
+DNH and DD,Apr-24,49.13,Rice
+Goa,Apr-24,53.17,Rice
+Gujarat,Apr-24,43.58,Rice
+Haryana,Apr-24,43.95,Rice
+Himachal Pradesh,Apr-24,40.01,Rice
+Jammu and Kashmir,Apr-24,44.41,Rice
+Jharkhand,Apr-24,39.01,Rice
+Karnataka,Apr-24,59.25,Rice
+Kerala,Apr-24,50.34,Rice
+Madhya Pradesh,Apr-24,40.05,Rice
+Maharashtra,Apr-24,51.79,Rice
+Manipur,Apr-24,50,Rice
+Meghalaya,Apr-24,39.02,Rice
+Mizoram,Apr-24,48.24,Rice
+Nagaland,Apr-24,41.83,Rice
+Odisha,Apr-24,38.28,Rice
+Puducherry,Apr-24,61.85,Rice
+Punjab,Apr-24,39.3,Rice
+Rajasthan,Apr-24,40.58,Rice
+Sikkim,Apr-24,55.25,Rice
+Tamil Nadu,Apr-24,61.43,Rice
+Telangana,Apr-24,52.99,Rice
+Tripura,Apr-24,38.1,Rice
+Uttar Pradesh,Apr-24,38.15,Rice
+Uttarakhand,Apr-24,37.22,Rice
+West Bengal,Apr-24,43.82,Rice
+Andaman and Nicobar,May-24,48.37,Rice
+Andhra Pradesh,May-24,60.46,Rice
+Arunachal pradesh,May-24,46.23,Rice
+Assam,May-24,42.46,Rice
+Bihar,May-24,37.75,Rice
+Chandigarh,May-24,42,Rice
+Chhattisgarh,May-24,41.11,Rice
+Delhi,May-24,39.52,Rice
+DNH and DD,May-24,49.37,Rice
+Goa,May-24,53,Rice
+Gujarat,May-24,43.72,Rice
+Haryana,May-24,43.59,Rice
+Himachal Pradesh,May-24,40.55,Rice
+Jammu and Kashmir,May-24,47.58,Rice
+Jharkhand,May-24,39.18,Rice
+Karnataka,May-24,59.48,Rice
+Kerala,May-24,50.27,Rice
+Madhya Pradesh,May-24,40.68,Rice
+Maharashtra,May-24,51.44,Rice
+Manipur,May-24,50,Rice
+Meghalaya,May-24,39.31,Rice
+Mizoram,May-24,48.37,Rice
+Nagaland,May-24,41.95,Rice
+Odisha,May-24,38.26,Rice
+Puducherry,May-24,63.43,Rice
+Punjab,May-24,39.36,Rice
+Rajasthan,May-24,40.69,Rice
+Sikkim,May-24,54.68,Rice
+Tamil Nadu,May-24,61.52,Rice
+Telangana,May-24,53.66,Rice
+Tripura,May-24,38.25,Rice
+Uttar Pradesh,May-24,38.2,Rice
+Uttarakhand,May-24,37.35,Rice
+West Bengal,May-24,43.9,Rice
+Andaman and Nicobar,Jun-24,48.34,Rice
+Andhra Pradesh,Jun-24,60.25,Rice
+Arunachal pradesh,Jun-24,47.3,Rice
+Assam,Jun-24,42.26,Rice
+Bihar,Jun-24,38.05,Rice
+Chandigarh,Jun-24,40.36,Rice
+Chhattisgarh,Jun-24,40.55,Rice
+Delhi,Jun-24,40,Rice
+DNH and DD,Jun-24,49.69,Rice
+Goa,Jun-24,52.53,Rice
+Gujarat,Jun-24,43.13,Rice
+Haryana,Jun-24,42.48,Rice
+Himachal Pradesh,Jun-24,40.85,Rice
+Jammu and Kashmir,Jun-24,46.52,Rice
+Jharkhand,Jun-24,39.72,Rice
+Karnataka,Jun-24,59.96,Rice
+Kerala,Jun-24,50.26,Rice
+Madhya Pradesh,Jun-24,41.03,Rice
+Maharashtra,Jun-24,52.19,Rice
+Manipur,Jun-24,50,Rice
+Meghalaya,Jun-24,44.47,Rice
+Mizoram,Jun-24,48.12,Rice
+Nagaland,Jun-24,41.68,Rice
+Odisha,Jun-24,38.69,Rice
+Puducherry,Jun-24,64.54,Rice
+Punjab,Jun-24,39.42,Rice
+Rajasthan,Jun-24,41.06,Rice
+Sikkim,Jun-24,54.2,Rice
+Tamil Nadu,Jun-24,61.75,Rice
+Telangana,Jun-24,53.75,Rice
+Tripura,Jun-24,38.38,Rice
+Uttar Pradesh,Jun-24,38.81,Rice
+Uttarakhand,Jun-24,37.69,Rice
+West Bengal,Jun-24,44.07,Rice
+Andaman and Nicobar,Jul-24,50.22,Rice
+Andhra Pradesh,Jul-24,54.85,Rice
+Arunachal pradesh,Jul-24,45.99,Rice
+Assam,Jul-24,42.89,Rice
+Bihar,Jul-24,37.94,Rice
+Chandigarh,Jul-24,42.17,Rice
+Chhattisgarh,Jul-24,41.75,Rice
+Delhi,Jul-24,40,Rice
+DNH and DD,Jul-24,51.02,Rice
+Goa,Jul-24,53.13,Rice
+Gujarat,Jul-24,41.36,Rice
+Haryana,Jul-24,38.21,Rice
+Himachal Pradesh,Jul-24,40.97,Rice
+Jammu and Kashmir,Jul-24,47.27,Rice
+Jharkhand,Jul-24,39.21,Rice
+Karnataka,Jul-24,58.72,Rice
+Kerala,Jul-24,50.4,Rice
+Madhya Pradesh,Jul-24,39.85,Rice
+Maharashtra,Jul-24,51.23,Rice
+Manipur,Jul-24,51.76,Rice
+Meghalaya,Jul-24,46.17,Rice
+Mizoram,Jul-24,48.03,Rice
+Nagaland,Jul-24,42.76,Rice
+Odisha,Jul-24,38.87,Rice
+Puducherry,Jul-24,66.38,Rice
+Punjab,Jul-24,39.97,Rice
+Rajasthan,Jul-24,41.36,Rice
+Sikkim,Jul-24,52.29,Rice
+Tamil Nadu,Jul-24,61.51,Rice
+Telangana,Jul-24,54.76,Rice
+Tripura,Jul-24,37.89,Rice
+Uttar Pradesh,Jul-24,39.44,Rice
+Uttarakhand,Jul-24,37.39,Rice
+West Bengal,Jul-24,44.21,Rice
+Andaman and Nicobar,Aug-24,51.64,Rice
+Andhra Pradesh,Aug-24,52.72,Rice
+Arunachal pradesh,Aug-24,44.57,Rice
+Assam,Aug-24,42.76,Rice
+Bihar,Aug-24,37.65,Rice
+Chandigarh,Aug-24,44.07,Rice
+Chhattisgarh,Aug-24,37.24,Rice
+Delhi,Aug-24,40,Rice
+DNH and DD,Aug-24,49,Rice
+Goa,Aug-24,52.69,Rice
+Gujarat,Aug-24,39.25,Rice
+Haryana,Aug-24,37.47,Rice
+Himachal Pradesh,Aug-24,41.3,Rice
+Jammu and Kashmir,Aug-24,44.93,Rice
+Jharkhand,Aug-24,38.91,Rice
+Karnataka,Aug-24,54.8,Rice
+Kerala,Aug-24,49.92,Rice
+Madhya Pradesh,Aug-24,38.41,Rice
+Maharashtra,Aug-24,47.71,Rice
+Manipur,Aug-24,52.65,Rice
+Meghalaya,Aug-24,46.4,Rice
+Mizoram,Aug-24,48.62,Rice
+Nagaland,Aug-24,43.34,Rice
+Odisha,Aug-24,38.71,Rice
+Puducherry,Aug-24,64.13,Rice
+Punjab,Aug-24,39.81,Rice
+Rajasthan,Aug-24,41.71,Rice
+Sikkim,Aug-24,50.62,Rice
+Tamil Nadu,Aug-24,57.2,Rice
+Telangana,Aug-24,55.19,Rice
+Tripura,Aug-24,38.3,Rice
+Uttar Pradesh,Aug-24,39.9,Rice
+Uttarakhand,Aug-24,37.2,Rice
+West Bengal,Aug-24,43.18,Rice
+Andaman and Nicobar,Sep-24,52.09,Rice
+Andhra Pradesh,Sep-24,53.12,Rice
+Arunachal pradesh,Sep-24,45.11,Rice
+Assam,Sep-24,41.51,Rice
+Bihar,Sep-24,37.75,Rice
+Chandigarh,Sep-24,44,Rice
+Chhattisgarh,Sep-24,36.93,Rice
+Delhi,Sep-24,40,Rice
+DNH and DD,Sep-24,47.06,Rice
+Goa,Sep-24,53.45,Rice
+Gujarat,Sep-24,38.16,Rice
+Haryana,Sep-24,38.38,Rice
+Himachal Pradesh,Sep-24,41.16,Rice
+Jammu and Kashmir,Sep-24,45.55,Rice
+Jharkhand,Sep-24,38.56,Rice
+Karnataka,Sep-24,54.5,Rice
+Kerala,Sep-24,49.78,Rice
+Madhya Pradesh,Sep-24,38.05,Rice
+Maharashtra,Sep-24,47.92,Rice
+Manipur,Sep-24,53,Rice
+Meghalaya,Sep-24,41.76,Rice
+Mizoram,Sep-24,49.12,Rice
+Nagaland,Sep-24,42.96,Rice
+Odisha,Sep-24,38.92,Rice
+Puducherry,Sep-24,63.29,Rice
+Punjab,Sep-24,39.86,Rice
+Rajasthan,Sep-24,41.82,Rice
+Sikkim,Sep-24,48.81,Rice
+Tamil Nadu,Sep-24,57.28,Rice
+Telangana,Sep-24,54.8,Rice
+Tripura,Sep-24,37.99,Rice
+Uttar Pradesh,Sep-24,39.6,Rice
+Uttarakhand,Sep-24,37.6,Rice
+West Bengal,Sep-24,43.23,Rice
+Andaman and Nicobar,Oct-24,51.53,Rice
+Andhra Pradesh,Oct-24,53.28,Rice
+Arunachal pradesh,Oct-24,44.81,Rice
+Assam,Oct-24,41.79,Rice
+Bihar,Oct-24,37.95,Rice
+Chandigarh,Oct-24,44,Rice
+Chhattisgarh,Oct-24,37.62,Rice
+Delhi,Oct-24,40,Rice
+DNH and DD,Oct-24,46.66,Rice
+Goa,Oct-24,54.55,Rice
+Gujarat,Oct-24,38.37,Rice
+Haryana,Oct-24,38.68,Rice
+Himachal Pradesh,Oct-24,41.08,Rice
+Jammu and Kashmir,Oct-24,44.28,Rice
+Jharkhand,Oct-24,38.84,Rice
+Karnataka,Oct-24,53.86,Rice
+Kerala,Oct-24,49.49,Rice
+Ladakh,Oct-24,47.55,Rice
+Madhya Pradesh,Oct-24,37.94,Rice
+Maharashtra,Oct-24,48.17,Rice
+Manipur,Oct-24,51.33,Rice
+Meghalaya,Oct-24,38.01,Rice
+Mizoram,Oct-24,49.63,Rice
+Nagaland,Oct-24,42.73,Rice
+Odisha,Oct-24,39.09,Rice
+Puducherry,Oct-24,65,Rice
+Punjab,Oct-24,39.82,Rice
+Rajasthan,Oct-24,42.01,Rice
+Sikkim,Oct-24,49.21,Rice
+Tamil Nadu,Oct-24,57.51,Rice
+Telangana,Oct-24,55.76,Rice
+Tripura,Oct-24,38.17,Rice
+Uttar Pradesh,Oct-24,39.57,Rice
+Uttarakhand,Oct-24,37.63,Rice
+West Bengal,Oct-24,43.35,Rice
+Andaman and Nicobar,Nov-24,51.35,Rice
+Andhra Pradesh,Nov-24,53.41,Rice
+Arunachal pradesh,Nov-24,44.73,Rice
+Assam,Nov-24,41.53,Rice
+Bihar,Nov-24,37.88,Rice
+Chandigarh,Nov-24,44,Rice
+Chhattisgarh,Nov-24,38.41,Rice
+Delhi,Nov-24,39.1,Rice
+DNH and DD,Nov-24,51.1,Rice
+Goa,Nov-24,54.43,Rice
+Gujarat,Nov-24,38.99,Rice
+Haryana,Nov-24,39.05,Rice
+Himachal Pradesh,Nov-24,41.04,Rice
+Jammu and Kashmir,Nov-24,44.44,Rice
+Jharkhand,Nov-24,39.16,Rice
+Karnataka,Nov-24,53.88,Rice
+Kerala,Nov-24,49.38,Rice
+Ladakh,Nov-24,47.63,Rice
+Madhya Pradesh,Nov-24,38.1,Rice
+Maharashtra,Nov-24,48.02,Rice
+Manipur,Nov-24,51,Rice
+Meghalaya,Nov-24,37.48,Rice
+Mizoram,Nov-24,49.84,Rice
+Nagaland,Nov-24,43.4,Rice
+Odisha,Nov-24,39.56,Rice
+Puducherry,Nov-24,65,Rice
+Punjab,Nov-24,39.98,Rice
+Rajasthan,Nov-24,41.82,Rice
+Sikkim,Nov-24,49.19,Rice
+Tamil Nadu,Nov-24,57.77,Rice
+Telangana,Nov-24,56.09,Rice
+Tripura,Nov-24,37.88,Rice
+Uttar Pradesh,Nov-24,39.5,Rice
+Uttarakhand,Nov-24,37.51,Rice
+West Bengal,Nov-24,43.34,Rice
+Andaman and Nicobar,Dec-24,52.76,Rice
+Andhra Pradesh,Dec-24,53.62,Rice
+Arunachal pradesh,Dec-24,44.88,Rice
+Assam,Dec-24,41.79,Rice
+Bihar,Dec-24,37.88,Rice
+Chandigarh,Dec-24,44,Rice
+Chhattisgarh,Dec-24,37.62,Rice
+Delhi,Dec-24,37.9,Rice
+DNH and DD,Dec-24,49.84,Rice
+Goa,Dec-24,57.78,Rice
+Gujarat,Dec-24,39.7,Rice
+Haryana,Dec-24,38.8,Rice
+Himachal Pradesh,Dec-24,41.12,Rice
+Jammu and Kashmir,Dec-24,45.67,Rice
+Jharkhand,Dec-24,38.7,Rice
+Karnataka,Dec-24,50.87,Rice
+Kerala,Dec-24,49.66,Rice
+Ladakh,Dec-24,49.88,Rice
+Madhya Pradesh,Dec-24,38.47,Rice
+Maharashtra,Dec-24,47.58,Rice
+Manipur,Dec-24,51.25,Rice
+Meghalaya,Dec-24,37.72,Rice
+Mizoram,Dec-24,49.46,Rice
+Nagaland,Dec-24,43.13,Rice
+Odisha,Dec-24,39.06,Rice
+Puducherry,Dec-24,65,Rice
+Punjab,Dec-24,40.58,Rice
+Rajasthan,Dec-24,41.73,Rice
+Sikkim,Dec-24,46.82,Rice
+Tamil Nadu,Dec-24,57.49,Rice
+Telangana,Dec-24,55.95,Rice
+Tripura,Dec-24,38.57,Rice
+Uttar Pradesh,Dec-24,39.31,Rice
+Uttarakhand,Dec-24,38.15,Rice
+West Bengal,Dec-24,43.65,Rice
+Andaman and Nicobar,Jan-25,54.14,Rice
+Andhra Pradesh,Jan-25,54.74,Rice
+Arunachal pradesh,Jan-25,44.54,Rice
+Assam,Jan-25,40.79,Rice
+Bihar,Jan-25,37.79,Rice
+Chandigarh,Jan-25,44,Rice
+Chhattisgarh,Jan-25,37.66,Rice
+Delhi,Jan-25,36.87,Rice
+DNH and DD,Jan-25,49.05,Rice
+Goa,Jan-25,58.02,Rice
+Gujarat,Jan-25,38.63,Rice
+Haryana,Jan-25,39.28,Rice
+Himachal Pradesh,Jan-25,41.03,Rice
+Jammu and Kashmir,Jan-25,47.22,Rice
+Jharkhand,Jan-25,38.42,Rice
+Karnataka,Jan-25,49.46,Rice
+Kerala,Jan-25,49.93,Rice
+Ladakh,Jan-25,49.56,Rice
+Madhya Pradesh,Jan-25,38.61,Rice
+Maharashtra,Jan-25,46.95,Rice
+Manipur,Jan-25,52.23,Rice
+Meghalaya,Jan-25,37.64,Rice
+Mizoram,Jan-25,49.22,Rice
+Nagaland,Jan-25,43.02,Rice
+Odisha,Jan-25,38.82,Rice
+Puducherry,Jan-25,65.26,Rice
+Punjab,Jan-25,40.65,Rice
+Rajasthan,Jan-25,41.91,Rice
+Sikkim,Jan-25,46.53,Rice
+Tamil Nadu,Jan-25,56.52,Rice
+Telangana,Jan-25,56.02,Rice
+Tripura,Jan-25,38.43,Rice
+Uttar Pradesh,Jan-25,39.05,Rice
+Uttarakhand,Jan-25,38.54,Rice
+West Bengal,Jan-25,43.92,Rice
+Andaman and Nicobar,Feb-25,54.51,Rice
+Andhra Pradesh,Feb-25,53.67,Rice
+Arunachal pradesh,Feb-25,42.67,Rice
+Assam,Feb-25,39.8,Rice
+Bihar,Feb-25,38.07,Rice
+Chandigarh,Feb-25,44,Rice
+Chhattisgarh,Feb-25,38.36,Rice
+Delhi,Feb-25,38.36,Rice
+DNH and DD,Feb-25,49.44,Rice
+Goa,Feb-25,57.31,Rice
+Gujarat,Feb-25,37.63,Rice
+Haryana,Feb-25,40.48,Rice
+Himachal Pradesh,Feb-25,40.73,Rice
+Jammu and Kashmir,Feb-25,46.29,Rice
+Jharkhand,Feb-25,38.75,Rice
+Karnataka,Feb-25,48.69,Rice
+Kerala,Feb-25,50.05,Rice
+Ladakh,Feb-25,48.43,Rice
+Madhya Pradesh,Feb-25,38.62,Rice
+Maharashtra,Feb-25,46.59,Rice
+Manipur,Feb-25,52.1,Rice
+Meghalaya,Feb-25,37.45,Rice
+Mizoram,Feb-25,49.17,Rice
+Nagaland,Feb-25,42.92,Rice
+Odisha,Feb-25,38.91,Rice
+Puducherry,Feb-25,67,Rice
+Punjab,Feb-25,40.63,Rice
+Rajasthan,Feb-25,41.98,Rice
+Sikkim,Feb-25,46.53,Rice
+Tamil Nadu,Feb-25,55.73,Rice
+Telangana,Feb-25,55.4,Rice
+Tripura,Feb-25,39.02,Rice
+Uttar Pradesh,Feb-25,38.83,Rice
+Uttarakhand,Feb-25,38.34,Rice
+West Bengal,Feb-25,44.34,Rice
+Andaman and Nicobar,Mar-25,54.37,Rice
+Andhra Pradesh,Mar-25,54.06,Rice
+Arunachal pradesh,Mar-25,41.94,Rice
+Assam,Mar-25,39.53,Rice
+Bihar,Mar-25,38.06,Rice
+Chandigarh,Mar-25,44,Rice
+Chhattisgarh,Mar-25,38.38,Rice
+Delhi,Mar-25,39.48,Rice
+DNH and DD,Mar-25,49.65,Rice
+Goa,Mar-25,56.32,Rice
+Gujarat,Mar-25,37.46,Rice
+Haryana,Mar-25,40.32,Rice
+Himachal Pradesh,Mar-25,40.97,Rice
+Jammu and Kashmir,Mar-25,46.3,Rice
+Jharkhand,Mar-25,38.93,Rice
+Karnataka,Mar-25,49.02,Rice
+Kerala,Mar-25,50.13,Rice
+Ladakh,Mar-25,49.28,Rice
+Madhya Pradesh,Mar-25,38.79,Rice
+Maharashtra,Mar-25,46.54,Rice
+Manipur,Mar-25,52.95,Rice
+Meghalaya,Mar-25,37.21,Rice
+Mizoram,Mar-25,48.84,Rice
+Nagaland,Mar-25,42.76,Rice
+Odisha,Mar-25,39.06,Rice
+Puducherry,Mar-25,65.78,Rice
+Punjab,Mar-25,40.41,Rice
+Rajasthan,Mar-25,41.65,Rice
+Sikkim,Mar-25,46.5,Rice
+Tamil Nadu,Mar-25,55.44,Rice
+Telangana,Mar-25,54.89,Rice
+Tripura,Mar-25,39.56,Rice
+Uttar Pradesh,Mar-25,38.67,Rice
+Uttarakhand,Mar-25,38.62,Rice
+West Bengal,Mar-25,45.23,Rice
+Andaman and Nicobar,Apr-25,53.58,Rice
+Andhra Pradesh,Apr-25,53.33,Rice
+Arunachal pradesh,Apr-25,42,Rice
+Assam,Apr-25,39.73,Rice
+Bihar,Apr-25,38.16,Rice
+Chandigarh,Apr-25,44,Rice
+Chhattisgarh,Apr-25,38.61,Rice
+Delhi,Apr-25,37.5,Rice
+DNH and DD,Apr-25,48.7,Rice
+Goa,Apr-25,56.25,Rice
+Gujarat,Apr-25,37.53,Rice
+Haryana,Apr-25,39.64,Rice
+Himachal Pradesh,Apr-25,41.23,Rice
+Jammu and Kashmir,Apr-25,47.46,Rice
+Jharkhand,Apr-25,38.95,Rice
+Karnataka,Apr-25,49.09,Rice
+Kerala,Apr-25,50.24,Rice
+Ladakh,Apr-25,54,Rice
+Madhya Pradesh,Apr-25,38.78,Rice
+Maharashtra,Apr-25,46.33,Rice
+Manipur,Apr-25,52.5,Rice
+Meghalaya,Apr-25,36.73,Rice
+Mizoram,Apr-25,48.28,Rice
+Nagaland,Apr-25,43.15,Rice
+Odisha,Apr-25,39.53,Rice
+Puducherry,Apr-25,65,Rice
+Punjab,Apr-25,40.47,Rice
+Rajasthan,Apr-25,42.13,Rice
+Sikkim,Apr-25,46.5,Rice
+Tamil Nadu,Apr-25,55.4,Rice
+Telangana,Apr-25,54.77,Rice
+Tripura,Apr-25,39.5,Rice
+Uttar Pradesh,Apr-25,38.45,Rice
+Uttarakhand,Apr-25,38.55,Rice
+West Bengal,Apr-25,45.86,Rice

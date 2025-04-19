@@ -1,0 +1,5714 @@
+State,Month,Price,Commodity
+Assam,Jan-09,24,Milk
+Bihar,Jan-09,20,Milk
+Chandigarh,Jan-09,23,Milk
+Chhattisgarh,Jan-09,22,Milk
+Delhi,Jan-09,21,Milk
+Gujarat,Jan-09,24.2,Milk
+Himachal Pradesh,Jan-09,20,Milk
+Jammu and Kashmir,Jan-09,20,Milk
+Jharkhand,Jan-09,18,Milk
+Karnataka,Jan-09,16,Milk
+Kerala,Jan-09,20,Milk
+Madhya Pradesh,Jan-09,22.05,Milk
+Maharashtra,Jan-09,20,Milk
+Meghalaya,Jan-09,31,Milk
+Mizoram,Jan-09,28,Milk
+Odisha,Jan-09,20,Milk
+Punjab,Jan-09,21.5,Milk
+Rajasthan,Jan-09,14,Milk
+Tamil Nadu,Jan-09,18,Milk
+Telangana,Jan-09,21,Milk
+Uttar Pradesh,Jan-09,26,Milk
+Uttarakhand,Jan-09,22,Milk
+West Bengal,Jan-09,20,Milk
+Assam,Feb-09,22.2,Milk
+Bihar,Feb-09,20,Milk
+Chandigarh,Feb-09,23,Milk
+Chhattisgarh,Feb-09,22,Milk
+Delhi,Feb-09,21,Milk
+Gujarat,Feb-09,25,Milk
+Himachal Pradesh,Feb-09,20,Milk
+Jammu and Kashmir,Feb-09,20,Milk
+Jharkhand,Feb-09,18,Milk
+Karnataka,Feb-09,16,Milk
+Kerala,Feb-09,20,Milk
+Madhya Pradesh,Feb-09,23,Milk
+Maharashtra,Feb-09,20,Milk
+Meghalaya,Feb-09,31,Milk
+Mizoram,Feb-09,28,Milk
+Odisha,Feb-09,20,Milk
+Punjab,Feb-09,21.55,Milk
+Rajasthan,Feb-09,14,Milk
+Tamil Nadu,Feb-09,18,Milk
+Telangana,Feb-09,21,Milk
+Uttar Pradesh,Feb-09,26,Milk
+Uttarakhand,Feb-09,22,Milk
+West Bengal,Feb-09,20.4,Milk
+Assam,Mar-09,22,Milk
+Bihar,Mar-09,20,Milk
+Chandigarh,Mar-09,23,Milk
+Chhattisgarh,Mar-09,22,Milk
+Delhi,Mar-09,21,Milk
+Gujarat,Mar-09,25,Milk
+Himachal Pradesh,Mar-09,20,Milk
+Jammu and Kashmir,Mar-09,20,Milk
+Jharkhand,Mar-09,18,Milk
+Karnataka,Mar-09,16,Milk
+Kerala,Mar-09,20,Milk
+Madhya Pradesh,Mar-09,22.85,Milk
+Maharashtra,Mar-09,20,Milk
+Meghalaya,Mar-09,31,Milk
+Mizoram,Mar-09,28,Milk
+Odisha,Mar-09,20,Milk
+Punjab,Mar-09,22,Milk
+Rajasthan,Mar-09,14,Milk
+Tamil Nadu,Mar-09,18,Milk
+Telangana,Mar-09,21,Milk
+Uttar Pradesh,Mar-09,26,Milk
+Uttarakhand,Mar-09,22,Milk
+West Bengal,Mar-09,20,Milk
+Assam,Apr-09,22,Milk
+Bihar,Apr-09,20,Milk
+Chandigarh,Apr-09,23,Milk
+Chhattisgarh,Apr-09,22,Milk
+Delhi,Apr-09,21,Milk
+Gujarat,Apr-09,25,Milk
+Himachal Pradesh,Apr-09,20,Milk
+Jammu and Kashmir,Apr-09,20,Milk
+Jharkhand,Apr-09,18,Milk
+Karnataka,Apr-09,16,Milk
+Kerala,Apr-09,20,Milk
+Madhya Pradesh,Apr-09,22.22,Milk
+Maharashtra,Apr-09,21,Milk
+Meghalaya,Apr-09,31,Milk
+Mizoram,Apr-09,28,Milk
+Odisha,Apr-09,20,Milk
+Punjab,Apr-09,22,Milk
+Rajasthan,Apr-09,14,Milk
+Tamil Nadu,Apr-09,18,Milk
+Telangana,Apr-09,22,Milk
+Uttar Pradesh,Apr-09,26,Milk
+Uttarakhand,Apr-09,22,Milk
+West Bengal,Apr-09,20,Milk
+Assam,May-09,22,Milk
+Bihar,May-09,20,Milk
+Chandigarh,May-09,23,Milk
+Chhattisgarh,May-09,22,Milk
+Delhi,May-09,21,Milk
+Gujarat,May-09,25,Milk
+Himachal Pradesh,May-09,20,Milk
+Jammu and Kashmir,May-09,20,Milk
+Jharkhand,May-09,18,Milk
+Karnataka,May-09,18,Milk
+Kerala,May-09,20,Milk
+Madhya Pradesh,May-09,23,Milk
+Maharashtra,May-09,21,Milk
+Meghalaya,May-09,31,Milk
+Mizoram,May-09,28,Milk
+Odisha,May-09,20,Milk
+Punjab,May-09,23.75,Milk
+Rajasthan,May-09,14,Milk
+Tamil Nadu,May-09,18,Milk
+Telangana,May-09,22,Milk
+Uttar Pradesh,May-09,26,Milk
+Uttarakhand,May-09,22,Milk
+West Bengal,May-09,20,Milk
+Assam,Jun-09,22,Milk
+Bihar,Jun-09,20,Milk
+Chandigarh,Jun-09,23.18,Milk
+Chhattisgarh,Jun-09,22,Milk
+Delhi,Jun-09,21,Milk
+Gujarat,Jun-09,25,Milk
+Himachal Pradesh,Jun-09,20,Milk
+Jammu and Kashmir,Jun-09,20,Milk
+Jharkhand,Jun-09,18,Milk
+Karnataka,Jun-09,18,Milk
+Kerala,Jun-09,20,Milk
+Madhya Pradesh,Jun-09,23.32,Milk
+Maharashtra,Jun-09,21,Milk
+Meghalaya,Jun-09,31,Milk
+Mizoram,Jun-09,28,Milk
+Odisha,Jun-09,20,Milk
+Punjab,Jun-09,26.07,Milk
+Rajasthan,Jun-09,14,Milk
+Tamil Nadu,Jun-09,18,Milk
+Telangana,Jun-09,22.73,Milk
+Uttar Pradesh,Jun-09,26,Milk
+Uttarakhand,Jun-09,22,Milk
+West Bengal,Jun-09,20,Milk
+Assam,Jul-09,22,Milk
+Bihar,Jul-09,20,Milk
+Chandigarh,Jul-09,25,Milk
+Chhattisgarh,Jul-09,22,Milk
+Delhi,Jul-09,21,Milk
+Gujarat,Jul-09,25.26,Milk
+Himachal Pradesh,Jul-09,20.7,Milk
+Jammu and Kashmir,Jul-09,20,Milk
+Jharkhand,Jul-09,18,Milk
+Karnataka,Jul-09,18,Milk
+Kerala,Jul-09,20,Milk
+Madhya Pradesh,Jul-09,24.48,Milk
+Maharashtra,Jul-09,21.35,Milk
+Meghalaya,Jul-09,31,Milk
+Mizoram,Jul-09,28,Milk
+Odisha,Jul-09,20,Milk
+Punjab,Jul-09,25.54,Milk
+Rajasthan,Jul-09,14,Milk
+Tamil Nadu,Jul-09,18,Milk
+Telangana,Jul-09,24,Milk
+Uttar Pradesh,Jul-09,26,Milk
+Uttarakhand,Jul-09,22,Milk
+West Bengal,Jul-09,20,Milk
+Assam,Aug-09,22,Milk
+Bihar,Aug-09,20,Milk
+Chandigarh,Aug-09,25,Milk
+Chhattisgarh,Aug-09,22,Milk
+Delhi,Aug-09,21,Milk
+Gujarat,Aug-09,25,Milk
+Himachal Pradesh,Aug-09,21.3,Milk
+Jammu and Kashmir,Aug-09,20.25,Milk
+Jharkhand,Aug-09,18,Milk
+Karnataka,Aug-09,18,Milk
+Kerala,Aug-09,20,Milk
+Madhya Pradesh,Aug-09,25,Milk
+Maharashtra,Aug-09,21.4,Milk
+Meghalaya,Aug-09,31,Milk
+Mizoram,Aug-09,28,Milk
+Odisha,Aug-09,20,Milk
+Punjab,Aug-09,25,Milk
+Rajasthan,Aug-09,14,Milk
+Tamil Nadu,Aug-09,18,Milk
+Telangana,Aug-09,24,Milk
+Uttar Pradesh,Aug-09,26,Milk
+Uttarakhand,Aug-09,22,Milk
+West Bengal,Aug-09,20,Milk
+Assam,Sep-09,22,Milk
+Bihar,Sep-09,20,Milk
+Chandigarh,Sep-09,25,Milk
+Chhattisgarh,Sep-09,22,Milk
+Delhi,Sep-09,21,Milk
+Gujarat,Sep-09,25,Milk
+Himachal Pradesh,Sep-09,20,Milk
+Jammu and Kashmir,Sep-09,21,Milk
+Jharkhand,Sep-09,18,Milk
+Karnataka,Sep-09,18,Milk
+Kerala,Sep-09,20,Milk
+Madhya Pradesh,Sep-09,25,Milk
+Maharashtra,Sep-09,22,Milk
+Meghalaya,Sep-09,31,Milk
+Mizoram,Sep-09,28,Milk
+Odisha,Sep-09,20,Milk
+Punjab,Sep-09,25.5,Milk
+Rajasthan,Sep-09,14,Milk
+Tamil Nadu,Sep-09,19.05,Milk
+Telangana,Sep-09,24,Milk
+Uttar Pradesh,Sep-09,26,Milk
+Uttarakhand,Sep-09,22,Milk
+West Bengal,Sep-09,20,Milk
+Assam,Oct-09,22,Milk
+Bihar,Oct-09,20,Milk
+Chandigarh,Oct-09,25,Milk
+Chhattisgarh,Oct-09,22,Milk
+Delhi,Oct-09,21,Milk
+Gujarat,Oct-09,25.14,Milk
+Himachal Pradesh,Oct-09,20,Milk
+Jammu and Kashmir,Oct-09,21,Milk
+Jharkhand,Oct-09,18,Milk
+Karnataka,Oct-09,18,Milk
+Kerala,Oct-09,20,Milk
+Madhya Pradesh,Oct-09,24.86,Milk
+Maharashtra,Oct-09,22,Milk
+Meghalaya,Oct-09,31,Milk
+Mizoram,Oct-09,28,Milk
+Odisha,Oct-09,20,Milk
+Punjab,Oct-09,25.5,Milk
+Rajasthan,Oct-09,14,Milk
+Tamil Nadu,Oct-09,21,Milk
+Telangana,Oct-09,24,Milk
+Uttar Pradesh,Oct-09,27.33,Milk
+Uttarakhand,Oct-09,22,Milk
+West Bengal,Oct-09,20,Milk
+Assam,Nov-09,22,Milk
+Bihar,Nov-09,20,Milk
+Chandigarh,Nov-09,25,Milk
+Chhattisgarh,Nov-09,22,Milk
+Delhi,Nov-09,21.9,Milk
+Gujarat,Nov-09,26,Milk
+Himachal Pradesh,Nov-09,20,Milk
+Jammu and Kashmir,Nov-09,21,Milk
+Jharkhand,Nov-09,18,Milk
+Karnataka,Nov-09,16.1,Milk
+Kerala,Nov-09,20,Milk
+Madhya Pradesh,Nov-09,24,Milk
+Maharashtra,Nov-09,22,Milk
+Mizoram,Nov-09,28,Milk
+Odisha,Nov-09,20,Milk
+Punjab,Nov-09,25.5,Milk
+Rajasthan,Nov-09,14,Milk
+Tamil Nadu,Nov-09,21,Milk
+Telangana,Nov-09,24.4,Milk
+Uttar Pradesh,Nov-09,28,Milk
+Uttarakhand,Nov-09,22.6,Milk
+West Bengal,Nov-09,20,Milk
+Assam,Dec-09,23.14,Milk
+Bihar,Dec-09,20,Milk
+Chandigarh,Dec-09,25,Milk
+Chhattisgarh,Dec-09,22,Milk
+Delhi,Dec-09,22,Milk
+Gujarat,Dec-09,26,Milk
+Himachal Pradesh,Dec-09,20,Milk
+Jammu and Kashmir,Dec-09,21,Milk
+Jharkhand,Dec-09,20,Milk
+Karnataka,Dec-09,16,Milk
+Kerala,Dec-09,20,Milk
+Madhya Pradesh,Dec-09,24,Milk
+Maharashtra,Dec-09,22.38,Milk
+Mizoram,Dec-09,28,Milk
+Odisha,Dec-09,20,Milk
+Punjab,Dec-09,25.64,Milk
+Rajasthan,Dec-09,14,Milk
+Tamil Nadu,Dec-09,21,Milk
+Telangana,Dec-09,25,Milk
+Uttar Pradesh,Dec-09,28,Milk
+Uttarakhand,Dec-09,24,Milk
+West Bengal,Dec-09,20,Milk
+Assam,Jan-10,24,Milk
+Bihar,Jan-10,21.2,Milk
+Chandigarh,Jan-10,25,Milk
+Chhattisgarh,Jan-10,22,Milk
+Delhi,Jan-10,22,Milk
+Gujarat,Jan-10,25.3,Milk
+Himachal Pradesh,Jan-10,20,Milk
+Jammu and Kashmir,Jan-10,21,Milk
+Jharkhand,Jan-10,25,Milk
+Karnataka,Jan-10,16,Milk
+Kerala,Jan-10,20,Milk
+Madhya Pradesh,Jan-10,24,Milk
+Maharashtra,Jan-10,23.65,Milk
+Mizoram,Jan-10,28,Milk
+Odisha,Jan-10,20,Milk
+Punjab,Jan-10,26,Milk
+Rajasthan,Jan-10,14.65,Milk
+Tamil Nadu,Jan-10,21,Milk
+Telangana,Jan-10,25,Milk
+Uttar Pradesh,Jan-10,28,Milk
+Uttarakhand,Jan-10,24,Milk
+West Bengal,Jan-10,20.6,Milk
+Assam,Feb-10,23.65,Milk
+Bihar,Feb-10,22,Milk
+Chandigarh,Feb-10,25,Milk
+Chhattisgarh,Feb-10,22,Milk
+Delhi,Feb-10,22,Milk
+Gujarat,Feb-10,25.3,Milk
+Himachal Pradesh,Feb-10,20,Milk
+Jammu and Kashmir,Feb-10,21,Milk
+Jharkhand,Feb-10,25,Milk
+Karnataka,Feb-10,16,Milk
+Kerala,Feb-10,20,Milk
+Madhya Pradesh,Feb-10,24,Milk
+Maharashtra,Feb-10,23.4,Milk
+Mizoram,Feb-10,28,Milk
+Odisha,Feb-10,21.7,Milk
+Punjab,Feb-10,26,Milk
+Rajasthan,Feb-10,15,Milk
+Tamil Nadu,Feb-10,21,Milk
+Telangana,Feb-10,25.95,Milk
+Tripura,Feb-10,24,Milk
+Uttar Pradesh,Feb-10,28,Milk
+Uttarakhand,Feb-10,24,Milk
+West Bengal,Feb-10,21,Milk
+Assam,Mar-10,23.11,Milk
+Bihar,Mar-10,22.5,Milk
+Chandigarh,Mar-10,25,Milk
+Chhattisgarh,Mar-10,22.14,Milk
+Delhi,Mar-10,22.33,Milk
+Gujarat,Mar-10,26,Milk
+Himachal Pradesh,Mar-10,20,Milk
+Jammu and Kashmir,Mar-10,21.88,Milk
+Jharkhand,Mar-10,25,Milk
+Karnataka,Mar-10,16,Milk
+Kerala,Mar-10,20,Milk
+Madhya Pradesh,Mar-10,25.65,Milk
+Maharashtra,Mar-10,23.68,Milk
+Mizoram,Mar-10,28,Milk
+Odisha,Mar-10,22,Milk
+Punjab,Mar-10,26,Milk
+Rajasthan,Mar-10,19.88,Milk
+Tamil Nadu,Mar-10,21,Milk
+Telangana,Mar-10,26.6,Milk
+Tripura,Mar-10,24,Milk
+Uttar Pradesh,Mar-10,25.43,Milk
+Uttarakhand,Mar-10,24,Milk
+West Bengal,Mar-10,21.61,Milk
+Andhra Pradesh,Apr-10,28,Milk
+Assam,Apr-10,23,Milk
+Bihar,Apr-10,24,Milk
+Chhattisgarh,Apr-10,22.9,Milk
+Delhi,Apr-10,23,Milk
+Gujarat,Apr-10,26,Milk
+Himachal Pradesh,Apr-10,20.05,Milk
+Jammu and Kashmir,Apr-10,22,Milk
+Karnataka,Apr-10,18.1,Milk
+Kerala,Apr-10,20,Milk
+Madhya Pradesh,Apr-10,26.05,Milk
+Maharashtra,Apr-10,25.3,Milk
+Odisha,Apr-10,22,Milk
+Rajasthan,Apr-10,21,Milk
+Tamil Nadu,Apr-10,21.33,Milk
+Telangana,Apr-10,26.7,Milk
+Tripura,Apr-10,24,Milk
+Uttar Pradesh,Apr-10,29,Milk
+Uttarakhand,Apr-10,24,Milk
+West Bengal,Apr-10,21.11,Milk
+Andhra Pradesh,May-10,28,Milk
+Assam,May-10,24.6,Milk
+Bihar,May-10,24,Milk
+Chhattisgarh,May-10,22.85,Milk
+Delhi,May-10,23,Milk
+Gujarat,May-10,26,Milk
+Himachal Pradesh,May-10,20,Milk
+Jammu and Kashmir,May-10,22,Milk
+Karnataka,May-10,19,Milk
+Kerala,May-10,20,Milk
+Madhya Pradesh,May-10,26.7,Milk
+Maharashtra,May-10,25.67,Milk
+Odisha,May-10,22,Milk
+Punjab,May-10,28,Milk
+Rajasthan,May-10,21.58,Milk
+Tamil Nadu,May-10,21.5,Milk
+Telangana,May-10,26,Milk
+Tripura,May-10,24,Milk
+Uttar Pradesh,May-10,29.5,Milk
+Uttarakhand,May-10,24,Milk
+West Bengal,May-10,21,Milk
+Andhra Pradesh,Jun-10,28,Milk
+Assam,Jun-10,26,Milk
+Bihar,Jun-10,24,Milk
+Chhattisgarh,Jun-10,23,Milk
+Delhi,Jun-10,23,Milk
+Gujarat,Jun-10,26,Milk
+Himachal Pradesh,Jun-10,20,Milk
+Jammu and Kashmir,Jun-10,22,Milk
+Karnataka,Jun-10,19,Milk
+Kerala,Jun-10,20,Milk
+Madhya Pradesh,Jun-10,28.09,Milk
+Maharashtra,Jun-10,25.68,Milk
+Odisha,Jun-10,22,Milk
+Punjab,Jun-10,28.64,Milk
+Rajasthan,Jun-10,22.36,Milk
+Tamil Nadu,Jun-10,21.5,Milk
+Telangana,Jun-10,26,Milk
+Tripura,Jun-10,24.45,Milk
+Uttar Pradesh,Jun-10,29.5,Milk
+Uttarakhand,Jun-10,24,Milk
+West Bengal,Jun-10,21.05,Milk
+Andhra Pradesh,Jul-10,28.77,Milk
+Assam,Jul-10,26,Milk
+Bihar,Jul-10,24,Milk
+Chandigarh,Jul-10,25,Milk
+Chhattisgarh,Jul-10,23,Milk
+Delhi,Jul-10,23.77,Milk
+Gujarat,Jul-10,27,Milk
+Himachal Pradesh,Jul-10,20,Milk
+Jammu and Kashmir,Jul-10,21.92,Milk
+Karnataka,Jul-10,19,Milk
+Kerala,Jul-10,22.86,Milk
+Madhya Pradesh,Jul-10,30,Milk
+Maharashtra,Jul-10,25.86,Milk
+Odisha,Jul-10,22,Milk
+Punjab,Jul-10,28,Milk
+Rajasthan,Jul-10,23,Milk
+Tamil Nadu,Jul-10,21.5,Milk
+Telangana,Jul-10,27.68,Milk
+Tripura,Jul-10,26,Milk
+Uttar Pradesh,Jul-10,29.5,Milk
+Uttarakhand,Jul-10,24,Milk
+West Bengal,Jul-10,21,Milk
+Andhra Pradesh,Aug-10,29,Milk
+Assam,Aug-10,26,Milk
+Bihar,Aug-10,24,Milk
+Chandigarh,Aug-10,26.08,Milk
+Chhattisgarh,Aug-10,23,Milk
+Delhi,Aug-10,24,Milk
+Gujarat,Aug-10,27,Milk
+Himachal Pradesh,Aug-10,20.09,Milk
+Jammu and Kashmir,Aug-10,22,Milk
+Karnataka,Aug-10,19.05,Milk
+Kerala,Aug-10,23,Milk
+Madhya Pradesh,Aug-10,30,Milk
+Maharashtra,Aug-10,26,Milk
+Odisha,Aug-10,22,Milk
+Punjab,Aug-10,28,Milk
+Rajasthan,Aug-10,23,Milk
+Tamil Nadu,Aug-10,21.5,Milk
+Telangana,Aug-10,29,Milk
+Tripura,Aug-10,26,Milk
+Uttar Pradesh,Aug-10,29.5,Milk
+Uttarakhand,Aug-10,24,Milk
+West Bengal,Aug-10,21,Milk
+Andhra Pradesh,Sep-10,29,Milk
+Assam,Sep-10,26,Milk
+Bihar,Sep-10,24,Milk
+Chandigarh,Sep-10,26,Milk
+Chhattisgarh,Sep-10,23,Milk
+Delhi,Sep-10,24,Milk
+Gujarat,Sep-10,27,Milk
+Haryana,Sep-10,27,Milk
+Himachal Pradesh,Sep-10,18.68,Milk
+Jammu and Kashmir,Sep-10,22,Milk
+Karnataka,Sep-10,19.5,Milk
+Kerala,Sep-10,23,Milk
+Madhya Pradesh,Sep-10,29.48,Milk
+Maharashtra,Sep-10,25.85,Milk
+Odisha,Sep-10,22,Milk
+Punjab,Sep-10,28.03,Milk
+Rajasthan,Sep-10,23.19,Milk
+Tamil Nadu,Sep-10,22.28,Milk
+Telangana,Sep-10,28.95,Milk
+Tripura,Sep-10,26,Milk
+Uttar Pradesh,Sep-10,30.27,Milk
+Uttarakhand,Sep-10,25.44,Milk
+West Bengal,Sep-10,21.46,Milk
+Andhra Pradesh,Oct-10,29,Milk
+Assam,Oct-10,26,Milk
+Bihar,Oct-10,26.7,Milk
+Chandigarh,Oct-10,25,Milk
+Chhattisgarh,Oct-10,23,Milk
+Delhi,Oct-10,24,Milk
+Gujarat,Oct-10,27,Milk
+Haryana,Oct-10,27,Milk
+Himachal Pradesh,Oct-10,18.5,Milk
+Jammu and Kashmir,Oct-10,22,Milk
+Karnataka,Oct-10,19.5,Milk
+Kerala,Oct-10,23,Milk
+Madhya Pradesh,Oct-10,29.48,Milk
+Maharashtra,Oct-10,25.9,Milk
+Odisha,Oct-10,22,Milk
+Punjab,Oct-10,28.19,Milk
+Rajasthan,Oct-10,25.66,Milk
+Tamil Nadu,Oct-10,22.33,Milk
+Telangana,Oct-10,28,Milk
+Tripura,Oct-10,26,Milk
+Uttar Pradesh,Oct-10,31,Milk
+Uttarakhand,Oct-10,26,Milk
+West Bengal,Oct-10,21.97,Milk
+Andhra Pradesh,Nov-10,29,Milk
+Assam,Nov-10,26,Milk
+Bihar,Nov-10,26.02,Milk
+Chhattisgarh,Nov-10,24.8,Milk
+Delhi,Nov-10,24,Milk
+Gujarat,Nov-10,27,Milk
+Haryana,Nov-10,27,Milk
+Himachal Pradesh,Nov-10,18.5,Milk
+Jammu and Kashmir,Nov-10,22,Milk
+Karnataka,Nov-10,19.5,Milk
+Kerala,Nov-10,23,Milk
+Madhya Pradesh,Nov-10,29.5,Milk
+Maharashtra,Nov-10,25.9,Milk
+Odisha,Nov-10,22,Milk
+Punjab,Nov-10,28.22,Milk
+Rajasthan,Nov-10,25.14,Milk
+Tamil Nadu,Nov-10,22.33,Milk
+Telangana,Nov-10,27.5,Milk
+Tripura,Nov-10,26,Milk
+Uttar Pradesh,Nov-10,31,Milk
+Uttarakhand,Nov-10,26,Milk
+West Bengal,Nov-10,22.1,Milk
+Andhra Pradesh,Dec-10,29,Milk
+Assam,Dec-10,26,Milk
+Bihar,Dec-10,24.18,Milk
+Chandigarh,Dec-10,27,Milk
+Chhattisgarh,Dec-10,24.59,Milk
+Delhi,Dec-10,24.45,Milk
+Gujarat,Dec-10,27.14,Milk
+Haryana,Dec-10,27.25,Milk
+Himachal Pradesh,Dec-10,18.5,Milk
+Jammu and Kashmir,Dec-10,22,Milk
+Karnataka,Dec-10,19.68,Milk
+Kerala,Dec-10,23.41,Milk
+Madhya Pradesh,Dec-10,29.5,Milk
+Maharashtra,Dec-10,25.8,Milk
+Odisha,Dec-10,22,Milk
+Punjab,Dec-10,27.89,Milk
+Rajasthan,Dec-10,25.65,Milk
+Tamil Nadu,Dec-10,22.33,Milk
+Telangana,Dec-10,26.68,Milk
+Tripura,Dec-10,25.45,Milk
+Uttar Pradesh,Dec-10,31,Milk
+Uttarakhand,Dec-10,26,Milk
+West Bengal,Dec-10,22,Milk
+Andhra Pradesh,Jan-11,30.47,Milk
+Assam,Jan-11,26,Milk
+Bihar,Jan-11,25.47,Milk
+Chhattisgarh,Jan-11,24,Milk
+Delhi,Jan-11,25,Milk
+Gujarat,Jan-11,28,Milk
+Haryana,Jan-11,27.95,Milk
+Himachal Pradesh,Jan-11,18.5,Milk
+Jammu and Kashmir,Jan-11,23.6,Milk
+Karnataka,Jan-11,21.47,Milk
+Kerala,Jan-11,24,Milk
+Madhya Pradesh,Jan-11,29.5,Milk
+Maharashtra,Jan-11,25.82,Milk
+Odisha,Jan-11,22,Milk
+Punjab,Jan-11,25.92,Milk
+Rajasthan,Jan-11,23.82,Milk
+Tamil Nadu,Jan-11,22.33,Milk
+Telangana,Jan-11,26.95,Milk
+Tripura,Jan-11,25,Milk
+Uttar Pradesh,Jan-11,31,Milk
+Uttarakhand,Jan-11,27.18,Milk
+West Bengal,Jan-11,22.13,Milk
+Andhra Pradesh,Feb-11,29,Milk
+Assam,Feb-11,26,Milk
+Bihar,Feb-11,25.5,Milk
+Chhattisgarh,Feb-11,24,Milk
+Delhi,Feb-11,25,Milk
+Gujarat,Feb-11,28,Milk
+Haryana,Feb-11,28,Milk
+Himachal Pradesh,Feb-11,18.5,Milk
+Jammu and Kashmir,Feb-11,24,Milk
+Karnataka,Feb-11,21.53,Milk
+Kerala,Feb-11,24.68,Milk
+Madhya Pradesh,Feb-11,29.5,Milk
+Maharashtra,Feb-11,25.95,Milk
+Odisha,Feb-11,22,Milk
+Punjab,Feb-11,28,Milk
+Rajasthan,Feb-11,24,Milk
+Tamil Nadu,Feb-11,22.33,Milk
+Telangana,Feb-11,28,Milk
+Tripura,Feb-11,25,Milk
+Uttar Pradesh,Feb-11,31.03,Milk
+Uttarakhand,Feb-11,28,Milk
+West Bengal,Feb-11,22,Milk
+Andhra Pradesh,Mar-11,29,Milk
+Assam,Mar-11,26,Milk
+Bihar,Mar-11,25.5,Milk
+Chhattisgarh,Mar-11,24,Milk
+Delhi,Mar-11,25,Milk
+Gujarat,Mar-11,28,Milk
+Haryana,Mar-11,28,Milk
+Himachal Pradesh,Mar-11,17.94,Milk
+Jammu and Kashmir,Mar-11,24,Milk
+Karnataka,Mar-11,22.57,Milk
+Kerala,Mar-11,24.5,Milk
+Madhya Pradesh,Mar-11,30.41,Milk
+Maharashtra,Mar-11,26,Milk
+Odisha,Mar-11,22,Milk
+Rajasthan,Mar-11,24,Milk
+Tamil Nadu,Mar-11,21.97,Milk
+Telangana,Mar-11,28.36,Milk
+Tripura,Mar-11,25.09,Milk
+Uttar Pradesh,Mar-11,30.34,Milk
+Uttarakhand,Mar-11,28,Milk
+West Bengal,Mar-11,22.18,Milk
+Andhra Pradesh,Apr-11,29,Milk
+Assam,Apr-11,26,Milk
+Bihar,Apr-11,25.5,Milk
+Chhattisgarh,Apr-11,24,Milk
+Delhi,Apr-11,25,Milk
+Gujarat,Apr-11,29.11,Milk
+Haryana,Apr-11,28,Milk
+Himachal Pradesh,Apr-11,16,Milk
+Jammu and Kashmir,Apr-11,24,Milk
+Karnataka,Apr-11,22.61,Milk
+Kerala,Apr-11,24.5,Milk
+Madhya Pradesh,Apr-11,30.5,Milk
+Maharashtra,Apr-11,26,Milk
+Odisha,Apr-11,22,Milk
+Rajasthan,Apr-11,24,Milk
+Tamil Nadu,Apr-11,21.67,Milk
+Telangana,Apr-11,30.17,Milk
+Tripura,Apr-11,27.83,Milk
+Uttar Pradesh,Apr-11,30.75,Milk
+Uttarakhand,Apr-11,29.78,Milk
+West Bengal,Apr-11,22,Milk
+Andhra Pradesh,May-11,29,Milk
+Assam,May-11,27.62,Milk
+Bihar,May-11,25.5,Milk
+Chandigarh,May-11,30,Milk
+Chhattisgarh,May-11,24,Milk
+Delhi,May-11,25.86,Milk
+Gujarat,May-11,33,Milk
+Haryana,May-11,27.9,Milk
+Himachal Pradesh,May-11,16,Milk
+Jammu and Kashmir,May-11,24.32,Milk
+Karnataka,May-11,22.57,Milk
+Kerala,May-11,24.5,Milk
+Madhya Pradesh,May-11,30.5,Milk
+Maharashtra,May-11,26,Milk
+Odisha,May-11,22,Milk
+Punjab,May-11,30.46,Milk
+Rajasthan,May-11,24.19,Milk
+Tamil Nadu,May-11,21.67,Milk
+Telangana,May-11,31,Milk
+Tripura,May-11,28,Milk
+Uttar Pradesh,May-11,32.21,Milk
+Uttarakhand,May-11,30.57,Milk
+West Bengal,May-11,22.1,Milk
+Andhra Pradesh,Jun-11,29,Milk
+Assam,Jun-11,29.23,Milk
+Bihar,Jun-11,25.5,Milk
+Chandigarh,Jun-11,30.86,Milk
+Chhattisgarh,Jun-11,24,Milk
+Delhi,Jun-11,27,Milk
+Gujarat,Jun-11,33,Milk
+Haryana,Jun-11,28,Milk
+Himachal Pradesh,Jun-11,16,Milk
+Jammu and Kashmir,Jun-11,25,Milk
+Karnataka,Jun-11,22.57,Milk
+Kerala,Jun-11,24.5,Milk
+Madhya Pradesh,Jun-11,30.64,Milk
+Maharashtra,Jun-11,26.05,Milk
+Odisha,Jun-11,22,Milk
+Punjab,Jun-11,30.5,Milk
+Rajasthan,Jun-11,25,Milk
+Tamil Nadu,Jun-11,21.67,Milk
+Telangana,Jun-11,31.77,Milk
+Tripura,Jun-11,28,Milk
+Uttar Pradesh,Jun-11,34.01,Milk
+Uttarakhand,Jun-11,32,Milk
+West Bengal,Jun-11,22.5,Milk
+Andhra Pradesh,Jul-11,29,Milk
+Assam,Jul-11,31,Milk
+Bihar,Jul-11,25.5,Milk
+Chandigarh,Jul-11,31,Milk
+Chhattisgarh,Jul-11,24,Milk
+Delhi,Jul-11,27,Milk
+Gujarat,Jul-11,32.33,Milk
+Haryana,Jul-11,28.57,Milk
+Himachal Pradesh,Jul-11,16.8,Milk
+Jammu and Kashmir,Jul-11,25,Milk
+Karnataka,Jul-11,22.5,Milk
+Kerala,Jul-11,24.5,Milk
+Madhya Pradesh,Jul-11,31.38,Milk
+Maharashtra,Jul-11,30.6,Milk
+Odisha,Jul-11,22,Milk
+Rajasthan,Jul-11,25.38,Milk
+Tamil Nadu,Jul-11,21.95,Milk
+Telangana,Jul-11,32.05,Milk
+Tripura,Jul-11,28,Milk
+Uttar Pradesh,Jul-11,34.45,Milk
+Uttarakhand,Jul-11,32,Milk
+West Bengal,Jul-11,22.5,Milk
+Andhra Pradesh,Aug-11,32,Milk
+Assam,Aug-11,31,Milk
+Bihar,Aug-11,25.5,Milk
+Chandigarh,Aug-11,31,Milk
+Chhattisgarh,Aug-11,24,Milk
+Delhi,Aug-11,27,Milk
+Gujarat,Aug-11,34.9,Milk
+Haryana,Aug-11,32.7,Milk
+Himachal Pradesh,Aug-11,18.5,Milk
+Jammu and Kashmir,Aug-11,25,Milk
+Karnataka,Aug-11,22.5,Milk
+Kerala,Aug-11,24.49,Milk
+Madhya Pradesh,Aug-11,31.98,Milk
+Maharashtra,Aug-11,31.5,Milk
+Odisha,Aug-11,22,Milk
+Rajasthan,Aug-11,26,Milk
+Tamil Nadu,Aug-11,22.33,Milk
+Telangana,Aug-11,33,Milk
+Tripura,Aug-11,28,Milk
+Uttar Pradesh,Aug-11,35.2,Milk
+Uttarakhand,Aug-11,32,Milk
+West Bengal,Aug-11,22.5,Milk
+Andhra Pradesh,Sep-11,32,Milk
+Assam,Sep-11,31,Milk
+Bihar,Sep-11,25.73,Milk
+Chandigarh,Sep-11,31,Milk
+Chhattisgarh,Sep-11,24,Milk
+Delhi,Sep-11,28.36,Milk
+Gujarat,Sep-11,36.45,Milk
+Haryana,Sep-11,33.66,Milk
+Himachal Pradesh,Sep-11,18.5,Milk
+Jammu and Kashmir,Sep-11,25,Milk
+Karnataka,Sep-11,22.59,Milk
+Kerala,Sep-11,24.55,Milk
+Madhya Pradesh,Sep-11,32.8,Milk
+Maharashtra,Sep-11,32.32,Milk
+Odisha,Sep-11,22,Milk
+Punjab,Sep-11,32.33,Milk
+Rajasthan,Sep-11,27.42,Milk
+Tamil Nadu,Sep-11,22.33,Milk
+Telangana,Sep-11,33,Milk
+Tripura,Sep-11,28,Milk
+Uttar Pradesh,Sep-11,36.18,Milk
+Uttarakhand,Sep-11,32,Milk
+West Bengal,Sep-11,22.88,Milk
+Andhra Pradesh,Oct-11,32,Milk
+Assam,Oct-11,31,Milk
+Bihar,Oct-11,27.44,Milk
+Chandigarh,Oct-11,29.5,Milk
+Chhattisgarh,Oct-11,24,Milk
+Delhi,Oct-11,29,Milk
+Gujarat,Oct-11,37.11,Milk
+Haryana,Oct-11,34.2,Milk
+Himachal Pradesh,Oct-11,19.96,Milk
+Jammu and Kashmir,Oct-11,25.87,Milk
+Jharkhand,Oct-11,25.33,Milk
+Karnataka,Oct-11,23.14,Milk
+Kerala,Oct-11,25.64,Milk
+Madhya Pradesh,Oct-11,33.47,Milk
+Maharashtra,Oct-11,32.5,Milk
+Nagaland,Oct-11,28,Milk
+Odisha,Oct-11,23.38,Milk
+Punjab,Oct-11,32.33,Milk
+Rajasthan,Oct-11,27.5,Milk
+Tamil Nadu,Oct-11,22.3,Milk
+Telangana,Oct-11,33,Milk
+Tripura,Oct-11,28,Milk
+Uttar Pradesh,Oct-11,37.36,Milk
+Uttarakhand,Oct-11,32,Milk
+West Bengal,Oct-11,23.17,Milk
+Andhra Pradesh,Nov-11,32,Milk
+Assam,Nov-11,31,Milk
+Bihar,Nov-11,27.79,Milk
+Chandigarh,Nov-11,32.95,Milk
+Chhattisgarh,Nov-11,24,Milk
+Delhi,Nov-11,29,Milk
+Gujarat,Nov-11,37.03,Milk
+Haryana,Nov-11,35.33,Milk
+Himachal Pradesh,Nov-11,20.74,Milk
+Jammu and Kashmir,Nov-11,27.68,Milk
+Karnataka,Nov-11,23.11,Milk
+Kerala,Nov-11,26.5,Milk
+Madhya Pradesh,Nov-11,33.67,Milk
+Maharashtra,Nov-11,32.5,Milk
+Odisha,Nov-11,24,Milk
+Punjab,Nov-11,32.75,Milk
+Rajasthan,Nov-11,27.36,Milk
+Tamil Nadu,Nov-11,23.5,Milk
+Telangana,Nov-11,33,Milk
+Tripura,Nov-11,28,Milk
+Uttar Pradesh,Nov-11,36.96,Milk
+Uttarakhand,Nov-11,32,Milk
+West Bengal,Nov-11,23.95,Milk
+Andhra Pradesh,Dec-11,32,Milk
+Arunachal pradesh,Dec-11,40,Milk
+Assam,Dec-11,31.92,Milk
+Bihar,Dec-11,28,Milk
+Chandigarh,Dec-11,35,Milk
+Chhattisgarh,Dec-11,25.71,Milk
+Delhi,Dec-11,29,Milk
+Gujarat,Dec-11,36.98,Milk
+Haryana,Dec-11,35.53,Milk
+Himachal Pradesh,Dec-11,20.75,Milk
+Jammu and Kashmir,Dec-11,28.47,Milk
+Karnataka,Dec-11,23,Milk
+Kerala,Dec-11,26.5,Milk
+Madhya Pradesh,Dec-11,33.54,Milk
+Maharashtra,Dec-11,32.41,Milk
+Odisha,Dec-11,24,Milk
+Punjab,Dec-11,33.3,Milk
+Rajasthan,Dec-11,26.88,Milk
+Tamil Nadu,Dec-11,27.67,Milk
+Telangana,Dec-11,33,Milk
+Tripura,Dec-11,28,Milk
+Uttar Pradesh,Dec-11,36.63,Milk
+Uttarakhand,Dec-11,32,Milk
+West Bengal,Dec-11,23.84,Milk
+Andhra Pradesh,Jan-12,31.62,Milk
+Arunachal pradesh,Jan-12,40,Milk
+Assam,Jan-12,32,Milk
+Bihar,Jan-12,28,Milk
+Chandigarh,Jan-12,35,Milk
+Chhattisgarh,Jan-12,24,Milk
+Delhi,Jan-12,29,Milk
+Gujarat,Jan-12,37,Milk
+Haryana,Jan-12,35.5,Milk
+Himachal Pradesh,Jan-12,20.88,Milk
+Jammu and Kashmir,Jan-12,28.44,Milk
+Karnataka,Jan-12,25.18,Milk
+Kerala,Jan-12,26.63,Milk
+Madhya Pradesh,Jan-12,33.5,Milk
+Maharashtra,Jan-12,32.5,Milk
+Odisha,Jan-12,24,Milk
+Punjab,Jan-12,33.89,Milk
+Rajasthan,Jan-12,25.42,Milk
+Tamil Nadu,Jan-12,27.67,Milk
+Telangana,Jan-12,33,Milk
+Tripura,Jan-12,28,Milk
+Uttar Pradesh,Jan-12,36.59,Milk
+Uttarakhand,Jan-12,32,Milk
+West Bengal,Jan-12,24.16,Milk
+Andhra Pradesh,Feb-12,31,Milk
+Arunachal pradesh,Feb-12,40,Milk
+Assam,Feb-12,32,Milk
+Bihar,Feb-12,28,Milk
+Chandigarh,Feb-12,35,Milk
+Chhattisgarh,Feb-12,24,Milk
+Delhi,Feb-12,29,Milk
+Gujarat,Feb-12,37,Milk
+Haryana,Feb-12,35.5,Milk
+Himachal Pradesh,Feb-12,22.92,Milk
+Jammu and Kashmir,Feb-12,28.5,Milk
+Karnataka,Feb-12,26,Milk
+Kerala,Feb-12,28.74,Milk
+Madhya Pradesh,Feb-12,33.46,Milk
+Maharashtra,Feb-12,32.5,Milk
+Odisha,Feb-12,24,Milk
+Punjab,Feb-12,33.22,Milk
+Rajasthan,Feb-12,25.8,Milk
+Tamil Nadu,Feb-12,27.67,Milk
+Telangana,Feb-12,33,Milk
+Tripura,Feb-12,28,Milk
+Uttar Pradesh,Feb-12,36.65,Milk
+Uttarakhand,Feb-12,32,Milk
+West Bengal,Feb-12,26,Milk
+Andhra Pradesh,Mar-12,31,Milk
+Arunachal pradesh,Mar-12,40,Milk
+Assam,Mar-12,32,Milk
+Bihar,Mar-12,28,Milk
+Chandigarh,Mar-12,35,Milk
+Chhattisgarh,Mar-12,25.26,Milk
+Delhi,Mar-12,29,Milk
+Gujarat,Mar-12,37,Milk
+Haryana,Mar-12,35.5,Milk
+Himachal Pradesh,Mar-12,23.07,Milk
+Jammu and Kashmir,Mar-12,28.85,Milk
+Karnataka,Mar-12,26,Milk
+Kerala,Mar-12,28.75,Milk
+Madhya Pradesh,Mar-12,33.14,Milk
+Maharashtra,Mar-12,32.5,Milk
+Odisha,Mar-12,24,Milk
+Punjab,Mar-12,32.95,Milk
+Rajasthan,Mar-12,24.81,Milk
+Tamil Nadu,Mar-12,27.77,Milk
+Telangana,Mar-12,33,Milk
+Tripura,Mar-12,27.64,Milk
+Uttar Pradesh,Mar-12,36.5,Milk
+Uttarakhand,Mar-12,32,Milk
+West Bengal,Mar-12,26.23,Milk
+Andhra Pradesh,Apr-12,31,Milk
+Arunachal pradesh,Apr-12,40,Milk
+Assam,Apr-12,34,Milk
+Bihar,Apr-12,29.09,Milk
+Chandigarh,Apr-12,35,Milk
+Chhattisgarh,Apr-12,25.89,Milk
+Delhi,Apr-12,29,Milk
+Gujarat,Apr-12,37.59,Milk
+Haryana,Apr-12,35.59,Milk
+Himachal Pradesh,Apr-12,23.09,Milk
+Jammu and Kashmir,Apr-12,28.73,Milk
+Karnataka,Apr-12,26,Milk
+Kerala,Apr-12,29,Milk
+Madhya Pradesh,Apr-12,33.4,Milk
+Maharashtra,Apr-12,32.66,Milk
+Nagaland,Apr-12,30,Milk
+Odisha,Apr-12,24,Milk
+Punjab,Apr-12,32.86,Milk
+Rajasthan,Apr-12,25.67,Milk
+Tamil Nadu,Apr-12,28.07,Milk
+Telangana,Apr-12,33.32,Milk
+Tripura,Apr-12,29,Milk
+Uttar Pradesh,Apr-12,37.64,Milk
+Uttarakhand,Apr-12,32,Milk
+West Bengal,Apr-12,26.93,Milk
+Andhra Pradesh,May-12,31,Milk
+Arunachal pradesh,May-12,40,Milk
+Assam,May-12,34,Milk
+Bihar,May-12,30,Milk
+Chandigarh,May-12,35,Milk
+Chhattisgarh,May-12,29.4,Milk
+Delhi,May-12,29,Milk
+Gujarat,May-12,38,Milk
+Haryana,May-12,37.5,Milk
+Himachal Pradesh,May-12,23.14,Milk
+Jammu and Kashmir,May-12,28.88,Milk
+Karnataka,May-12,26,Milk
+Kerala,May-12,28.93,Milk
+Madhya Pradesh,May-12,33.53,Milk
+Maharashtra,May-12,32.82,Milk
+Odisha,May-12,24,Milk
+Punjab,May-12,34.09,Milk
+Rajasthan,May-12,27.83,Milk
+Tamil Nadu,May-12,27.67,Milk
+Telangana,May-12,34,Milk
+Tripura,May-12,29,Milk
+Uttar Pradesh,May-12,37.98,Milk
+Uttarakhand,May-12,32,Milk
+West Bengal,May-12,28.23,Milk
+Andaman and Nicobar,Jun-12,44,Milk
+Andhra Pradesh,Jun-12,31,Milk
+Arunachal pradesh,Jun-12,40,Milk
+Assam,Jun-12,34.11,Milk
+Bihar,Jun-12,30,Milk
+Chandigarh,Jun-12,35,Milk
+Chhattisgarh,Jun-12,30,Milk
+Delhi,Jun-12,29,Milk
+Gujarat,Jun-12,38,Milk
+Haryana,Jun-12,37.86,Milk
+Himachal Pradesh,Jun-12,23.08,Milk
+Jammu and Kashmir,Jun-12,28.85,Milk
+Karnataka,Jun-12,26.07,Milk
+Kerala,Jun-12,28.3,Milk
+Madhya Pradesh,Jun-12,33.56,Milk
+Maharashtra,Jun-12,32.5,Milk
+Odisha,Jun-12,24,Milk
+Puducherry,Jun-12,26,Milk
+Punjab,Jun-12,34.1,Milk
+Rajasthan,Jun-12,28.79,Milk
+Tamil Nadu,Jun-12,27.67,Milk
+Telangana,Jun-12,34,Milk
+Tripura,Jun-12,29,Milk
+Uttar Pradesh,Jun-12,38,Milk
+Uttarakhand,Jun-12,34.11,Milk
+West Bengal,Jun-12,28.97,Milk
+Andaman and Nicobar,Jul-12,44,Milk
+Andhra Pradesh,Jul-12,31,Milk
+Arunachal pradesh,Jul-12,40,Milk
+Assam,Jul-12,35,Milk
+Bihar,Jul-12,30,Milk
+Chandigarh,Jul-12,35,Milk
+Chhattisgarh,Jul-12,30.42,Milk
+Delhi,Jul-12,29,Milk
+Gujarat,Jul-12,38,Milk
+Haryana,Jul-12,38.51,Milk
+Himachal Pradesh,Jul-12,23.2,Milk
+Jammu and Kashmir,Jul-12,29.03,Milk
+Karnataka,Jul-12,26,Milk
+Kerala,Jul-12,29,Milk
+Madhya Pradesh,Jul-12,33.57,Milk
+Maharashtra,Jul-12,32.58,Milk
+Odisha,Jul-12,24,Milk
+Puducherry,Jul-12,27.64,Milk
+Punjab,Jul-12,35,Milk
+Rajasthan,Jul-12,28.35,Milk
+Tamil Nadu,Jul-12,27.67,Milk
+Telangana,Jul-12,34,Milk
+Tripura,Jul-12,29,Milk
+Uttar Pradesh,Jul-12,37.23,Milk
+Uttarakhand,Jul-12,36,Milk
+West Bengal,Jul-12,28.92,Milk
+Andaman and Nicobar,Aug-12,44,Milk
+Andhra Pradesh,Aug-12,32.9,Milk
+Arunachal pradesh,Aug-12,40,Milk
+Assam,Aug-12,35,Milk
+Bihar,Aug-12,30,Milk
+Chandigarh,Aug-12,35,Milk
+Chhattisgarh,Aug-12,30.17,Milk
+Delhi,Aug-12,29,Milk
+Gujarat,Aug-12,38,Milk
+Haryana,Aug-12,39.51,Milk
+Himachal Pradesh,Aug-12,20.42,Milk
+Jammu and Kashmir,Aug-12,28.12,Milk
+Karnataka,Aug-12,26,Milk
+Kerala,Aug-12,29.89,Milk
+Madhya Pradesh,Aug-12,33.58,Milk
+Maharashtra,Aug-12,32.5,Milk
+Odisha,Aug-12,24,Milk
+Puducherry,Aug-12,29,Milk
+Punjab,Aug-12,34.28,Milk
+Rajasthan,Aug-12,29.09,Milk
+Tamil Nadu,Aug-12,27.68,Milk
+Telangana,Aug-12,34,Milk
+Tripura,Aug-12,29,Milk
+Uttar Pradesh,Aug-12,37,Milk
+Uttarakhand,Aug-12,36,Milk
+West Bengal,Aug-12,28.88,Milk
+Andaman and Nicobar,Sep-12,44,Milk
+Andhra Pradesh,Sep-12,33,Milk
+Arunachal pradesh,Sep-12,40,Milk
+Assam,Sep-12,35.47,Milk
+Bihar,Sep-12,30,Milk
+Chandigarh,Sep-12,35,Milk
+Chhattisgarh,Sep-12,30,Milk
+Delhi,Sep-12,29.68,Milk
+Gujarat,Sep-12,38,Milk
+Haryana,Sep-12,39.5,Milk
+Himachal Pradesh,Sep-12,24.38,Milk
+Jammu and Kashmir,Sep-12,29.18,Milk
+Karnataka,Sep-12,26,Milk
+Kerala,Sep-12,30,Milk
+Madhya Pradesh,Sep-12,33.94,Milk
+Maharashtra,Sep-12,32.74,Milk
+Odisha,Sep-12,24.46,Milk
+Puducherry,Sep-12,29,Milk
+Punjab,Sep-12,34.64,Milk
+Rajasthan,Sep-12,28.5,Milk
+Tamil Nadu,Sep-12,27.67,Milk
+Telangana,Sep-12,34,Milk
+Tripura,Sep-12,29,Milk
+Uttar Pradesh,Sep-12,37,Milk
+Uttarakhand,Sep-12,36,Milk
+West Bengal,Sep-12,28.62,Milk
+Andaman and Nicobar,Oct-12,44,Milk
+Andhra Pradesh,Oct-12,33,Milk
+Arunachal pradesh,Oct-12,40,Milk
+Assam,Oct-12,36,Milk
+Bihar,Oct-12,30.08,Milk
+Chandigarh,Oct-12,35,Milk
+Chhattisgarh,Oct-12,30.65,Milk
+Delhi,Oct-12,30,Milk
+Gujarat,Oct-12,38.95,Milk
+Haryana,Oct-12,39.43,Milk
+Himachal Pradesh,Oct-12,25.95,Milk
+Jammu and Kashmir,Oct-12,29.53,Milk
+Karnataka,Oct-12,25.85,Milk
+Kerala,Oct-12,32.75,Milk
+Madhya Pradesh,Oct-12,34.03,Milk
+Maharashtra,Oct-12,33,Milk
+Odisha,Oct-12,26,Milk
+Puducherry,Oct-12,29,Milk
+Punjab,Oct-12,34.67,Milk
+Rajasthan,Oct-12,29.8,Milk
+Tamil Nadu,Oct-12,27.67,Milk
+Telangana,Oct-12,34,Milk
+Tripura,Oct-12,29,Milk
+Uttar Pradesh,Oct-12,37.16,Milk
+Uttarakhand,Oct-12,35.67,Milk
+West Bengal,Oct-12,28.9,Milk
+Andaman and Nicobar,Nov-12,44,Milk
+Andhra Pradesh,Nov-12,33,Milk
+Arunachal pradesh,Nov-12,40,Milk
+Assam,Nov-12,36,Milk
+Bihar,Nov-12,30.55,Milk
+Chandigarh,Nov-12,35,Milk
+Chhattisgarh,Nov-12,30,Milk
+Delhi,Nov-12,30,Milk
+Gujarat,Nov-12,39,Milk
+Haryana,Nov-12,39.5,Milk
+Himachal Pradesh,Nov-12,25.89,Milk
+Jammu and Kashmir,Nov-12,32.67,Milk
+Karnataka,Nov-12,26,Milk
+Kerala,Nov-12,35.95,Milk
+Madhya Pradesh,Nov-12,36.11,Milk
+Maharashtra,Nov-12,33,Milk
+Odisha,Nov-12,26,Milk
+Puducherry,Nov-12,29,Milk
+Punjab,Nov-12,34.23,Milk
+Rajasthan,Nov-12,30.58,Milk
+Tamil Nadu,Nov-12,27.67,Milk
+Telangana,Nov-12,34,Milk
+Tripura,Nov-12,29,Milk
+Uttar Pradesh,Nov-12,37.49,Milk
+Uttarakhand,Nov-12,34,Milk
+West Bengal,Nov-12,28.85,Milk
+Andaman and Nicobar,Dec-12,44,Milk
+Andhra Pradesh,Dec-12,33,Milk
+Assam,Dec-12,37.6,Milk
+Bihar,Dec-12,30.55,Milk
+Chandigarh,Dec-12,35,Milk
+Chhattisgarh,Dec-12,30,Milk
+Delhi,Dec-12,30,Milk
+Gujarat,Dec-12,39,Milk
+Haryana,Dec-12,39.5,Milk
+Himachal Pradesh,Dec-12,25.94,Milk
+Jammu and Kashmir,Dec-12,32.64,Milk
+Karnataka,Dec-12,26,Milk
+Kerala,Dec-12,34.65,Milk
+Madhya Pradesh,Dec-12,35.44,Milk
+Maharashtra,Dec-12,33,Milk
+Odisha,Dec-12,26,Milk
+Puducherry,Dec-12,29,Milk
+Punjab,Dec-12,34.43,Milk
+Rajasthan,Dec-12,30.83,Milk
+Tamil Nadu,Dec-12,27.66,Milk
+Telangana,Dec-12,34,Milk
+Tripura,Dec-12,29,Milk
+Uttar Pradesh,Dec-12,37.5,Milk
+Uttarakhand,Dec-12,34,Milk
+West Bengal,Dec-12,28.97,Milk
+Andaman and Nicobar,Jan-13,44,Milk
+Andhra Pradesh,Jan-13,33,Milk
+Arunachal pradesh,Jan-13,40,Milk
+Assam,Jan-13,38,Milk
+Bihar,Jan-13,30.81,Milk
+Chandigarh,Jan-13,35,Milk
+Chhattisgarh,Jan-13,30,Milk
+Delhi,Jan-13,30,Milk
+Gujarat,Jan-13,38.64,Milk
+Haryana,Jan-13,39.86,Milk
+Himachal Pradesh,Jan-13,25.76,Milk
+Jammu and Kashmir,Jan-13,32.71,Milk
+Karnataka,Jan-13,27.18,Milk
+Kerala,Jan-13,34.68,Milk
+Madhya Pradesh,Jan-13,35.62,Milk
+Maharashtra,Jan-13,33,Milk
+Odisha,Jan-13,26,Milk
+Puducherry,Jan-13,29,Milk
+Punjab,Jan-13,34.68,Milk
+Rajasthan,Jan-13,29.28,Milk
+Tamil Nadu,Jan-13,27.75,Milk
+Telangana,Jan-13,34,Milk
+Tripura,Jan-13,29,Milk
+Uttar Pradesh,Jan-13,37.5,Milk
+Uttarakhand,Jan-13,34,Milk
+West Bengal,Jan-13,28.95,Milk
+Andaman and Nicobar,Feb-13,44.47,Milk
+Andhra Pradesh,Feb-13,33,Milk
+Arunachal pradesh,Feb-13,40,Milk
+Assam,Feb-13,38,Milk
+Bihar,Feb-13,31,Milk
+Chandigarh,Feb-13,35,Milk
+Chhattisgarh,Feb-13,30,Milk
+Delhi,Feb-13,30,Milk
+Gujarat,Feb-13,39.78,Milk
+Haryana,Feb-13,40,Milk
+Himachal Pradesh,Feb-13,25.95,Milk
+Jammu and Kashmir,Feb-13,33.8,Milk
+Karnataka,Feb-13,32.5,Milk
+Kerala,Feb-13,34.67,Milk
+Madhya Pradesh,Feb-13,35.39,Milk
+Maharashtra,Feb-13,33.08,Milk
+Odisha,Feb-13,28,Milk
+Puducherry,Feb-13,29,Milk
+Punjab,Feb-13,35.53,Milk
+Rajasthan,Feb-13,31.22,Milk
+Tamil Nadu,Feb-13,27.56,Milk
+Telangana,Feb-13,34,Milk
+Tripura,Feb-13,29,Milk
+Uttar Pradesh,Feb-13,37.49,Milk
+Uttarakhand,Feb-13,34,Milk
+West Bengal,Feb-13,28.91,Milk
+Andaman and Nicobar,Mar-13,46,Milk
+Andhra Pradesh,Mar-13,33.42,Milk
+Arunachal pradesh,Mar-13,40,Milk
+Assam,Mar-13,38,Milk
+Bihar,Mar-13,31.04,Milk
+Chandigarh,Mar-13,35,Milk
+Chhattisgarh,Mar-13,30,Milk
+Delhi,Mar-13,30,Milk
+Gujarat,Mar-13,40,Milk
+Haryana,Mar-13,40,Milk
+Himachal Pradesh,Mar-13,26.05,Milk
+Jammu and Kashmir,Mar-13,34.71,Milk
+Karnataka,Mar-13,32,Milk
+Kerala,Mar-13,34.67,Milk
+Madhya Pradesh,Mar-13,35.78,Milk
+Maharashtra,Mar-13,33,Milk
+Odisha,Mar-13,28,Milk
+Puducherry,Mar-13,29,Milk
+Punjab,Mar-13,35.92,Milk
+Rajasthan,Mar-13,29.89,Milk
+Tamil Nadu,Mar-13,27.5,Milk
+Telangana,Mar-13,34,Milk
+Tripura,Mar-13,29,Milk
+Uttar Pradesh,Mar-13,38.22,Milk
+Uttarakhand,Mar-13,34,Milk
+West Bengal,Mar-13,29,Milk
+Andaman and Nicobar,Apr-13,46,Milk
+Andhra Pradesh,Apr-13,33.5,Milk
+Arunachal pradesh,Apr-13,40,Milk
+Assam,Apr-13,39.67,Milk
+Bihar,Apr-13,30.97,Milk
+Chandigarh,Apr-13,35,Milk
+Chhattisgarh,Apr-13,30,Milk
+Delhi,Apr-13,30,Milk
+Gujarat,Apr-13,40,Milk
+Haryana,Apr-13,40,Milk
+Himachal Pradesh,Apr-13,25.89,Milk
+Jammu and Kashmir,Apr-13,33.91,Milk
+Karnataka,Apr-13,33.25,Milk
+Kerala,Apr-13,34.98,Milk
+Madhya Pradesh,Apr-13,35.23,Milk
+Maharashtra,Apr-13,33,Milk
+Odisha,Apr-13,28,Milk
+Puducherry,Apr-13,29,Milk
+Punjab,Apr-13,35.97,Milk
+Rajasthan,Apr-13,28.21,Milk
+Tamil Nadu,Apr-13,27.49,Milk
+Telangana,Apr-13,34,Milk
+Tripura,Apr-13,29,Milk
+Uttar Pradesh,Apr-13,38.59,Milk
+Uttarakhand,Apr-13,34,Milk
+West Bengal,Apr-13,28.97,Milk
+Andaman and Nicobar,May-13,46,Milk
+Andhra Pradesh,May-13,33.5,Milk
+Arunachal pradesh,May-13,40,Milk
+Assam,May-13,40,Milk
+Bihar,May-13,30.98,Milk
+Chandigarh,May-13,35,Milk
+Chhattisgarh,May-13,30,Milk
+Delhi,May-13,30.43,Milk
+Gujarat,May-13,39.95,Milk
+Haryana,May-13,40,Milk
+Himachal Pradesh,May-13,26.27,Milk
+Jammu and Kashmir,May-13,32.84,Milk
+Karnataka,May-13,32.83,Milk
+Kerala,May-13,35,Milk
+Madhya Pradesh,May-13,36.15,Milk
+Maharashtra,May-13,33.49,Milk
+Odisha,May-13,28,Milk
+Puducherry,May-13,29,Milk
+Punjab,May-13,36.2,Milk
+Rajasthan,May-13,29.64,Milk
+Tamil Nadu,May-13,27.49,Milk
+Telangana,May-13,34,Milk
+Tripura,May-13,29,Milk
+Uttar Pradesh,May-13,38.86,Milk
+Uttarakhand,May-13,34,Milk
+West Bengal,May-13,29.62,Milk
+Andaman and Nicobar,Jun-13,46.91,Milk
+Andhra Pradesh,Jun-13,33.5,Milk
+Arunachal pradesh,Jun-13,40,Milk
+Assam,Jun-13,40,Milk
+Bihar,Jun-13,31.45,Milk
+Chandigarh,Jun-13,35,Milk
+Chhattisgarh,Jun-13,30.9,Milk
+Delhi,Jun-13,32,Milk
+Gujarat,Jun-13,40,Milk
+Haryana,Jun-13,40.22,Milk
+Himachal Pradesh,Jun-13,27.65,Milk
+Jammu and Kashmir,Jun-13,32.84,Milk
+Karnataka,Jun-13,33.27,Milk
+Kerala,Jun-13,35,Milk
+Madhya Pradesh,Jun-13,35.92,Milk
+Maharashtra,Jun-13,35,Milk
+Odisha,Jun-13,28,Milk
+Puducherry,Jun-13,29,Milk
+Punjab,Jun-13,36.26,Milk
+Rajasthan,Jun-13,30.72,Milk
+Tamil Nadu,Jun-13,28.54,Milk
+Telangana,Jun-13,34,Milk
+Tripura,Jun-13,29,Milk
+Uttar Pradesh,Jun-13,39,Milk
+Uttarakhand,Jun-13,34,Milk
+West Bengal,Jun-13,28.97,Milk
+Andaman and Nicobar,Jul-13,48,Milk
+Andhra Pradesh,Jul-13,33.5,Milk
+Arunachal pradesh,Jul-13,40,Milk
+Assam,Jul-13,40,Milk
+Bihar,Jul-13,32,Milk
+Chandigarh,Jul-13,35,Milk
+Chhattisgarh,Jul-13,31,Milk
+Delhi,Jul-13,32,Milk
+Gujarat,Jul-13,40.09,Milk
+Haryana,Jul-13,41.58,Milk
+Himachal Pradesh,Jul-13,27.38,Milk
+Jammu and Kashmir,Jul-13,33.63,Milk
+Karnataka,Jul-13,33.57,Milk
+Kerala,Jul-13,35.32,Milk
+Madhya Pradesh,Jul-13,36.32,Milk
+Maharashtra,Jul-13,35,Milk
+Odisha,Jul-13,28,Milk
+Puducherry,Jul-13,29,Milk
+Punjab,Jul-13,36.34,Milk
+Rajasthan,Jul-13,32.06,Milk
+Tamil Nadu,Jul-13,29.03,Milk
+Telangana,Jul-13,34,Milk
+Tripura,Jul-13,29,Milk
+Uttar Pradesh,Jul-13,39,Milk
+Uttarakhand,Jul-13,34,Milk
+West Bengal,Jul-13,28.98,Milk
+Andaman and Nicobar,Aug-13,48,Milk
+Andhra Pradesh,Aug-13,33.5,Milk
+Arunachal pradesh,Aug-13,40,Milk
+Assam,Aug-13,40,Milk
+Bihar,Aug-13,32,Milk
+Chandigarh,Aug-13,35,Milk
+Chhattisgarh,Aug-13,31,Milk
+Delhi,Aug-13,32,Milk
+Gujarat,Aug-13,41,Milk
+Haryana,Aug-13,40,Milk
+Himachal Pradesh,Aug-13,27.36,Milk
+Jammu and Kashmir,Aug-13,35.22,Milk
+Karnataka,Aug-13,33.5,Milk
+Kerala,Aug-13,35.36,Milk
+Madhya Pradesh,Aug-13,36.59,Milk
+Maharashtra,Aug-13,35,Milk
+Odisha,Aug-13,28,Milk
+Puducherry,Aug-13,29,Milk
+Punjab,Aug-13,36.58,Milk
+Rajasthan,Aug-13,30.44,Milk
+Tamil Nadu,Aug-13,29,Milk
+Telangana,Aug-13,34,Milk
+Tripura,Aug-13,29,Milk
+Uttar Pradesh,Aug-13,38.86,Milk
+Uttarakhand,Aug-13,34.27,Milk
+West Bengal,Aug-13,28.76,Milk
+Andaman and Nicobar,Sep-13,48.89,Milk
+Arunachal pradesh,Sep-13,50,Milk
+Assam,Sep-13,42.67,Milk
+Bihar,Sep-13,32,Milk
+Chandigarh,Sep-13,35,Milk
+Chhattisgarh,Sep-13,31,Milk
+Delhi,Sep-13,32,Milk
+Gujarat,Sep-13,41,Milk
+Haryana,Sep-13,40.22,Milk
+Himachal Pradesh,Sep-13,27.37,Milk
+Jammu and Kashmir,Sep-13,34.32,Milk
+Karnataka,Sep-13,34.15,Milk
+Kerala,Sep-13,35.33,Milk
+Madhya Pradesh,Sep-13,37.06,Milk
+Maharashtra,Sep-13,33.47,Milk
+Odisha,Sep-13,28,Milk
+Puducherry,Sep-13,29,Milk
+Punjab,Sep-13,36.61,Milk
+Rajasthan,Sep-13,30.96,Milk
+Tamil Nadu,Sep-13,29.02,Milk
+Telangana,Sep-13,34,Milk
+Tripura,Sep-13,38,Milk
+Uttar Pradesh,Sep-13,39.17,Milk
+Uttarakhand,Sep-13,35,Milk
+West Bengal,Sep-13,29.07,Milk
+Andaman and Nicobar,Oct-13,50,Milk
+Andhra Pradesh,Oct-13,34.53,Milk
+Arunachal pradesh,Oct-13,50,Milk
+Assam,Oct-13,40,Milk
+Bihar,Oct-13,32,Milk
+Chandigarh,Oct-13,35.63,Milk
+Chhattisgarh,Oct-13,31,Milk
+Delhi,Oct-13,32.63,Milk
+Gujarat,Oct-13,41,Milk
+Haryana,Oct-13,38.5,Milk
+Himachal Pradesh,Oct-13,27.22,Milk
+Jammu and Kashmir,Oct-13,34.41,Milk
+Karnataka,Oct-13,33.35,Milk
+Kerala,Oct-13,35.33,Milk
+Madhya Pradesh,Oct-13,37.13,Milk
+Maharashtra,Oct-13,34,Milk
+Odisha,Oct-13,28,Milk
+Puducherry,Oct-13,29,Milk
+Punjab,Oct-13,37,Milk
+Rajasthan,Oct-13,30.26,Milk
+Tamil Nadu,Oct-13,29,Milk
+Telangana,Oct-13,34.8,Milk
+Tripura,Oct-13,38,Milk
+Uttar Pradesh,Oct-13,40.26,Milk
+Uttarakhand,Oct-13,35.58,Milk
+West Bengal,Oct-13,29.17,Milk
+Andaman and Nicobar,Nov-13,50,Milk
+Andhra Pradesh,Nov-13,34.5,Milk
+Arunachal pradesh,Nov-13,50,Milk
+Assam,Nov-13,41.84,Milk
+Bihar,Nov-13,32.56,Milk
+Chandigarh,Nov-13,35.53,Milk
+Chhattisgarh,Nov-13,31,Milk
+Delhi,Nov-13,34,Milk
+Goa,Nov-13,39.67,Milk
+Gujarat,Nov-13,41.88,Milk
+Haryana,Nov-13,41.22,Milk
+Himachal Pradesh,Nov-13,27.37,Milk
+Jammu and Kashmir,Nov-13,34.47,Milk
+Karnataka,Nov-13,33,Milk
+Kerala,Nov-13,35.36,Milk
+Madhya Pradesh,Nov-13,37.31,Milk
+Maharashtra,Nov-13,34,Milk
+Odisha,Nov-13,28,Milk
+Puducherry,Nov-13,29,Milk
+Punjab,Nov-13,36.54,Milk
+Rajasthan,Nov-13,33.11,Milk
+Tamil Nadu,Nov-13,29.03,Milk
+Telangana,Nov-13,36.7,Milk
+Tripura,Nov-13,38,Milk
+Uttar Pradesh,Nov-13,41.51,Milk
+Uttarakhand,Nov-13,36,Milk
+West Bengal,Nov-13,30,Milk
+Andaman and Nicobar,Dec-13,52,Milk
+Andhra Pradesh,Dec-13,34.5,Milk
+Arunachal pradesh,Dec-13,50,Milk
+Assam,Dec-13,41.18,Milk
+Bihar,Dec-13,32.69,Milk
+Chandigarh,Dec-13,35,Milk
+Chhattisgarh,Dec-13,31,Milk
+Delhi,Dec-13,34,Milk
+Goa,Dec-13,40,Milk
+Gujarat,Dec-13,42,Milk
+Haryana,Dec-13,42.21,Milk
+Himachal Pradesh,Dec-13,26.88,Milk
+Jammu and Kashmir,Dec-13,34,Milk
+Karnataka,Dec-13,33,Milk
+Kerala,Dec-13,35.33,Milk
+Madhya Pradesh,Dec-13,37.69,Milk
+Maharashtra,Dec-13,34.59,Milk
+Odisha,Dec-13,28,Milk
+Puducherry,Dec-13,29,Milk
+Punjab,Dec-13,36.55,Milk
+Rajasthan,Dec-13,33.33,Milk
+Tamil Nadu,Dec-13,29,Milk
+Telangana,Dec-13,37,Milk
+Tripura,Dec-13,38,Milk
+Uttar Pradesh,Dec-13,41.5,Milk
+Uttarakhand,Dec-13,36,Milk
+West Bengal,Dec-13,30,Milk
+Andaman and Nicobar,Jan-14,52,Milk
+Andhra Pradesh,Jan-14,34.5,Milk
+Arunachal pradesh,Jan-14,50,Milk
+Assam,Jan-14,40,Milk
+Bihar,Jan-14,33.06,Milk
+Chandigarh,Jan-14,35,Milk
+Chhattisgarh,Jan-14,31,Milk
+Delhi,Jan-14,34,Milk
+Goa,Jan-14,40.5,Milk
+Gujarat,Jan-14,42,Milk
+Haryana,Jan-14,41.83,Milk
+Himachal Pradesh,Jan-14,26.61,Milk
+Jammu and Kashmir,Jan-14,33.67,Milk
+Karnataka,Jan-14,33,Milk
+Kerala,Jan-14,35.32,Milk
+Madhya Pradesh,Jan-14,37.62,Milk
+Maharashtra,Jan-14,34.89,Milk
+Odisha,Jan-14,28,Milk
+Puducherry,Jan-14,28.77,Milk
+Punjab,Jan-14,36.71,Milk
+Rajasthan,Jan-14,32.62,Milk
+Tamil Nadu,Jan-14,29.35,Milk
+Telangana,Jan-14,37,Milk
+Tripura,Jan-14,38,Milk
+Uttar Pradesh,Jan-14,41.5,Milk
+Uttarakhand,Jan-14,36,Milk
+West Bengal,Jan-14,30,Milk
+Andaman and Nicobar,Feb-14,52,Milk
+Andhra Pradesh,Feb-14,34.5,Milk
+Assam,Feb-14,40,Milk
+Bihar,Feb-14,32.87,Milk
+Chandigarh,Feb-14,35,Milk
+Chhattisgarh,Feb-14,31,Milk
+Delhi,Feb-14,36,Milk
+Goa,Feb-14,42,Milk
+Gujarat,Feb-14,42,Milk
+Haryana,Feb-14,41.06,Milk
+Himachal Pradesh,Feb-14,27.76,Milk
+Jammu and Kashmir,Feb-14,35.33,Milk
+Karnataka,Feb-14,33,Milk
+Kerala,Feb-14,35.32,Milk
+Madhya Pradesh,Feb-14,37.69,Milk
+Maharashtra,Feb-14,34.89,Milk
+Odisha,Feb-14,28.86,Milk
+Puducherry,Feb-14,29,Milk
+Punjab,Feb-14,36.98,Milk
+Rajasthan,Feb-14,29.39,Milk
+Tamil Nadu,Feb-14,29.95,Milk
+Telangana,Feb-14,37,Milk
+Tripura,Feb-14,38,Milk
+Uttar Pradesh,Feb-14,42.11,Milk
+Uttarakhand,Feb-14,36,Milk
+West Bengal,Feb-14,30.34,Milk
+Andaman and Nicobar,Mar-14,52.4,Milk
+Andhra Pradesh,Mar-14,36.39,Milk
+Arunachal pradesh,Mar-14,50,Milk
+Assam,Mar-14,40,Milk
+Bihar,Mar-14,33,Milk
+Chandigarh,Mar-14,38,Milk
+Chhattisgarh,Mar-14,31,Milk
+Delhi,Mar-14,36,Milk
+Goa,Mar-14,42,Milk
+Gujarat,Mar-14,42,Milk
+Haryana,Mar-14,41.25,Milk
+Himachal Pradesh,Mar-14,27.5,Milk
+Jammu and Kashmir,Mar-14,35.31,Milk
+Karnataka,Mar-14,33.35,Milk
+Kerala,Mar-14,35.77,Milk
+Madhya Pradesh,Mar-14,37.65,Milk
+Maharashtra,Mar-14,35.24,Milk
+Odisha,Mar-14,30,Milk
+Puducherry,Mar-14,29,Milk
+Punjab,Mar-14,38.34,Milk
+Rajasthan,Mar-14,29.32,Milk
+Tamil Nadu,Mar-14,30,Milk
+Telangana,Mar-14,39.79,Milk
+Tripura,Mar-14,38,Milk
+Uttar Pradesh,Mar-14,42.45,Milk
+Uttarakhand,Mar-14,36,Milk
+West Bengal,Mar-14,31,Milk
+Andaman and Nicobar,Apr-14,54,Milk
+Andhra Pradesh,Apr-14,36.5,Milk
+Assam,Apr-14,40,Milk
+Bihar,Apr-14,33.17,Milk
+Chandigarh,Apr-14,38,Milk
+Chhattisgarh,Apr-14,31,Milk
+Delhi,Apr-14,36,Milk
+Goa,Apr-14,42,Milk
+Gujarat,Apr-14,42,Milk
+Haryana,Apr-14,41.62,Milk
+Himachal Pradesh,Apr-14,27.34,Milk
+Jammu and Kashmir,Apr-14,35.24,Milk
+Karnataka,Apr-14,34,Milk
+Kerala,Apr-14,36,Milk
+Madhya Pradesh,Apr-14,38.76,Milk
+Maharashtra,Apr-14,36,Milk
+Meghalaya,Apr-14,55,Milk
+Odisha,Apr-14,30,Milk
+Puducherry,Apr-14,29,Milk
+Punjab,Apr-14,39.49,Milk
+Rajasthan,Apr-14,31.48,Milk
+Tamil Nadu,Apr-14,29.59,Milk
+Telangana,Apr-14,40,Milk
+Tripura,Apr-14,38,Milk
+Uttar Pradesh,Apr-14,43.06,Milk
+Uttarakhand,Apr-14,36,Milk
+West Bengal,Apr-14,31.06,Milk
+Andaman and Nicobar,May-14,54,Milk
+Andhra Pradesh,May-14,36.5,Milk
+Assam,May-14,40,Milk
+Bihar,May-14,34,Milk
+Chandigarh,May-14,38,Milk
+Chhattisgarh,May-14,31,Milk
+Delhi,May-14,36.29,Milk
+Goa,May-14,42,Milk
+Gujarat,May-14,42.87,Milk
+Haryana,May-14,42.01,Milk
+Himachal Pradesh,May-14,27.5,Milk
+Jammu and Kashmir,May-14,36.8,Milk
+Karnataka,May-14,33.62,Milk
+Kerala,May-14,36,Milk
+Madhya Pradesh,May-14,38.61,Milk
+Maharashtra,May-14,36.28,Milk
+Meghalaya,May-14,55,Milk
+Odisha,May-14,30,Milk
+Puducherry,May-14,29,Milk
+Punjab,May-14,39.66,Milk
+Rajasthan,May-14,34.17,Milk
+Tamil Nadu,May-14,29.35,Milk
+Telangana,May-14,40,Milk
+Tripura,May-14,38,Milk
+Uttar Pradesh,May-14,43.23,Milk
+Uttarakhand,May-14,36,Milk
+West Bengal,May-14,31.69,Milk
+Andaman and Nicobar,Jun-14,54,Milk
+Andhra Pradesh,Jun-14,37.36,Milk
+Assam,Jun-14,40,Milk
+Bihar,Jun-14,34.16,Milk
+Chandigarh,Jun-14,38,Milk
+Chhattisgarh,Jun-14,32.4,Milk
+Delhi,Jun-14,38,Milk
+Goa,Jun-14,42,Milk
+Gujarat,Jun-14,43,Milk
+Haryana,Jun-14,43.95,Milk
+Himachal Pradesh,Jun-14,28.24,Milk
+Jammu and Kashmir,Jun-14,36.91,Milk
+Karnataka,Jun-14,34,Milk
+Kerala,Jun-14,36,Milk
+Madhya Pradesh,Jun-14,38.71,Milk
+Maharashtra,Jun-14,36,Milk
+Meghalaya,Jun-14,55,Milk
+Odisha,Jun-14,30,Milk
+Puducherry,Jun-14,29,Milk
+Punjab,Jun-14,39.71,Milk
+Rajasthan,Jun-14,32.65,Milk
+Tamil Nadu,Jun-14,29.37,Milk
+Telangana,Jun-14,40,Milk
+Tripura,Jun-14,38,Milk
+Uttar Pradesh,Jun-14,44.05,Milk
+Uttarakhand,Jun-14,36,Milk
+West Bengal,Jun-14,32.21,Milk
+Andaman and Nicobar,Jul-14,55,Milk
+Andhra Pradesh,Jul-14,37.5,Milk
+Assam,Jul-14,40,Milk
+Bihar,Jul-14,34.5,Milk
+Chandigarh,Jul-14,38,Milk
+Chhattisgarh,Jul-14,37.89,Milk
+Delhi,Jul-14,38,Milk
+Goa,Jul-14,43.76,Milk
+Gujarat,Jul-14,43,Milk
+Haryana,Jul-14,43.79,Milk
+Himachal Pradesh,Jul-14,28.98,Milk
+Jammu and Kashmir,Jul-14,38,Milk
+Jharkhand,Jul-14,38,Milk
+Karnataka,Jul-14,34.19,Milk
+Kerala,Jul-14,36.16,Milk
+Madhya Pradesh,Jul-14,38.33,Milk
+Maharashtra,Jul-14,36,Milk
+Meghalaya,Jul-14,56.29,Milk
+Odisha,Jul-14,30,Milk
+Puducherry,Jul-14,27.5,Milk
+Punjab,Jul-14,41.08,Milk
+Rajasthan,Jul-14,32.96,Milk
+Tamil Nadu,Jul-14,29.33,Milk
+Telangana,Jul-14,40,Milk
+Tripura,Jul-14,38,Milk
+Uttar Pradesh,Jul-14,44.93,Milk
+Uttarakhand,Jul-14,36,Milk
+West Bengal,Jul-14,32.05,Milk
+Andaman and Nicobar,Aug-14,56,Milk
+Andhra Pradesh,Aug-14,37.5,Milk
+Assam,Aug-14,43.78,Milk
+Bihar,Aug-14,34.88,Milk
+Chandigarh,Aug-14,38,Milk
+Chhattisgarh,Aug-14,38,Milk
+Delhi,Aug-14,38,Milk
+Goa,Aug-14,44,Milk
+Gujarat,Aug-14,43,Milk
+Haryana,Aug-14,43.87,Milk
+Himachal Pradesh,Aug-14,29,Milk
+Jammu and Kashmir,Aug-14,37.56,Milk
+Jharkhand,Aug-14,38,Milk
+Karnataka,Aug-14,34.7,Milk
+Kerala,Aug-14,36.68,Milk
+Madhya Pradesh,Aug-14,38.7,Milk
+Maharashtra,Aug-14,36.14,Milk
+Meghalaya,Aug-14,57,Milk
+Odisha,Aug-14,31.43,Milk
+Puducherry,Aug-14,26,Milk
+Punjab,Aug-14,40.57,Milk
+Rajasthan,Aug-14,33.18,Milk
+Tamil Nadu,Aug-14,28.84,Milk
+Telangana,Aug-14,40,Milk
+Tripura,Aug-14,38,Milk
+Uttar Pradesh,Aug-14,46,Milk
+Uttarakhand,Aug-14,36,Milk
+West Bengal,Aug-14,32.38,Milk
+Andaman and Nicobar,Sep-14,56,Milk
+Andhra Pradesh,Sep-14,37.5,Milk
+Assam,Sep-14,44,Milk
+Bihar,Sep-14,35.54,Milk
+Chandigarh,Sep-14,38,Milk
+Chhattisgarh,Sep-14,38,Milk
+Delhi,Sep-14,38,Milk
+Goa,Sep-14,44,Milk
+Gujarat,Sep-14,43,Milk
+Haryana,Sep-14,43.88,Milk
+Himachal Pradesh,Sep-14,29.02,Milk
+Jammu and Kashmir,Sep-14,39.28,Milk
+Jharkhand,Sep-14,38,Milk
+Karnataka,Sep-14,35.11,Milk
+Kerala,Sep-14,36.63,Milk
+Madhya Pradesh,Sep-14,39,Milk
+Maharashtra,Sep-14,36,Milk
+Meghalaya,Sep-14,57,Milk
+Odisha,Sep-14,32,Milk
+Puducherry,Sep-14,26,Milk
+Punjab,Sep-14,40.53,Milk
+Rajasthan,Sep-14,32.93,Milk
+Tamil Nadu,Sep-14,28.4,Milk
+Telangana,Sep-14,40,Milk
+Tripura,Sep-14,38,Milk
+Uttar Pradesh,Sep-14,45.94,Milk
+Uttarakhand,Sep-14,36,Milk
+West Bengal,Sep-14,32.05,Milk
+Andaman and Nicobar,Oct-14,56,Milk
+Andhra Pradesh,Oct-14,37.5,Milk
+Assam,Oct-14,44,Milk
+Bihar,Oct-14,36,Milk
+Chandigarh,Oct-14,38,Milk
+Chhattisgarh,Oct-14,38,Milk
+Delhi,Oct-14,38,Milk
+Goa,Oct-14,44,Milk
+Gujarat,Oct-14,43,Milk
+Haryana,Oct-14,43.91,Milk
+Himachal Pradesh,Oct-14,28.8,Milk
+Jammu and Kashmir,Oct-14,39.63,Milk
+Jharkhand,Oct-14,38,Milk
+Karnataka,Oct-14,35.24,Milk
+Kerala,Oct-14,36.67,Milk
+Madhya Pradesh,Oct-14,39.59,Milk
+Maharashtra,Oct-14,36,Milk
+Meghalaya,Oct-14,57,Milk
+Odisha,Oct-14,32,Milk
+Puducherry,Oct-14,26,Milk
+Punjab,Oct-14,40.4,Milk
+Rajasthan,Oct-14,33.05,Milk
+Tamil Nadu,Oct-14,28.39,Milk
+Telangana,Oct-14,40,Milk
+Tripura,Oct-14,38,Milk
+Uttar Pradesh,Oct-14,46.07,Milk
+Uttarakhand,Oct-14,36,Milk
+West Bengal,Oct-14,32,Milk
+Andaman and Nicobar,Nov-14,56,Milk
+Andhra Pradesh,Nov-14,37.5,Milk
+Assam,Nov-14,44,Milk
+Bihar,Nov-14,36.03,Milk
+Chandigarh,Nov-14,38,Milk
+Chhattisgarh,Nov-14,38,Milk
+Delhi,Nov-14,38,Milk
+Goa,Nov-14,44,Milk
+Gujarat,Nov-14,43,Milk
+Haryana,Nov-14,44.26,Milk
+Himachal Pradesh,Nov-14,28.97,Milk
+Jammu and Kashmir,Nov-14,37.6,Milk
+Jharkhand,Nov-14,38,Milk
+Karnataka,Nov-14,35.55,Milk
+Kerala,Nov-14,36.86,Milk
+Madhya Pradesh,Nov-14,38.75,Milk
+Maharashtra,Nov-14,36,Milk
+Meghalaya,Nov-14,57,Milk
+Odisha,Nov-14,32,Milk
+Puducherry,Nov-14,26.59,Milk
+Punjab,Nov-14,41.14,Milk
+Rajasthan,Nov-14,33.12,Milk
+Tamil Nadu,Nov-14,35.99,Milk
+Telangana,Nov-14,40,Milk
+Tripura,Nov-14,38,Milk
+Uttar Pradesh,Nov-14,45.91,Milk
+Uttarakhand,Nov-14,36,Milk
+West Bengal,Nov-14,32.12,Milk
+Andaman and Nicobar,Dec-14,56,Milk
+Andhra Pradesh,Dec-14,37.5,Milk
+Assam,Dec-14,44,Milk
+Bihar,Dec-14,36.38,Milk
+Chandigarh,Dec-14,38,Milk
+Chhattisgarh,Dec-14,38,Milk
+Delhi,Dec-14,38,Milk
+Goa,Dec-14,44,Milk
+Gujarat,Dec-14,43,Milk
+Haryana,Dec-14,44.69,Milk
+Himachal Pradesh,Dec-14,28.98,Milk
+Jammu and Kashmir,Dec-14,37.19,Milk
+Jharkhand,Dec-14,38,Milk
+Karnataka,Dec-14,34.49,Milk
+Kerala,Dec-14,37.33,Milk
+Madhya Pradesh,Dec-14,38.7,Milk
+Maharashtra,Dec-14,36,Milk
+Meghalaya,Dec-14,57,Milk
+Odisha,Dec-14,32.64,Milk
+Puducherry,Dec-14,36,Milk
+Punjab,Dec-14,41.27,Milk
+Rajasthan,Dec-14,32.83,Milk
+Tamil Nadu,Dec-14,36,Milk
+Telangana,Dec-14,40,Milk
+Tripura,Dec-14,38,Milk
+Uttar Pradesh,Dec-14,46.07,Milk
+Uttarakhand,Dec-14,36,Milk
+West Bengal,Dec-14,32.15,Milk
+Andaman and Nicobar,Jan-15,56,Milk
+Andhra Pradesh,Jan-15,37.5,Milk
+Assam,Jan-15,44,Milk
+Bihar,Jan-15,36.38,Milk
+Chandigarh,Jan-15,38,Milk
+Chhattisgarh,Jan-15,38,Milk
+Delhi,Jan-15,38,Milk
+Goa,Jan-15,44,Milk
+Gujarat,Jan-15,43,Milk
+Haryana,Jan-15,45.3,Milk
+Himachal Pradesh,Jan-15,29,Milk
+Jammu and Kashmir,Jan-15,37.09,Milk
+Jharkhand,Jan-15,38,Milk
+Karnataka,Jan-15,35.66,Milk
+Kerala,Jan-15,37.51,Milk
+Madhya Pradesh,Jan-15,38.56,Milk
+Maharashtra,Jan-15,36,Milk
+Meghalaya,Jan-15,57.29,Milk
+Mizoram,Jan-15,64,Milk
+Odisha,Jan-15,34,Milk
+Puducherry,Jan-15,36,Milk
+Punjab,Jan-15,41.23,Milk
+Rajasthan,Jan-15,32.79,Milk
+Tamil Nadu,Jan-15,36,Milk
+Telangana,Jan-15,40,Milk
+Tripura,Jan-15,38.94,Milk
+Uttar Pradesh,Jan-15,46,Milk
+Uttarakhand,Jan-15,36,Milk
+West Bengal,Jan-15,32.43,Milk
+Andaman and Nicobar,Feb-15,56,Milk
+Andhra Pradesh,Feb-15,37.5,Milk
+Assam,Feb-15,44,Milk
+Bihar,Feb-15,36.37,Milk
+Chandigarh,Feb-15,38,Milk
+Chhattisgarh,Feb-15,38,Milk
+Delhi,Feb-15,38,Milk
+Goa,Feb-15,44,Milk
+Gujarat,Feb-15,43,Milk
+Haryana,Feb-15,45.5,Milk
+Himachal Pradesh,Feb-15,29,Milk
+Jammu and Kashmir,Feb-15,37.48,Milk
+Jharkhand,Feb-15,38,Milk
+Karnataka,Feb-15,35.5,Milk
+Kerala,Feb-15,37.55,Milk
+Madhya Pradesh,Feb-15,38.5,Milk
+Maharashtra,Feb-15,36,Milk
+Meghalaya,Feb-15,58,Milk
+Mizoram,Feb-15,64,Milk
+Odisha,Feb-15,34,Milk
+Puducherry,Feb-15,36,Milk
+Punjab,Feb-15,41.2,Milk
+Rajasthan,Feb-15,32.75,Milk
+Tamil Nadu,Feb-15,36,Milk
+Telangana,Feb-15,40,Milk
+Tripura,Feb-15,40,Milk
+Uttar Pradesh,Feb-15,46.45,Milk
+Uttarakhand,Feb-15,36,Milk
+West Bengal,Feb-15,32.58,Milk
+Andaman and Nicobar,Mar-15,54,Milk
+Andhra Pradesh,Mar-15,37.5,Milk
+Assam,Mar-15,41.88,Milk
+Bihar,Mar-15,37.08,Milk
+Chandigarh,Mar-15,38,Milk
+Chhattisgarh,Mar-15,36.89,Milk
+Delhi,Mar-15,38,Milk
+Goa,Mar-15,44,Milk
+Gujarat,Mar-15,42.98,Milk
+Haryana,Mar-15,45.5,Milk
+Himachal Pradesh,Mar-15,29.17,Milk
+Jammu and Kashmir,Mar-15,37.8,Milk
+Jharkhand,Mar-15,38,Milk
+Karnataka,Mar-15,34.88,Milk
+Kerala,Mar-15,37.49,Milk
+Madhya Pradesh,Mar-15,38.75,Milk
+Maharashtra,Mar-15,36,Milk
+Meghalaya,Mar-15,58,Milk
+Mizoram,Mar-15,64,Milk
+Nagaland,Mar-15,50,Milk
+Odisha,Mar-15,34,Milk
+Puducherry,Mar-15,36,Milk
+Punjab,Mar-15,41.26,Milk
+Rajasthan,Mar-15,32.67,Milk
+Tamil Nadu,Mar-15,36,Milk
+Telangana,Mar-15,40,Milk
+Tripura,Mar-15,40,Milk
+Uttar Pradesh,Mar-15,46.44,Milk
+Uttarakhand,Mar-15,36,Milk
+West Bengal,Mar-15,32.22,Milk
+Andaman and Nicobar,Apr-15,53,Milk
+Andhra Pradesh,Apr-15,37.5,Milk
+Assam,Apr-15,40,Milk
+Bihar,Apr-15,37.02,Milk
+Chandigarh,Apr-15,38,Milk
+Chhattisgarh,Apr-15,38,Milk
+Delhi,Apr-15,38,Milk
+Goa,Apr-15,44,Milk
+Gujarat,Apr-15,43.89,Milk
+Haryana,Apr-15,45.5,Milk
+Himachal Pradesh,Apr-15,30.04,Milk
+Jammu and Kashmir,Apr-15,37.29,Milk
+Jharkhand,Apr-15,38,Milk
+Karnataka,Apr-15,33.19,Milk
+Kerala,Apr-15,37.5,Milk
+Madhya Pradesh,Apr-15,38.37,Milk
+Maharashtra,Apr-15,36,Milk
+Meghalaya,Apr-15,58,Milk
+Mizoram,Apr-15,64,Milk
+Nagaland,Apr-15,50,Milk
+Odisha,Apr-15,34,Milk
+Puducherry,Apr-15,36,Milk
+Punjab,Apr-15,41.32,Milk
+Rajasthan,Apr-15,33.28,Milk
+Tamil Nadu,Apr-15,35.99,Milk
+Telangana,Apr-15,40,Milk
+Tripura,Apr-15,40,Milk
+Uttar Pradesh,Apr-15,46.48,Milk
+Uttarakhand,Apr-15,36,Milk
+West Bengal,Apr-15,32.48,Milk
+Andaman and Nicobar,May-15,53,Milk
+Andhra Pradesh,May-15,37.5,Milk
+Assam,May-15,40,Milk
+Bihar,May-15,37.06,Milk
+Chandigarh,May-15,38,Milk
+Chhattisgarh,May-15,38,Milk
+Delhi,May-15,38,Milk
+Goa,May-15,44,Milk
+Gujarat,May-15,44.39,Milk
+Haryana,May-15,45.5,Milk
+Himachal Pradesh,May-15,31.54,Milk
+Jammu and Kashmir,May-15,37.87,Milk
+Jharkhand,May-15,38,Milk
+Karnataka,May-15,33.33,Milk
+Kerala,May-15,37.5,Milk
+Madhya Pradesh,May-15,38.96,Milk
+Maharashtra,May-15,36,Milk
+Meghalaya,May-15,58,Milk
+Mizoram,May-15,64,Milk
+Nagaland,May-15,50,Milk
+Odisha,May-15,34,Milk
+Puducherry,May-15,36,Milk
+Punjab,May-15,41.31,Milk
+Rajasthan,May-15,33.93,Milk
+Tamil Nadu,May-15,35.97,Milk
+Telangana,May-15,40,Milk
+Tripura,May-15,39.94,Milk
+Uttar Pradesh,May-15,46.46,Milk
+Uttarakhand,May-15,36,Milk
+West Bengal,May-15,32.24,Milk
+Andaman and Nicobar,Jun-15,53,Milk
+Andhra Pradesh,Jun-15,37.5,Milk
+Assam,Jun-15,43.78,Milk
+Bihar,Jun-15,37.06,Milk
+Chandigarh,Jun-15,39.85,Milk
+Chhattisgarh,Jun-15,38,Milk
+Delhi,Jun-15,38,Milk
+Goa,Jun-15,44,Milk
+Gujarat,Jun-15,45.77,Milk
+Haryana,Jun-15,45.5,Milk
+Himachal Pradesh,Jun-15,32.62,Milk
+Jammu and Kashmir,Jun-15,37.24,Milk
+Jharkhand,Jun-15,38,Milk
+Karnataka,Jun-15,32.98,Milk
+Kerala,Jun-15,37.64,Milk
+Madhya Pradesh,Jun-15,39.23,Milk
+Maharashtra,Jun-15,36,Milk
+Meghalaya,Jun-15,58.86,Milk
+Mizoram,Jun-15,64.17,Milk
+Nagaland,Jun-15,50,Milk
+Odisha,Jun-15,34,Milk
+Puducherry,Jun-15,36,Milk
+Punjab,Jun-15,41.27,Milk
+Rajasthan,Jun-15,34.3,Milk
+Tamil Nadu,Jun-15,36,Milk
+Telangana,Jun-15,40,Milk
+Tripura,Jun-15,40,Milk
+Uttar Pradesh,Jun-15,47.44,Milk
+Uttarakhand,Jun-15,36,Milk
+West Bengal,Jun-15,32.59,Milk
+Andaman and Nicobar,Jul-15,53,Milk
+Andhra Pradesh,Jul-15,37.5,Milk
+Assam,Jul-15,44,Milk
+Bihar,Jul-15,37.02,Milk
+Chandigarh,Jul-15,41,Milk
+Chhattisgarh,Jul-15,38,Milk
+Delhi,Jul-15,38,Milk
+Goa,Jul-15,44,Milk
+Gujarat,Jul-15,45.98,Milk
+Haryana,Jul-15,45.5,Milk
+Himachal Pradesh,Jul-15,32.74,Milk
+Jammu and Kashmir,Jul-15,37.6,Milk
+Jharkhand,Jul-15,38,Milk
+Karnataka,Jul-15,32.85,Milk
+Kerala,Jul-15,38.07,Milk
+Madhya Pradesh,Jul-15,39.47,Milk
+Maharashtra,Jul-15,36,Milk
+Meghalaya,Jul-15,60,Milk
+Mizoram,Jul-15,65,Milk
+Nagaland,Jul-15,50,Milk
+Odisha,Jul-15,34,Milk
+Puducherry,Jul-15,36,Milk
+Punjab,Jul-15,41.31,Milk
+Rajasthan,Jul-15,34.33,Milk
+Tamil Nadu,Jul-15,36,Milk
+Telangana,Jul-15,40,Milk
+Tripura,Jul-15,40,Milk
+Uttar Pradesh,Jul-15,47.71,Milk
+Uttarakhand,Jul-15,36,Milk
+West Bengal,Jul-15,33.07,Milk
+Andaman and Nicobar,Aug-15,53,Milk
+Andhra Pradesh,Aug-15,37.5,Milk
+Assam,Aug-15,44,Milk
+Bihar,Aug-15,37.03,Milk
+Chandigarh,Aug-15,41,Milk
+Chhattisgarh,Aug-15,38,Milk
+Delhi,Aug-15,38,Milk
+Goa,Aug-15,44,Milk
+Gujarat,Aug-15,45.95,Milk
+Haryana,Aug-15,45.5,Milk
+Himachal Pradesh,Aug-15,32.67,Milk
+Jammu and Kashmir,Aug-15,37.5,Milk
+Jharkhand,Aug-15,38,Milk
+Karnataka,Aug-15,33.03,Milk
+Kerala,Aug-15,38.1,Milk
+Madhya Pradesh,Aug-15,39.27,Milk
+Maharashtra,Aug-15,36,Milk
+Meghalaya,Aug-15,60,Milk
+Mizoram,Aug-15,65,Milk
+Nagaland,Aug-15,50,Milk
+Odisha,Aug-15,34,Milk
+Puducherry,Aug-15,36,Milk
+Punjab,Aug-15,41.33,Milk
+Rajasthan,Aug-15,34.33,Milk
+Tamil Nadu,Aug-15,35.99,Milk
+Telangana,Aug-15,40,Milk
+Tripura,Aug-15,40,Milk
+Uttar Pradesh,Aug-15,47.71,Milk
+Uttarakhand,Aug-15,36,Milk
+West Bengal,Aug-15,32.47,Milk
+Andaman and Nicobar,Sep-15,53,Milk
+Andhra Pradesh,Sep-15,37.5,Milk
+Assam,Sep-15,44,Milk
+Bihar,Sep-15,36.98,Milk
+Chandigarh,Sep-15,41,Milk
+Chhattisgarh,Sep-15,38,Milk
+Delhi,Sep-15,38,Milk
+Goa,Sep-15,44,Milk
+Gujarat,Sep-15,46.33,Milk
+Haryana,Sep-15,45.5,Milk
+Himachal Pradesh,Sep-15,32.37,Milk
+Jammu and Kashmir,Sep-15,37.71,Milk
+Jharkhand,Sep-15,38,Milk
+Karnataka,Sep-15,32.67,Milk
+Kerala,Sep-15,38.09,Milk
+Madhya Pradesh,Sep-15,39.03,Milk
+Maharashtra,Sep-15,36,Milk
+Meghalaya,Sep-15,60,Milk
+Mizoram,Sep-15,65,Milk
+Nagaland,Sep-15,50,Milk
+Odisha,Sep-15,34,Milk
+Puducherry,Sep-15,36,Milk
+Punjab,Sep-15,41.36,Milk
+Rajasthan,Sep-15,34.35,Milk
+Tamil Nadu,Sep-15,36,Milk
+Telangana,Sep-15,40,Milk
+Tripura,Sep-15,40,Milk
+Uttar Pradesh,Sep-15,47.71,Milk
+Uttarakhand,Sep-15,35.89,Milk
+West Bengal,Sep-15,32.47,Milk
+Andaman and Nicobar,Oct-15,53,Milk
+Andhra Pradesh,Oct-15,37.5,Milk
+Assam,Oct-15,44,Milk
+Bihar,Oct-15,37.02,Milk
+Chandigarh,Oct-15,41,Milk
+Chhattisgarh,Oct-15,38,Milk
+Delhi,Oct-15,38,Milk
+Goa,Oct-15,44,Milk
+Gujarat,Oct-15,46.5,Milk
+Haryana,Oct-15,45.5,Milk
+Himachal Pradesh,Oct-15,32.58,Milk
+Jammu and Kashmir,Oct-15,38.18,Milk
+Jharkhand,Oct-15,38,Milk
+Karnataka,Oct-15,31.74,Milk
+Kerala,Oct-15,38.16,Milk
+Madhya Pradesh,Oct-15,39.06,Milk
+Maharashtra,Oct-15,36,Milk
+Meghalaya,Oct-15,60,Milk
+Mizoram,Oct-15,65,Milk
+Nagaland,Oct-15,50,Milk
+Odisha,Oct-15,34,Milk
+Puducherry,Oct-15,36,Milk
+Punjab,Oct-15,41.35,Milk
+Rajasthan,Oct-15,34.18,Milk
+Tamil Nadu,Oct-15,36.01,Milk
+Telangana,Oct-15,40,Milk
+Tripura,Oct-15,40,Milk
+Uttar Pradesh,Oct-15,47.82,Milk
+Uttarakhand,Oct-15,38.34,Milk
+West Bengal,Oct-15,32.08,Milk
+Andaman and Nicobar,Nov-15,53,Milk
+Andhra Pradesh,Nov-15,37.61,Milk
+Assam,Nov-15,44,Milk
+Bihar,Nov-15,37.05,Milk
+Chandigarh,Nov-15,44,Milk
+Chhattisgarh,Nov-15,38,Milk
+Delhi,Nov-15,38,Milk
+Goa,Nov-15,43.78,Milk
+Gujarat,Nov-15,46.5,Milk
+Haryana,Nov-15,45.5,Milk
+Himachal Pradesh,Nov-15,32.91,Milk
+Jammu and Kashmir,Nov-15,38.73,Milk
+Jharkhand,Nov-15,38,Milk
+Karnataka,Nov-15,31.98,Milk
+Kerala,Nov-15,38.33,Milk
+Madhya Pradesh,Nov-15,38.82,Milk
+Maharashtra,Nov-15,36,Milk
+Meghalaya,Nov-15,60,Milk
+Mizoram,Nov-15,65,Milk
+Nagaland,Nov-15,50,Milk
+Odisha,Nov-15,34,Milk
+Puducherry,Nov-15,36,Milk
+Punjab,Nov-15,41.8,Milk
+Rajasthan,Nov-15,34.02,Milk
+Tamil Nadu,Nov-15,36,Milk
+Telangana,Nov-15,40,Milk
+Tripura,Nov-15,40,Milk
+Uttar Pradesh,Nov-15,47.67,Milk
+Uttarakhand,Nov-15,38,Milk
+West Bengal,Nov-15,32.97,Milk
+Andaman and Nicobar,Dec-15,53,Milk
+Andhra Pradesh,Dec-15,37.53,Milk
+Assam,Dec-15,44,Milk
+Bihar,Dec-15,37.03,Milk
+Chandigarh,Dec-15,44,Milk
+Chhattisgarh,Dec-15,38,Milk
+Delhi,Dec-15,38,Milk
+Goa,Dec-15,44,Milk
+Gujarat,Dec-15,46.5,Milk
+Haryana,Dec-15,45.48,Milk
+Himachal Pradesh,Dec-15,32.7,Milk
+Jammu and Kashmir,Dec-15,38.75,Milk
+Jharkhand,Dec-15,38,Milk
+Karnataka,Dec-15,32.02,Milk
+Kerala,Dec-15,38.33,Milk
+Madhya Pradesh,Dec-15,38.94,Milk
+Maharashtra,Dec-15,36,Milk
+Meghalaya,Dec-15,60,Milk
+Mizoram,Dec-15,65,Milk
+Nagaland,Dec-15,50,Milk
+Odisha,Dec-15,34,Milk
+Puducherry,Dec-15,36,Milk
+Punjab,Dec-15,42.41,Milk
+Rajasthan,Dec-15,34.38,Milk
+Tamil Nadu,Dec-15,35.97,Milk
+Telangana,Dec-15,39.83,Milk
+Tripura,Dec-15,40,Milk
+Uttar Pradesh,Dec-15,45.96,Milk
+Uttarakhand,Dec-15,38,Milk
+West Bengal,Dec-15,34,Milk
+Andaman and Nicobar,Jan-16,54.2,Milk
+Andhra Pradesh,Jan-16,37.87,Milk
+Assam,Jan-16,44,Milk
+Bihar,Jan-16,37,Milk
+Chandigarh,Jan-16,44,Milk
+Chhattisgarh,Jan-16,38,Milk
+Delhi,Jan-16,38,Milk
+Goa,Jan-16,44,Milk
+Gujarat,Jan-16,46.5,Milk
+Haryana,Jan-16,45.5,Milk
+Himachal Pradesh,Jan-16,32.27,Milk
+Jammu and Kashmir,Jan-16,38.55,Milk
+Jharkhand,Jan-16,38,Milk
+Karnataka,Jan-16,35.04,Milk
+Kerala,Jan-16,38.33,Milk
+Madhya Pradesh,Jan-16,38.86,Milk
+Maharashtra,Jan-16,36.68,Milk
+Meghalaya,Jan-16,60,Milk
+Mizoram,Jan-16,65,Milk
+Nagaland,Jan-16,50,Milk
+Odisha,Jan-16,34,Milk
+Puducherry,Jan-16,36,Milk
+Punjab,Jan-16,42.56,Milk
+Rajasthan,Jan-16,33.41,Milk
+Tamil Nadu,Jan-16,36.01,Milk
+Telangana,Jan-16,39.83,Milk
+Tripura,Jan-16,40,Milk
+Uttar Pradesh,Jan-16,45.26,Milk
+Uttarakhand,Jan-16,38,Milk
+West Bengal,Jan-16,34,Milk
+Andaman and Nicobar,Feb-16,55,Milk
+Andhra Pradesh,Feb-16,38.66,Milk
+Assam,Feb-16,44,Milk
+Bihar,Feb-16,36.98,Milk
+Chandigarh,Feb-16,44,Milk
+Chhattisgarh,Feb-16,38,Milk
+Delhi,Feb-16,38,Milk
+Goa,Feb-16,44,Milk
+Gujarat,Feb-16,46.5,Milk
+Haryana,Feb-16,45.5,Milk
+Himachal Pradesh,Feb-16,32.62,Milk
+Jammu and Kashmir,Feb-16,38,Milk
+Jharkhand,Feb-16,38,Milk
+Karnataka,Feb-16,35.4,Milk
+Kerala,Feb-16,38.39,Milk
+Madhya Pradesh,Feb-16,38.78,Milk
+Maharashtra,Feb-16,36.51,Milk
+Meghalaya,Feb-16,60,Milk
+Mizoram,Feb-16,65,Milk
+Nagaland,Feb-16,50,Milk
+Odisha,Feb-16,34,Milk
+Puducherry,Feb-16,36,Milk
+Punjab,Feb-16,42.61,Milk
+Rajasthan,Feb-16,34.37,Milk
+Tamil Nadu,Feb-16,35.98,Milk
+Telangana,Feb-16,39.83,Milk
+Tripura,Feb-16,40,Milk
+Uttar Pradesh,Feb-16,45.58,Milk
+Uttarakhand,Feb-16,38,Milk
+West Bengal,Feb-16,34,Milk
+Andaman and Nicobar,Mar-16,55,Milk
+Andhra Pradesh,Mar-16,39.41,Milk
+Assam,Mar-16,44,Milk
+Bihar,Mar-16,37.03,Milk
+Chandigarh,Mar-16,44,Milk
+Chhattisgarh,Mar-16,38,Milk
+Delhi,Mar-16,38,Milk
+Goa,Mar-16,44,Milk
+Gujarat,Mar-16,46.5,Milk
+Haryana,Mar-16,45.5,Milk
+Himachal Pradesh,Mar-16,32.48,Milk
+Jammu and Kashmir,Mar-16,37.3,Milk
+Jharkhand,Mar-16,38,Milk
+Karnataka,Mar-16,35.31,Milk
+Kerala,Mar-16,38.15,Milk
+Madhya Pradesh,Mar-16,38.69,Milk
+Maharashtra,Mar-16,36.42,Milk
+Meghalaya,Mar-16,60,Milk
+Mizoram,Mar-16,65,Milk
+Nagaland,Mar-16,50,Milk
+Odisha,Mar-16,34,Milk
+Puducherry,Mar-16,36,Milk
+Punjab,Mar-16,42.08,Milk
+Rajasthan,Mar-16,34.27,Milk
+Tamil Nadu,Mar-16,35.98,Milk
+Telangana,Mar-16,39.83,Milk
+Tripura,Mar-16,40,Milk
+Uttar Pradesh,Mar-16,45.61,Milk
+Uttarakhand,Mar-16,38,Milk
+West Bengal,Mar-16,34,Milk
+Andaman and Nicobar,Apr-16,55,Milk
+Andhra Pradesh,Apr-16,39.65,Milk
+Assam,Apr-16,44,Milk
+Bihar,Apr-16,37.02,Milk
+Chandigarh,Apr-16,44,Milk
+Chhattisgarh,Apr-16,38.8,Milk
+Delhi,Apr-16,38,Milk
+Goa,Apr-16,44,Milk
+Gujarat,Apr-16,46.5,Milk
+Haryana,Apr-16,45.5,Milk
+Himachal Pradesh,Apr-16,32.62,Milk
+Jammu and Kashmir,Apr-16,37.16,Milk
+Jharkhand,Apr-16,38,Milk
+Karnataka,Apr-16,34.62,Milk
+Kerala,Apr-16,38.58,Milk
+Madhya Pradesh,Apr-16,38.74,Milk
+Maharashtra,Apr-16,36.46,Milk
+Meghalaya,Apr-16,60,Milk
+Mizoram,Apr-16,65,Milk
+Nagaland,Apr-16,50,Milk
+Odisha,Apr-16,34,Milk
+Puducherry,Apr-16,36,Milk
+Punjab,Apr-16,42.2,Milk
+Rajasthan,Apr-16,34.58,Milk
+Tamil Nadu,Apr-16,36.02,Milk
+Telangana,Apr-16,39.83,Milk
+Tripura,Apr-16,40,Milk
+Uttar Pradesh,Apr-16,45.63,Milk
+Uttarakhand,Apr-16,38,Milk
+West Bengal,Apr-16,34,Milk
+Andaman and Nicobar,May-16,55,Milk
+Andhra Pradesh,May-16,39.68,Milk
+Assam,May-16,44,Milk
+Bihar,May-16,37.35,Milk
+Chandigarh,May-16,44,Milk
+Chhattisgarh,May-16,39.7,Milk
+Delhi,May-16,38,Milk
+Goa,May-16,44,Milk
+Gujarat,May-16,46.5,Milk
+Haryana,May-16,45.93,Milk
+Himachal Pradesh,May-16,32.79,Milk
+Jammu and Kashmir,May-16,37.43,Milk
+Jharkhand,May-16,38,Milk
+Karnataka,May-16,34.26,Milk
+Kerala,May-16,38.54,Milk
+Madhya Pradesh,May-16,39.05,Milk
+Maharashtra,May-16,36.45,Milk
+Meghalaya,May-16,60,Milk
+Mizoram,May-16,65,Milk
+Nagaland,May-16,50,Milk
+Odisha,May-16,34,Milk
+Puducherry,May-16,36,Milk
+Punjab,May-16,42.19,Milk
+Rajasthan,May-16,35.05,Milk
+Tamil Nadu,May-16,36.01,Milk
+Telangana,May-16,39.83,Milk
+Tripura,May-16,40,Milk
+Uttar Pradesh,May-16,46,Milk
+Uttarakhand,May-16,38,Milk
+West Bengal,May-16,34,Milk
+Andaman and Nicobar,Jun-16,58,Milk
+Andhra Pradesh,Jun-16,39.78,Milk
+Arunachal pradesh,Jun-16,60,Milk
+Assam,Jun-16,46.75,Milk
+Bihar,Jun-16,37.37,Milk
+Chandigarh,Jun-16,44,Milk
+Chhattisgarh,Jun-16,43.5,Milk
+Delhi,Jun-16,38,Milk
+Goa,Jun-16,44,Milk
+Gujarat,Jun-16,48.07,Milk
+Haryana,Jun-16,46,Milk
+Himachal Pradesh,Jun-16,32.7,Milk
+Jammu and Kashmir,Jun-16,37.27,Milk
+Jharkhand,Jun-16,38,Milk
+Karnataka,Jun-16,34.25,Milk
+Kerala,Jun-16,38.74,Milk
+Madhya Pradesh,Jun-16,39.15,Milk
+Maharashtra,Jun-16,36.62,Milk
+Meghalaya,Jun-16,60,Milk
+Nagaland,Jun-16,50,Milk
+Odisha,Jun-16,34,Milk
+Puducherry,Jun-16,36,Milk
+Punjab,Jun-16,42.22,Milk
+Rajasthan,Jun-16,34.79,Milk
+Tamil Nadu,Jun-16,36,Milk
+Telangana,Jun-16,39.83,Milk
+Tripura,Jun-16,40,Milk
+Uttar Pradesh,Jun-16,46.42,Milk
+Uttarakhand,Jun-16,39.6,Milk
+West Bengal,Jun-16,37.02,Milk
+Andaman and Nicobar,Jul-16,57.63,Milk
+Andhra Pradesh,Jul-16,40.14,Milk
+Arunachal pradesh,Jul-16,60,Milk
+Assam,Jul-16,56,Milk
+Bihar,Jul-16,37.39,Milk
+Chandigarh,Jul-16,44,Milk
+Chhattisgarh,Jul-16,43.74,Milk
+Delhi,Jul-16,38.52,Milk
+Goa,Jul-16,44,Milk
+Gujarat,Jul-16,48.5,Milk
+Haryana,Jul-16,46.02,Milk
+Himachal Pradesh,Jul-16,32.08,Milk
+Jammu and Kashmir,Jul-16,39.5,Milk
+Jharkhand,Jul-16,38,Milk
+Karnataka,Jul-16,34.26,Milk
+Kerala,Jul-16,38.83,Milk
+Madhya Pradesh,Jul-16,39.26,Milk
+Maharashtra,Jul-16,36.98,Milk
+Meghalaya,Jul-16,60,Milk
+Nagaland,Jul-16,50,Milk
+Odisha,Jul-16,34,Milk
+Puducherry,Jul-16,36,Milk
+Punjab,Jul-16,42.04,Milk
+Rajasthan,Jul-16,35.01,Milk
+Tamil Nadu,Jul-16,36,Milk
+Telangana,Jul-16,39.83,Milk
+Tripura,Jul-16,40,Milk
+Uttar Pradesh,Jul-16,46.15,Milk
+Uttarakhand,Jul-16,40,Milk
+West Bengal,Jul-16,37.96,Milk
+Andaman and Nicobar,Aug-16,58,Milk
+Andhra Pradesh,Aug-16,40.02,Milk
+Arunachal pradesh,Aug-16,60,Milk
+Assam,Aug-16,56,Milk
+Bihar,Aug-16,37.54,Milk
+Chandigarh,Aug-16,44,Milk
+Chhattisgarh,Aug-16,42.9,Milk
+Delhi,Aug-16,39,Milk
+Goa,Aug-16,44,Milk
+Gujarat,Aug-16,48.5,Milk
+Haryana,Aug-16,39.98,Milk
+Himachal Pradesh,Aug-16,32.49,Milk
+Jammu and Kashmir,Aug-16,40,Milk
+Jharkhand,Aug-16,38,Milk
+Karnataka,Aug-16,34.23,Milk
+Kerala,Aug-16,38.8,Milk
+Madhya Pradesh,Aug-16,39.32,Milk
+Maharashtra,Aug-16,37,Milk
+Meghalaya,Aug-16,60,Milk
+Mizoram,Aug-16,65,Milk
+Nagaland,Aug-16,50,Milk
+Odisha,Aug-16,34,Milk
+Puducherry,Aug-16,36,Milk
+Punjab,Aug-16,43.06,Milk
+Rajasthan,Aug-16,34.92,Milk
+Tamil Nadu,Aug-16,36,Milk
+Telangana,Aug-16,39.83,Milk
+Tripura,Aug-16,40,Milk
+Uttar Pradesh,Aug-16,46.19,Milk
+Uttarakhand,Aug-16,40,Milk
+West Bengal,Aug-16,38.17,Milk
+Andaman and Nicobar,Sep-16,58,Milk
+Andhra Pradesh,Sep-16,40,Milk
+Arunachal pradesh,Sep-16,60,Milk
+Assam,Sep-16,56,Milk
+Bihar,Sep-16,38.1,Milk
+Chandigarh,Sep-16,44,Milk
+Chhattisgarh,Sep-16,40.34,Milk
+Delhi,Sep-16,39,Milk
+Goa,Sep-16,47,Milk
+Gujarat,Sep-16,48.5,Milk
+Haryana,Sep-16,39.5,Milk
+Himachal Pradesh,Sep-16,32.79,Milk
+Jammu and Kashmir,Sep-16,40,Milk
+Jharkhand,Sep-16,38,Milk
+Karnataka,Sep-16,34.24,Milk
+Kerala,Sep-16,38.88,Milk
+Madhya Pradesh,Sep-16,39.31,Milk
+Maharashtra,Sep-16,36.99,Milk
+Meghalaya,Sep-16,60,Milk
+Mizoram,Sep-16,65,Milk
+Nagaland,Sep-16,50,Milk
+Odisha,Sep-16,34,Milk
+Puducherry,Sep-16,36,Milk
+Punjab,Sep-16,43.65,Milk
+Rajasthan,Sep-16,35.11,Milk
+Tamil Nadu,Sep-16,35.99,Milk
+Telangana,Sep-16,39.83,Milk
+Tripura,Sep-16,40,Milk
+Uttar Pradesh,Sep-16,46.14,Milk
+Uttarakhand,Sep-16,40,Milk
+West Bengal,Sep-16,37.83,Milk
+Andaman and Nicobar,Oct-16,57.63,Milk
+Andhra Pradesh,Oct-16,40.07,Milk
+Arunachal pradesh,Oct-16,60,Milk
+Assam,Oct-16,56,Milk
+Bihar,Oct-16,38.11,Milk
+Chandigarh,Oct-16,44,Milk
+Chhattisgarh,Oct-16,39.46,Milk
+Delhi,Oct-16,39,Milk
+Goa,Oct-16,47,Milk
+Gujarat,Oct-16,48.5,Milk
+Haryana,Oct-16,39.5,Milk
+Himachal Pradesh,Oct-16,33.1,Milk
+Jammu and Kashmir,Oct-16,40,Milk
+Jharkhand,Oct-16,38,Milk
+Karnataka,Oct-16,34.56,Milk
+Kerala,Oct-16,38.65,Milk
+Madhya Pradesh,Oct-16,39.42,Milk
+Maharashtra,Oct-16,37,Milk
+Meghalaya,Oct-16,60,Milk
+Mizoram,Oct-16,65,Milk
+Nagaland,Oct-16,50,Milk
+Odisha,Oct-16,34,Milk
+Puducherry,Oct-16,36,Milk
+Punjab,Oct-16,44.24,Milk
+Rajasthan,Oct-16,34.93,Milk
+Tamil Nadu,Oct-16,35.99,Milk
+Telangana,Oct-16,39.83,Milk
+Tripura,Oct-16,40,Milk
+Uttar Pradesh,Oct-16,46.62,Milk
+Uttarakhand,Oct-16,40,Milk
+West Bengal,Oct-16,38.43,Milk
+Andaman and Nicobar,Nov-16,55,Milk
+Andhra Pradesh,Nov-16,40.74,Milk
+Assam,Nov-16,56,Milk
+Bihar,Nov-16,38.11,Milk
+Chandigarh,Nov-16,44,Milk
+Chhattisgarh,Nov-16,39.95,Milk
+Delhi,Nov-16,39,Milk
+Goa,Nov-16,47,Milk
+Gujarat,Nov-16,48.5,Milk
+Haryana,Nov-16,39.66,Milk
+Himachal Pradesh,Nov-16,32.91,Milk
+Jammu and Kashmir,Nov-16,40,Milk
+Jharkhand,Nov-16,38,Milk
+Karnataka,Nov-16,34.68,Milk
+Kerala,Nov-16,38.29,Milk
+Madhya Pradesh,Nov-16,39.67,Milk
+Maharashtra,Nov-16,37.23,Milk
+Meghalaya,Nov-16,60,Milk
+Mizoram,Nov-16,65,Milk
+Nagaland,Nov-16,50,Milk
+Odisha,Nov-16,34,Milk
+Puducherry,Nov-16,36,Milk
+Punjab,Nov-16,44.08,Milk
+Rajasthan,Nov-16,35.51,Milk
+Tamil Nadu,Nov-16,36.01,Milk
+Telangana,Nov-16,39.83,Milk
+Tripura,Nov-16,40,Milk
+Uttar Pradesh,Nov-16,46.61,Milk
+Uttarakhand,Nov-16,40,Milk
+West Bengal,Nov-16,39.49,Milk
+Andaman and Nicobar,Dec-16,55,Milk
+Andhra Pradesh,Dec-16,40.89,Milk
+Assam,Dec-16,56,Milk
+Bihar,Dec-16,38.42,Milk
+Chandigarh,Dec-16,44,Milk
+Chhattisgarh,Dec-16,41.75,Milk
+Delhi,Dec-16,39,Milk
+Goa,Dec-16,47,Milk
+Gujarat,Dec-16,48.98,Milk
+Haryana,Dec-16,40,Milk
+Himachal Pradesh,Dec-16,33.03,Milk
+Jammu and Kashmir,Dec-16,38.65,Milk
+Jharkhand,Dec-16,39.91,Milk
+Karnataka,Dec-16,34.76,Milk
+Kerala,Dec-16,38.65,Milk
+Madhya Pradesh,Dec-16,39.67,Milk
+Maharashtra,Dec-16,38.41,Milk
+Meghalaya,Dec-16,60,Milk
+Mizoram,Dec-16,65,Milk
+Nagaland,Dec-16,50,Milk
+Odisha,Dec-16,34,Milk
+Puducherry,Dec-16,36,Milk
+Punjab,Dec-16,44.13,Milk
+Rajasthan,Dec-16,35.64,Milk
+Tamil Nadu,Dec-16,35.99,Milk
+Telangana,Dec-16,39.82,Milk
+Tripura,Dec-16,40,Milk
+Uttar Pradesh,Dec-16,46.77,Milk
+Uttarakhand,Dec-16,40,Milk
+West Bengal,Dec-16,38.05,Milk
+Andaman and Nicobar,Jan-17,56.67,Milk
+Andhra Pradesh,Jan-17,40.83,Milk
+Arunachal pradesh,Jan-17,60,Milk
+Assam,Jan-17,56,Milk
+Bihar,Jan-17,38.24,Milk
+Chandigarh,Jan-17,44,Milk
+Chhattisgarh,Jan-17,42.72,Milk
+Delhi,Jan-17,39,Milk
+Goa,Jan-17,47.26,Milk
+Gujarat,Jan-17,49.5,Milk
+Haryana,Jan-17,41.33,Milk
+Himachal Pradesh,Jan-17,33.04,Milk
+Jammu and Kashmir,Jan-17,39.14,Milk
+Jharkhand,Jan-17,40,Milk
+Karnataka,Jan-17,34.76,Milk
+Kerala,Jan-17,38.77,Milk
+Madhya Pradesh,Jan-17,40.14,Milk
+Maharashtra,Jan-17,39.6,Milk
+Meghalaya,Jan-17,60,Milk
+Nagaland,Jan-17,50,Milk
+Odisha,Jan-17,34.05,Milk
+Puducherry,Jan-17,36,Milk
+Punjab,Jan-17,43.9,Milk
+Rajasthan,Jan-17,34.9,Milk
+Sikkim,Jan-17,47,Milk
+Tamil Nadu,Jan-17,35.94,Milk
+Telangana,Jan-17,39.83,Milk
+Tripura,Jan-17,40,Milk
+Uttar Pradesh,Jan-17,46.88,Milk
+Uttarakhand,Jan-17,40,Milk
+West Bengal,Jan-17,38.09,Milk
+Andaman and Nicobar,Feb-17,55,Milk
+Andhra Pradesh,Feb-17,40.78,Milk
+Assam,Feb-17,56,Milk
+Bihar,Feb-17,38.37,Milk
+Chandigarh,Feb-17,44,Milk
+Chhattisgarh,Feb-17,44.09,Milk
+Delhi,Feb-17,39,Milk
+Goa,Feb-17,48,Milk
+Gujarat,Feb-17,49.5,Milk
+Haryana,Feb-17,41.5,Milk
+Himachal Pradesh,Feb-17,33.51,Milk
+Jammu and Kashmir,Feb-17,37.75,Milk
+Jharkhand,Feb-17,40,Milk
+Karnataka,Feb-17,34.75,Milk
+Kerala,Feb-17,39.25,Milk
+Madhya Pradesh,Feb-17,39.65,Milk
+Maharashtra,Feb-17,39.75,Milk
+Meghalaya,Feb-17,60.11,Milk
+Nagaland,Feb-17,50,Milk
+Odisha,Feb-17,34.13,Milk
+Puducherry,Feb-17,36,Milk
+Punjab,Feb-17,43.95,Milk
+Rajasthan,Feb-17,35.38,Milk
+Sikkim,Feb-17,45,Milk
+Tamil Nadu,Feb-17,35.93,Milk
+Telangana,Feb-17,39.83,Milk
+Tripura,Feb-17,40,Milk
+Uttar Pradesh,Feb-17,46.87,Milk
+Uttarakhand,Feb-17,40,Milk
+West Bengal,Feb-17,38.15,Milk
+Andaman and Nicobar,Mar-17,55.5,Milk
+Andhra Pradesh,Mar-17,40.96,Milk
+Assam,Mar-17,56,Milk
+Bihar,Mar-17,38.52,Milk
+Chandigarh,Mar-17,44,Milk
+Chhattisgarh,Mar-17,44.42,Milk
+Delhi,Mar-17,41,Milk
+Goa,Mar-17,49.05,Milk
+Gujarat,Mar-17,49.92,Milk
+Haryana,Mar-17,41.79,Milk
+Himachal Pradesh,Mar-17,33.6,Milk
+Jammu and Kashmir,Mar-17,37.38,Milk
+Jharkhand,Mar-17,40,Milk
+Karnataka,Mar-17,34.77,Milk
+Kerala,Mar-17,40.69,Milk
+Madhya Pradesh,Mar-17,39.62,Milk
+Maharashtra,Mar-17,39.75,Milk
+Meghalaya,Mar-17,62,Milk
+Mizoram,Mar-17,65,Milk
+Nagaland,Mar-17,50,Milk
+Odisha,Mar-17,34.04,Milk
+Puducherry,Mar-17,36,Milk
+Punjab,Mar-17,44.59,Milk
+Rajasthan,Mar-17,36.3,Milk
+Tamil Nadu,Mar-17,35.72,Milk
+Telangana,Mar-17,39.83,Milk
+Tripura,Mar-17,40,Milk
+Uttar Pradesh,Mar-17,47.16,Milk
+Uttarakhand,Mar-17,40,Milk
+West Bengal,Mar-17,38.21,Milk
+Andaman and Nicobar,Apr-17,57,Milk
+Andhra Pradesh,Apr-17,41.37,Milk
+Arunachal pradesh,Apr-17,60,Milk
+Assam,Apr-17,56,Milk
+Bihar,Apr-17,38.44,Milk
+Chandigarh,Apr-17,44,Milk
+Chhattisgarh,Apr-17,44.24,Milk
+Delhi,Apr-17,42,Milk
+Goa,Apr-17,50,Milk
+Gujarat,Apr-17,50,Milk
+Haryana,Apr-17,41.75,Milk
+Himachal Pradesh,Apr-17,33.67,Milk
+Jammu and Kashmir,Apr-17,37.71,Milk
+Jharkhand,Apr-17,40,Milk
+Karnataka,Apr-17,35.93,Milk
+Kerala,Apr-17,40.74,Milk
+Madhya Pradesh,Apr-17,39.88,Milk
+Maharashtra,Apr-17,39.75,Milk
+Meghalaya,Apr-17,62,Milk
+Nagaland,Apr-17,50,Milk
+Odisha,Apr-17,35.01,Milk
+Puducherry,Apr-17,36,Milk
+Punjab,Apr-17,44.76,Milk
+Rajasthan,Apr-17,36.9,Milk
+Tamil Nadu,Apr-17,35.74,Milk
+Telangana,Apr-17,39.82,Milk
+Tripura,Apr-17,40,Milk
+Uttar Pradesh,Apr-17,47.36,Milk
+Uttarakhand,Apr-17,40,Milk
+West Bengal,Apr-17,38.64,Milk
+Andaman and Nicobar,May-17,57,Milk
+Andhra Pradesh,May-17,41.27,Milk
+Arunachal pradesh,May-17,60,Milk
+Assam,May-17,56,Milk
+Bihar,May-17,38.27,Milk
+Chandigarh,May-17,44,Milk
+Chhattisgarh,May-17,44.53,Milk
+Delhi,May-17,42,Milk
+Goa,May-17,50,Milk
+Gujarat,May-17,50,Milk
+Haryana,May-17,41.75,Milk
+Himachal Pradesh,May-17,33.95,Milk
+Jammu and Kashmir,May-17,37.6,Milk
+Jharkhand,May-17,40,Milk
+Karnataka,May-17,36.14,Milk
+Kerala,May-17,41.56,Milk
+Madhya Pradesh,May-17,40.09,Milk
+Maharashtra,May-17,39.77,Milk
+Meghalaya,May-17,62,Milk
+Mizoram,May-17,65,Milk
+Nagaland,May-17,50,Milk
+Odisha,May-17,35.63,Milk
+Puducherry,May-17,36,Milk
+Punjab,May-17,45.03,Milk
+Rajasthan,May-17,38.47,Milk
+Sikkim,May-17,48,Milk
+Tamil Nadu,May-17,35.74,Milk
+Telangana,May-17,39.83,Milk
+Tripura,May-17,40,Milk
+Uttar Pradesh,May-17,47.16,Milk
+Uttarakhand,May-17,42.25,Milk
+West Bengal,May-17,38.7,Milk
+Andhra Pradesh,Jun-17,41.25,Milk
+Assam,Jun-17,56,Milk
+Bihar,Jun-17,38.29,Milk
+Chandigarh,Jun-17,44,Milk
+Chhattisgarh,Jun-17,44.1,Milk
+Delhi,Jun-17,42,Milk
+Goa,Jun-17,50,Milk
+Gujarat,Jun-17,50,Milk
+Haryana,Jun-17,42.13,Milk
+Himachal Pradesh,Jun-17,34.01,Milk
+Jammu and Kashmir,Jun-17,38.51,Milk
+Jharkhand,Jun-17,40,Milk
+Karnataka,Jun-17,36,Milk
+Kerala,Jun-17,41.52,Milk
+Madhya Pradesh,Jun-17,41.21,Milk
+Maharashtra,Jun-17,39.75,Milk
+Meghalaya,Jun-17,62,Milk
+Mizoram,Jun-17,65,Milk
+Nagaland,Jun-17,50,Milk
+Odisha,Jun-17,35.05,Milk
+Puducherry,Jun-17,36,Milk
+Punjab,Jun-17,45.68,Milk
+Rajasthan,Jun-17,38,Milk
+Sikkim,Jun-17,47.83,Milk
+Tamil Nadu,Jun-17,35.75,Milk
+Telangana,Jun-17,39.83,Milk
+Tripura,Jun-17,40,Milk
+Uttar Pradesh,Jun-17,47.33,Milk
+Uttarakhand,Jun-17,42.29,Milk
+West Bengal,Jun-17,38.62,Milk
+Andaman and Nicobar,Jul-17,57,Milk
+Andhra Pradesh,Jul-17,42.25,Milk
+Assam,Jul-17,56,Milk
+Bihar,Jul-17,38.05,Milk
+Chandigarh,Jul-17,44,Milk
+Chhattisgarh,Jul-17,43.63,Milk
+Delhi,Jul-17,42,Milk
+Goa,Jul-17,50,Milk
+Gujarat,Jul-17,50.32,Milk
+Haryana,Jul-17,43.21,Milk
+Himachal Pradesh,Jul-17,33.77,Milk
+Jammu and Kashmir,Jul-17,38.63,Milk
+Jharkhand,Jul-17,40,Milk
+Karnataka,Jul-17,36,Milk
+Kerala,Jul-17,41.56,Milk
+Madhya Pradesh,Jul-17,42.32,Milk
+Maharashtra,Jul-17,39.75,Milk
+Meghalaya,Jul-17,62,Milk
+Mizoram,Jul-17,65,Milk
+Nagaland,Jul-17,50,Milk
+Odisha,Jul-17,35.42,Milk
+Puducherry,Jul-17,36,Milk
+Punjab,Jul-17,46.09,Milk
+Rajasthan,Jul-17,38.67,Milk
+Sikkim,Jul-17,48,Milk
+Tamil Nadu,Jul-17,35.98,Milk
+Telangana,Jul-17,39.83,Milk
+Tripura,Jul-17,40,Milk
+Uttar Pradesh,Jul-17,47.58,Milk
+Uttarakhand,Jul-17,42.25,Milk
+West Bengal,Jul-17,38.64,Milk
+Andaman and Nicobar,Aug-17,57,Milk
+Andhra Pradesh,Aug-17,42.24,Milk
+Assam,Aug-17,56,Milk
+Bihar,Aug-17,38.39,Milk
+Chandigarh,Aug-17,44,Milk
+Chhattisgarh,Aug-17,43.4,Milk
+Delhi,Aug-17,42,Milk
+Goa,Aug-17,50,Milk
+Gujarat,Aug-17,50.54,Milk
+Haryana,Aug-17,43.65,Milk
+Himachal Pradesh,Aug-17,33.53,Milk
+Jammu and Kashmir,Aug-17,38.67,Milk
+Jharkhand,Aug-17,40,Milk
+Karnataka,Aug-17,36,Milk
+Kerala,Aug-17,41.85,Milk
+Madhya Pradesh,Aug-17,43.42,Milk
+Maharashtra,Aug-17,39.75,Milk
+Meghalaya,Aug-17,62.73,Milk
+Mizoram,Aug-17,65,Milk
+Nagaland,Aug-17,50,Milk
+Odisha,Aug-17,35.02,Milk
+Puducherry,Aug-17,36,Milk
+Punjab,Aug-17,47.04,Milk
+Rajasthan,Aug-17,38.6,Milk
+Sikkim,Aug-17,47.11,Milk
+Tamil Nadu,Aug-17,35.99,Milk
+Telangana,Aug-17,39.83,Milk
+Tripura,Aug-17,40,Milk
+Uttar Pradesh,Aug-17,48,Milk
+Uttarakhand,Aug-17,42.25,Milk
+West Bengal,Aug-17,39.15,Milk
+Andaman and Nicobar,Sep-17,58,Milk
+Andhra Pradesh,Sep-17,42.24,Milk
+Arunachal pradesh,Sep-17,60,Milk
+Assam,Sep-17,56,Milk
+Bihar,Sep-17,38.58,Milk
+Chandigarh,Sep-17,44,Milk
+Chhattisgarh,Sep-17,43.27,Milk
+Delhi,Sep-17,42,Milk
+Goa,Sep-17,50,Milk
+Gujarat,Sep-17,50.5,Milk
+Haryana,Sep-17,43.73,Milk
+Himachal Pradesh,Sep-17,33.87,Milk
+Jammu and Kashmir,Sep-17,38.5,Milk
+Jharkhand,Sep-17,40.05,Milk
+Karnataka,Sep-17,36,Milk
+Kerala,Sep-17,41.72,Milk
+Madhya Pradesh,Sep-17,43.04,Milk
+Maharashtra,Sep-17,39.89,Milk
+Meghalaya,Sep-17,64,Milk
+Mizoram,Sep-17,65,Milk
+Nagaland,Sep-17,50,Milk
+Odisha,Sep-17,35.17,Milk
+Puducherry,Sep-17,36,Milk
+Punjab,Sep-17,46.97,Milk
+Rajasthan,Sep-17,38.69,Milk
+Sikkim,Sep-17,47,Milk
+Tamil Nadu,Sep-17,36,Milk
+Telangana,Sep-17,39.83,Milk
+Tripura,Sep-17,40,Milk
+Uttar Pradesh,Sep-17,48.02,Milk
+Uttarakhand,Sep-17,42.25,Milk
+West Bengal,Sep-17,39.18,Milk
+Andaman and Nicobar,Oct-17,57,Milk
+Andhra Pradesh,Oct-17,42.25,Milk
+Arunachal pradesh,Oct-17,60,Milk
+Assam,Oct-17,56,Milk
+Bihar,Oct-17,39.34,Milk
+Chandigarh,Oct-17,44,Milk
+Chhattisgarh,Oct-17,43.14,Milk
+Delhi,Oct-17,42,Milk
+Goa,Oct-17,50,Milk
+Gujarat,Oct-17,50.5,Milk
+Haryana,Oct-17,43.75,Milk
+Himachal Pradesh,Oct-17,33.42,Milk
+Jammu and Kashmir,Oct-17,38.57,Milk
+Jharkhand,Oct-17,41.48,Milk
+Karnataka,Oct-17,36,Milk
+Kerala,Oct-17,42.89,Milk
+Madhya Pradesh,Oct-17,43.1,Milk
+Maharashtra,Oct-17,39.8,Milk
+Meghalaya,Oct-17,64,Milk
+Mizoram,Oct-17,65,Milk
+Nagaland,Oct-17,50,Milk
+Odisha,Oct-17,35.24,Milk
+Puducherry,Oct-17,36,Milk
+Punjab,Oct-17,47,Milk
+Rajasthan,Oct-17,38.89,Milk
+Sikkim,Oct-17,47,Milk
+Tamil Nadu,Oct-17,35.99,Milk
+Telangana,Oct-17,39.83,Milk
+Tripura,Oct-17,40,Milk
+Uttar Pradesh,Oct-17,48.3,Milk
+Uttarakhand,Oct-17,42.24,Milk
+West Bengal,Oct-17,39.44,Milk
+Andaman and Nicobar,Nov-17,57.86,Milk
+Andhra Pradesh,Nov-17,42.29,Milk
+Arunachal pradesh,Nov-17,60,Milk
+Assam,Nov-17,56,Milk
+Bihar,Nov-17,40.3,Milk
+Chandigarh,Nov-17,44,Milk
+Chhattisgarh,Nov-17,41.48,Milk
+Delhi,Nov-17,42,Milk
+Goa,Nov-17,50,Milk
+Gujarat,Nov-17,50.5,Milk
+Haryana,Nov-17,43.75,Milk
+Himachal Pradesh,Nov-17,33.49,Milk
+Jammu and Kashmir,Nov-17,38.53,Milk
+Jharkhand,Nov-17,42,Milk
+Karnataka,Nov-17,36,Milk
+Kerala,Nov-17,43.03,Milk
+Madhya Pradesh,Nov-17,43.77,Milk
+Maharashtra,Nov-17,39.75,Milk
+Meghalaya,Nov-17,64,Milk
+Mizoram,Nov-17,65,Milk
+Nagaland,Nov-17,50,Milk
+Odisha,Nov-17,35.38,Milk
+Puducherry,Nov-17,36,Milk
+Punjab,Nov-17,46.87,Milk
+Rajasthan,Nov-17,39.08,Milk
+Sikkim,Nov-17,47,Milk
+Tamil Nadu,Nov-17,35.99,Milk
+Telangana,Nov-17,39.83,Milk
+Tripura,Nov-17,40,Milk
+Uttar Pradesh,Nov-17,48.37,Milk
+Uttarakhand,Nov-17,42.56,Milk
+West Bengal,Nov-17,39.71,Milk
+Andaman and Nicobar,Dec-17,60,Milk
+Andhra Pradesh,Dec-17,41.97,Milk
+Assam,Dec-17,56,Milk
+Bihar,Dec-17,40.08,Milk
+Chandigarh,Dec-17,44,Milk
+Chhattisgarh,Dec-17,41.82,Milk
+Delhi,Dec-17,42,Milk
+Goa,Dec-17,50,Milk
+Gujarat,Dec-17,50.5,Milk
+Haryana,Dec-17,43.76,Milk
+Himachal Pradesh,Dec-17,33.42,Milk
+Jammu and Kashmir,Dec-17,38.54,Milk
+Jharkhand,Dec-17,42,Milk
+Karnataka,Dec-17,36,Milk
+Kerala,Dec-17,42.99,Milk
+Madhya Pradesh,Dec-17,44.56,Milk
+Maharashtra,Dec-17,39.75,Milk
+Meghalaya,Dec-17,64,Milk
+Mizoram,Dec-17,65,Milk
+Nagaland,Dec-17,50,Milk
+Odisha,Dec-17,34,Milk
+Puducherry,Dec-17,36,Milk
+Punjab,Dec-17,46.84,Milk
+Rajasthan,Dec-17,38.82,Milk
+Sikkim,Dec-17,47,Milk
+Tamil Nadu,Dec-17,36.01,Milk
+Telangana,Dec-17,39.83,Milk
+Tripura,Dec-17,40,Milk
+Uttar Pradesh,Dec-17,48.38,Milk
+Uttarakhand,Dec-17,42.75,Milk
+West Bengal,Dec-17,39.75,Milk
+Andaman and Nicobar,Jan-18,57.46,Milk
+Andhra Pradesh,Jan-18,41.7,Milk
+Assam,Jan-18,56,Milk
+Bihar,Jan-18,40.03,Milk
+Chandigarh,Jan-18,44,Milk
+Chhattisgarh,Jan-18,41.74,Milk
+Delhi,Jan-18,42,Milk
+Goa,Jan-18,50,Milk
+Gujarat,Jan-18,50.5,Milk
+Haryana,Jan-18,43.75,Milk
+Himachal Pradesh,Jan-18,33.38,Milk
+Jammu and Kashmir,Jan-18,38.47,Milk
+Jharkhand,Jan-18,42,Milk
+Karnataka,Jan-18,35.99,Milk
+Kerala,Jan-18,43.02,Milk
+Madhya Pradesh,Jan-18,44.26,Milk
+Maharashtra,Jan-18,39.75,Milk
+Meghalaya,Jan-18,64,Milk
+Mizoram,Jan-18,65,Milk
+Nagaland,Jan-18,50,Milk
+Odisha,Jan-18,34.1,Milk
+Puducherry,Jan-18,36,Milk
+Punjab,Jan-18,45.87,Milk
+Rajasthan,Jan-18,38.37,Milk
+Sikkim,Jan-18,47,Milk
+Tamil Nadu,Jan-18,35.99,Milk
+Telangana,Jan-18,39.83,Milk
+Tripura,Jan-18,40,Milk
+Uttar Pradesh,Jan-18,48.34,Milk
+Uttarakhand,Jan-18,42.75,Milk
+West Bengal,Jan-18,39.85,Milk
+Andaman and Nicobar,Feb-18,57,Milk
+Andhra Pradesh,Feb-18,41.75,Milk
+Arunachal pradesh,Feb-18,60,Milk
+Assam,Feb-18,56,Milk
+Bihar,Feb-18,40.12,Milk
+Chandigarh,Feb-18,44,Milk
+Chhattisgarh,Feb-18,41.76,Milk
+Delhi,Feb-18,42,Milk
+Goa,Feb-18,50,Milk
+Gujarat,Feb-18,50.5,Milk
+Haryana,Feb-18,43.75,Milk
+Himachal Pradesh,Feb-18,32.81,Milk
+Jammu and Kashmir,Feb-18,38.53,Milk
+Jharkhand,Feb-18,42,Milk
+Karnataka,Feb-18,35.95,Milk
+Kerala,Feb-18,43.03,Milk
+Madhya Pradesh,Feb-18,44.37,Milk
+Maharashtra,Feb-18,39.75,Milk
+Meghalaya,Feb-18,64,Milk
+Mizoram,Feb-18,65,Milk
+Nagaland,Feb-18,50,Milk
+Odisha,Feb-18,34.03,Milk
+Puducherry,Feb-18,36,Milk
+Punjab,Feb-18,45.75,Milk
+Rajasthan,Feb-18,38.5,Milk
+Sikkim,Feb-18,47,Milk
+Tamil Nadu,Feb-18,35.98,Milk
+Telangana,Feb-18,39.83,Milk
+Tripura,Feb-18,40,Milk
+Uttar Pradesh,Feb-18,48.16,Milk
+Uttarakhand,Feb-18,42.75,Milk
+West Bengal,Feb-18,39.54,Milk
+Andaman and Nicobar,Mar-18,57,Milk
+Andhra Pradesh,Mar-18,41.73,Milk
+Assam,Mar-18,56,Milk
+Bihar,Mar-18,40.07,Milk
+Chandigarh,Mar-18,44,Milk
+Chhattisgarh,Mar-18,41.26,Milk
+Delhi,Mar-18,42,Milk
+Goa,Mar-18,50,Milk
+Gujarat,Mar-18,50.47,Milk
+Haryana,Mar-18,43.65,Milk
+Himachal Pradesh,Mar-18,32.86,Milk
+Jammu and Kashmir,Mar-18,38.43,Milk
+Jharkhand,Mar-18,42,Milk
+Karnataka,Mar-18,36,Milk
+Kerala,Mar-18,43.05,Milk
+Madhya Pradesh,Mar-18,44.4,Milk
+Maharashtra,Mar-18,39.75,Milk
+Meghalaya,Mar-18,64,Milk
+Mizoram,Mar-18,65,Milk
+Nagaland,Mar-18,50,Milk
+Odisha,Mar-18,34,Milk
+Puducherry,Mar-18,36,Milk
+Punjab,Mar-18,46.08,Milk
+Rajasthan,Mar-18,38.73,Milk
+Sikkim,Mar-18,47,Milk
+Tamil Nadu,Mar-18,35.95,Milk
+Telangana,Mar-18,39.83,Milk
+Tripura,Mar-18,40,Milk
+Uttar Pradesh,Mar-18,47.87,Milk
+Uttarakhand,Mar-18,42.75,Milk
+West Bengal,Mar-18,39.14,Milk
+Andaman and Nicobar,Apr-18,57,Milk
+Andhra Pradesh,Apr-18,41.77,Milk
+Assam,Apr-18,56,Milk
+Bihar,Apr-18,40.1,Milk
+Chandigarh,Apr-18,44,Milk
+Chhattisgarh,Apr-18,41.2,Milk
+Delhi,Apr-18,42,Milk
+Goa,Apr-18,50,Milk
+Gujarat,Apr-18,50.92,Milk
+Haryana,Apr-18,44.25,Milk
+Himachal Pradesh,Apr-18,32.51,Milk
+Jammu and Kashmir,Apr-18,38.74,Milk
+Jharkhand,Apr-18,42,Milk
+Karnataka,Apr-18,36,Milk
+Kerala,Apr-18,43.05,Milk
+Madhya Pradesh,Apr-18,44.37,Milk
+Maharashtra,Apr-18,39.75,Milk
+Meghalaya,Apr-18,64,Milk
+Nagaland,Apr-18,50,Milk
+Odisha,Apr-18,34,Milk
+Puducherry,Apr-18,36,Milk
+Punjab,Apr-18,46.33,Milk
+Rajasthan,Apr-18,38.42,Milk
+Sikkim,Apr-18,47,Milk
+Tamil Nadu,Apr-18,35.99,Milk
+Telangana,Apr-18,39.83,Milk
+Tripura,Apr-18,40,Milk
+Uttar Pradesh,Apr-18,47.76,Milk
+Uttarakhand,Apr-18,42.58,Milk
+West Bengal,Apr-18,39.26,Milk
+Andaman and Nicobar,May-18,57,Milk
+Andhra Pradesh,May-18,42.48,Milk
+Arunachal pradesh,May-18,60,Milk
+Assam,May-18,56,Milk
+Bihar,May-18,39.93,Milk
+Chandigarh,May-18,44,Milk
+Chhattisgarh,May-18,41.2,Milk
+Delhi,May-18,42,Milk
+Goa,May-18,50,Milk
+Gujarat,May-18,50.96,Milk
+Haryana,May-18,44.25,Milk
+Himachal Pradesh,May-18,34.65,Milk
+Jammu and Kashmir,May-18,38.57,Milk
+Jharkhand,May-18,42,Milk
+Karnataka,May-18,36,Milk
+Kerala,May-18,43.07,Milk
+Madhya Pradesh,May-18,44.21,Milk
+Maharashtra,May-18,39.75,Milk
+Meghalaya,May-18,62.52,Milk
+Mizoram,May-18,65,Milk
+Nagaland,May-18,50,Milk
+Odisha,May-18,34,Milk
+Puducherry,May-18,36,Milk
+Punjab,May-18,46.15,Milk
+Rajasthan,May-18,39.25,Milk
+Sikkim,May-18,47.12,Milk
+Tamil Nadu,May-18,36.01,Milk
+Telangana,May-18,39.83,Milk
+Tripura,May-18,40,Milk
+Uttar Pradesh,May-18,47.95,Milk
+Uttarakhand,May-18,42.5,Milk
+West Bengal,May-18,39.1,Milk
+Andaman and Nicobar,Jun-18,57,Milk
+Andhra Pradesh,Jun-18,42.15,Milk
+Arunachal pradesh,Jun-18,60,Milk
+Assam,Jun-18,56,Milk
+Bihar,Jun-18,39.34,Milk
+Chandigarh,Jun-18,44,Milk
+Chhattisgarh,Jun-18,41.2,Milk
+Delhi,Jun-18,42,Milk
+Goa,Jun-18,50,Milk
+Gujarat,Jun-18,50.5,Milk
+Haryana,Jun-18,44.25,Milk
+Himachal Pradesh,Jun-18,36,Milk
+Jammu and Kashmir,Jun-18,40.78,Milk
+Jharkhand,Jun-18,42,Milk
+Karnataka,Jun-18,36,Milk
+Kerala,Jun-18,42.98,Milk
+Madhya Pradesh,Jun-18,44.76,Milk
+Maharashtra,Jun-18,39.75,Milk
+Meghalaya,Jun-18,62,Milk
+Mizoram,Jun-18,65,Milk
+Nagaland,Jun-18,56.11,Milk
+Odisha,Jun-18,34,Milk
+Puducherry,Jun-18,36,Milk
+Punjab,Jun-18,45.33,Milk
+Rajasthan,Jun-18,39.62,Milk
+Sikkim,Jun-18,47,Milk
+Tamil Nadu,Jun-18,36.41,Milk
+Telangana,Jun-18,39.83,Milk
+Tripura,Jun-18,40,Milk
+Uttar Pradesh,Jun-18,47.99,Milk
+Uttarakhand,Jun-18,42.5,Milk
+West Bengal,Jun-18,39.51,Milk
+Andaman and Nicobar,Jul-18,57,Milk
+Andhra Pradesh,Jul-18,41.79,Milk
+Arunachal pradesh,Jul-18,60,Milk
+Assam,Jul-18,56,Milk
+Bihar,Jul-18,39.53,Milk
+Chandigarh,Jul-18,44,Milk
+Chhattisgarh,Jul-18,41.15,Milk
+Delhi,Jul-18,42,Milk
+Goa,Jul-18,50,Milk
+Gujarat,Jul-18,50.93,Milk
+Haryana,Jul-18,44.25,Milk
+Himachal Pradesh,Jul-18,35.92,Milk
+Jammu and Kashmir,Jul-18,41.58,Milk
+Jharkhand,Jul-18,42,Milk
+Karnataka,Jul-18,36,Milk
+Kerala,Jul-18,43.12,Milk
+Madhya Pradesh,Jul-18,44.89,Milk
+Maharashtra,Jul-18,39.74,Milk
+Meghalaya,Jul-18,62.79,Milk
+Mizoram,Jul-18,66.88,Milk
+Nagaland,Jul-18,60,Milk
+Odisha,Jul-18,34,Milk
+Puducherry,Jul-18,36,Milk
+Punjab,Jul-18,45.08,Milk
+Rajasthan,Jul-18,40.26,Milk
+Sikkim,Jul-18,47,Milk
+Tamil Nadu,Jul-18,36.41,Milk
+Telangana,Jul-18,39.83,Milk
+Tripura,Jul-18,40,Milk
+Uttar Pradesh,Jul-18,48,Milk
+Uttarakhand,Jul-18,42.5,Milk
+West Bengal,Jul-18,39.43,Milk
+Andaman and Nicobar,Aug-18,57,Milk
+Andhra Pradesh,Aug-18,42,Milk
+Arunachal pradesh,Aug-18,60,Milk
+Assam,Aug-18,56,Milk
+Bihar,Aug-18,39.65,Milk
+Chandigarh,Aug-18,44,Milk
+Chhattisgarh,Aug-18,41.2,Milk
+Delhi,Aug-18,42,Milk
+Goa,Aug-18,50,Milk
+Gujarat,Aug-18,51,Milk
+Haryana,Aug-18,44.25,Milk
+Himachal Pradesh,Aug-18,35.45,Milk
+Jammu and Kashmir,Aug-18,42.24,Milk
+Jharkhand,Aug-18,42,Milk
+Karnataka,Aug-18,36,Milk
+Kerala,Aug-18,42.9,Milk
+Madhya Pradesh,Aug-18,44.75,Milk
+Maharashtra,Aug-18,39.75,Milk
+Meghalaya,Aug-18,61.41,Milk
+Mizoram,Aug-18,70,Milk
+Nagaland,Aug-18,58.57,Milk
+Odisha,Aug-18,34,Milk
+Puducherry,Aug-18,36,Milk
+Punjab,Aug-18,44.56,Milk
+Rajasthan,Aug-18,39.55,Milk
+Sikkim,Aug-18,47,Milk
+Tamil Nadu,Aug-18,36.33,Milk
+Telangana,Aug-18,39.83,Milk
+Tripura,Aug-18,40,Milk
+Uttar Pradesh,Aug-18,47.99,Milk
+Uttarakhand,Aug-18,42.5,Milk
+West Bengal,Aug-18,39.46,Milk
+Andaman and Nicobar,Sep-18,57,Milk
+Andhra Pradesh,Sep-18,42,Milk
+Arunachal pradesh,Sep-18,60,Milk
+Assam,Sep-18,56,Milk
+Bihar,Sep-18,39.58,Milk
+Chandigarh,Sep-18,44,Milk
+Chhattisgarh,Sep-18,41.22,Milk
+Delhi,Sep-18,42,Milk
+Goa,Sep-18,50,Milk
+Gujarat,Sep-18,50.9,Milk
+Haryana,Sep-18,44.25,Milk
+Himachal Pradesh,Sep-18,35.49,Milk
+Jammu and Kashmir,Sep-18,41.71,Milk
+Jharkhand,Sep-18,42,Milk
+Karnataka,Sep-18,36,Milk
+Kerala,Sep-18,42.94,Milk
+Madhya Pradesh,Sep-18,44.66,Milk
+Maharashtra,Sep-18,39.75,Milk
+Meghalaya,Sep-18,60,Milk
+Mizoram,Sep-18,70,Milk
+Nagaland,Sep-18,50,Milk
+Odisha,Sep-18,34,Milk
+Puducherry,Sep-18,36,Milk
+Punjab,Sep-18,44,Milk
+Rajasthan,Sep-18,38.81,Milk
+Sikkim,Sep-18,47,Milk
+Tamil Nadu,Sep-18,36.23,Milk
+Telangana,Sep-18,39.83,Milk
+Tripura,Sep-18,40,Milk
+Uttar Pradesh,Sep-18,47.97,Milk
+Uttarakhand,Sep-18,42.5,Milk
+West Bengal,Sep-18,39.27,Milk
+Andaman and Nicobar,Oct-18,60,Milk
+Andhra Pradesh,Oct-18,42,Milk
+Arunachal pradesh,Oct-18,60,Milk
+Assam,Oct-18,56,Milk
+Bihar,Oct-18,39.59,Milk
+Chandigarh,Oct-18,44,Milk
+Chhattisgarh,Oct-18,41.18,Milk
+Delhi,Oct-18,42,Milk
+Goa,Oct-18,50,Milk
+Gujarat,Oct-18,50.47,Milk
+Haryana,Oct-18,44.25,Milk
+Himachal Pradesh,Oct-18,35.61,Milk
+Jammu and Kashmir,Oct-18,41.77,Milk
+Jharkhand,Oct-18,42,Milk
+Karnataka,Oct-18,36,Milk
+Kerala,Oct-18,43.19,Milk
+Madhya Pradesh,Oct-18,44.96,Milk
+Maharashtra,Oct-18,39.75,Milk
+Meghalaya,Oct-18,59.38,Milk
+Mizoram,Oct-18,70,Milk
+Nagaland,Oct-18,50,Milk
+Odisha,Oct-18,34,Milk
+Puducherry,Oct-18,36,Milk
+Punjab,Oct-18,44,Milk
+Rajasthan,Oct-18,39.92,Milk
+Sikkim,Oct-18,47,Milk
+Tamil Nadu,Oct-18,36.25,Milk
+Telangana,Oct-18,39.83,Milk
+Tripura,Oct-18,40,Milk
+Uttar Pradesh,Oct-18,48,Milk
+Uttarakhand,Oct-18,42.5,Milk
+West Bengal,Oct-18,38.38,Milk
+Andaman and Nicobar,Nov-18,60,Milk
+Andhra Pradesh,Nov-18,42.24,Milk
+Arunachal pradesh,Nov-18,60,Milk
+Assam,Nov-18,56,Milk
+Bihar,Nov-18,39.84,Milk
+Chandigarh,Nov-18,44,Milk
+Chhattisgarh,Nov-18,41.6,Milk
+Delhi,Nov-18,42,Milk
+Goa,Nov-18,50,Milk
+Gujarat,Nov-18,50.5,Milk
+Haryana,Nov-18,44.25,Milk
+Himachal Pradesh,Nov-18,35.59,Milk
+Jammu and Kashmir,Nov-18,42.02,Milk
+Jharkhand,Nov-18,42,Milk
+Karnataka,Nov-18,36,Milk
+Kerala,Nov-18,42.84,Milk
+Madhya Pradesh,Nov-18,44.81,Milk
+Maharashtra,Nov-18,39.76,Milk
+Meghalaya,Nov-18,60,Milk
+Nagaland,Nov-18,50,Milk
+Odisha,Nov-18,34,Milk
+Puducherry,Nov-18,36,Milk
+Punjab,Nov-18,44,Milk
+Rajasthan,Nov-18,40.31,Milk
+Sikkim,Nov-18,47,Milk
+Tamil Nadu,Nov-18,36.22,Milk
+Telangana,Nov-18,39.83,Milk
+Tripura,Nov-18,40,Milk
+Uttar Pradesh,Nov-18,47.98,Milk
+Uttarakhand,Nov-18,42.08,Milk
+West Bengal,Nov-18,38.41,Milk
+Andaman and Nicobar,Dec-18,60,Milk
+Andhra Pradesh,Dec-18,42.28,Milk
+Arunachal pradesh,Dec-18,67.5,Milk
+Assam,Dec-18,56,Milk
+Bihar,Dec-18,39.91,Milk
+Chandigarh,Dec-18,44,Milk
+Chhattisgarh,Dec-18,41.96,Milk
+Delhi,Dec-18,42,Milk
+Goa,Dec-18,50,Milk
+Gujarat,Dec-18,50.5,Milk
+Haryana,Dec-18,44.03,Milk
+Himachal Pradesh,Dec-18,35.95,Milk
+Jammu and Kashmir,Dec-18,42.35,Milk
+Jharkhand,Dec-18,42,Milk
+Karnataka,Dec-18,36,Milk
+Kerala,Dec-18,42.9,Milk
+Madhya Pradesh,Dec-18,45.2,Milk
+Maharashtra,Dec-18,39.9,Milk
+Manipur,Dec-18,83.33,Milk
+Meghalaya,Dec-18,60,Milk
+Mizoram,Dec-18,70,Milk
+Nagaland,Dec-18,50,Milk
+Odisha,Dec-18,34.69,Milk
+Puducherry,Dec-18,36,Milk
+Punjab,Dec-18,44,Milk
+Rajasthan,Dec-18,39.79,Milk
+Sikkim,Dec-18,47,Milk
+Tamil Nadu,Dec-18,37.33,Milk
+Telangana,Dec-18,39.83,Milk
+Tripura,Dec-18,40,Milk
+Uttar Pradesh,Dec-18,48.04,Milk
+Uttarakhand,Dec-18,42.13,Milk
+West Bengal,Dec-18,39.1,Milk
+Andaman and Nicobar,Jan-19,60,Milk
+Andhra Pradesh,Jan-19,42,Milk
+Arunachal pradesh,Jan-19,63,Milk
+Assam,Jan-19,56,Milk
+Bihar,Jan-19,39.81,Milk
+Chandigarh,Jan-19,44,Milk
+Chhattisgarh,Jan-19,42,Milk
+Delhi,Jan-19,42,Milk
+Goa,Jan-19,50,Milk
+Gujarat,Jan-19,50.5,Milk
+Haryana,Jan-19,43.75,Milk
+Himachal Pradesh,Jan-19,35.75,Milk
+Jammu and Kashmir,Jan-19,42.67,Milk
+Jharkhand,Jan-19,42,Milk
+Karnataka,Jan-19,36,Milk
+Kerala,Jan-19,43.24,Milk
+Madhya Pradesh,Jan-19,45.38,Milk
+Maharashtra,Jan-19,40,Milk
+Manipur,Jan-19,100,Milk
+Meghalaya,Jan-19,60,Milk
+Mizoram,Jan-19,70,Milk
+Nagaland,Jan-19,50,Milk
+Odisha,Jan-19,35.56,Milk
+Puducherry,Jan-19,36,Milk
+Punjab,Jan-19,45.62,Milk
+Rajasthan,Jan-19,39,Milk
+Sikkim,Jan-19,47,Milk
+Tamil Nadu,Jan-19,37.39,Milk
+Telangana,Jan-19,40.09,Milk
+Tripura,Jan-19,40,Milk
+Uttar Pradesh,Jan-19,48.02,Milk
+Uttarakhand,Jan-19,42.5,Milk
+West Bengal,Jan-19,38.73,Milk
+Andaman and Nicobar,Feb-19,60,Milk
+Andhra Pradesh,Feb-19,42,Milk
+Arunachal pradesh,Feb-19,60,Milk
+Assam,Feb-19,56,Milk
+Bihar,Feb-19,39.82,Milk
+Chandigarh,Feb-19,44,Milk
+Chhattisgarh,Feb-19,43.32,Milk
+Delhi,Feb-19,42,Milk
+Goa,Feb-19,50,Milk
+Gujarat,Feb-19,50.5,Milk
+Haryana,Feb-19,43.75,Milk
+Himachal Pradesh,Feb-19,36.34,Milk
+Jammu and Kashmir,Feb-19,41.89,Milk
+Jharkhand,Feb-19,42,Milk
+Karnataka,Feb-19,36,Milk
+Kerala,Feb-19,43.09,Milk
+Madhya Pradesh,Feb-19,45.11,Milk
+Maharashtra,Feb-19,40,Milk
+Manipur,Feb-19,100,Milk
+Meghalaya,Feb-19,60,Milk
+Mizoram,Feb-19,70,Milk
+Nagaland,Feb-19,56.52,Milk
+Odisha,Feb-19,35.56,Milk
+Puducherry,Feb-19,36,Milk
+Punjab,Feb-19,45.67,Milk
+Rajasthan,Feb-19,39.57,Milk
+Sikkim,Feb-19,46.94,Milk
+Tamil Nadu,Feb-19,37.39,Milk
+Telangana,Feb-19,40.17,Milk
+Tripura,Feb-19,40,Milk
+Uttar Pradesh,Feb-19,48.03,Milk
+Uttarakhand,Feb-19,42.5,Milk
+West Bengal,Feb-19,39.26,Milk
+Andaman and Nicobar,Mar-19,60,Milk
+Andhra Pradesh,Mar-19,42,Milk
+Arunachal pradesh,Mar-19,60,Milk
+Assam,Mar-19,56,Milk
+Bihar,Mar-19,40.12,Milk
+Chandigarh,Mar-19,44,Milk
+Chhattisgarh,Mar-19,45.12,Milk
+Delhi,Mar-19,42,Milk
+Goa,Mar-19,50,Milk
+Gujarat,Mar-19,50.5,Milk
+Haryana,Mar-19,43.75,Milk
+Himachal Pradesh,Mar-19,35.93,Milk
+Jammu and Kashmir,Mar-19,41.57,Milk
+Jharkhand,Mar-19,42,Milk
+Karnataka,Mar-19,36,Milk
+Kerala,Mar-19,43.5,Milk
+Madhya Pradesh,Mar-19,45.33,Milk
+Maharashtra,Mar-19,40,Milk
+Manipur,Mar-19,100,Milk
+Meghalaya,Mar-19,58.25,Milk
+Mizoram,Mar-19,70,Milk
+Nagaland,Mar-19,64.23,Milk
+Odisha,Mar-19,35.51,Milk
+Puducherry,Mar-19,36,Milk
+Punjab,Mar-19,46.14,Milk
+Rajasthan,Mar-19,40.13,Milk
+Sikkim,Mar-19,47,Milk
+Tamil Nadu,Mar-19,37.38,Milk
+Telangana,Mar-19,41.38,Milk
+Tripura,Mar-19,40,Milk
+Uttar Pradesh,Mar-19,48,Milk
+Uttarakhand,Mar-19,42.5,Milk
+West Bengal,Mar-19,39.24,Milk
+Andaman and Nicobar,Apr-19,60,Milk
+Andhra Pradesh,Apr-19,42,Milk
+Arunachal pradesh,Apr-19,60,Milk
+Assam,Apr-19,56,Milk
+Bihar,Apr-19,40.08,Milk
+Chandigarh,Apr-19,44,Milk
+Chhattisgarh,Apr-19,43.82,Milk
+Delhi,Apr-19,42,Milk
+Goa,Apr-19,50,Milk
+Gujarat,Apr-19,50.5,Milk
+Haryana,Apr-19,43.75,Milk
+Himachal Pradesh,Apr-19,37.39,Milk
+Jammu and Kashmir,Apr-19,41.95,Milk
+Jharkhand,Apr-19,42,Milk
+Karnataka,Apr-19,35.93,Milk
+Kerala,Apr-19,43.59,Milk
+Madhya Pradesh,Apr-19,45.45,Milk
+Maharashtra,Apr-19,40.22,Milk
+Manipur,Apr-19,100,Milk
+Meghalaya,Apr-19,50.13,Milk
+Mizoram,Apr-19,70,Milk
+Nagaland,Apr-19,65,Milk
+Odisha,Apr-19,35.5,Milk
+Puducherry,Apr-19,36,Milk
+Punjab,Apr-19,46.34,Milk
+Rajasthan,Apr-19,40.02,Milk
+Sikkim,Apr-19,47,Milk
+Tamil Nadu,Apr-19,37.62,Milk
+Telangana,Apr-19,42.8,Milk
+Tripura,Apr-19,40,Milk
+Uttar Pradesh,Apr-19,47.93,Milk
+Uttarakhand,Apr-19,42.5,Milk
+West Bengal,Apr-19,39.23,Milk
+Andaman and Nicobar,May-19,60,Milk
+Andhra Pradesh,May-19,42,Milk
+Arunachal pradesh,May-19,60,Milk
+Assam,May-19,56,Milk
+Bihar,May-19,40.04,Milk
+Chandigarh,May-19,44,Milk
+Chhattisgarh,May-19,43.49,Milk
+Delhi,May-19,42.47,Milk
+Goa,May-19,50,Milk
+Gujarat,May-19,50.58,Milk
+Haryana,May-19,43.75,Milk
+Himachal Pradesh,May-19,39.86,Milk
+Jammu and Kashmir,May-19,42.45,Milk
+Jharkhand,May-19,42,Milk
+Karnataka,May-19,36,Milk
+Kerala,May-19,44,Milk
+Madhya Pradesh,May-19,45.78,Milk
+Maharashtra,May-19,40.29,Milk
+Manipur,May-19,100,Milk
+Meghalaya,May-19,51.2,Milk
+Mizoram,May-19,70,Milk
+Nagaland,May-19,65,Milk
+Odisha,May-19,35.68,Milk
+Puducherry,May-19,36,Milk
+Punjab,May-19,46.15,Milk
+Rajasthan,May-19,39.37,Milk
+Sikkim,May-19,47,Milk
+Tamil Nadu,May-19,39.17,Milk
+Telangana,May-19,42.72,Milk
+Tripura,May-19,40,Milk
+Uttar Pradesh,May-19,48.25,Milk
+Uttarakhand,May-19,42.75,Milk
+West Bengal,May-19,39.52,Milk
+Andaman and Nicobar,Jun-19,60,Milk
+Andhra Pradesh,Jun-19,42,Milk
+Arunachal pradesh,Jun-19,60,Milk
+Assam,Jun-19,56,Milk
+Bihar,Jun-19,40.26,Milk
+Chandigarh,Jun-19,44,Milk
+Chhattisgarh,Jun-19,41.61,Milk
+Delhi,Jun-19,44,Milk
+Goa,Jun-19,50,Milk
+Gujarat,Jun-19,51,Milk
+Haryana,Jun-19,43.75,Milk
+Himachal Pradesh,Jun-19,40.13,Milk
+Jammu and Kashmir,Jun-19,41.29,Milk
+Jharkhand,Jun-19,42,Milk
+Karnataka,Jun-19,36,Milk
+Kerala,Jun-19,41.23,Milk
+Madhya Pradesh,Jun-19,46.23,Milk
+Maharashtra,Jun-19,40.5,Milk
+Manipur,Jun-19,50,Milk
+Meghalaya,Jun-19,54.72,Milk
+Mizoram,Jun-19,70,Milk
+Nagaland,Jun-19,65,Milk
+Odisha,Jun-19,35.57,Milk
+Puducherry,Jun-19,36,Milk
+Punjab,Jun-19,46.05,Milk
+Rajasthan,Jun-19,40.18,Milk
+Sikkim,Jun-19,47,Milk
+Tamil Nadu,Jun-19,39.17,Milk
+Telangana,Jun-19,42.67,Milk
+Tripura,Jun-19,47.29,Milk
+Uttar Pradesh,Jun-19,48.5,Milk
+Uttarakhand,Jun-19,43.43,Milk
+West Bengal,Jun-19,39.36,Milk
+Andaman and Nicobar,Jul-19,57.38,Milk
+Andhra Pradesh,Jul-19,42,Milk
+Arunachal pradesh,Jul-19,60,Milk
+Assam,Jul-19,56,Milk
+Bihar,Jul-19,40.09,Milk
+Chandigarh,Jul-19,44,Milk
+Chhattisgarh,Jul-19,43.97,Milk
+Delhi,Jul-19,44,Milk
+Goa,Jul-19,50,Milk
+Gujarat,Jul-19,51,Milk
+Haryana,Jul-19,43.75,Milk
+Himachal Pradesh,Jul-19,39.18,Milk
+Jammu and Kashmir,Jul-19,41.28,Milk
+Jharkhand,Jul-19,42,Milk
+Karnataka,Jul-19,36,Milk
+Kerala,Jul-19,40.94,Milk
+Madhya Pradesh,Jul-19,46.09,Milk
+Maharashtra,Jul-19,40.35,Milk
+Manipur,Jul-19,50,Milk
+Meghalaya,Jul-19,55.85,Milk
+Mizoram,Jul-19,70,Milk
+Nagaland,Jul-19,65,Milk
+Odisha,Jul-19,35.62,Milk
+Puducherry,Jul-19,36,Milk
+Punjab,Jul-19,46.11,Milk
+Rajasthan,Jul-19,39.88,Milk
+Sikkim,Jul-19,47,Milk
+Tamil Nadu,Jul-19,38.54,Milk
+Telangana,Jul-19,42.67,Milk
+Tripura,Jul-19,49,Milk
+Uttar Pradesh,Jul-19,48.69,Milk
+Uttarakhand,Jul-19,43.92,Milk
+West Bengal,Jul-19,39.61,Milk
+Andaman and Nicobar,Aug-19,56,Milk
+Andhra Pradesh,Aug-19,42,Milk
+Arunachal pradesh,Aug-19,60,Milk
+Assam,Aug-19,56,Milk
+Bihar,Aug-19,40.45,Milk
+Chandigarh,Aug-19,43.5,Milk
+Chhattisgarh,Aug-19,43.77,Milk
+Delhi,Aug-19,44,Milk
+Goa,Aug-19,50,Milk
+Gujarat,Aug-19,51,Milk
+Haryana,Aug-19,43.75,Milk
+Himachal Pradesh,Aug-19,40.09,Milk
+Jammu and Kashmir,Aug-19,43.96,Milk
+Jharkhand,Aug-19,42,Milk
+Karnataka,Aug-19,36,Milk
+Kerala,Aug-19,40.73,Milk
+Madhya Pradesh,Aug-19,45.85,Milk
+Maharashtra,Aug-19,40.25,Milk
+Manipur,Aug-19,50,Milk
+Meghalaya,Aug-19,55.16,Milk
+Mizoram,Aug-19,70.36,Milk
+Nagaland,Aug-19,65,Milk
+Odisha,Aug-19,35.73,Milk
+Puducherry,Aug-19,36.19,Milk
+Punjab,Aug-19,46.07,Milk
+Rajasthan,Aug-19,38.98,Milk
+Sikkim,Aug-19,47,Milk
+Tamil Nadu,Aug-19,39.87,Milk
+Telangana,Aug-19,44.23,Milk
+Tripura,Aug-19,49,Milk
+Uttar Pradesh,Aug-19,48.75,Milk
+Uttarakhand,Aug-19,44.9,Milk
+West Bengal,Aug-19,39.53,Milk
+Andaman and Nicobar,Sep-19,55,Milk
+Andhra Pradesh,Sep-19,42,Milk
+Arunachal pradesh,Sep-19,60,Milk
+Assam,Sep-19,56,Milk
+Bihar,Sep-19,40.61,Milk
+Chandigarh,Sep-19,44,Milk
+Chhattisgarh,Sep-19,43.89,Milk
+Delhi,Sep-19,44,Milk
+Goa,Sep-19,50,Milk
+Gujarat,Sep-19,51,Milk
+Haryana,Sep-19,43.95,Milk
+Himachal Pradesh,Sep-19,39.63,Milk
+Jammu and Kashmir,Sep-19,45,Milk
+Jharkhand,Sep-19,42,Milk
+Karnataka,Sep-19,36.86,Milk
+Kerala,Sep-19,42.73,Milk
+Madhya Pradesh,Sep-19,45.9,Milk
+Maharashtra,Sep-19,40.25,Milk
+Manipur,Sep-19,50,Milk
+Meghalaya,Sep-19,56.18,Milk
+Mizoram,Sep-19,71.67,Milk
+Nagaland,Sep-19,65,Milk
+Odisha,Sep-19,36.7,Milk
+Puducherry,Sep-19,42,Milk
+Punjab,Sep-19,45.81,Milk
+Rajasthan,Sep-19,39.4,Milk
+Sikkim,Sep-19,47,Milk
+Tamil Nadu,Sep-19,45.25,Milk
+Telangana,Sep-19,48.84,Milk
+Tripura,Sep-19,49,Milk
+Uttar Pradesh,Sep-19,48.73,Milk
+Uttarakhand,Sep-19,45,Milk
+West Bengal,Sep-19,39.83,Milk
+Andaman and Nicobar,Oct-19,55,Milk
+Andhra Pradesh,Oct-19,42.42,Milk
+Arunachal pradesh,Oct-19,60,Milk
+Assam,Oct-19,56,Milk
+Bihar,Oct-19,40.41,Milk
+Chandigarh,Oct-19,44,Milk
+Chhattisgarh,Oct-19,44,Milk
+Delhi,Oct-19,44,Milk
+Goa,Oct-19,50,Milk
+Gujarat,Oct-19,51.46,Milk
+Haryana,Oct-19,44,Milk
+Himachal Pradesh,Oct-19,38.94,Milk
+Jammu and Kashmir,Oct-19,43.59,Milk
+Jharkhand,Oct-19,42,Milk
+Karnataka,Oct-19,37.2,Milk
+Kerala,Oct-19,44.81,Milk
+Madhya Pradesh,Oct-19,46.04,Milk
+Maharashtra,Oct-19,40.25,Milk
+Manipur,Oct-19,50,Milk
+Meghalaya,Oct-19,56.4,Milk
+Mizoram,Oct-19,70,Milk
+Nagaland,Oct-19,65,Milk
+Odisha,Oct-19,37.82,Milk
+Puducherry,Oct-19,42,Milk
+Punjab,Oct-19,46.47,Milk
+Rajasthan,Oct-19,41.17,Milk
+Sikkim,Oct-19,47,Milk
+Tamil Nadu,Oct-19,46.19,Milk
+Telangana,Oct-19,48.67,Milk
+Tripura,Oct-19,49,Milk
+Uttar Pradesh,Oct-19,48.75,Milk
+Uttarakhand,Oct-19,44.88,Milk
+West Bengal,Oct-19,39.96,Milk
+Andaman and Nicobar,Nov-19,57.6,Milk
+Andhra Pradesh,Nov-19,43.85,Milk
+Arunachal pradesh,Nov-19,60,Milk
+Assam,Nov-19,56,Milk
+Bihar,Nov-19,40.44,Milk
+Chandigarh,Nov-19,44,Milk
+Chhattisgarh,Nov-19,44.47,Milk
+Delhi,Nov-19,44,Milk
+Goa,Nov-19,50,Milk
+Gujarat,Nov-19,51.5,Milk
+Haryana,Nov-19,44,Milk
+Himachal Pradesh,Nov-19,40.14,Milk
+Jammu and Kashmir,Nov-19,42.8,Milk
+Jharkhand,Nov-19,42.87,Milk
+Karnataka,Nov-19,37.24,Milk
+Kerala,Nov-19,44.86,Milk
+Madhya Pradesh,Nov-19,46.07,Milk
+Maharashtra,Nov-19,40.25,Milk
+Manipur,Nov-19,50,Milk
+Meghalaya,Nov-19,57.44,Milk
+Mizoram,Nov-19,73.95,Milk
+Nagaland,Nov-19,65,Milk
+Odisha,Nov-19,38.14,Milk
+Puducherry,Nov-19,42,Milk
+Punjab,Nov-19,45.41,Milk
+Rajasthan,Nov-19,41.71,Milk
+Sikkim,Nov-19,47,Milk
+Tamil Nadu,Nov-19,45.29,Milk
+Telangana,Nov-19,48.75,Milk
+Tripura,Nov-19,49,Milk
+Uttar Pradesh,Nov-19,48.73,Milk
+Uttarakhand,Nov-19,45.16,Milk
+West Bengal,Nov-19,40.03,Milk
+Andaman and Nicobar,Dec-19,58.28,Milk
+Andhra Pradesh,Dec-19,43.2,Milk
+Arunachal pradesh,Dec-19,60,Milk
+Assam,Dec-19,56,Milk
+Bihar,Dec-19,40.31,Milk
+Chandigarh,Dec-19,44,Milk
+Chhattisgarh,Dec-19,44.83,Milk
+Delhi,Dec-19,45.1,Milk
+Goa,Dec-19,50,Milk
+Gujarat,Dec-19,51.5,Milk
+Haryana,Dec-19,44.58,Milk
+Himachal Pradesh,Dec-19,39.74,Milk
+Jammu and Kashmir,Dec-19,42.67,Milk
+Jharkhand,Dec-19,43,Milk
+Karnataka,Dec-19,37.32,Milk
+Kerala,Dec-19,44.8,Milk
+Madhya Pradesh,Dec-19,46.07,Milk
+Maharashtra,Dec-19,40.61,Milk
+Manipur,Dec-19,50,Milk
+Meghalaya,Dec-19,56.87,Milk
+Mizoram,Dec-19,73.75,Milk
+Nagaland,Dec-19,65,Milk
+Odisha,Dec-19,38.75,Milk
+Puducherry,Dec-19,42,Milk
+Punjab,Dec-19,45,Milk
+Rajasthan,Dec-19,43.62,Milk
+Sikkim,Dec-19,47,Milk
+Tamil Nadu,Dec-19,43.74,Milk
+Telangana,Dec-19,48.91,Milk
+Tripura,Dec-19,49,Milk
+Uttar Pradesh,Dec-19,48.94,Milk
+Uttarakhand,Dec-19,45.17,Milk
+West Bengal,Dec-19,40.14,Milk
+Andaman and Nicobar,Jan-20,58.29,Milk
+Andhra Pradesh,Jan-20,42.67,Milk
+Arunachal pradesh,Jan-20,60,Milk
+Assam,Jan-20,56,Milk
+Bihar,Jan-20,40.2,Milk
+Chandigarh,Jan-20,44,Milk
+Chhattisgarh,Jan-20,44.25,Milk
+Delhi,Jan-20,46,Milk
+Goa,Jan-20,50,Milk
+Gujarat,Jan-20,51.5,Milk
+Haryana,Jan-20,47.25,Milk
+Himachal Pradesh,Jan-20,39.95,Milk
+Jammu and Kashmir,Jan-20,44.57,Milk
+Jharkhand,Jan-20,43.57,Milk
+Karnataka,Jan-20,37.25,Milk
+Kerala,Jan-20,44.82,Milk
+Madhya Pradesh,Jan-20,45.88,Milk
+Maharashtra,Jan-20,41,Milk
+Manipur,Jan-20,50,Milk
+Meghalaya,Jan-20,58.75,Milk
+Mizoram,Jan-20,70,Milk
+Nagaland,Jan-20,65,Milk
+Odisha,Jan-20,38.84,Milk
+Puducherry,Jan-20,42,Milk
+Punjab,Jan-20,45,Milk
+Rajasthan,Jan-20,44.51,Milk
+Sikkim,Jan-20,55,Milk
+Tamil Nadu,Jan-20,43.55,Milk
+Telangana,Jan-20,49.33,Milk
+Tripura,Jan-20,50.43,Milk
+Uttar Pradesh,Jan-20,49.8,Milk
+Uttarakhand,Jan-20,45.01,Milk
+West Bengal,Jan-20,39.8,Milk
+Andaman and Nicobar,Feb-20,58.22,Milk
+Andhra Pradesh,Feb-20,43.56,Milk
+Arunachal pradesh,Feb-20,60,Milk
+Assam,Feb-20,56,Milk
+Bihar,Feb-20,40.46,Milk
+Chandigarh,Feb-20,44,Milk
+Chhattisgarh,Feb-20,44.55,Milk
+Delhi,Feb-20,46,Milk
+Goa,Feb-20,51.8,Milk
+Gujarat,Feb-20,51.67,Milk
+Haryana,Feb-20,47.25,Milk
+Himachal Pradesh,Feb-20,39.85,Milk
+Jammu and Kashmir,Feb-20,43.08,Milk
+Jharkhand,Feb-20,45,Milk
+Karnataka,Feb-20,37.71,Milk
+Kerala,Feb-20,44.87,Milk
+Madhya Pradesh,Feb-20,46.04,Milk
+Maharashtra,Feb-20,41,Milk
+Manipur,Feb-20,50,Milk
+Meghalaya,Feb-20,57.66,Milk
+Mizoram,Feb-20,70,Milk
+Nagaland,Feb-20,65,Milk
+Odisha,Feb-20,38.85,Milk
+Puducherry,Feb-20,42,Milk
+Punjab,Feb-20,45,Milk
+Rajasthan,Feb-20,44.55,Milk
+Sikkim,Feb-20,55,Milk
+Tamil Nadu,Feb-20,43.44,Milk
+Telangana,Feb-20,49.47,Milk
+Tripura,Feb-20,55,Milk
+Uttar Pradesh,Feb-20,49.31,Milk
+Uttarakhand,Feb-20,44.6,Milk
+West Bengal,Feb-20,39.82,Milk
+Andaman and Nicobar,Mar-20,61.31,Milk
+Andhra Pradesh,Mar-20,43.34,Milk
+Arunachal pradesh,Mar-20,60,Milk
+Assam,Mar-20,56,Milk
+Bihar,Mar-20,40.97,Milk
+Chandigarh,Mar-20,44,Milk
+Chhattisgarh,Mar-20,44.01,Milk
+Delhi,Mar-20,46,Milk
+Goa,Mar-20,53,Milk
+Gujarat,Mar-20,52,Milk
+Haryana,Mar-20,47.68,Milk
+Himachal Pradesh,Mar-20,39.83,Milk
+Jammu and Kashmir,Mar-20,42.76,Milk
+Jharkhand,Mar-20,45,Milk
+Karnataka,Mar-20,37.75,Milk
+Kerala,Mar-20,44.81,Milk
+Madhya Pradesh,Mar-20,46.1,Milk
+Maharashtra,Mar-20,40.74,Milk
+Manipur,Mar-20,50,Milk
+Meghalaya,Mar-20,57.74,Milk
+Mizoram,Mar-20,70.71,Milk
+Nagaland,Mar-20,65,Milk
+Odisha,Mar-20,40.71,Milk
+Puducherry,Mar-20,42,Milk
+Punjab,Mar-20,45,Milk
+Rajasthan,Mar-20,45.2,Milk
+Sikkim,Mar-20,55,Milk
+Tamil Nadu,Mar-20,43.42,Milk
+Telangana,Mar-20,49.73,Milk
+Tripura,Mar-20,55,Milk
+Uttar Pradesh,Mar-20,48.84,Milk
+Uttarakhand,Mar-20,44.56,Milk
+West Bengal,Mar-20,39.38,Milk
+Andaman and Nicobar,Apr-20,64.04,Milk
+Andhra Pradesh,Apr-20,43.43,Milk
+Arunachal pradesh,Apr-20,60,Milk
+Assam,Apr-20,56,Milk
+Bihar,Apr-20,42.16,Milk
+Chandigarh,Apr-20,47.63,Milk
+Chhattisgarh,Apr-20,44.99,Milk
+Delhi,Apr-20,46,Milk
+Goa,Apr-20,53,Milk
+Gujarat,Apr-20,52,Milk
+Haryana,Apr-20,52.83,Milk
+Himachal Pradesh,Apr-20,42.08,Milk
+Jharkhand,Apr-20,45,Milk
+Karnataka,Apr-20,35.84,Milk
+Kerala,Apr-20,44.78,Milk
+Madhya Pradesh,Apr-20,46.44,Milk
+Maharashtra,Apr-20,40.59,Milk
+Meghalaya,Apr-20,60.56,Milk
+Mizoram,Apr-20,72.5,Milk
+Nagaland,Apr-20,65,Milk
+Odisha,Apr-20,43.73,Milk
+Puducherry,Apr-20,42,Milk
+Punjab,Apr-20,45,Milk
+Rajasthan,Apr-20,46.52,Milk
+Sikkim,Apr-20,55,Milk
+Tamil Nadu,Apr-20,43.3,Milk
+Telangana,Apr-20,52.33,Milk
+Tripura,Apr-20,55,Milk
+Uttar Pradesh,Apr-20,48.5,Milk
+Uttarakhand,Apr-20,44.45,Milk
+West Bengal,Apr-20,38.21,Milk
+Andaman and Nicobar,May-20,61.86,Milk
+Andhra Pradesh,May-20,44.51,Milk
+Arunachal pradesh,May-20,60,Milk
+Assam,May-20,56,Milk
+Bihar,May-20,41.94,Milk
+Chandigarh,May-20,48,Milk
+Chhattisgarh,May-20,45.41,Milk
+Delhi,May-20,46,Milk
+Goa,May-20,53,Milk
+Gujarat,May-20,52,Milk
+Haryana,May-20,53.15,Milk
+Himachal Pradesh,May-20,42.41,Milk
+Jharkhand,May-20,45,Milk
+Karnataka,May-20,36.25,Milk
+Kerala,May-20,44.86,Milk
+Madhya Pradesh,May-20,46.89,Milk
+Maharashtra,May-20,40.25,Milk
+Meghalaya,May-20,66.2,Milk
+Mizoram,May-20,72,Milk
+Nagaland,May-20,65,Milk
+Odisha,May-20,44.57,Milk
+Puducherry,May-20,42,Milk
+Punjab,May-20,45,Milk
+Rajasthan,May-20,46.32,Milk
+Sikkim,May-20,55.11,Milk
+Tamil Nadu,May-20,43.37,Milk
+Telangana,May-20,53.34,Milk
+Tripura,May-20,55,Milk
+Uttar Pradesh,May-20,48.51,Milk
+Uttarakhand,May-20,44.5,Milk
+West Bengal,May-20,38.84,Milk
+Andaman and Nicobar,Jun-20,61.69,Milk
+Andhra Pradesh,Jun-20,44.89,Milk
+Arunachal pradesh,Jun-20,60,Milk
+Assam,Jun-20,56,Milk
+Bihar,Jun-20,41.8,Milk
+Chandigarh,Jun-20,48,Milk
+Chhattisgarh,Jun-20,46.04,Milk
+Delhi,Jun-20,46,Milk
+Goa,Jun-20,51.08,Milk
+Gujarat,Jun-20,52,Milk
+Haryana,Jun-20,53.76,Milk
+Himachal Pradesh,Jun-20,42.4,Milk
+Jammu and Kashmir,Jun-20,42.44,Milk
+Jharkhand,Jun-20,45,Milk
+Karnataka,Jun-20,36.38,Milk
+Kerala,Jun-20,44.9,Milk
+Madhya Pradesh,Jun-20,47.92,Milk
+Maharashtra,Jun-20,40.25,Milk
+Manipur,Jun-20,50,Milk
+Meghalaya,Jun-20,63.37,Milk
+Mizoram,Jun-20,70,Milk
+Nagaland,Jun-20,65,Milk
+Odisha,Jun-20,45.37,Milk
+Puducherry,Jun-20,42,Milk
+Punjab,Jun-20,45,Milk
+Rajasthan,Jun-20,44.78,Milk
+Sikkim,Jun-20,56,Milk
+Tamil Nadu,Jun-20,42.89,Milk
+Telangana,Jun-20,53.12,Milk
+Tripura,Jun-20,55,Milk
+Uttar Pradesh,Jun-20,48.78,Milk
+Uttarakhand,Jun-20,44.5,Milk
+West Bengal,Jun-20,41.07,Milk
+Andaman and Nicobar,Jul-20,61.79,Milk
+Andhra Pradesh,Jul-20,44.79,Milk
+Arunachal pradesh,Jul-20,60,Milk
+Assam,Jul-20,56,Milk
+Bihar,Jul-20,42.01,Milk
+Chandigarh,Jul-20,47.84,Milk
+Chhattisgarh,Jul-20,46.2,Milk
+Delhi,Jul-20,46,Milk
+Goa,Jul-20,50,Milk
+Gujarat,Jul-20,52,Milk
+Haryana,Jul-20,53.54,Milk
+Himachal Pradesh,Jul-20,42.58,Milk
+Jammu and Kashmir,Jul-20,42.5,Milk
+Jharkhand,Jul-20,45,Milk
+Karnataka,Jul-20,38.25,Milk
+Kerala,Jul-20,44.87,Milk
+Madhya Pradesh,Jul-20,48.49,Milk
+Maharashtra,Jul-20,40.36,Milk
+Meghalaya,Jul-20,64.62,Milk
+Mizoram,Jul-20,70,Milk
+Nagaland,Jul-20,65,Milk
+Odisha,Jul-20,44.95,Milk
+Puducherry,Jul-20,42,Milk
+Punjab,Jul-20,45,Milk
+Rajasthan,Jul-20,43.93,Milk
+Sikkim,Jul-20,56,Milk
+Tamil Nadu,Jul-20,42.88,Milk
+Telangana,Jul-20,53,Milk
+Tripura,Jul-20,55,Milk
+Uttar Pradesh,Jul-20,49.03,Milk
+Uttarakhand,Jul-20,44.27,Milk
+West Bengal,Jul-20,41.39,Milk
+Andaman and Nicobar,Aug-20,61.42,Milk
+Andhra Pradesh,Aug-20,44.92,Milk
+Arunachal pradesh,Aug-20,60,Milk
+Assam,Aug-20,56,Milk
+Bihar,Aug-20,42.21,Milk
+Chandigarh,Aug-20,47.63,Milk
+Chhattisgarh,Aug-20,46.2,Milk
+Delhi,Aug-20,46,Milk
+Goa,Aug-20,50,Milk
+Gujarat,Aug-20,52,Milk
+Haryana,Aug-20,54.03,Milk
+Himachal Pradesh,Aug-20,42.65,Milk
+Jammu and Kashmir,Aug-20,42.5,Milk
+Jharkhand,Aug-20,45,Milk
+Karnataka,Aug-20,38.52,Milk
+Kerala,Aug-20,44.85,Milk
+Madhya Pradesh,Aug-20,48.44,Milk
+Maharashtra,Aug-20,40.25,Milk
+Meghalaya,Aug-20,64.37,Milk
+Mizoram,Aug-20,70,Milk
+Nagaland,Aug-20,65,Milk
+Odisha,Aug-20,45.01,Milk
+Puducherry,Aug-20,42,Milk
+Punjab,Aug-20,44.97,Milk
+Rajasthan,Aug-20,42.5,Milk
+Sikkim,Aug-20,55,Milk
+Tamil Nadu,Aug-20,42.79,Milk
+Telangana,Aug-20,53,Milk
+Tripura,Aug-20,55,Milk
+Uttar Pradesh,Aug-20,49.31,Milk
+Uttarakhand,Aug-20,44.16,Milk
+West Bengal,Aug-20,41.17,Milk
+Andaman and Nicobar,Sep-20,61.73,Milk
+Andhra Pradesh,Sep-20,44.91,Milk
+Arunachal pradesh,Sep-20,60,Milk
+Assam,Sep-20,56,Milk
+Bihar,Sep-20,42.15,Milk
+Chandigarh,Sep-20,48.61,Milk
+Chhattisgarh,Sep-20,46.2,Milk
+Delhi,Sep-20,46,Milk
+Goa,Sep-20,50,Milk
+Gujarat,Sep-20,52,Milk
+Haryana,Sep-20,53.21,Milk
+Himachal Pradesh,Sep-20,42.54,Milk
+Jammu and Kashmir,Sep-20,42.5,Milk
+Jharkhand,Sep-20,45,Milk
+Karnataka,Sep-20,39.25,Milk
+Kerala,Sep-20,45.02,Milk
+Madhya Pradesh,Sep-20,48.5,Milk
+Maharashtra,Sep-20,40.14,Milk
+Meghalaya,Sep-20,64.43,Milk
+Mizoram,Sep-20,66,Milk
+Nagaland,Sep-20,65,Milk
+Odisha,Sep-20,45.31,Milk
+Puducherry,Sep-20,42,Milk
+Punjab,Sep-20,44.95,Milk
+Rajasthan,Sep-20,41.68,Milk
+Sikkim,Sep-20,55,Milk
+Tamil Nadu,Sep-20,42.82,Milk
+Telangana,Sep-20,53,Milk
+Tripura,Sep-20,55,Milk
+Uttar Pradesh,Sep-20,49.82,Milk
+Uttarakhand,Sep-20,44.23,Milk
+West Bengal,Sep-20,40.97,Milk
+Andaman and Nicobar,Oct-20,60.98,Milk
+Andhra Pradesh,Oct-20,44.98,Milk
+Arunachal pradesh,Oct-20,60,Milk
+Assam,Oct-20,56,Milk
+Bihar,Oct-20,42.01,Milk
+Chandigarh,Oct-20,48.48,Milk
+Chhattisgarh,Oct-20,47.59,Milk
+Delhi,Oct-20,46,Milk
+Goa,Oct-20,50,Milk
+Gujarat,Oct-20,52,Milk
+Haryana,Oct-20,52.76,Milk
+Himachal Pradesh,Oct-20,42.58,Milk
+Jammu and Kashmir,Oct-20,42.74,Milk
+Jharkhand,Oct-20,45,Milk
+Karnataka,Oct-20,39.25,Milk
+Kerala,Oct-20,45.01,Milk
+Madhya Pradesh,Oct-20,48.63,Milk
+Maharashtra,Oct-20,40.09,Milk
+Meghalaya,Oct-20,64.59,Milk
+Mizoram,Oct-20,50,Milk
+Nagaland,Oct-20,65,Milk
+Odisha,Oct-20,45.57,Milk
+Puducherry,Oct-20,42,Milk
+Punjab,Oct-20,45.18,Milk
+Rajasthan,Oct-20,42.46,Milk
+Sikkim,Oct-20,55,Milk
+Tamil Nadu,Oct-20,42.86,Milk
+Telangana,Oct-20,53,Milk
+Tripura,Oct-20,55,Milk
+Uttar Pradesh,Oct-20,49.91,Milk
+Uttarakhand,Oct-20,44.08,Milk
+West Bengal,Oct-20,40.77,Milk
+Andaman and Nicobar,Nov-20,61.64,Milk
+Andhra Pradesh,Nov-20,45.2,Milk
+Arunachal pradesh,Nov-20,60,Milk
+Assam,Nov-20,56,Milk
+Bihar,Nov-20,42.3,Milk
+Chandigarh,Nov-20,49.31,Milk
+Chhattisgarh,Nov-20,47.8,Milk
+Delhi,Nov-20,46,Milk
+Goa,Nov-20,50,Milk
+Gujarat,Nov-20,52,Milk
+Haryana,Nov-20,52.93,Milk
+Himachal Pradesh,Nov-20,42.56,Milk
+Jammu and Kashmir,Nov-20,44.47,Milk
+Jharkhand,Nov-20,45,Milk
+Karnataka,Nov-20,39.02,Milk
+Kerala,Nov-20,44.99,Milk
+Madhya Pradesh,Nov-20,49.16,Milk
+Maharashtra,Nov-20,40.33,Milk
+Meghalaya,Nov-20,64.41,Milk
+Mizoram,Nov-20,70,Milk
+Nagaland,Nov-20,70,Milk
+Odisha,Nov-20,45.86,Milk
+Puducherry,Nov-20,42,Milk
+Punjab,Nov-20,45.23,Milk
+Rajasthan,Nov-20,43.21,Milk
+Sikkim,Nov-20,55,Milk
+Tamil Nadu,Nov-20,42.88,Milk
+Telangana,Nov-20,52.83,Milk
+Tripura,Nov-20,55,Milk
+Uttar Pradesh,Nov-20,50.13,Milk
+Uttarakhand,Nov-20,45.04,Milk
+West Bengal,Nov-20,40.39,Milk
+Andaman and Nicobar,Dec-20,62.76,Milk
+Andhra Pradesh,Dec-20,45.44,Milk
+Arunachal pradesh,Dec-20,60,Milk
+Assam,Dec-20,56,Milk
+Bihar,Dec-20,42.8,Milk
+Chandigarh,Dec-20,48,Milk
+Chhattisgarh,Dec-20,46.6,Milk
+Delhi,Dec-20,46,Milk
+Goa,Dec-20,50,Milk
+Gujarat,Dec-20,52,Milk
+Haryana,Dec-20,53.4,Milk
+Himachal Pradesh,Dec-20,44.04,Milk
+Jammu and Kashmir,Dec-20,45.83,Milk
+Jharkhand,Dec-20,45,Milk
+Karnataka,Dec-20,38.67,Milk
+Kerala,Dec-20,44.95,Milk
+Madhya Pradesh,Dec-20,48.86,Milk
+Maharashtra,Dec-20,40.94,Milk
+Meghalaya,Dec-20,64.39,Milk
+Nagaland,Dec-20,75,Milk
+Odisha,Dec-20,45.86,Milk
+Puducherry,Dec-20,42,Milk
+Punjab,Dec-20,44.56,Milk
+Rajasthan,Dec-20,43.4,Milk
+Sikkim,Dec-20,55,Milk
+Tamil Nadu,Dec-20,42.82,Milk
+Telangana,Dec-20,52.67,Milk
+Tripura,Dec-20,59.08,Milk
+Uttar Pradesh,Dec-20,50.68,Milk
+Uttarakhand,Dec-20,45.32,Milk
+West Bengal,Dec-20,41.99,Milk
+Andaman and Nicobar,Jan-21,63.03,Milk
+Andhra Pradesh,Jan-21,44.5,Milk
+Arunachal pradesh,Jan-21,60,Milk
+Assam,Jan-21,56,Milk
+Bihar,Jan-21,42.99,Milk
+Chandigarh,Jan-21,50.61,Milk
+Chhattisgarh,Jan-21,45.14,Milk
+Delhi,Jan-21,46,Milk
+Goa,Jan-21,50,Milk
+Gujarat,Jan-21,52,Milk
+Haryana,Jan-21,52.51,Milk
+Himachal Pradesh,Jan-21,44.09,Milk
+Jammu and Kashmir,Jan-21,43.15,Milk
+Jharkhand,Jan-21,45,Milk
+Karnataka,Jan-21,42.55,Milk
+Kerala,Jan-21,45.01,Milk
+Madhya Pradesh,Jan-21,50.44,Milk
+Maharashtra,Jan-21,43.28,Milk
+Manipur,Jan-21,50,Milk
+Meghalaya,Jan-21,64.24,Milk
+Odisha,Jan-21,46.06,Milk
+Puducherry,Jan-21,42,Milk
+Punjab,Jan-21,47.04,Milk
+Rajasthan,Jan-21,43.91,Milk
+Sikkim,Jan-21,55,Milk
+Tamil Nadu,Jan-21,43.43,Milk
+Telangana,Jan-21,53.08,Milk
+Tripura,Jan-21,64,Milk
+Uttar Pradesh,Jan-21,51.75,Milk
+Uttarakhand,Jan-21,45.02,Milk
+West Bengal,Jan-21,43.36,Milk
+Andaman and Nicobar,Feb-21,63.23,Milk
+Andhra Pradesh,Feb-21,49.3,Milk
+Arunachal pradesh,Feb-21,60,Milk
+Assam,Feb-21,61.5,Milk
+Bihar,Feb-21,44.03,Milk
+Chandigarh,Feb-21,51.96,Milk
+Chhattisgarh,Feb-21,45.96,Milk
+Delhi,Feb-21,46,Milk
+Goa,Feb-21,50,Milk
+Gujarat,Feb-21,52,Milk
+Haryana,Feb-21,54.44,Milk
+Himachal Pradesh,Feb-21,43.56,Milk
+Jammu and Kashmir,Feb-21,44.02,Milk
+Jharkhand,Feb-21,47.04,Milk
+Karnataka,Feb-21,43.79,Milk
+Kerala,Feb-21,46.52,Milk
+Madhya Pradesh,Feb-21,50.32,Milk
+Maharashtra,Feb-21,46.59,Milk
+Manipur,Feb-21,50,Milk
+Meghalaya,Feb-21,64,Milk
+Mizoram,Feb-21,71.5,Milk
+Nagaland,Feb-21,60,Milk
+Odisha,Feb-21,46,Milk
+Puducherry,Feb-21,42,Milk
+Punjab,Feb-21,48.72,Milk
+Rajasthan,Feb-21,44.06,Milk
+Sikkim,Feb-21,55,Milk
+Tamil Nadu,Feb-21,43.38,Milk
+Telangana,Feb-21,54.13,Milk
+Tripura,Feb-21,64,Milk
+Uttar Pradesh,Feb-21,52.39,Milk
+Uttarakhand,Feb-21,45,Milk
+West Bengal,Feb-21,44.95,Milk
+Andaman and Nicobar,Mar-21,63.4,Milk
+Andhra Pradesh,Mar-21,47.98,Milk
+Assam,Mar-21,62,Milk
+Bihar,Mar-21,45.43,Milk
+Chandigarh,Mar-21,51.23,Milk
+Chhattisgarh,Mar-21,48.8,Milk
+Delhi,Mar-21,46,Milk
+Goa,Mar-21,49.6,Milk
+Gujarat,Mar-21,52,Milk
+Haryana,Mar-21,54.15,Milk
+Himachal Pradesh,Mar-21,43.59,Milk
+Jammu and Kashmir,Mar-21,49.02,Milk
+Jharkhand,Mar-21,48.79,Milk
+Karnataka,Mar-21,42.19,Milk
+Kerala,Mar-21,47.24,Milk
+Madhya Pradesh,Mar-21,50.53,Milk
+Maharashtra,Mar-21,46.45,Milk
+Manipur,Mar-21,50.83,Milk
+Meghalaya,Mar-21,64,Milk
+Mizoram,Mar-21,68.5,Milk
+Nagaland,Mar-21,60,Milk
+Odisha,Mar-21,46,Milk
+Puducherry,Mar-21,42,Milk
+Punjab,Mar-21,50.1,Milk
+Rajasthan,Mar-21,44.65,Milk
+Sikkim,Mar-21,55,Milk
+Tamil Nadu,Mar-21,43.64,Milk
+Telangana,Mar-21,55.53,Milk
+Tripura,Mar-21,64,Milk
+Uttar Pradesh,Mar-21,52.95,Milk
+Uttarakhand,Mar-21,45.99,Milk
+West Bengal,Mar-21,46.14,Milk
+Andaman and Nicobar,Apr-21,62.54,Milk
+Andhra Pradesh,Apr-21,51.79,Milk
+Assam,Apr-21,61.6,Milk
+Bihar,Apr-21,45.54,Milk
+Chandigarh,Apr-21,51,Milk
+Chhattisgarh,Apr-21,45.74,Milk
+Delhi,Apr-21,46,Milk
+Goa,Apr-21,48.22,Milk
+Gujarat,Apr-21,52,Milk
+Haryana,Apr-21,54.45,Milk
+Himachal Pradesh,Apr-21,44.61,Milk
+Jammu and Kashmir,Apr-21,50.78,Milk
+Jharkhand,Apr-21,48.64,Milk
+Karnataka,Apr-21,42.36,Milk
+Kerala,Apr-21,47.17,Milk
+Madhya Pradesh,Apr-21,51.75,Milk
+Maharashtra,Apr-21,44.9,Milk
+Manipur,Apr-21,55,Milk
+Meghalaya,Apr-21,64,Milk
+Mizoram,Apr-21,69,Milk
+Nagaland,Apr-21,62.14,Milk
+Odisha,Apr-21,45.92,Milk
+Puducherry,Apr-21,42,Milk
+Punjab,Apr-21,49.87,Milk
+Rajasthan,Apr-21,46.07,Milk
+Sikkim,Apr-21,55,Milk
+Tamil Nadu,Apr-21,43.76,Milk
+Telangana,Apr-21,54.86,Milk
+Tripura,Apr-21,64,Milk
+Uttar Pradesh,Apr-21,52.98,Milk
+Uttarakhand,Apr-21,46.51,Milk
+West Bengal,Apr-21,46.09,Milk
+Andaman and Nicobar,May-21,62.58,Milk
+Andhra Pradesh,May-21,51.85,Milk
+Assam,May-21,62,Milk
+Bihar,May-21,45.63,Milk
+Chandigarh,May-21,51.03,Milk
+Chhattisgarh,May-21,47.21,Milk
+Delhi,May-21,46,Milk
+Goa,May-21,48,Milk
+Gujarat,May-21,52,Milk
+Haryana,May-21,52.26,Milk
+Himachal Pradesh,May-21,45.08,Milk
+Jammu and Kashmir,May-21,47,Milk
+Jharkhand,May-21,48.74,Milk
+Karnataka,May-21,42.71,Milk
+Kerala,May-21,46.7,Milk
+Madhya Pradesh,May-21,51.97,Milk
+Maharashtra,May-21,44.87,Milk
+Meghalaya,May-21,64.04,Milk
+Mizoram,May-21,71,Milk
+Nagaland,May-21,70,Milk
+Odisha,May-21,45.99,Milk
+Puducherry,May-21,42.63,Milk
+Punjab,May-21,49.83,Milk
+Rajasthan,May-21,43.8,Milk
+Tamil Nadu,May-21,43.06,Milk
+Telangana,May-21,55.78,Milk
+Tripura,May-21,64,Milk
+Uttar Pradesh,May-21,53.44,Milk
+Uttarakhand,May-21,45.61,Milk
+West Bengal,May-21,45.26,Milk
+Andaman and Nicobar,Jun-21,62.33,Milk
+Andhra Pradesh,Jun-21,52.26,Milk
+Assam,Jun-21,62.76,Milk
+Bihar,Jun-21,45.73,Milk
+Chandigarh,Jun-21,51.07,Milk
+Chhattisgarh,Jun-21,50.83,Milk
+Delhi,Jun-21,46,Milk
+Goa,Jun-21,48,Milk
+Gujarat,Jun-21,52,Milk
+Haryana,Jun-21,51.77,Milk
+Himachal Pradesh,Jun-21,44.86,Milk
+Jammu and Kashmir,Jun-21,48.88,Milk
+Jharkhand,Jun-21,48.63,Milk
+Karnataka,Jun-21,43.72,Milk
+Kerala,Jun-21,46.65,Milk
+Madhya Pradesh,Jun-21,52.33,Milk
+Maharashtra,Jun-21,47.04,Milk
+Meghalaya,Jun-21,64,Milk
+Mizoram,Jun-21,75,Milk
+Nagaland,Jun-21,70,Milk
+Odisha,Jun-21,46.12,Milk
+Puducherry,Jun-21,42.96,Milk
+Punjab,Jun-21,49.35,Milk
+Rajasthan,Jun-21,43.48,Milk
+Sikkim,Jun-21,55,Milk
+Tamil Nadu,Jun-21,41.24,Milk
+Telangana,Jun-21,55.09,Milk
+Tripura,Jun-21,64,Milk
+Uttar Pradesh,Jun-21,53.69,Milk
+Uttarakhand,Jun-21,49.44,Milk
+West Bengal,Jun-21,45.69,Milk
+Andaman and Nicobar,Jul-21,62.13,Milk
+Andhra Pradesh,Jul-21,53.04,Milk
+Assam,Jul-21,63,Milk
+Bihar,Jul-21,45.81,Milk
+Chandigarh,Jul-21,53.46,Milk
+Chhattisgarh,Jul-21,52.29,Milk
+Delhi,Jul-21,47.35,Milk
+Goa,Jul-21,48,Milk
+Gujarat,Jul-21,53.6,Milk
+Haryana,Jul-21,51.48,Milk
+Himachal Pradesh,Jul-21,45.06,Milk
+Jammu and Kashmir,Jul-21,48.15,Milk
+Jharkhand,Jul-21,48.63,Milk
+Karnataka,Jul-21,42.79,Milk
+Kerala,Jul-21,46.65,Milk
+Madhya Pradesh,Jul-21,52.86,Milk
+Maharashtra,Jul-21,47.24,Milk
+Meghalaya,Jul-21,64,Milk
+Nagaland,Jul-21,70,Milk
+Odisha,Jul-21,46.05,Milk
+Puducherry,Jul-21,42.96,Milk
+Punjab,Jul-21,49.53,Milk
+Rajasthan,Jul-21,44.37,Milk
+Sikkim,Jul-21,58.5,Milk
+Tamil Nadu,Jul-21,40.95,Milk
+Telangana,Jul-21,55.43,Milk
+Tripura,Jul-21,64,Milk
+Uttar Pradesh,Jul-21,53.71,Milk
+Uttarakhand,Jul-21,49.11,Milk
+West Bengal,Jul-21,45.82,Milk
+Andaman and Nicobar,Aug-21,62.63,Milk
+Andhra Pradesh,Aug-21,50.76,Milk
+Assam,Aug-21,63,Milk
+Bihar,Aug-21,45.69,Milk
+Chandigarh,Aug-21,54.11,Milk
+Chhattisgarh,Aug-21,51.48,Milk
+Delhi,Aug-21,48,Milk
+Goa,Aug-21,48,Milk
+Gujarat,Aug-21,52.1,Milk
+Haryana,Aug-21,52.55,Milk
+Himachal Pradesh,Aug-21,47.18,Milk
+Jammu and Kashmir,Aug-21,50.19,Milk
+Jharkhand,Aug-21,48.6,Milk
+Karnataka,Aug-21,43.13,Milk
+Kerala,Aug-21,46.77,Milk
+Madhya Pradesh,Aug-21,53.73,Milk
+Maharashtra,Aug-21,46.14,Milk
+Meghalaya,Aug-21,64,Milk
+Nagaland,Aug-21,70,Milk
+Odisha,Aug-21,46.03,Milk
+Puducherry,Aug-21,42.92,Milk
+Punjab,Aug-21,50.32,Milk
+Rajasthan,Aug-21,43.92,Milk
+Sikkim,Aug-21,60,Milk
+Tamil Nadu,Aug-21,41.15,Milk
+Telangana,Aug-21,53.56,Milk
+Tripura,Aug-21,64,Milk
+Uttar Pradesh,Aug-21,54.34,Milk
+Uttarakhand,Aug-21,49.46,Milk
+West Bengal,Aug-21,46.04,Milk
+Andaman and Nicobar,Sep-21,63.61,Milk
+Andhra Pradesh,Sep-21,49.14,Milk
+Assam,Sep-21,63,Milk
+Bihar,Sep-21,45.76,Milk
+Chandigarh,Sep-21,53.93,Milk
+Chhattisgarh,Sep-21,51.13,Milk
+Delhi,Sep-21,48,Milk
+Goa,Sep-21,48,Milk
+Gujarat,Sep-21,49.09,Milk
+Haryana,Sep-21,53.48,Milk
+Himachal Pradesh,Sep-21,47.86,Milk
+Jammu and Kashmir,Sep-21,51.33,Milk
+Jharkhand,Sep-21,48.71,Milk
+Karnataka,Sep-21,42.76,Milk
+Kerala,Sep-21,46.7,Milk
+Madhya Pradesh,Sep-21,54.66,Milk
+Maharashtra,Sep-21,46,Milk
+Meghalaya,Sep-21,64.13,Milk
+Mizoram,Sep-21,75,Milk
+Nagaland,Sep-21,70,Milk
+Odisha,Sep-21,46.24,Milk
+Puducherry,Sep-21,43,Milk
+Punjab,Sep-21,51.02,Milk
+Rajasthan,Sep-21,44.52,Milk
+Sikkim,Sep-21,60,Milk
+Tamil Nadu,Sep-21,41.28,Milk
+Telangana,Sep-21,52.8,Milk
+Tripura,Sep-21,64,Milk
+Uttar Pradesh,Sep-21,54.39,Milk
+Uttarakhand,Sep-21,50.91,Milk
+West Bengal,Sep-21,46.65,Milk
+Andaman and Nicobar,Oct-21,63.98,Milk
+Andhra Pradesh,Oct-21,47.45,Milk
+Arunachal pradesh,Oct-21,64,Milk
+Assam,Oct-21,63.72,Milk
+Bihar,Oct-21,46.6,Milk
+Chandigarh,Oct-21,53.94,Milk
+Chhattisgarh,Oct-21,52.08,Milk
+Delhi,Oct-21,48,Milk
+Goa,Oct-21,48,Milk
+Gujarat,Oct-21,49.14,Milk
+Haryana,Oct-21,53.25,Milk
+Himachal Pradesh,Oct-21,48.57,Milk
+Jammu and Kashmir,Oct-21,50.53,Milk
+Jharkhand,Oct-21,49.28,Milk
+Karnataka,Oct-21,42.49,Milk
+Kerala,Oct-21,46.74,Milk
+Madhya Pradesh,Oct-21,54.61,Milk
+Maharashtra,Oct-21,47.65,Milk
+Meghalaya,Oct-21,64.48,Milk
+Mizoram,Oct-21,75,Milk
+Nagaland,Oct-21,70,Milk
+Odisha,Oct-21,46.14,Milk
+Puducherry,Oct-21,43.29,Milk
+Punjab,Oct-21,51.34,Milk
+Rajasthan,Oct-21,45.44,Milk
+Sikkim,Oct-21,60,Milk
+Tamil Nadu,Oct-21,41.53,Milk
+Telangana,Oct-21,53.7,Milk
+Tripura,Oct-21,64,Milk
+Uttar Pradesh,Oct-21,54.51,Milk
+Uttarakhand,Oct-21,55.94,Milk
+West Bengal,Oct-21,47.19,Milk
+Andaman and Nicobar,Nov-21,64.24,Milk
+Andhra Pradesh,Nov-21,47.31,Milk
+Arunachal pradesh,Nov-21,64,Milk
+Assam,Nov-21,64,Milk
+Bihar,Nov-21,47.72,Milk
+Chandigarh,Nov-21,54.89,Milk
+Chhattisgarh,Nov-21,53.71,Milk
+Delhi,Nov-21,48,Milk
+Goa,Nov-21,47.95,Milk
+Gujarat,Nov-21,48.75,Milk
+Haryana,Nov-21,53.6,Milk
+Himachal Pradesh,Nov-21,49.54,Milk
+Jammu and Kashmir,Nov-21,50.29,Milk
+Jharkhand,Nov-21,49.85,Milk
+Karnataka,Nov-21,42.37,Milk
+Kerala,Nov-21,46.84,Milk
+Madhya Pradesh,Nov-21,54.25,Milk
+Maharashtra,Nov-21,47.65,Milk
+Manipur,Nov-21,68,Milk
+Meghalaya,Nov-21,65.6,Milk
+Mizoram,Nov-21,75,Milk
+Nagaland,Nov-21,70,Milk
+Odisha,Nov-21,46.12,Milk
+Puducherry,Nov-21,44,Milk
+Punjab,Nov-21,51.27,Milk
+Rajasthan,Nov-21,46.15,Milk
+Sikkim,Nov-21,60,Milk
+Tamil Nadu,Nov-21,41.5,Milk
+Telangana,Nov-21,54.59,Milk
+Tripura,Nov-21,64,Milk
+Uttar Pradesh,Nov-21,55.08,Milk
+Uttarakhand,Nov-21,56.04,Milk
+West Bengal,Nov-21,46.63,Milk
+Andaman and Nicobar,Dec-21,64.23,Milk
+Andhra Pradesh,Dec-21,47.3,Milk
+Arunachal pradesh,Dec-21,66,Milk
+Assam,Dec-21,64,Milk
+Bihar,Dec-21,48.4,Milk
+Chandigarh,Dec-21,54.9,Milk
+Chhattisgarh,Dec-21,53.16,Milk
+Delhi,Dec-21,48,Milk
+Goa,Dec-21,48,Milk
+Gujarat,Dec-21,49.09,Milk
+Haryana,Dec-21,53.48,Milk
+Himachal Pradesh,Dec-21,49.33,Milk
+Jammu and Kashmir,Dec-21,49.95,Milk
+Jharkhand,Dec-21,50.24,Milk
+Karnataka,Dec-21,41.84,Milk
+Kerala,Dec-21,46.9,Milk
+Madhya Pradesh,Dec-21,54.7,Milk
+Maharashtra,Dec-21,47.42,Milk
+Meghalaya,Dec-21,65.81,Milk
+Nagaland,Dec-21,70,Milk
+Odisha,Dec-21,46.17,Milk
+Puducherry,Dec-21,44,Milk
+Punjab,Dec-21,50.66,Milk
+Rajasthan,Dec-21,46.17,Milk
+Sikkim,Dec-21,60,Milk
+Tamil Nadu,Dec-21,41.48,Milk
+Telangana,Dec-21,52.95,Milk
+Tripura,Dec-21,64,Milk
+Uttar Pradesh,Dec-21,55.32,Milk
+Uttarakhand,Dec-21,56.03,Milk
+West Bengal,Dec-21,46.57,Milk
+Andaman and Nicobar,Jan-22,64.91,Milk
+Andhra Pradesh,Jan-22,54.18,Milk
+Arunachal pradesh,Jan-22,66,Milk
+Assam,Jan-22,64,Milk
+Bihar,Jan-22,48.42,Milk
+Chandigarh,Jan-22,54.06,Milk
+Chhattisgarh,Jan-22,54.35,Milk
+Delhi,Jan-22,48,Milk
+Goa,Jan-22,47.95,Milk
+Gujarat,Jan-22,49.47,Milk
+Haryana,Jan-22,53.08,Milk
+Himachal Pradesh,Jan-22,49.32,Milk
+Jammu and Kashmir,Jan-22,49.92,Milk
+Jharkhand,Jan-22,50.15,Milk
+Karnataka,Jan-22,41.74,Milk
+Kerala,Jan-22,46.93,Milk
+Madhya Pradesh,Jan-22,55.55,Milk
+Maharashtra,Jan-22,47.17,Milk
+Meghalaya,Jan-22,65.8,Milk
+Nagaland,Jan-22,70,Milk
+Odisha,Jan-22,46.17,Milk
+Puducherry,Jan-22,44,Milk
+Punjab,Jan-22,51.28,Milk
+Rajasthan,Jan-22,46.25,Milk
+Sikkim,Jan-22,60,Milk
+Tamil Nadu,Jan-22,41.4,Milk
+Telangana,Jan-22,53.51,Milk
+Tripura,Jan-22,64,Milk
+Uttar Pradesh,Jan-22,55.36,Milk
+Uttarakhand,Jan-22,56.07,Milk
+West Bengal,Jan-22,46.75,Milk
+Andaman and Nicobar,Feb-22,66.19,Milk
+Andhra Pradesh,Feb-22,53.47,Milk
+Assam,Feb-22,64,Milk
+Bihar,Feb-22,48.59,Milk
+Chandigarh,Feb-22,54.07,Milk
+Chhattisgarh,Feb-22,54.37,Milk
+Delhi,Feb-22,48,Milk
+Goa,Feb-22,48.05,Milk
+Gujarat,Feb-22,51.17,Milk
+Haryana,Feb-22,53.44,Milk
+Himachal Pradesh,Feb-22,49.46,Milk
+Jammu and Kashmir,Feb-22,51.18,Milk
+Jharkhand,Feb-22,50.39,Milk
+Karnataka,Feb-22,41.86,Milk
+Kerala,Feb-22,46.94,Milk
+Madhya Pradesh,Feb-22,55.26,Milk
+Maharashtra,Feb-22,47.54,Milk
+Meghalaya,Feb-22,65.93,Milk
+Mizoram,Feb-22,75,Milk
+Nagaland,Feb-22,70,Milk
+Odisha,Feb-22,46.17,Milk
+Puducherry,Feb-22,44,Milk
+Punjab,Feb-22,53.56,Milk
+Rajasthan,Feb-22,46.96,Milk
+Sikkim,Feb-22,60,Milk
+Tamil Nadu,Feb-22,41.38,Milk
+Telangana,Feb-22,53.37,Milk
+Tripura,Feb-22,64,Milk
+Uttar Pradesh,Feb-22,55.05,Milk
+Uttarakhand,Feb-22,56,Milk
+West Bengal,Feb-22,46.46,Milk
+Andaman and Nicobar,Mar-22,66,Milk
+Andhra Pradesh,Mar-22,53.99,Milk
+Assam,Mar-22,64,Milk
+Bihar,Mar-22,48.95,Milk
+Chandigarh,Mar-22,53.26,Milk
+Chhattisgarh,Mar-22,54.84,Milk
+Delhi,Mar-22,49.58,Milk
+Goa,Mar-22,47.91,Milk
+Gujarat,Mar-22,52.01,Milk
+Haryana,Mar-22,54.2,Milk
+Himachal Pradesh,Mar-22,49.74,Milk
+Jammu and Kashmir,Mar-22,50.63,Milk
+Jharkhand,Mar-22,50.87,Milk
+Karnataka,Mar-22,41.96,Milk
+Kerala,Mar-22,46.87,Milk
+Madhya Pradesh,Mar-22,55.22,Milk
+Maharashtra,Mar-22,49.17,Milk
+Meghalaya,Mar-22,66,Milk
+Mizoram,Mar-22,72.5,Milk
+Nagaland,Mar-22,70.63,Milk
+Odisha,Mar-22,46.23,Milk
+Puducherry,Mar-22,44,Milk
+Punjab,Mar-22,54.01,Milk
+Rajasthan,Mar-22,46.18,Milk
+Sikkim,Mar-22,61.91,Milk
+Tamil Nadu,Mar-22,41.43,Milk
+Telangana,Mar-22,54.4,Milk
+Tripura,Mar-22,64,Milk
+Uttar Pradesh,Mar-22,55.75,Milk
+Uttarakhand,Mar-22,53.3,Milk
+West Bengal,Mar-22,46.41,Milk
+Andaman and Nicobar,Apr-22,64.14,Milk
+Andhra Pradesh,Apr-22,54.82,Milk
+Arunachal pradesh,Apr-22,66,Milk
+Assam,Apr-22,64,Milk
+Bihar,Apr-22,49.25,Milk
+Chandigarh,Apr-22,54.03,Milk
+Chhattisgarh,Apr-22,52.52,Milk
+Delhi,Apr-22,50,Milk
+Goa,Apr-22,48,Milk
+Gujarat,Apr-22,51.65,Milk
+Haryana,Apr-22,55.43,Milk
+Himachal Pradesh,Apr-22,49.73,Milk
+Jammu and Kashmir,Apr-22,49.82,Milk
+Jharkhand,Apr-22,51.2,Milk
+Karnataka,Apr-22,41.6,Milk
+Kerala,Apr-22,46.97,Milk
+Madhya Pradesh,Apr-22,55.85,Milk
+Maharashtra,Apr-22,50.06,Milk
+Manipur,Apr-22,67.69,Milk
+Meghalaya,Apr-22,66.32,Milk
+Mizoram,Apr-22,71.78,Milk
+Nagaland,Apr-22,79.57,Milk
+Odisha,Apr-22,46.55,Milk
+Puducherry,Apr-22,44,Milk
+Punjab,Apr-22,54.2,Milk
+Rajasthan,Apr-22,45.45,Milk
+Sikkim,Apr-22,62,Milk
+Tamil Nadu,Apr-22,41.44,Milk
+Telangana,Apr-22,55.46,Milk
+Tripura,Apr-22,64,Milk
+Uttar Pradesh,Apr-22,56.03,Milk
+Uttarakhand,Apr-22,55.88,Milk
+West Bengal,Apr-22,46.61,Milk
+Andaman and Nicobar,May-22,64.26,Milk
+Andhra Pradesh,May-22,54.91,Milk
+Assam,May-22,64,Milk
+Bihar,May-22,49.56,Milk
+Chandigarh,May-22,55.1,Milk
+Chhattisgarh,May-22,53.67,Milk
+Delhi,May-22,50,Milk
+Goa,May-22,50.67,Milk
+Gujarat,May-22,52.64,Milk
+Haryana,May-22,55.69,Milk
+Himachal Pradesh,May-22,49.8,Milk
+Jammu and Kashmir,May-22,49.84,Milk
+Jharkhand,May-22,51.99,Milk
+Karnataka,May-22,41.73,Milk
+Kerala,May-22,46.99,Milk
+Madhya Pradesh,May-22,56.73,Milk
+Maharashtra,May-22,50.1,Milk
+Manipur,May-22,62.89,Milk
+Meghalaya,May-22,67.06,Milk
+Mizoram,May-22,72,Milk
+Nagaland,May-22,75.54,Milk
+Odisha,May-22,47.75,Milk
+Puducherry,May-22,44,Milk
+Punjab,May-22,54.26,Milk
+Rajasthan,May-22,46.62,Milk
+Sikkim,May-22,62,Milk
+Tamil Nadu,May-22,41.49,Milk
+Telangana,May-22,56.16,Milk
+Tripura,May-22,64,Milk
+Uttar Pradesh,May-22,56.18,Milk
+Uttarakhand,May-22,56.93,Milk
+West Bengal,May-22,46.38,Milk
+Andaman and Nicobar,Jun-22,65.12,Milk
+Andhra Pradesh,Jun-22,55.21,Milk
+Arunachal pradesh,Jun-22,68,Milk
+Assam,Jun-22,65.46,Milk
+Bihar,Jun-22,49.5,Milk
+Chandigarh,Jun-22,55,Milk
+Chhattisgarh,Jun-22,54.73,Milk
+Delhi,Jun-22,50,Milk
+Goa,Jun-22,52.09,Milk
+Gujarat,Jun-22,52.58,Milk
+Haryana,Jun-22,56.07,Milk
+Himachal Pradesh,Jun-22,49.88,Milk
+Jammu and Kashmir,Jun-22,50.4,Milk
+Jharkhand,Jun-22,51.8,Milk
+Karnataka,Jun-22,42.51,Milk
+Kerala,Jun-22,47.2,Milk
+Madhya Pradesh,Jun-22,57.06,Milk
+Maharashtra,Jun-22,50.39,Milk
+Manipur,Jun-22,64.77,Milk
+Meghalaya,Jun-22,67.25,Milk
+Mizoram,Jun-22,72,Milk
+Nagaland,Jun-22,67.77,Milk
+Odisha,Jun-22,47.92,Milk
+Puducherry,Jun-22,44,Milk
+Punjab,Jun-22,53.86,Milk
+Rajasthan,Jun-22,45.91,Milk
+Sikkim,Jun-22,62,Milk
+Tamil Nadu,Jun-22,41.66,Milk
+Telangana,Jun-22,56.41,Milk
+Tripura,Jun-22,64,Milk
+Uttar Pradesh,Jun-22,56.51,Milk
+Uttarakhand,Jun-22,57.42,Milk
+West Bengal,Jun-22,47.11,Milk
+Andaman and Nicobar,Jul-22,66.4,Milk
+Andhra Pradesh,Jul-22,54.11,Milk
+Arunachal pradesh,Jul-22,68,Milk
+Assam,Jul-22,66.56,Milk
+Bihar,Jul-22,49.85,Milk
+Chandigarh,Jul-22,55.65,Milk
+Chhattisgarh,Jul-22,55.11,Milk
+Delhi,Jul-22,50,Milk
+Goa,Jul-22,52,Milk
+Gujarat,Jul-22,54.3,Milk
+Haryana,Jul-22,55.76,Milk
+Himachal Pradesh,Jul-22,49.69,Milk
+Jammu and Kashmir,Jul-22,51.32,Milk
+Jharkhand,Jul-22,52,Milk
+Karnataka,Jul-22,43.13,Milk
+Kerala,Jul-22,47.44,Milk
+Madhya Pradesh,Jul-22,57.13,Milk
+Maharashtra,Jul-22,51.03,Milk
+Manipur,Jul-22,65.5,Milk
+Meghalaya,Jul-22,67.59,Milk
+Mizoram,Jul-22,72,Milk
+Nagaland,Jul-22,67.78,Milk
+Odisha,Jul-22,47.96,Milk
+Puducherry,Jul-22,44,Milk
+Punjab,Jul-22,52.42,Milk
+Rajasthan,Jul-22,46.7,Milk
+Sikkim,Jul-22,62,Milk
+Tamil Nadu,Jul-22,41.68,Milk
+Telangana,Jul-22,56.57,Milk
+Tripura,Jul-22,64,Milk
+Uttar Pradesh,Jul-22,56.58,Milk
+Uttarakhand,Jul-22,57.17,Milk
+West Bengal,Jul-22,47.16,Milk
+Andaman and Nicobar,Aug-22,67.45,Milk
+Andhra Pradesh,Aug-22,55.57,Milk
+Arunachal pradesh,Aug-22,68,Milk
+Assam,Aug-22,66.79,Milk
+Bihar,Aug-22,50.03,Milk
+Chandigarh,Aug-22,56.84,Milk
+Chhattisgarh,Aug-22,54.59,Milk
+Delhi,Aug-22,50.94,Milk
+Goa,Aug-22,52.05,Milk
+Gujarat,Aug-22,54.57,Milk
+Haryana,Aug-22,56.25,Milk
+Himachal Pradesh,Aug-22,49.63,Milk
+Jammu and Kashmir,Aug-22,52.26,Milk
+Jharkhand,Aug-22,52.6,Milk
+Karnataka,Aug-22,43.5,Milk
+Kerala,Aug-22,47.23,Milk
+Madhya Pradesh,Aug-22,57.76,Milk
+Maharashtra,Aug-22,51.94,Milk
+Manipur,Aug-22,60,Milk
+Meghalaya,Aug-22,67.36,Milk
+Mizoram,Aug-22,72,Milk
+Nagaland,Aug-22,68.89,Milk
+Odisha,Aug-22,48.06,Milk
+Puducherry,Aug-22,44,Milk
+Punjab,Aug-22,52.68,Milk
+Rajasthan,Aug-22,46.64,Milk
+Sikkim,Aug-22,62,Milk
+Tamil Nadu,Aug-22,41.68,Milk
+Telangana,Aug-22,56.45,Milk
+Tripura,Aug-22,64.35,Milk
+Uttar Pradesh,Aug-22,56.56,Milk
+Uttarakhand,Aug-22,57.51,Milk
+West Bengal,Aug-22,47.31,Milk
+Andaman and Nicobar,Sep-22,67.62,Milk
+Andhra Pradesh,Sep-22,56.35,Milk
+Arunachal pradesh,Sep-22,66.91,Milk
+Assam,Sep-22,66.86,Milk
+Bihar,Sep-22,50.98,Milk
+Chandigarh,Sep-22,57.03,Milk
+Chhattisgarh,Sep-22,55.25,Milk
+Delhi,Sep-22,52,Milk
+DNH and DD,Sep-22,54,Milk
+Goa,Sep-22,52.1,Milk
+Gujarat,Sep-22,56.51,Milk
+Haryana,Sep-22,56.65,Milk
+Himachal Pradesh,Sep-22,49.75,Milk
+Jammu and Kashmir,Sep-22,51.44,Milk
+Jharkhand,Sep-22,52.31,Milk
+Karnataka,Sep-22,43.72,Milk
+Kerala,Sep-22,47.15,Milk
+Madhya Pradesh,Sep-22,58.01,Milk
+Maharashtra,Sep-22,53.75,Milk
+Manipur,Sep-22,60,Milk
+Meghalaya,Sep-22,67.87,Milk
+Mizoram,Sep-22,73.59,Milk
+Nagaland,Sep-22,67.64,Milk
+Odisha,Sep-22,48.13,Milk
+Puducherry,Sep-22,44,Milk
+Punjab,Sep-22,53.52,Milk
+Rajasthan,Sep-22,47.73,Milk
+Sikkim,Sep-22,62,Milk
+Tamil Nadu,Sep-22,41.69,Milk
+Telangana,Sep-22,57.34,Milk
+Tripura,Sep-22,72,Milk
+Uttar Pradesh,Sep-22,57.57,Milk
+Uttarakhand,Sep-22,58.38,Milk
+West Bengal,Sep-22,48.04,Milk
+Andaman and Nicobar,Oct-22,67.48,Milk
+Andhra Pradesh,Oct-22,56.64,Milk
+Arunachal pradesh,Oct-22,68.3,Milk
+Assam,Oct-22,67.5,Milk
+Bihar,Oct-22,51.7,Milk
+Chandigarh,Oct-22,57,Milk
+Chhattisgarh,Oct-22,56.37,Milk
+Delhi,Oct-22,52,Milk
+DNH and DD,Oct-22,52.04,Milk
+Goa,Oct-22,53.32,Milk
+Gujarat,Oct-22,56.81,Milk
+Haryana,Oct-22,56.97,Milk
+Himachal Pradesh,Oct-22,49.46,Milk
+Jammu and Kashmir,Oct-22,51.64,Milk
+Jharkhand,Oct-22,53.33,Milk
+Karnataka,Oct-22,43.18,Milk
+Kerala,Oct-22,47.25,Milk
+Madhya Pradesh,Oct-22,58.16,Milk
+Maharashtra,Oct-22,53.9,Milk
+Manipur,Oct-22,59.69,Milk
+Meghalaya,Oct-22,68.79,Milk
+Mizoram,Oct-22,74.44,Milk
+Nagaland,Oct-22,67.19,Milk
+Odisha,Oct-22,48.01,Milk
+Puducherry,Oct-22,44,Milk
+Punjab,Oct-22,54.36,Milk
+Rajasthan,Oct-22,48.73,Milk
+Sikkim,Oct-22,62,Milk
+Tamil Nadu,Oct-22,41.68,Milk
+Telangana,Oct-22,57.54,Milk
+Tripura,Oct-22,71.74,Milk
+Uttar Pradesh,Oct-22,58.08,Milk
+Uttarakhand,Oct-22,60.02,Milk
+West Bengal,Oct-22,48.3,Milk
+Andaman and Nicobar,Nov-22,67.81,Milk
+Andhra Pradesh,Nov-22,57.33,Milk
+Arunachal pradesh,Nov-22,68.44,Milk
+Assam,Nov-22,67.94,Milk
+Bihar,Nov-22,52.07,Milk
+Chandigarh,Nov-22,55.53,Milk
+Chhattisgarh,Nov-22,54.9,Milk
+Delhi,Nov-22,52,Milk
+DNH and DD,Nov-22,54.04,Milk
+Goa,Nov-22,53.47,Milk
+Gujarat,Nov-22,56.48,Milk
+Haryana,Nov-22,57.02,Milk
+Himachal Pradesh,Nov-22,51.03,Milk
+Jammu and Kashmir,Nov-22,51.53,Milk
+Jharkhand,Nov-22,54,Milk
+Karnataka,Nov-22,43.39,Milk
+Kerala,Nov-22,47.89,Milk
+Madhya Pradesh,Nov-22,57.64,Milk
+Maharashtra,Nov-22,54.32,Milk
+Manipur,Nov-22,49.4,Milk
+Meghalaya,Nov-22,69.61,Milk
+Mizoram,Nov-22,74.01,Milk
+Nagaland,Nov-22,67.81,Milk
+Odisha,Nov-22,48.06,Milk
+Puducherry,Nov-22,44,Milk
+Punjab,Nov-22,54.87,Milk
+Rajasthan,Nov-22,49.25,Milk
+Sikkim,Nov-22,62,Milk
+Tamil Nadu,Nov-22,41.93,Milk
+Telangana,Nov-22,58.9,Milk
+Tripura,Nov-22,70.09,Milk
+Uttar Pradesh,Nov-22,57.9,Milk
+Uttarakhand,Nov-22,59.52,Milk
+West Bengal,Nov-22,48.4,Milk
+Andaman and Nicobar,Dec-22,67.91,Milk
+Andhra Pradesh,Dec-22,57.12,Milk
+Arunachal pradesh,Dec-22,68.46,Milk
+Assam,Dec-22,66.81,Milk
+Bihar,Dec-22,52.32,Milk
+Chandigarh,Dec-22,55,Milk
+Chhattisgarh,Dec-22,54.63,Milk
+Delhi,Dec-22,52,Milk
+DNH and DD,Dec-22,53.39,Milk
+Goa,Dec-22,53.52,Milk
+Gujarat,Dec-22,56.04,Milk
+Haryana,Dec-22,57.38,Milk
+Himachal Pradesh,Dec-22,51.44,Milk
+Jammu and Kashmir,Dec-22,51.42,Milk
+Jharkhand,Dec-22,53.92,Milk
+Karnataka,Dec-22,45.38,Milk
+Kerala,Dec-22,51.87,Milk
+Madhya Pradesh,Dec-22,55.53,Milk
+Maharashtra,Dec-22,54.84,Milk
+Manipur,Dec-22,33.86,Milk
+Meghalaya,Dec-22,69.56,Milk
+Mizoram,Dec-22,74.13,Milk
+Nagaland,Dec-22,68.67,Milk
+Odisha,Dec-22,48.07,Milk
+Puducherry,Dec-22,44,Milk
+Punjab,Dec-22,54.98,Milk
+Rajasthan,Dec-22,49.87,Milk
+Sikkim,Dec-22,62,Milk
+Tamil Nadu,Dec-22,42.01,Milk
+Telangana,Dec-22,61.4,Milk
+Tripura,Dec-22,70.52,Milk
+Uttar Pradesh,Dec-22,58.04,Milk
+Uttarakhand,Dec-22,59.95,Milk
+West Bengal,Dec-22,48.98,Milk
+Andaman and Nicobar,Jan-23,67.9,Milk
+Andhra Pradesh,Jan-23,57.3,Milk
+Arunachal pradesh,Jan-23,69.51,Milk
+Assam,Jan-23,68.32,Milk
+Bihar,Jan-23,52.63,Milk
+Chandigarh,Jan-23,55,Milk
+Chhattisgarh,Jan-23,56.58,Milk
+Delhi,Jan-23,52.77,Milk
+DNH and DD,Jan-23,55,Milk
+Goa,Jan-23,53.63,Milk
+Gujarat,Jan-23,56.03,Milk
+Haryana,Jan-23,58.11,Milk
+Himachal Pradesh,Jan-23,51.36,Milk
+Jammu and Kashmir,Jan-23,51.79,Milk
+Jharkhand,Jan-23,54.27,Milk
+Karnataka,Jan-23,46.12,Milk
+Kerala,Jan-23,53.32,Milk
+Madhya Pradesh,Jan-23,55.26,Milk
+Maharashtra,Jan-23,55.57,Milk
+Manipur,Jan-23,49.52,Milk
+Meghalaya,Jan-23,69.67,Milk
+Mizoram,Jan-23,74.05,Milk
+Nagaland,Jan-23,69.65,Milk
+Odisha,Jan-23,48.74,Milk
+Puducherry,Jan-23,45.22,Milk
+Punjab,Jan-23,55.12,Milk
+Rajasthan,Jan-23,49.83,Milk
+Sikkim,Jan-23,61.79,Milk
+Tamil Nadu,Jan-23,41.99,Milk
+Telangana,Jan-23,61.5,Milk
+Tripura,Jan-23,72.4,Milk
+Uttar Pradesh,Jan-23,58.38,Milk
+Uttarakhand,Jan-23,60.25,Milk
+West Bengal,Jan-23,49.16,Milk
+Andaman and Nicobar,Feb-23,69.13,Milk
+Andhra Pradesh,Feb-23,57.35,Milk
+Arunachal pradesh,Feb-23,68.67,Milk
+Assam,Feb-23,68.51,Milk
+Bihar,Feb-23,52.85,Milk
+Chandigarh,Feb-23,55,Milk
+Chhattisgarh,Feb-23,57.04,Milk
+Delhi,Feb-23,53,Milk
+DNH and DD,Feb-23,55.84,Milk
+Goa,Feb-23,57.38,Milk
+Gujarat,Feb-23,54.95,Milk
+Haryana,Feb-23,58.33,Milk
+Himachal Pradesh,Feb-23,51.31,Milk
+Jammu and Kashmir,Feb-23,51.69,Milk
+Jharkhand,Feb-23,54.63,Milk
+Karnataka,Feb-23,46.24,Milk
+Kerala,Feb-23,53.59,Milk
+Madhya Pradesh,Feb-23,55.95,Milk
+Maharashtra,Feb-23,55.58,Milk
+Manipur,Feb-23,50.13,Milk
+Meghalaya,Feb-23,69.87,Milk
+Mizoram,Feb-23,74.41,Milk
+Nagaland,Feb-23,69.56,Milk
+Odisha,Feb-23,49.18,Milk
+Puducherry,Feb-23,46,Milk
+Punjab,Feb-23,55.78,Milk
+Rajasthan,Feb-23,50.31,Milk
+Sikkim,Feb-23,61.61,Milk
+Tamil Nadu,Feb-23,42.04,Milk
+Telangana,Feb-23,61.66,Milk
+Tripura,Feb-23,76.14,Milk
+Uttar Pradesh,Feb-23,59.16,Milk
+Uttarakhand,Feb-23,60.67,Milk
+West Bengal,Feb-23,49.85,Milk
+Andaman and Nicobar,Mar-23,69.7,Milk
+Andhra Pradesh,Mar-23,58.01,Milk
+Arunachal pradesh,Mar-23,66.22,Milk
+Assam,Mar-23,68.76,Milk
+Bihar,Mar-23,52.76,Milk
+Chandigarh,Mar-23,55,Milk
+Chhattisgarh,Mar-23,57.64,Milk
+Delhi,Mar-23,53,Milk
+DNH and DD,Mar-23,56.49,Milk
+Goa,Mar-23,57.52,Milk
+Gujarat,Mar-23,54.24,Milk
+Haryana,Mar-23,58.74,Milk
+Himachal Pradesh,Mar-23,52.05,Milk
+Jammu and Kashmir,Mar-23,51.12,Milk
+Jharkhand,Mar-23,55.02,Milk
+Karnataka,Mar-23,45.8,Milk
+Kerala,Mar-23,53.67,Milk
+Madhya Pradesh,Mar-23,56.23,Milk
+Maharashtra,Mar-23,56.15,Milk
+Manipur,Mar-23,35.68,Milk
+Meghalaya,Mar-23,70.18,Milk
+Mizoram,Mar-23,74.47,Milk
+Nagaland,Mar-23,69.25,Milk
+Odisha,Mar-23,49.11,Milk
+Puducherry,Mar-23,44.26,Milk
+Punjab,Mar-23,55.46,Milk
+Rajasthan,Mar-23,50.91,Milk
+Sikkim,Mar-23,61.65,Milk
+Tamil Nadu,Mar-23,42,Milk
+Telangana,Mar-23,61.45,Milk
+Tripura,Mar-23,73.75,Milk
+Uttar Pradesh,Mar-23,60.03,Milk
+Uttarakhand,Mar-23,60.55,Milk
+West Bengal,Mar-23,52.67,Milk
+Andaman and Nicobar,Apr-23,69.94,Milk
+Andhra Pradesh,Apr-23,58.36,Milk
+Arunachal pradesh,Apr-23,68.07,Milk
+Assam,Apr-23,68.73,Milk
+Bihar,Apr-23,53.08,Milk
+Chandigarh,Apr-23,55.93,Milk
+Chhattisgarh,Apr-23,57.93,Milk
+Delhi,Apr-23,53,Milk
+DNH and DD,Apr-23,58.86,Milk
+Goa,Apr-23,57.03,Milk
+Gujarat,Apr-23,56.36,Milk
+Haryana,Apr-23,58.56,Milk
+Himachal Pradesh,Apr-23,52.02,Milk
+Jammu and Kashmir,Apr-23,51.55,Milk
+Jharkhand,Apr-23,55.77,Milk
+Karnataka,Apr-23,46.02,Milk
+Kerala,Apr-23,53.77,Milk
+Madhya Pradesh,Apr-23,56.55,Milk
+Maharashtra,Apr-23,56.29,Milk
+Manipur,Apr-23,61.39,Milk
+Meghalaya,Apr-23,71.08,Milk
+Mizoram,Apr-23,74.42,Milk
+Nagaland,Apr-23,69.61,Milk
+Odisha,Apr-23,51.28,Milk
+Puducherry,Apr-23,44.85,Milk
+Punjab,Apr-23,56.47,Milk
+Rajasthan,Apr-23,51.43,Milk
+Sikkim,Apr-23,61.65,Milk
+Tamil Nadu,Apr-23,42.71,Milk
+Telangana,Apr-23,61.31,Milk
+Tripura,Apr-23,69.77,Milk
+Uttar Pradesh,Apr-23,60.66,Milk
+Uttarakhand,Apr-23,60.91,Milk
+West Bengal,Apr-23,55.11,Milk
+Andaman and Nicobar,May-23,69.47,Milk
+Andhra Pradesh,May-23,58.23,Milk
+Arunachal pradesh,May-23,70.35,Milk
+Assam,May-23,68.92,Milk
+Bihar,May-23,54.05,Milk
+Chandigarh,May-23,57.07,Milk
+Chhattisgarh,May-23,58.41,Milk
+Delhi,May-23,53,Milk
+DNH and DD,May-23,56.55,Milk
+Goa,May-23,57.53,Milk
+Gujarat,May-23,56.95,Milk
+Haryana,May-23,58.82,Milk
+Himachal Pradesh,May-23,52.46,Milk
+Jammu and Kashmir,May-23,51.39,Milk
+Jharkhand,May-23,56.5,Milk
+Karnataka,May-23,45.94,Milk
+Kerala,May-23,53.7,Milk
+Madhya Pradesh,May-23,56.34,Milk
+Maharashtra,May-23,56.31,Milk
+Manipur,May-23,64.5,Milk
+Meghalaya,May-23,71.47,Milk
+Mizoram,May-23,74.61,Milk
+Nagaland,May-23,69.62,Milk
+Odisha,May-23,51.93,Milk
+Puducherry,May-23,44.93,Milk
+Punjab,May-23,57.37,Milk
+Rajasthan,May-23,51.51,Milk
+Sikkim,May-23,61.82,Milk
+Tamil Nadu,May-23,42.93,Milk
+Telangana,May-23,61.67,Milk
+Tripura,May-23,69.67,Milk
+Uttar Pradesh,May-23,61.05,Milk
+Uttarakhand,May-23,61.34,Milk
+West Bengal,May-23,55.61,Milk
+Andaman and Nicobar,Jun-23,69.8,Milk
+Andhra Pradesh,Jun-23,58.45,Milk
+Arunachal pradesh,Jun-23,70.91,Milk
+Assam,Jun-23,69.18,Milk
+Bihar,Jun-23,54.47,Milk
+Chandigarh,Jun-23,57.1,Milk
+Chhattisgarh,Jun-23,59.56,Milk
+Delhi,Jun-23,53,Milk
+DNH and DD,Jun-23,56.67,Milk
+Goa,Jun-23,57.55,Milk
+Gujarat,Jun-23,57.1,Milk
+Haryana,Jun-23,58.91,Milk
+Himachal Pradesh,Jun-23,52.82,Milk
+Jammu and Kashmir,Jun-23,50.96,Milk
+Jharkhand,Jun-23,56.96,Milk
+Karnataka,Jun-23,46.35,Milk
+Kerala,Jun-23,53.81,Milk
+Madhya Pradesh,Jun-23,57.39,Milk
+Maharashtra,Jun-23,56.57,Milk
+Meghalaya,Jun-23,71.95,Milk
+Mizoram,Jun-23,74.63,Milk
+Nagaland,Jun-23,68.93,Milk
+Odisha,Jun-23,52.04,Milk
+Puducherry,Jun-23,44.73,Milk
+Punjab,Jun-23,57.77,Milk
+Rajasthan,Jun-23,51.16,Milk
+Sikkim,Jun-23,62.07,Milk
+Tamil Nadu,Jun-23,43.89,Milk
+Telangana,Jun-23,62.12,Milk
+Tripura,Jun-23,69.58,Milk
+Uttar Pradesh,Jun-23,61.47,Milk
+Uttarakhand,Jun-23,61.98,Milk
+West Bengal,Jun-23,55.17,Milk
+Andaman and Nicobar,Jul-23,70.69,Milk
+Andhra Pradesh,Jul-23,57.87,Milk
+Arunachal pradesh,Jul-23,71.67,Milk
+Assam,Jul-23,69.47,Milk
+Bihar,Jul-23,54.83,Milk
+Chandigarh,Jul-23,57.61,Milk
+Chhattisgarh,Jul-23,58.5,Milk
+Delhi,Jul-23,53,Milk
+DNH and DD,Jul-23,63.82,Milk
+Goa,Jul-23,57.5,Milk
+Gujarat,Jul-23,57.48,Milk
+Haryana,Jul-23,59.02,Milk
+Himachal Pradesh,Jul-23,52.98,Milk
+Jammu and Kashmir,Jul-23,49.51,Milk
+Jharkhand,Jul-23,57.51,Milk
+Karnataka,Jul-23,47.51,Milk
+Kerala,Jul-23,53.79,Milk
+Madhya Pradesh,Jul-23,57.41,Milk
+Maharashtra,Jul-23,56.89,Milk
+Meghalaya,Jul-23,72.35,Milk
+Mizoram,Jul-23,74.41,Milk
+Nagaland,Jul-23,69.02,Milk
+Odisha,Jul-23,52.14,Milk
+Puducherry,Jul-23,45.04,Milk
+Punjab,Jul-23,56.79,Milk
+Rajasthan,Jul-23,51.38,Milk
+Sikkim,Jul-23,63.22,Milk
+Tamil Nadu,Jul-23,44.94,Milk
+Telangana,Jul-23,62.33,Milk
+Tripura,Jul-23,69.64,Milk
+Uttar Pradesh,Jul-23,62.01,Milk
+Uttarakhand,Jul-23,61.86,Milk
+West Bengal,Jul-23,55.13,Milk
+Andaman and Nicobar,Aug-23,70.87,Milk
+Andhra Pradesh,Aug-23,58.06,Milk
+Arunachal pradesh,Aug-23,71.58,Milk
+Assam,Aug-23,69.71,Milk
+Bihar,Aug-23,55.09,Milk
+Chandigarh,Aug-23,58,Milk
+Chhattisgarh,Aug-23,59,Milk
+Delhi,Aug-23,53,Milk
+DNH and DD,Aug-23,64.1,Milk
+Goa,Aug-23,57.47,Milk
+Gujarat,Aug-23,57.78,Milk
+Haryana,Aug-23,58.96,Milk
+Himachal Pradesh,Aug-23,53.15,Milk
+Jammu and Kashmir,Aug-23,49.97,Milk
+Jharkhand,Aug-23,57.17,Milk
+Karnataka,Aug-23,49.58,Milk
+Kerala,Aug-23,53.86,Milk
+Madhya Pradesh,Aug-23,57.65,Milk
+Maharashtra,Aug-23,57.1,Milk
+Meghalaya,Aug-23,72.57,Milk
+Mizoram,Aug-23,75.92,Milk
+Nagaland,Aug-23,70.29,Milk
+Odisha,Aug-23,52,Milk
+Puducherry,Aug-23,45.12,Milk
+Punjab,Aug-23,57.03,Milk
+Rajasthan,Aug-23,52.01,Milk
+Sikkim,Aug-23,63.29,Milk
+Tamil Nadu,Aug-23,45.33,Milk
+Telangana,Aug-23,62.4,Milk
+Tripura,Aug-23,70.37,Milk
+Uttar Pradesh,Aug-23,62.13,Milk
+Uttarakhand,Aug-23,62.81,Milk
+West Bengal,Aug-23,54.47,Milk
+Andaman and Nicobar,Sep-23,71.96,Milk
+Andhra Pradesh,Sep-23,58.25,Milk
+Arunachal pradesh,Sep-23,71.53,Milk
+Assam,Sep-23,69.73,Milk
+Bihar,Sep-23,55.6,Milk
+Chandigarh,Sep-23,58,Milk
+Chhattisgarh,Sep-23,59.43,Milk
+Delhi,Sep-23,53,Milk
+DNH and DD,Sep-23,64,Milk
+Goa,Sep-23,57.5,Milk
+Gujarat,Sep-23,57.69,Milk
+Haryana,Sep-23,58.87,Milk
+Himachal Pradesh,Sep-23,53.26,Milk
+Jammu and Kashmir,Sep-23,48.68,Milk
+Jharkhand,Sep-23,57.38,Milk
+Karnataka,Sep-23,50.18,Milk
+Kerala,Sep-23,53.68,Milk
+Madhya Pradesh,Sep-23,57.75,Milk
+Maharashtra,Sep-23,57.97,Milk
+Meghalaya,Sep-23,72.46,Milk
+Mizoram,Sep-23,76.31,Milk
+Nagaland,Sep-23,71.36,Milk
+Odisha,Sep-23,52.03,Milk
+Puducherry,Sep-23,45.11,Milk
+Punjab,Sep-23,59.09,Milk
+Rajasthan,Sep-23,52.3,Milk
+Sikkim,Sep-23,63.31,Milk
+Tamil Nadu,Sep-23,45.81,Milk
+Telangana,Sep-23,62.65,Milk
+Tripura,Sep-23,70.54,Milk
+Uttar Pradesh,Sep-23,62.09,Milk
+Uttarakhand,Sep-23,62.8,Milk
+West Bengal,Sep-23,54.46,Milk
+Andaman and Nicobar,Oct-23,72.67,Milk
+Andhra Pradesh,Oct-23,58.83,Milk
+Arunachal pradesh,Oct-23,71.36,Milk
+Assam,Oct-23,70.06,Milk
+Bihar,Oct-23,55.62,Milk
+Chandigarh,Oct-23,58.94,Milk
+Chhattisgarh,Oct-23,58.67,Milk
+Delhi,Oct-23,53,Milk
+DNH and DD,Oct-23,64.03,Milk
+Goa,Oct-23,57.58,Milk
+Gujarat,Oct-23,59.12,Milk
+Haryana,Oct-23,59.16,Milk
+Himachal Pradesh,Oct-23,53.25,Milk
+Jammu and Kashmir,Oct-23,49.52,Milk
+Jharkhand,Oct-23,57.88,Milk
+Karnataka,Oct-23,50.31,Milk
+Kerala,Oct-23,53.82,Milk
+Madhya Pradesh,Oct-23,57.62,Milk
+Maharashtra,Oct-23,58.36,Milk
+Meghalaya,Oct-23,72.37,Milk
+Mizoram,Oct-23,77.45,Milk
+Nagaland,Oct-23,71.43,Milk
+Odisha,Oct-23,52.22,Milk
+Puducherry,Oct-23,46.1,Milk
+Punjab,Oct-23,58.91,Milk
+Rajasthan,Oct-23,52.04,Milk
+Sikkim,Oct-23,63.34,Milk
+Tamil Nadu,Oct-23,46.14,Milk
+Telangana,Oct-23,62.26,Milk
+Tripura,Oct-23,70.28,Milk
+Uttar Pradesh,Oct-23,62.35,Milk
+Uttarakhand,Oct-23,62.53,Milk
+West Bengal,Oct-23,54.75,Milk
+Andaman and Nicobar,Nov-23,72.61,Milk
+Andhra Pradesh,Nov-23,59.34,Milk
+Arunachal pradesh,Nov-23,71.42,Milk
+Assam,Nov-23,70.15,Milk
+Bihar,Nov-23,55.63,Milk
+Chandigarh,Nov-23,59,Milk
+Chhattisgarh,Nov-23,59.05,Milk
+Delhi,Nov-23,53,Milk
+DNH and DD,Nov-23,64.33,Milk
+Goa,Nov-23,57.57,Milk
+Gujarat,Nov-23,58.29,Milk
+Haryana,Nov-23,59.5,Milk
+Himachal Pradesh,Nov-23,53.41,Milk
+Jammu and Kashmir,Nov-23,51.6,Milk
+Jharkhand,Nov-23,58.16,Milk
+Karnataka,Nov-23,50.38,Milk
+Kerala,Nov-23,53.94,Milk
+Madhya Pradesh,Nov-23,57.56,Milk
+Maharashtra,Nov-23,58.91,Milk
+Meghalaya,Nov-23,72.23,Milk
+Mizoram,Nov-23,77.93,Milk
+Nagaland,Nov-23,71.44,Milk
+Odisha,Nov-23,52.3,Milk
+Puducherry,Nov-23,46.05,Milk
+Punjab,Nov-23,59.27,Milk
+Rajasthan,Nov-23,51.93,Milk
+Sikkim,Nov-23,63.49,Milk
+Tamil Nadu,Nov-23,46.55,Milk
+Telangana,Nov-23,62.74,Milk
+Tripura,Nov-23,70.14,Milk
+Uttar Pradesh,Nov-23,62.41,Milk
+Uttarakhand,Nov-23,62.42,Milk
+West Bengal,Nov-23,54.69,Milk
+Andaman and Nicobar,Dec-23,73.03,Milk
+Andhra Pradesh,Dec-23,60.07,Milk
+Arunachal pradesh,Dec-23,70.75,Milk
+Assam,Dec-23,70.43,Milk
+Bihar,Dec-23,55.55,Milk
+Chandigarh,Dec-23,59.06,Milk
+Chhattisgarh,Dec-23,58.31,Milk
+Delhi,Dec-23,53.94,Milk
+DNH and DD,Dec-23,64.33,Milk
+Goa,Dec-23,57.51,Milk
+Gujarat,Dec-23,59.1,Milk
+Haryana,Dec-23,59.62,Milk
+Himachal Pradesh,Dec-23,53.46,Milk
+Jammu and Kashmir,Dec-23,51.19,Milk
+Jharkhand,Dec-23,58.43,Milk
+Karnataka,Dec-23,50.33,Milk
+Kerala,Dec-23,53.89,Milk
+Madhya Pradesh,Dec-23,57.52,Milk
+Maharashtra,Dec-23,59.03,Milk
+Meghalaya,Dec-23,72.55,Milk
+Mizoram,Dec-23,78.36,Milk
+Nagaland,Dec-23,71.83,Milk
+Odisha,Dec-23,52.25,Milk
+Puducherry,Dec-23,47,Milk
+Punjab,Dec-23,59.39,Milk
+Rajasthan,Dec-23,51.89,Milk
+Sikkim,Dec-23,63.65,Milk
+Tamil Nadu,Dec-23,46.5,Milk
+Telangana,Dec-23,63.77,Milk
+Tripura,Dec-23,70.15,Milk
+Uttar Pradesh,Dec-23,62.57,Milk
+Uttarakhand,Dec-23,62.99,Milk
+West Bengal,Dec-23,54.6,Milk
+Andaman and Nicobar,Jan-24,73.06,Milk
+Andhra Pradesh,Jan-24,60.15,Milk
+Arunachal pradesh,Jan-24,71.32,Milk
+Assam,Jan-24,70.82,Milk
+Bihar,Jan-24,55.53,Milk
+Chandigarh,Jan-24,59,Milk
+Chhattisgarh,Jan-24,58.56,Milk
+Delhi,Jan-24,54,Milk
+DNH and DD,Jan-24,64.32,Milk
+Goa,Jan-24,57.76,Milk
+Gujarat,Jan-24,60.63,Milk
+Haryana,Jan-24,59.5,Milk
+Himachal Pradesh,Jan-24,53.49,Milk
+Jammu and Kashmir,Jan-24,51.49,Milk
+Jharkhand,Jan-24,58.42,Milk
+Karnataka,Jan-24,50.34,Milk
+Kerala,Jan-24,53.9,Milk
+Madhya Pradesh,Jan-24,57.26,Milk
+Maharashtra,Jan-24,58.89,Milk
+Meghalaya,Jan-24,73.03,Milk
+Mizoram,Jan-24,77.94,Milk
+Nagaland,Jan-24,72.52,Milk
+Odisha,Jan-24,52.37,Milk
+Puducherry,Jan-24,47.79,Milk
+Punjab,Jan-24,59.14,Milk
+Rajasthan,Jan-24,52.11,Milk
+Sikkim,Jan-24,63.21,Milk
+Tamil Nadu,Jan-24,46.51,Milk
+Telangana,Jan-24,63.83,Milk
+Tripura,Jan-24,70.14,Milk
+Uttar Pradesh,Jan-24,62.46,Milk
+Uttarakhand,Jan-24,61.64,Milk
+West Bengal,Jan-24,54.6,Milk
+Andaman and Nicobar,Feb-24,73.03,Milk
+Andhra Pradesh,Feb-24,59.95,Milk
+Arunachal pradesh,Feb-24,72.31,Milk
+Assam,Feb-24,70.89,Milk
+Bihar,Feb-24,55.85,Milk
+Chandigarh,Feb-24,59.03,Milk
+Chhattisgarh,Feb-24,58.81,Milk
+Delhi,Feb-24,54,Milk
+DNH and DD,Feb-24,64.33,Milk
+Goa,Feb-24,58.74,Milk
+Gujarat,Feb-24,59.87,Milk
+Haryana,Feb-24,59.52,Milk
+Himachal Pradesh,Feb-24,52.41,Milk
+Jammu and Kashmir,Feb-24,51.69,Milk
+Jharkhand,Feb-24,58.63,Milk
+Karnataka,Feb-24,50.35,Milk
+Kerala,Feb-24,54.09,Milk
+Madhya Pradesh,Feb-24,57.38,Milk
+Maharashtra,Feb-24,58.92,Milk
+Meghalaya,Feb-24,73.33,Milk
+Mizoram,Feb-24,77.5,Milk
+Nagaland,Feb-24,73.36,Milk
+Odisha,Feb-24,52.33,Milk
+Puducherry,Feb-24,48,Milk
+Punjab,Feb-24,59.06,Milk
+Rajasthan,Feb-24,51.73,Milk
+Sikkim,Feb-24,63.46,Milk
+Tamil Nadu,Feb-24,46.9,Milk
+Telangana,Feb-24,64.51,Milk
+Tripura,Feb-24,70.16,Milk
+Uttar Pradesh,Feb-24,62.28,Milk
+Uttarakhand,Feb-24,61.65,Milk
+West Bengal,Feb-24,54.64,Milk
+Andaman and Nicobar,Mar-24,73.06,Milk
+Andhra Pradesh,Mar-24,60.31,Milk
+Arunachal pradesh,Mar-24,74.01,Milk
+Assam,Mar-24,71.03,Milk
+Bihar,Mar-24,55.79,Milk
+Chandigarh,Mar-24,59.03,Milk
+Chhattisgarh,Mar-24,58.78,Milk
+Delhi,Mar-24,54,Milk
+DNH and DD,Mar-24,64.32,Milk
+Goa,Mar-24,58,Milk
+Gujarat,Mar-24,60.14,Milk
+Haryana,Mar-24,59.38,Milk
+Himachal Pradesh,Mar-24,53.56,Milk
+Jammu and Kashmir,Mar-24,50.91,Milk
+Jharkhand,Mar-24,58.81,Milk
+Karnataka,Mar-24,50.33,Milk
+Kerala,Mar-24,54.13,Milk
+Madhya Pradesh,Mar-24,57.36,Milk
+Maharashtra,Mar-24,58.89,Milk
+Meghalaya,Mar-24,73.67,Milk
+Mizoram,Mar-24,77.71,Milk
+Nagaland,Mar-24,73.32,Milk
+Odisha,Mar-24,52.39,Milk
+Puducherry,Mar-24,48,Milk
+Punjab,Mar-24,58.94,Milk
+Rajasthan,Mar-24,51.91,Milk
+Sikkim,Mar-24,63.25,Milk
+Tamil Nadu,Mar-24,47.12,Milk
+Telangana,Mar-24,64.68,Milk
+Tripura,Mar-24,70.17,Milk
+Uttar Pradesh,Mar-24,62.36,Milk
+Uttarakhand,Mar-24,61.33,Milk
+West Bengal,Mar-24,54.29,Milk
+Andaman and Nicobar,Apr-24,73.08,Milk
+Andhra Pradesh,Apr-24,60.27,Milk
+Arunachal pradesh,Apr-24,74.93,Milk
+Assam,Apr-24,71.1,Milk
+Bihar,Apr-24,55.89,Milk
+Chandigarh,Apr-24,59,Milk
+Chhattisgarh,Apr-24,58.64,Milk
+Delhi,Apr-24,54,Milk
+DNH and DD,Apr-24,64.33,Milk
+Goa,Apr-24,57.5,Milk
+Gujarat,Apr-24,59.91,Milk
+Haryana,Apr-24,59.65,Milk
+Himachal Pradesh,Apr-24,52.91,Milk
+Jammu and Kashmir,Apr-24,51.46,Milk
+Jharkhand,Apr-24,59.01,Milk
+Karnataka,Apr-24,50.26,Milk
+Kerala,Apr-24,54.28,Milk
+Madhya Pradesh,Apr-24,57.43,Milk
+Maharashtra,Apr-24,58.86,Milk
+Meghalaya,Apr-24,73.67,Milk
+Mizoram,Apr-24,78.05,Milk
+Nagaland,Apr-24,73.16,Milk
+Odisha,Apr-24,52.34,Milk
+Puducherry,Apr-24,48,Milk
+Punjab,Apr-24,58.87,Milk
+Rajasthan,Apr-24,51.93,Milk
+Sikkim,Apr-24,63.25,Milk
+Tamil Nadu,Apr-24,47.07,Milk
+Telangana,Apr-24,64.3,Milk
+Tripura,Apr-24,70.29,Milk
+Uttar Pradesh,Apr-24,62.46,Milk
+Uttarakhand,Apr-24,58.47,Milk
+West Bengal,Apr-24,54.45,Milk
+Andaman and Nicobar,May-24,73.01,Milk
+Andhra Pradesh,May-24,59.98,Milk
+Arunachal pradesh,May-24,75.11,Milk
+Assam,May-24,71.43,Milk
+Bihar,May-24,55.8,Milk
+Chandigarh,May-24,59.04,Milk
+Chhattisgarh,May-24,58.21,Milk
+Delhi,May-24,54,Milk
+DNH and DD,May-24,64.29,Milk
+Goa,May-24,57.55,Milk
+Gujarat,May-24,60.4,Milk
+Haryana,May-24,59.68,Milk
+Himachal Pradesh,May-24,52.02,Milk
+Jammu and Kashmir,May-24,51.47,Milk
+Jharkhand,May-24,58.94,Milk
+Karnataka,May-24,50.4,Milk
+Kerala,May-24,54.23,Milk
+Madhya Pradesh,May-24,57.56,Milk
+Maharashtra,May-24,59.27,Milk
+Meghalaya,May-24,73.82,Milk
+Mizoram,May-24,78.15,Milk
+Nagaland,May-24,73.27,Milk
+Odisha,May-24,52.36,Milk
+Puducherry,May-24,48,Milk
+Punjab,May-24,59.3,Milk
+Rajasthan,May-24,51.94,Milk
+Sikkim,May-24,63.32,Milk
+Tamil Nadu,May-24,47.22,Milk
+Telangana,May-24,65.78,Milk
+Tripura,May-24,70.25,Milk
+Uttar Pradesh,May-24,62.46,Milk
+Uttarakhand,May-24,57.65,Milk
+West Bengal,May-24,54.48,Milk
+Andaman and Nicobar,Jun-24,73.13,Milk
+Andhra Pradesh,Jun-24,60.41,Milk
+Arunachal pradesh,Jun-24,76.48,Milk
+Assam,Jun-24,71.56,Milk
+Bihar,Jun-24,56.09,Milk
+Chandigarh,Jun-24,61.46,Milk
+Chhattisgarh,Jun-24,57.58,Milk
+Delhi,Jun-24,55.87,Milk
+DNH and DD,Jun-24,64.92,Milk
+Goa,Jun-24,57.61,Milk
+Gujarat,Jun-24,61.43,Milk
+Haryana,Jun-24,60.07,Milk
+Himachal Pradesh,Jun-24,52.1,Milk
+Jammu and Kashmir,Jun-24,50.55,Milk
+Jharkhand,Jun-24,59.02,Milk
+Karnataka,Jun-24,50.75,Milk
+Kerala,Jun-24,54.21,Milk
+Madhya Pradesh,Jun-24,57.67,Milk
+Maharashtra,Jun-24,59.75,Milk
+Meghalaya,Jun-24,73.85,Milk
+Mizoram,Jun-24,77.94,Milk
+Nagaland,Jun-24,73.24,Milk
+Odisha,Jun-24,52.5,Milk
+Puducherry,Jun-24,48,Milk
+Punjab,Jun-24,60.62,Milk
+Rajasthan,Jun-24,52.17,Milk
+Sikkim,Jun-24,63.44,Milk
+Tamil Nadu,Jun-24,47.25,Milk
+Telangana,Jun-24,65.43,Milk
+Tripura,Jun-24,70.56,Milk
+Uttar Pradesh,Jun-24,62.79,Milk
+Uttarakhand,Jun-24,59.86,Milk
+West Bengal,Jun-24,54.78,Milk
+Andaman and Nicobar,Jul-24,73.04,Milk
+Andhra Pradesh,Jul-24,58.88,Milk
+Arunachal pradesh,Jul-24,75.73,Milk
+Assam,Jul-24,72.13,Milk
+Bihar,Jul-24,56.2,Milk
+Chandigarh,Jul-24,60.5,Milk
+Chhattisgarh,Jul-24,58.86,Milk
+Delhi,Jul-24,56,Milk
+DNH and DD,Jul-24,65.6,Milk
+Goa,Jul-24,57.6,Milk
+Gujarat,Jul-24,61.63,Milk
+Haryana,Jul-24,61.17,Milk
+Himachal Pradesh,Jul-24,52.71,Milk
+Jammu and Kashmir,Jul-24,51.99,Milk
+Jharkhand,Jul-24,59.23,Milk
+Karnataka,Jul-24,51.55,Milk
+Kerala,Jul-24,54.14,Milk
+Madhya Pradesh,Jul-24,57.89,Milk
+Maharashtra,Jul-24,59.99,Milk
+Meghalaya,Jul-24,73.8,Milk
+Mizoram,Jul-24,78.1,Milk
+Nagaland,Jul-24,73.44,Milk
+Odisha,Jul-24,52.7,Milk
+Puducherry,Jul-24,48,Milk
+Punjab,Jul-24,61.17,Milk
+Rajasthan,Jul-24,52.87,Milk
+Sikkim,Jul-24,63.44,Milk
+Tamil Nadu,Jul-24,47.41,Milk
+Telangana,Jul-24,64.46,Milk
+Tripura,Jul-24,71.52,Milk
+Uttar Pradesh,Jul-24,63,Milk
+Uttarakhand,Jul-24,61.16,Milk
+West Bengal,Jul-24,55.22,Milk
+Andaman and Nicobar,Aug-24,73.36,Milk
+Andhra Pradesh,Aug-24,58.54,Milk
+Arunachal pradesh,Aug-24,74.62,Milk
+Assam,Aug-24,72.32,Milk
+Bihar,Aug-24,56.08,Milk
+Chandigarh,Aug-24,59.67,Milk
+Chhattisgarh,Aug-24,57.55,Milk
+Delhi,Aug-24,56,Milk
+DNH and DD,Aug-24,65.67,Milk
+Goa,Aug-24,58.56,Milk
+Gujarat,Aug-24,62.51,Milk
+Haryana,Aug-24,60.07,Milk
+Himachal Pradesh,Aug-24,52.81,Milk
+Jammu and Kashmir,Aug-24,53.19,Milk
+Jharkhand,Aug-24,59.29,Milk
+Karnataka,Aug-24,51.99,Milk
+Kerala,Aug-24,54.08,Milk
+Madhya Pradesh,Aug-24,56.36,Milk
+Maharashtra,Aug-24,60.05,Milk
+Meghalaya,Aug-24,73.74,Milk
+Mizoram,Aug-24,78.72,Milk
+Nagaland,Aug-24,73.01,Milk
+Odisha,Aug-24,52.77,Milk
+Puducherry,Aug-24,48,Milk
+Punjab,Aug-24,59.82,Milk
+Rajasthan,Aug-24,53.1,Milk
+Sikkim,Aug-24,63.66,Milk
+Tamil Nadu,Aug-24,47.42,Milk
+Telangana,Aug-24,60.02,Milk
+Tripura,Aug-24,71.75,Milk
+Uttar Pradesh,Aug-24,62.8,Milk
+Uttarakhand,Aug-24,62.85,Milk
+West Bengal,Aug-24,55.54,Milk
+Andaman and Nicobar,Sep-24,73.74,Milk
+Andhra Pradesh,Sep-24,58.19,Milk
+Arunachal pradesh,Sep-24,75.38,Milk
+Assam,Sep-24,72.35,Milk
+Bihar,Sep-24,56.02,Milk
+Chandigarh,Sep-24,60,Milk
+Chhattisgarh,Sep-24,58.71,Milk
+Delhi,Sep-24,56,Milk
+DNH and DD,Sep-24,65.67,Milk
+Goa,Sep-24,58.7,Milk
+Gujarat,Sep-24,63,Milk
+Haryana,Sep-24,55.97,Milk
+Himachal Pradesh,Sep-24,52.73,Milk
+Jammu and Kashmir,Sep-24,52.24,Milk
+Jharkhand,Sep-24,59.14,Milk
+Karnataka,Sep-24,51.4,Milk
+Kerala,Sep-24,54.26,Milk
+Madhya Pradesh,Sep-24,55.32,Milk
+Maharashtra,Sep-24,59.11,Milk
+Meghalaya,Sep-24,73.69,Milk
+Mizoram,Sep-24,78.69,Milk
+Nagaland,Sep-24,72.97,Milk
+Odisha,Sep-24,52.62,Milk
+Puducherry,Sep-24,48,Milk
+Punjab,Sep-24,59.83,Milk
+Rajasthan,Sep-24,52.43,Milk
+Sikkim,Sep-24,64.24,Milk
+Tamil Nadu,Sep-24,47.35,Milk
+Telangana,Sep-24,58.63,Milk
+Tripura,Sep-24,72.4,Milk
+Uttar Pradesh,Sep-24,62.13,Milk
+Uttarakhand,Sep-24,63.65,Milk
+West Bengal,Sep-24,55.92,Milk
+Andaman and Nicobar,Oct-24,73.76,Milk
+Andhra Pradesh,Oct-24,57.25,Milk
+Arunachal pradesh,Oct-24,75.38,Milk
+Assam,Oct-24,72.32,Milk
+Bihar,Oct-24,56.13,Milk
+Chandigarh,Oct-24,60,Milk
+Chhattisgarh,Oct-24,58.15,Milk
+Delhi,Oct-24,56,Milk
+DNH and DD,Oct-24,65.67,Milk
+Goa,Oct-24,59.15,Milk
+Gujarat,Oct-24,63.03,Milk
+Haryana,Oct-24,57.74,Milk
+Himachal Pradesh,Oct-24,52.79,Milk
+Jammu and Kashmir,Oct-24,53.57,Milk
+Jharkhand,Oct-24,59.27,Milk
+Karnataka,Oct-24,51.27,Milk
+Kerala,Oct-24,54.35,Milk
+Ladakh,Oct-24,60,Milk
+Madhya Pradesh,Oct-24,55.42,Milk
+Maharashtra,Oct-24,59.21,Milk
+Meghalaya,Oct-24,73.71,Milk
+Mizoram,Oct-24,78.92,Milk
+Nagaland,Oct-24,72.91,Milk
+Odisha,Oct-24,53.05,Milk
+Puducherry,Oct-24,48,Milk
+Punjab,Oct-24,59.91,Milk
+Rajasthan,Oct-24,52.46,Milk
+Sikkim,Oct-24,63.95,Milk
+Tamil Nadu,Oct-24,47.24,Milk
+Telangana,Oct-24,58.04,Milk
+Tripura,Oct-24,73.51,Milk
+Uttar Pradesh,Oct-24,61.89,Milk
+Uttarakhand,Oct-24,62.44,Milk
+West Bengal,Oct-24,56.12,Milk
+Andaman and Nicobar,Nov-24,73.67,Milk
+Andhra Pradesh,Nov-24,57.54,Milk
+Arunachal pradesh,Nov-24,75.33,Milk
+Assam,Nov-24,72.69,Milk
+Bihar,Nov-24,56.32,Milk
+Chandigarh,Nov-24,60,Milk
+Chhattisgarh,Nov-24,58.91,Milk
+Delhi,Nov-24,56,Milk
+DNH and DD,Nov-24,65.9,Milk
+Goa,Nov-24,59.41,Milk
+Gujarat,Nov-24,62.97,Milk
+Haryana,Nov-24,58,Milk
+Himachal Pradesh,Nov-24,52.91,Milk
+Jammu and Kashmir,Nov-24,53.34,Milk
+Jharkhand,Nov-24,59.17,Milk
+Karnataka,Nov-24,51.3,Milk
+Kerala,Nov-24,54.56,Milk
+Ladakh,Nov-24,60,Milk
+Madhya Pradesh,Nov-24,55.63,Milk
+Maharashtra,Nov-24,59.17,Milk
+Meghalaya,Nov-24,73.66,Milk
+Mizoram,Nov-24,79.25,Milk
+Nagaland,Nov-24,73.16,Milk
+Odisha,Nov-24,53.34,Milk
+Puducherry,Nov-24,48,Milk
+Punjab,Nov-24,59.86,Milk
+Rajasthan,Nov-24,52.45,Milk
+Sikkim,Nov-24,64.06,Milk
+Tamil Nadu,Nov-24,47.36,Milk
+Telangana,Nov-24,57.96,Milk
+Tripura,Nov-24,74.2,Milk
+Uttar Pradesh,Nov-24,61.87,Milk
+Uttarakhand,Nov-24,63.37,Milk
+West Bengal,Nov-24,56.02,Milk
+Andaman and Nicobar,Dec-24,73.48,Milk
+Andhra Pradesh,Dec-24,57.5,Milk
+Arunachal pradesh,Dec-24,75.35,Milk
+Assam,Dec-24,72.55,Milk
+Bihar,Dec-24,56.55,Milk
+Chandigarh,Dec-24,60,Milk
+Chhattisgarh,Dec-24,58.71,Milk
+Delhi,Dec-24,56,Milk
+DNH and DD,Dec-24,65.97,Milk
+Goa,Dec-24,59.31,Milk
+Gujarat,Dec-24,63.6,Milk
+Haryana,Dec-24,57.99,Milk
+Himachal Pradesh,Dec-24,53.09,Milk
+Jammu and Kashmir,Dec-24,54.27,Milk
+Jharkhand,Dec-24,59.07,Milk
+Karnataka,Dec-24,51.43,Milk
+Kerala,Dec-24,54.76,Milk
+Ladakh,Dec-24,60,Milk
+Madhya Pradesh,Dec-24,55.55,Milk
+Maharashtra,Dec-24,59.61,Milk
+Meghalaya,Dec-24,73.62,Milk
+Mizoram,Dec-24,79.25,Milk
+Nagaland,Dec-24,73.22,Milk
+Odisha,Dec-24,53.38,Milk
+Puducherry,Dec-24,48,Milk
+Punjab,Dec-24,60.09,Milk
+Rajasthan,Dec-24,52.64,Milk
+Sikkim,Dec-24,64.05,Milk
+Tamil Nadu,Dec-24,47.5,Milk
+Telangana,Dec-24,58.02,Milk
+Tripura,Dec-24,75.19,Milk
+Uttar Pradesh,Dec-24,61.88,Milk
+Uttarakhand,Dec-24,64.13,Milk
+West Bengal,Dec-24,55.99,Milk
+Andaman and Nicobar,Jan-25,73.4,Milk
+Andhra Pradesh,Jan-25,58.43,Milk
+Arunachal pradesh,Jan-25,75.33,Milk
+Assam,Jan-25,71.81,Milk
+Bihar,Jan-25,56.44,Milk
+Chandigarh,Jan-25,60,Milk
+Chhattisgarh,Jan-25,58,Milk
+Delhi,Jan-25,56,Milk
+DNH and DD,Jan-25,66,Milk
+Goa,Jan-25,59.11,Milk
+Gujarat,Jan-25,63.5,Milk
+Haryana,Jan-25,60.01,Milk
+Himachal Pradesh,Jan-25,53.52,Milk
+Jammu and Kashmir,Jan-25,55.17,Milk
+Jharkhand,Jan-25,59.17,Milk
+Karnataka,Jan-25,51.53,Milk
+Kerala,Jan-25,54.79,Milk
+Ladakh,Jan-25,60,Milk
+Madhya Pradesh,Jan-25,55.78,Milk
+Maharashtra,Jan-25,60.04,Milk
+Meghalaya,Jan-25,73.57,Milk
+Mizoram,Jan-25,79.15,Milk
+Nagaland,Jan-25,73.03,Milk
+Odisha,Jan-25,53.32,Milk
+Puducherry,Jan-25,48,Milk
+Punjab,Jan-25,60.05,Milk
+Rajasthan,Jan-25,52.69,Milk
+Sikkim,Jan-25,64.21,Milk
+Tamil Nadu,Jan-25,47.37,Milk
+Telangana,Jan-25,58.02,Milk
+Tripura,Jan-25,75.92,Milk
+Uttar Pradesh,Jan-25,59.82,Milk
+Uttarakhand,Jan-25,62.86,Milk
+West Bengal,Jan-25,56.1,Milk
+Andaman and Nicobar,Feb-25,73.22,Milk
+Andhra Pradesh,Feb-25,58.19,Milk
+Arunachal pradesh,Feb-25,74.08,Milk
+Assam,Feb-25,71.92,Milk
+Bihar,Feb-25,56.14,Milk
+Chandigarh,Feb-25,60,Milk
+Chhattisgarh,Feb-25,58.15,Milk
+Delhi,Feb-25,56,Milk
+DNH and DD,Feb-25,65.93,Milk
+Goa,Feb-25,59.08,Milk
+Gujarat,Feb-25,63.48,Milk
+Haryana,Feb-25,60.2,Milk
+Himachal Pradesh,Feb-25,53.69,Milk
+Jammu and Kashmir,Feb-25,54.49,Milk
+Jharkhand,Feb-25,59.24,Milk
+Karnataka,Feb-25,51.58,Milk
+Kerala,Feb-25,54.07,Milk
+Ladakh,Feb-25,60,Milk
+Madhya Pradesh,Feb-25,55.72,Milk
+Maharashtra,Feb-25,60.19,Milk
+Meghalaya,Feb-25,73.58,Milk
+Mizoram,Feb-25,79.32,Milk
+Nagaland,Feb-25,72.57,Milk
+Odisha,Feb-25,53.48,Milk
+Puducherry,Feb-25,48,Milk
+Punjab,Feb-25,60.38,Milk
+Rajasthan,Feb-25,53.04,Milk
+Sikkim,Feb-25,64.26,Milk
+Tamil Nadu,Feb-25,47.33,Milk
+Telangana,Feb-25,57.87,Milk
+Tripura,Feb-25,76.03,Milk
+Uttar Pradesh,Feb-25,57.94,Milk
+Uttarakhand,Feb-25,62.92,Milk
+West Bengal,Feb-25,55.8,Milk
+Andaman and Nicobar,Mar-25,73.06,Milk
+Andhra Pradesh,Mar-25,57.79,Milk
+Arunachal pradesh,Mar-25,74.52,Milk
+Assam,Mar-25,72.04,Milk
+Bihar,Mar-25,56.14,Milk
+Chandigarh,Mar-25,60,Milk
+Chhattisgarh,Mar-25,57.78,Milk
+Delhi,Mar-25,56,Milk
+DNH and DD,Mar-25,66.3,Milk
+Goa,Mar-25,58.97,Milk
+Gujarat,Mar-25,63.49,Milk
+Haryana,Mar-25,60.76,Milk
+Himachal Pradesh,Mar-25,53.82,Milk
+Jammu and Kashmir,Mar-25,54.8,Milk
+Jharkhand,Mar-25,59.29,Milk
+Karnataka,Mar-25,52.08,Milk
+Kerala,Mar-25,54.02,Milk
+Ladakh,Mar-25,60,Milk
+Madhya Pradesh,Mar-25,55.79,Milk
+Maharashtra,Mar-25,60.35,Milk
+Meghalaya,Mar-25,73.58,Milk
+Mizoram,Mar-25,78.76,Milk
+Nagaland,Mar-25,72.82,Milk
+Odisha,Mar-25,53.58,Milk
+Puducherry,Mar-25,48,Milk
+Punjab,Mar-25,60.42,Milk
+Rajasthan,Mar-25,52.98,Milk
+Sikkim,Mar-25,64.17,Milk
+Tamil Nadu,Mar-25,47.6,Milk
+Telangana,Mar-25,57.73,Milk
+Tripura,Mar-25,74.49,Milk
+Uttar Pradesh,Mar-25,57.29,Milk
+Uttarakhand,Mar-25,62.83,Milk
+West Bengal,Mar-25,56.01,Milk
+Andaman and Nicobar,Apr-25,72.67,Milk
+Andhra Pradesh,Apr-25,54.77,Milk
+Arunachal pradesh,Apr-25,74.87,Milk
+Assam,Apr-25,71.92,Milk
+Bihar,Apr-25,56.06,Milk
+Chandigarh,Apr-25,60,Milk
+Chhattisgarh,Apr-25,57.84,Milk
+Delhi,Apr-25,56,Milk
+DNH and DD,Apr-25,66.4,Milk
+Goa,Apr-25,59,Milk
+Gujarat,Apr-25,63.67,Milk
+Haryana,Apr-25,62.64,Milk
+Himachal Pradesh,Apr-25,54,Milk
+Jammu and Kashmir,Apr-25,55.69,Milk
+Jharkhand,Apr-25,59.31,Milk
+Karnataka,Apr-25,53.52,Milk
+Kerala,Apr-25,53.96,Milk
+Ladakh,Apr-25,60,Milk
+Madhya Pradesh,Apr-25,55.97,Milk
+Maharashtra,Apr-25,60.08,Milk
+Meghalaya,Apr-25,73.6,Milk
+Mizoram,Apr-25,78.67,Milk
+Nagaland,Apr-25,73.35,Milk
+Odisha,Apr-25,53.68,Milk
+Puducherry,Apr-25,48,Milk
+Punjab,Apr-25,60.51,Milk
+Rajasthan,Apr-25,53.25,Milk
+Sikkim,Apr-25,64.17,Milk
+Tamil Nadu,Apr-25,47.91,Milk
+Telangana,Apr-25,57.81,Milk
+Tripura,Apr-25,73.25,Milk
+Uttar Pradesh,Apr-25,57.25,Milk
+Uttarakhand,Apr-25,62.55,Milk
+West Bengal,Apr-25,56.05,Milk
